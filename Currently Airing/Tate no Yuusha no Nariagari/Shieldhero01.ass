@@ -43,10 +43,10 @@ Dialogue: 0,0:01:06.67,0:01:09.67,italicstop,Naofumi,0,0,0,,{\i1}I'm a second-ye
 Dialogue: 0,0:01:14.26,0:01:15.55,main,Naofumi,0,0,0,,It's bright out.
 Dialogue: 0,0:01:17.76,0:01:22.51,italics,Naofumi,0,0,0,,{\i1}When my kid brother started heading down the \Nwrong path, I helped bring him back in line,
 Dialogue: 0,0:01:22.51,0:01:25.98,italics,Naofumi,0,0,0,,{\i1}and so I given the privilege of living \Nat home, allowance included.
-Dialogue: 0,0:01:26.39,0:01:31.02,italics,Naofumi,0,0,0,,{\i1}With no need to work part-time,\NI get to enjoy an idyllic otaku life.
-Dialogue: 0,0:01:36.28,0:01:40.62,italicstop,Naofumi,0,0,0,,{\i1}That said, I'm certainly not \None of your so-called shut-ins.
-Dialogue: 0,0:01:41.12,0:01:43.37,italics,Naofumi,0,0,0,,{\i1}When I run out of money to spend,
-Dialogue: 0,0:01:43.37,0:01:46.37,italics,Naofumi,0,0,0,,{\i1}I go to the library like this to \Nbrowse through light novels.
+Dialogue: 0,0:01:26.39,0:01:31.02,italics,Naofumi,0,0,0,,{\i1}With no need to work part-time,\NI got to enjoy an idyllic otaku life.
+Dialogue: 0,0:01:36.28,0:01:40.62,italicstop,Naofumi,0,0,0,,{\i1}That said, I certainly wasn't \None of your so-called shut-ins.
+Dialogue: 0,0:01:41.12,0:01:43.37,italics,Naofumi,0,0,0,,{\i1}When I ran out of money to spend,
+Dialogue: 0,0:01:43.37,0:01:46.37,italics,Naofumi,0,0,0,,{\i1}I would go to the library like this to \Nbrowse through light novels.
 Dialogue: 0,0:01:47.00,0:01:51.25,italics,Naofumi,0,0,0,,{\i1}I was a completely run-of-the-mill otaku \Nleading a completely ordinary life.
 Dialogue: 0,0:01:51.63,0:01:52.59,main,Naofumi,0,0,0,,Ow!
 Dialogue: 0,0:01:54.13,0:01:56.17,main,Naofumi,0,0,0,,What the hell?
@@ -467,7 +467,7 @@ Dialogue: 0,0:25:27.50,0:25:29.67,main,Myne,0,0,0,,Take your time and really sav
 Dialogue: 0,0:25:30.96,0:25:34.01,main,N,0,0,0,,The meadow we fought in \Nwas over here, right?
 Dialogue: 0,0:25:34.01,0:25:34.63,main,Myne,0,0,0,,Yes.
 Dialogue: 0,0:25:34.63,0:25:38.68,main,Myne,0,0,0,,Tomorrow, we'll head to Lafan \NVillage, which lies beyond this map.
-Dialogue: 0,0:25:38.68,0:25:43.31,main,Myne,0,0,0,,Past Lafan Village lies a dungeon \Nfor rookie adventurers.
+Dialogue: 0,0:25:38.68,0:25:43.31,main,Myne,0,0,0,,Past Lafan Village lies a dungeon \Nfor novice adventurers.
 Dialogue: 0,0:25:43.31,0:25:44.52,main,N,0,0,0,,A dungeon?
 Dialogue: 0,0:25:44.52,0:25:49.82,main,Myne,0,0,0,,We won't make much money there, but it's \Na great place for you to level up.
 Dialogue: 0,0:25:49.82,0:25:50.94,main,,0,0,0,,Oh, I see.
@@ -561,8 +561,8 @@ Dialogue: 0,0:30:41.53,0:30:44.15,main,N,0,0,0,,Wait, that chain mail...
 Dialogue: 0,0:30:44.82,0:30:46.57,main,N,0,0,0,,You were the thief?!
 Dialogue: 0,0:30:46.99,0:30:49.07,main,Mot,0,0,0,,Who are you calling a thief?
 Dialogue: 0,0:30:49.07,0:30:53.54,main,Mot,0,0,0,,Myne gave this to me as a present \Nwhen I met her at the pub yesterday.
-Dialogue: 0,0:30:55.66,0:31:00.54,main,Aul,0,0,0,,To think the Shield Hero would commit \Nthe gravest sin in this country.
-Dialogue: 0,0:31:00.54,0:31:01.75,main,Mot,0,0,0,,Sin?
+Dialogue: 0,0:30:55.66,0:31:00.54,main,Aul,0,0,0,,To think the Shield Hero would commit \Nthe greatest taboo in this country.
+Dialogue: 0,0:31:00.54,0:31:01.75,main,Mot,0,0,0,,Taboo?
 Dialogue: 0,0:31:01.75,0:31:06.88,main,Min,0,0,0,,In Melromarc, even attempting to sexually \Nassault a woman is punishable by death!
 Dialogue: 0,0:31:07.26,0:31:10.68,main,Aul,0,0,0,,If you weren't a hero,\N you would be executed immediately!
 Dialogue: 0,0:31:11.26,0:31:12.64,main,N,0,0,0,,Executed?
@@ -662,7 +662,7 @@ Dialogue: 0,0:36:14.40,0:36:15.69,main,N,0,0,0,,You too?
 Dialogue: 0,0:36:17.61,0:36:18.70,main,Erh,0,0,0,,You...
 Dialogue: 0,0:36:20.32,0:36:23.12,main,N,0,0,0,,What? Weren't you going to punch me?
 Dialogue: 0,0:36:23.12,0:36:24.91,main,Erh,0,0,0,,I changed my mind.
-Dialogue: 0,0:36:24.91,0:36:27.16,main,N,0,0,0,,Good. You were about to \Nlose your life there.
+Dialogue: 0,0:36:24.91,0:36:27.16,main,N,0,0,0,,I see. Guess I got lucky there.
 Dialogue: 0,0:36:27.87,0:36:29.00,main,Erh,0,0,0,,Wait a second.
 Dialogue: 0,0:36:34.38,0:36:38.09,main,Erh,0,0,0,,You'll never make it dressed like that.\NConsider this a parting gift.
 Dialogue: 0,0:36:38.67,0:36:39.84,main,N,0,0,0,,How much?
@@ -708,7 +708,7 @@ Dialogue: 0,0:39:49.80,0:39:50.72,main,N,0,0,0,,Aren't these...
 Dialogue: 0,0:40:04.09,0:40:10.38,main,N,0,0,0,,So by mastering a shield, I can keep its\Nabilities even after I switch to another one?
 Dialogue: 0,0:40:12.38,0:40:13.72,main,N,0,0,0,,Leaf Shield.
 Dialogue: 0,0:40:20.83,0:40:22.84,main,N,0,0,0,,This really is like a game, \Nthrough and through.
-Dialogue: 0,0:40:28.79,0:40:30.70,main,N,0,0,0,,It can improve the mat's quality?
+Dialogue: 0,0:40:28.79,0:40:30.70,main,N,0,0,0,,It can improve the material's quality?
 Dialogue: 0,0:40:35.84,0:40:38.28,main,Herbist,0,0,0,,Wow, this is good stuff.
 Dialogue: 0,0:40:38.28,0:40:39.76,main,Herbist,0,0,0,,Where did you get these?
 Dialogue: 0,0:40:39.76,0:40:41.97,main,N,0,0,0,,In the forest right outside the castle.
