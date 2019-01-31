@@ -1,0 +1,58 @@
+# Video, Audio & Picture files
+*.264
+*.aac
+*.ac3
+*.d2v
+*.flac
+*.jpeg
+*.jpg
+*.m2ts
+*.mka
+*.mkv
+*.mp3
+*.mp4
+*.opus
+*.png
+*.undefined
+*.vorbis
+*.wav
+*.w64
+*.h264
+*.webm
+*.log
+
+# VapourSynth files
+*.bookmarks
+*.lwi
+*.ffindex
+
+# Aegisub files (those get uploaded to the group's specific repositories) & Fonts
+*.ass
+*.srt
+*.ttf
+*.otf
+*.mocha
+*.autosave
+
+# BDMV/DVD files
+*.bdmv
+*.clpi
+*.inf
+*.ini
+*.mpls
+*.xml
+*.vob
+*.ifo
+*.bup
+*.iso
+
+# Misc
+*.exe
+*.bat
+*.txt
+*.7z
+*.rar
+*.parts
+*sakuga.vpy
+*.zip
+*comp.vpy
