@@ -8,23 +8,23 @@ PlayResY: 1080
 Timer: 0.0000
 WrapStyle: 0
 YCbCr Matrix: TV.709
-Original Translation: kadokawapictures (TLC: Lethal)
+Original Translation: kadokawapictures (TLC: Lethal) / Areki (OP)
 Original Editing: Ralon17
-Original Timing: Asada Shinon [Rough] / Haruhiro [Fine]
+Original Timing: Asada Shinon / Haruhiro
 Script Updated By: LightArrowsEXE
 ScaledBorderAndShadow: yes
 Original Script: kadokawapictures
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
+Last Style Storage: !_Shield Hero
 Audio File: ../../../Encoding-Projects/[Kaleido-subs]/Currently Airing/Tate no Yuusha no Nariagari/01/Shieldbro01 (premux).mkv
 Video File: ../../../Encoding-Projects/[Kaleido-subs]/Currently Airing/Tate no Yuusha no Nariagari/01/Shieldbro01 (premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 10424
-Active Line: 10427
-Video Position: 58168
+Scroll Position: 10560
+Active Line: 10561
+Video Position: 34044
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -46,6 +46,7 @@ Style: OP Romaji,YoungSerif,62,&H001900AF,&H000019FF,&H00FFFFFF,&H00000000,-1,0,
 Style: OP English,YoungSerif,62,&H001900AF,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,105,0,0,1,4,0,2,0,0,60,1
 Style: OP English - 1,YoungSerif,50,&H001900AF,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,105,0,0,1,4,0,2,0,0,140,1
 Style: [Sign] Logout,Alegreya,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,8,23,23,23,1
+Style: Ending,Iwata Mincho Old Pro-Fate B,58,&H00FFFFFF,&H000000FF,&H00B95013,&H00E29D76,0,0,0,0,100,112,0,0,1,0,0,8,28,28,35,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
