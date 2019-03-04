@@ -19,14 +19,14 @@ Original Script: kadokawapictures
 
 [Aegisub Project Garbage]
 Last Style Storage: !_Shield Hero
-Audio File: Shieldbro02 (fixed premux).mkv
-Video File: Shieldbro02 (fixed premux).mkv
+Audio File: ../../../Encoding-Projects/[Kaleido-subs]/Currently Airing/Tate no Yuusha no Nariagari/02/Shieldbro02 (fixed premux).mkv
+Video File: ../../../Encoding-Projects/[Kaleido-subs]/Currently Airing/Tate no Yuusha no Nariagari/02/Shieldbro02 (fixed premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 570
-Active Line: 571
-Video Position: 33954
+Video Zoom Percent: 0.500000
+Scroll Position: 155
+Active Line: 156
+Video Position: 15989
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -173,7 +173,7 @@ Dialogue: 10,0:09:07.64,0:09:08.60,Main,N,0,0,0,,Now!
 Dialogue: 10,0:09:19.14,0:09:20.74,Main,N,0,0,0,,Blending ability, huh?
 Dialogue: 10,0:09:21.82,0:09:24.30,Main,N,0,0,0,,That might come in handy.
 Dialogue: 10,0:09:24.30,0:09:25.56,Main,R,0,0,0,,Master...
-Dialogue: 10,0:09:27.24,0:09:29.71,Main,R,0,0,0,,who are you?
+Dialogue: 10,0:09:27.24,0:09:29.71,Main,R,0,0,0,,Who are you?
 Dialogue: 10,0:09:30.58,0:09:33.04,Main,N,0,0,0,,A hero. The shield one.
 Dialogue: 10,0:09:33.04,0:09:36.26,Main,R,0,0,0,,You mean... one of the Four Great Heroes?
 Dialogue: 10,0:09:36.26,0:09:36.68,Main,N,0,0,0,,Yeah.
@@ -197,15 +197,15 @@ Dialogue: 10,0:10:35.76,0:10:36.69,Main,R,0,0,0,,So bitter!
 Dialogue: 10,0:10:37.06,0:10:38.98,Main,N,0,0,0,,Good medicine tastes bitter.
 Dialogue: 10,0:10:38.98,0:10:39.82,Main,N,0,0,0,,Just drink it!
 Dialogue: 10,0:11:03.82,0:11:06.18,Main,RDad,0,0,0,,{\i1}Raphtalia, we're sorry.{changed the order since this is better}
-Dialogue: 10,0:11:06.84,0:11:10.24,Main,RMom,0,0,0,,{\i1}Please forgive us Raphtalia,
-Dialogue: 10,0:11:10.24,0:11:13.15,Main,RMom,0,0,0,,{\i1}we want you to live!{## "Selfishness" is what they call it in Japanese, but that isn't really used in English this way. Can you think of anything to replace it with?} {Lethal thought it was fine but I ended up swapping it around a bit}
+Dialogue: 10,0:11:06.84,0:11:10.24,Main,RMom,0,0,0,,{\i1}Please forgive us Raphtalia.
+Dialogue: 10,0:11:10.24,0:11:13.15,Main,RMom,0,0,0,,{\i1}We want you to live!{## "Selfishness" is what they call it in Japanese, but that isn't really used in English this way. Can you think of anything to replace it with?} {Lethal thought it was fine but I ended up swapping it around a bit}
 Dialogue: 10,0:11:19.58,0:11:20.78,Main,R,0,0,0,,No!
 Dialogue: 10,0:11:22.42,0:11:24.52,Main,R,0,0,0,,Dad! Mom!
 Dialogue: 10,0:11:24.52,0:11:25.74,Main,N,0,0,0,,What's wrong?
 Dialogue: 10,0:11:26.40,0:11:27.42,Main,N,0,0,0,,Calm down!
 Dialogue: 10,0:11:27.96,0:11:29.32,Main,N,0,0,0,,Just calm down.
 Dialogue: 10,0:11:27.42,0:11:30.50,Main,R,0,0,0,,{\an8}No... Help...
-Dialogue: 10,0:11:30.50,0:11:35.28,Main,R,0,0,0,,{\an8}No! Dad, mom!
+Dialogue: 10,0:11:30.50,0:11:35.28,Main,R,0,0,0,,{\an8}No! Dad, Mom!
 Dialogue: 10,0:11:32.64,0:11:33.82,Main,N,0,0,0,,Don't cry.
 Dialogue: 10,0:11:36.08,0:11:37.46,Main,N,0,0,0,,It's okay.
 Dialogue: 10,0:11:39.10,0:11:40.96,Main,N,0,0,0,,It's all right.
@@ -267,7 +267,7 @@ Dialogue: 10,0:15:18.54,0:15:20.94,Main,Erh,0,0,0,,One on the short side would b
 Dialogue: 10,0:15:21.46,0:15:22.86,Main,Erh,0,0,0,,How about this?
 Dialogue: 10,0:15:22.86,0:15:25.34,Main,Erh,0,0,0,,It's a short sword made of iron.
 Dialogue: 10,0:15:25.34,0:15:27.00,Main,N,0,0,0,,Boss...
-Dialogue: 10,0:15:27.00,0:15:30.20,Main,N,0,0,0,,is there a town or village nearby \Nthat we can travel to with our equipment?
+Dialogue: 10,0:15:27.00,0:15:30.20,Main,N,0,0,0,,Is there a town or village nearby \Nthat we can travel to with our equipment?
 Dialogue: 10,0:15:30.70,0:15:36.34,Main,Erh,0,0,0,,Well, with your stuff, it'd have to be here.
 Dialogue: 10,0:15:39.29,0:15:41.06,Main,N,0,0,0,,How much?
 Dialogue: 10,0:15:41.06,0:15:45.46,Main,Guy,0,0,0,,Around two silvers in all, I'd say.
