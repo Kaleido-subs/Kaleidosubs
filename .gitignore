@@ -27,7 +27,6 @@
 *.ffindex
 
 # Aegisub files (those get uploaded to the group's specific repositories) & Fonts
-*.ass
 *.srt
 *.ttf
 *.otf
