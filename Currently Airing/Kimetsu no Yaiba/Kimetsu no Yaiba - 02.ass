@@ -45,22 +45,22 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{ TL: Aniplex / Ringo (OP, ED) \ T
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
 Dialogue: 10,0:00:06.27,0:00:07.52,Main,,0,0,0,,Excuse me.
 Dialogue: 10,0:00:07.52,0:00:11.49,Main,,0,0,0,,Would it be okay if I took that basket, \Nstraw and some bamboo?
-Dialogue: 10,0:00:11.49,0:00:16.62,Main,,0,0,0,,Sure, I don't mind, but that basket's full of holes.
-Dialogue: 10,0:00:16.62,0:00:18.66,Main,,0,0,0,,Thanks, I'll pay you for it.
-Dialogue: 10,0:00:18.66,0:00:20.08,Main,,0,0,0,,No, that's all right.
-Dialogue: 10,0:00:20.08,0:00:21.96,Main,,0,0,0,,I mean, it's a basket with holes.
+Dialogue: 10,0:00:11.49,0:00:16.62,Main,,0,0,0,,Sure, I don’t mind, but that basket’s full of holes.
+Dialogue: 10,0:00:16.62,0:00:18.66,Main,,0,0,0,,Thanks, I’ll pay you for it.
+Dialogue: 10,0:00:18.66,0:00:20.08,Main,,0,0,0,,No, that’s all right.
+Dialogue: 10,0:00:20.08,0:00:21.96,Main,,0,0,0,,I mean, it’s a basket with holes.
 Dialogue: 10,0:00:22.21,0:00:24.08,Main,,0,0,0,,No, I insist on paying for it.
-Dialogue: 10,0:00:24.08,0:00:25.58,Main,,0,0,0,,Nah, don't worry about it.
+Dialogue: 10,0:00:24.08,0:00:25.58,Main,,0,0,0,,Nah, don’t worry about it.
 Dialogue: 10,0:00:25.58,0:00:27.79,Main,,0,0,0,,You can have the bamboo and straw for free, too.
 Dialogue: 10,0:00:27.79,0:00:29.17,Main,,0,0,0,,I {\i1}will{\i0} pay for it!
-Dialogue: 10,0:00:29.17,0:00:30.67,Main,,0,0,0,,I said it's fine!
-Dialogue: 10,0:00:30.67,0:00:32.84,Main,,0,0,0,,You're one stubborn kid!
+Dialogue: 10,0:00:29.17,0:00:30.67,Main,,0,0,0,,I said it’s fine!
+Dialogue: 10,0:00:30.67,0:00:32.84,Main,,0,0,0,,You’re one stubborn kid!
 Dialogue: 10,0:00:34.18,0:00:36.84,Main,,0,0,0,,Please accept this, even if it may not be much!
 Dialogue: 10,0:00:37.22,0:00:38.85,Main,,0,0,0,,Thank you very much!
-Dialogue: 10,0:00:38.85,0:00:41.35,Main,,0,0,0,,Ouch! {Siddiks, this should be "fuck" but light won't let me} {## lul}
+Dialogue: 10,0:00:38.85,0:00:41.35,Main,,0,0,0,,Ouch! {Siddiks, this should be "fuck" but light won’t let me} {## lul}
 Dialogue: 10,0:00:44.39,0:00:45.40,Main,,0,0,0,,Nezuko?
 Dialogue: 10,0:00:45.98,0:00:47.98,Main,,0,0,0,,Huh? Nezuko?
-Dialogue: 10,0:00:48.44,0:00:49.52,Main,,0,0,0,,She's gone!
+Dialogue: 10,0:00:48.44,0:00:49.52,Main,,0,0,0,,She’s gone!
 Dialogue: 10,0:00:52.15,0:00:52.99,Main,,0,0,0,,Found her.
 Comment: 0,0:02:26.95,0:02:26.95,Main,,0,0,0,,---------------------------------------------- [ PART A ] ----------------------------------------------
 Dialogue: 1,0:02:28.33,0:02:28.37,Title Card Sign,,0,0,0,,{\fscy114.65\fade(255,0,255,0,1500,4630,4630)\alpha&H00&\fscx138.73\fnBrushStroke 35\blur8\b0\bord0\c&H000000&\4a&HFF&\pos(1428.19,979.93)}Master Urokodaki Sakonji
@@ -1064,58 +1064,58 @@ Dialogue: 1,0:02:32.92,0:02:32.96,Title Card Sign,,0,0,0,,{\alpha&H00&\fade(255,
 Dialogue: 2,0:02:32.92,0:02:32.96,Title Card Sign,,0,0,0,,{\alpha&H00&\fade(255,0,255,-4590,-3090,40,40)\fscx83.12\fscy83.12\blur0.8\fnBrushStroke 35\b0\bord0\4a&HFF&\c&HFFFFFF&\1a&H00&\pos(1659.78,472.09)}2
 Dialogue: 10,0:02:34.42,0:02:35.76,Main,,0,0,0,,Nezuko...
 Dialogue: 10,0:02:37.13,0:02:39.26,Main,,0,0,0,,{\i1}She dug a hole?
-Dialogue: 10,0:02:39.26,0:02:42.39,Main,,0,0,0,,{\i1}I can't believe my little sister turned into a mole!
-Dialogue: 10,0:02:45.93,0:02:48.89,Main,,0,0,0,,{\i1}And she's got a giant frown on her face.
-Dialogue: 10,0:02:49.35,0:02:51.85,Main,,0,0,0,,{\i1}She really doesn't want to come near sunlight, huh?
+Dialogue: 10,0:02:39.26,0:02:42.39,Main,,0,0,0,,{\i1}I can’t believe my little sister turned into a mole!
+Dialogue: 10,0:02:45.93,0:02:48.89,Main,,0,0,0,,{\i1}And she’s got a giant frown on her face.
+Dialogue: 10,0:02:49.35,0:02:51.85,Main,,0,0,0,,{\i1}She really doesn’t want to come near sunlight, huh?
 Dialogue: 10,0:02:52.81,0:02:54.44,Main,,0,0,0,,Hold on just a second! {too playful?} {## Sounds fine to me}
 Dialogue: 10,0:02:58.57,0:03:00.99,Main,,0,0,0,,Nezuko?
 Dialogue: 10,0:03:00.99,0:03:03.20,Main,,0,0,0,,Can you fit inside?
 Dialogue: 10,0:03:03.20,0:03:05.79,Main,,0,0,0,,I want to keep moving during the day as well.
-Dialogue: 10,0:03:06.49,0:03:08.87,Main,,0,0,0,,I'll carry you in this.
+Dialogue: 10,0:03:06.49,0:03:08.87,Main,,0,0,0,,I’ll carry you in this.
 Dialogue: 10,0:03:10.25,0:03:11.37,Main,,0,0,0,,Come.
 Dialogue: 10,0:03:11.37,0:03:12.54,Main,,0,0,0,,Inside.
 Dialogue: 10,0:03:12.54,0:03:14.25,Main,,0,0,0,,Basket.
 Dialogue: 10,0:03:20.93,0:03:22.39,Main,,0,0,0,,Not really a perfect fit.
-Dialogue: 10,0:03:23.93,0:03:27.01,Main,,0,0,0,,{\i1}Nezuko's really grown into a big girl.
-Dialogue: 10,0:03:27.01,0:03:29.93,Main,,0,0,0,,{\i1}It's like yesterday that she was just a wee girl. {This works} {## Yeah, it's fine}
+Dialogue: 10,0:03:23.93,0:03:27.01,Main,,0,0,0,,{\i1}Nezuko’s really grown into a big girl.
+Dialogue: 10,0:03:27.01,0:03:29.93,Main,,0,0,0,,{\i1}It’s like yesterday that she was just a wee girl. {This works} {## Yeah, it’s fine}
 Dialogue: 10,0:03:31.85,0:03:32.94,Main,,0,0,0,,Nezuko?
 Dialogue: 10,0:03:32.94,0:03:37.07,Main,,0,0,0,,Remember how your body grew bigger before? {## omit "as big as an adult", it sounds dumb}
 Dialogue: 10,0:03:37.07,0:03:40.28,Main,,0,0,0,,Do you think you can do the opposite and get smaller?
 Dialogue: 10,0:03:40.28,0:03:42.49,Main,,0,0,0,,Smaller, Nezuko!
 Dialogue: 10,0:03:42.49,0:03:44.41,Main,,0,0,0,,Get smaller!
 Dialogue: 10,0:03:55.00,0:03:56.54,Main,,0,0,0,,Good job!
-Dialogue: 10,0:03:56.54,0:03:58.25,Main,,0,0,0,,That's a good girl!
-Dialogue: 10,0:03:58.25,0:04:00.05,Main,,0,0,0,,I'm impressed!
+Dialogue: 10,0:03:56.54,0:03:58.25,Main,,0,0,0,,That’s a good girl!
+Dialogue: 10,0:03:58.25,0:04:00.05,Main,,0,0,0,,I’m impressed!
 Dialogue: 10,0:04:03.59,0:04:05.55,Main,,0,0,0,,Mt. Sagiri?
-Dialogue: 10,0:04:05.55,0:04:10.18,Main,,0,0,0,,If you want to go to Mt. Sagiri, \Nyou'll have to cross that mountain, but...
-Dialogue: 10,0:04:10.18,0:04:11.81,Main,,0,0,0,,The sun's already setting.
+Dialogue: 10,0:04:05.55,0:04:10.18,Main,,0,0,0,,If you want to go to Mt. Sagiri, \Nyou’ll have to cross that mountain, but...
+Dialogue: 10,0:04:10.18,0:04:11.81,Main,,0,0,0,,The sun’s already setting.
 Dialogue: 10,0:04:11.81,0:04:14.60,Main,,0,0,0,,Are you really heading there with all that luggage?
-Dialogue: 10,0:04:14.60,0:04:15.81,Main,,0,0,0,,It's dangerous.
-Dialogue: 10,0:04:16.81,0:04:18.57,Main,,0,0,0,,Don't worry, I'll watch out.
+Dialogue: 10,0:04:14.60,0:04:15.81,Main,,0,0,0,,It’s dangerous.
+Dialogue: 10,0:04:16.81,0:04:18.57,Main,,0,0,0,,Don’t worry, I’ll watch out.
 Dialogue: 10,0:04:19.23,0:04:20.65,Main,,0,0,0,,Thank you very much.
 Dialogue: 10,0:04:24.07,0:04:27.58,Main,,0,0,0,,People have gone missing lately!
 Dialogue: 10,0:04:27.58,0:04:29.20,Main,,0,0,0,,Make sure not to get lost.
-Dialogue: 10,0:04:38.59,0:04:40.42,Main,,0,0,0,,Oh, there's a temple here.
-Dialogue: 10,0:04:40.96,0:04:44.80,Main,,0,0,0,,The lights are on, so someone might be around. {og: There's probably someone around, since there's light there.} {probably rephrase} {## How's this?light being on was what iwanted to avoid but fuck it}
-Dialogue: 10,0:04:44.80,0:04:46.01,Main,,0,0,0,,Let's check it out.
+Dialogue: 10,0:04:38.59,0:04:40.42,Main,,0,0,0,,Oh, there’s a temple here.
+Dialogue: 10,0:04:40.96,0:04:44.80,Main,,0,0,0,,The lights are on, so someone might be around. {og: There’s probably someone around, since there’s light there.} {probably rephrase} {## How’s this?light being on was what iwanted to avoid but fuck it}
+Dialogue: 10,0:04:44.80,0:04:46.01,Main,,0,0,0,,Let’s check it out.
 Dialogue: 10,0:04:49.93,0:04:51.93,Main,,0,0,0,,It smells of blood.
-Dialogue: 10,0:04:52.35,0:04:55.77,Main,,0,0,0,,This mountain path is pretty rough! \NSomeone's probably hurt!
+Dialogue: 10,0:04:52.35,0:04:55.77,Main,,0,0,0,,This mountain path is pretty rough! \NSomeone’s probably hurt!
 Dialogue: 10,0:05:03.11,0:05:04.32,Main,,0,0,0,,Are you all right?
 Dialogue: 10,0:05:11.74,0:05:13.75,Main,,0,0,0,,What the hell?
 Dialogue: 10,0:05:14.75,0:05:17.42,Main,,0,0,0,,This is my turf.
 Dialogue: 10,0:05:17.96,0:05:20.63,Main,,0,0,0,,If you step into my territory,
-Dialogue: 10,0:05:20.63,0:05:22.30,Main,,0,0,0,,you're gonna regret it!
-Dialogue: 10,0:05:22.84,0:05:24.13,Main,,0,0,0,,{\i1}It's a man-eating demon!
+Dialogue: 10,0:05:20.63,0:05:22.30,Main,,0,0,0,,you’re gonna regret it!
+Dialogue: 10,0:05:22.84,0:05:24.13,Main,,0,0,0,,{\i1}It’s a man-eating demon!
 Dialogue: 10,0:05:37.52,0:05:40.19,Main,,0,0,0,,You give off a strange air.
 Dialogue: 10,0:05:41.27,0:05:44.61,Main,,0,0,0,,Are you two humans?
 Dialogue: 10,0:06:00.08,0:06:03.00,Main,,0,0,0,,An axe, huh? Not bad.
 Dialogue: 10,0:06:03.00,0:06:07.34,Main,,0,0,0,,But a scratch like this... will heal in no time.
-Dialogue: 10,0:06:10.05,0:06:13.18,Main,,0,0,0,,See that? The bleeding's stopped already.
-Dialogue: 10,0:06:30.57,0:06:34.12,Main,,0,0,0,,{\i1}He's fast. And his strength is tremendous.
-Dialogue: 10,0:06:34.41,0:06:36.58,Main,,0,0,0,,The same trick won't work a second time.
+Dialogue: 10,0:06:10.05,0:06:13.18,Main,,0,0,0,,See that? The bleeding’s stopped already.
+Dialogue: 10,0:06:30.57,0:06:34.12,Main,,0,0,0,,{\i1}He’s fast. And his strength is tremendous.
+Dialogue: 10,0:06:34.41,0:06:36.58,Main,,0,0,0,,The same trick won’t work a second time.
 Dialogue: 10,0:06:37.08,0:06:40.46,Main,,0,0,0,,All right, time to snap your neck.
 Dialogue: 10,0:07:03.19,0:07:06.40,Main,,0,0,0,,{\i1}Sh-She ended up killing him!
-Dialogue: 10,0:07:06.40,0:07:08.86,Main,,0,0,0,,{\i1}He was a demon, so it's fine, right?{OG: Though he was a demon so it's okay, right?} {Might read odd, he's trying to find an excuse for her killing someone as his sister by going, oh, he's a demon so... but I don't want to leave it that way, maybe a better phrasing? Not sure.} {## How's this?}
+Dialogue: 10,0:07:06.40,0:07:08.86,Main,,0,0,0,,{\i1}He was a demon, so it’s fine, right?{OG: Though he was a demon so it’s okay, right?} {Might read odd, he’s trying to find an excuse for her killing someone as his sister by going, oh, he’s a demon so... but I don’t want to leave it that way, maybe a better phrasing? Not sure.} {## How’s this?}
 Dialogue: 10,0:07:09.15,0:07:11.78,Main,,0,0,0,,N-Nezuko...
 Dialogue: 10,0:07:16.24,0:07:18.00,Main,,0,0,0,,{\i1}You have to be kidding me.
 Dialogue: 10,0:07:18.00,0:07:21.33,Main,,0,0,0,,{\i1}Did his body just move without a head?
@@ -1123,20 +1123,20 @@ Dialogue: 10,0:07:21.33,0:07:22.75,Main,,0,0,0,,You assholes!{OG: You bastards!}
 Dialogue: 10,0:07:24.21,0:07:26.63,Main,,0,0,0,,So one of you {\i1}was{\i0} a demon!
 Dialogue: 10,0:07:26.63,0:07:29.22,Main,,0,0,0,,No wonder you seemed off. {## Split lines during timing}
 Dialogue: 10,0:07:29.22,0:07:32.22,Main,,0,0,0,,Why the hell is a demon in cahoots{running about} with a human?
-Dialogue: 10,0:07:32.22,0:07:34.55,Main,,0,0,0,,{\i1}His head can actually talk?! {OG: He's talking like nothing happened!} {He's actually talking! was the original line, but I want more pep. Maybe something shorter} {## meh, the original line worked fine. This better?}
+Dialogue: 10,0:07:32.22,0:07:34.55,Main,,0,0,0,,{\i1}His head can actually talk?! {OG: He’s talking like nothing happened!} {He’s actually talking! was the original line, but I want more pep. Maybe something shorter} {## meh, the original line worked fine. This better?}
 Dialogue: 10,0:07:42.73,0:07:43.52,Main,,0,0,0,,Stop!
 Dialogue: 10,0:07:52.07,0:07:53.66,Main,,0,0,0,,Nezuko!
 Dialogue: 10,0:08:01.29,0:08:02.62,Main,,0,0,0,,Nezuko!
-Dialogue: 10,0:08:08.09,0:08:10.59,Main,,0,0,0,,{\i1}What's up with this guy?
+Dialogue: 10,0:08:08.09,0:08:10.59,Main,,0,0,0,,{\i1}What’s up with this guy?
 Dialogue: 10,0:08:10.59,0:08:12.93,Main,,0,0,0,,{\i1}Why the hell is he growing arms from his head?
-Dialogue: 10,0:08:13.38,0:08:15.22,Main,,0,0,0,,{\i1}I'm gonna save Nezuko!
+Dialogue: 10,0:08:13.38,0:08:15.22,Main,,0,0,0,,{\i1}I’m gonna save Nezuko!
 Dialogue: 10,0:08:16.93,0:08:18.56,Main,,0,0,0,,Get out of my way!
-Dialogue: 10,0:08:23.39,0:08:25.69,Main,,0,0,0,,{\i1}This guy's head is hard. {## I'm fine with adding swears, but it doesn't really make sense here.}
+Dialogue: 10,0:08:23.39,0:08:25.69,Main,,0,0,0,,{\i1}This guy’s head is hard. {## I’m fine with adding swears, but it doesn’t really make sense here.}
 Dialogue: 10,0:08:26.15,0:08:27.31,Main,,0,0,0,,{\i1}His head is...
 Dialogue: 10,0:08:28.02,0:08:29.53,Main,,0,0,0,,{\i1}crazy hard.
 Dialogue: 10,0:08:39.08,0:08:40.04,Main,,0,0,0,,All right!
 Dialogue: 10,0:08:41.41,0:08:44.92,Main,,0,0,0,,My hair got all tangled up while I was wrapping it around this axe!
-Dialogue: 10,0:08:44.92,0:08:46.58,Main,,0,0,0,,Damn it! {OG: I wrapped my hair around his axe to grab it, but it got tangled up! Dammit!} {This line is so stupid even in context that I can't do anything about it. Please help.} {## How's this? This really is an awful line, fuck sake}
+Dialogue: 10,0:08:44.92,0:08:46.58,Main,,0,0,0,,Damn it! {OG: I wrapped my hair around his axe to grab it, but it got tangled up! Dammit!} {This line is so stupid even in context that I can’t do anything about it. Please help.} {## How’s this? This really is an awful line, fuck sake}
 Dialogue: 10,0:08:48.54,0:08:51.71,Main,,0,0,0,,Nezuko! Where are you?
 Dialogue: 10,0:09:04.02,0:09:05.56,Main,,0,0,0,,Nezuko!
 Dialogue: 10,0:09:05.56,0:09:07.02,Main,,0,0,0,,No!
@@ -1161,142 +1161,142 @@ Dialogue: 0,0:23:00.77,0:23:00.81,Title Card Sign,,0,0,0,,{\fax0.3\fnBrushStroke
 Dialogue: 0,0:23:00.81,0:23:00.85,Title Card Sign,,0,0,0,,{\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2\an3\frz4.69\pos(1825.12,436.1)\fscx45\fscy99}Demon Slayer
 Dialogue: 0,0:23:00.85,0:23:00.90,Title Card Sign,,0,0,0,,{\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2\an3\frz4.69\pos(1890.27,436.1)\fscx28\fscy109}Demon Slayer
 Dialogue: 0,0:23:00.90,0:23:00.94,Title Card Sign,,0,0,0,,{\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2\an3\frz4.69\fscx30\fscy79\pos(1999.98,429.24)}Demon Slayer
-Dialogue: 10,0:09:42.10,0:09:45.73,Main,,0,0,0,,{\i1}I wonder if there's a lot of demons out there.
-Dialogue: 10,0:09:46.39,0:09:49.15,Main,,0,0,0,,{\i1}This isn't the scent that I sensed back home.
-Dialogue: 10,0:09:49.15,0:09:50.36,Main,,0,0,0,,{\i1}He's unrelated.
+Dialogue: 10,0:09:42.10,0:09:45.73,Main,,0,0,0,,{\i1}I wonder if there’s a lot of demons out there.
+Dialogue: 10,0:09:46.39,0:09:49.15,Main,,0,0,0,,{\i1}This isn’t the scent that I sensed back home.
+Dialogue: 10,0:09:49.15,0:09:50.36,Main,,0,0,0,,{\i1}He’s unrelated.
 Dialogue: 10,0:09:51.32,0:09:52.07,Main,,0,0,0,,{\i1}But...
-Dialogue: 10,0:09:52.82,0:09:56.53,Main,,0,0,0,,{\i1}If I don't finish him off, \Nhe'll end up killing people again.
+Dialogue: 10,0:09:52.82,0:09:56.53,Main,,0,0,0,,{\i1}If I don’t finish him off, \Nhe’ll end up killing people again.
 Dialogue: 10,0:09:57.36,0:09:58.91,Main,,0,0,0,,{\i1}So...
-Dialogue: 10,0:09:59.70,0:10:01.24,Main,,0,0,0,,{\i1}I'm gonna do it.
+Dialogue: 10,0:09:59.70,0:10:01.24,Main,,0,0,0,,{\i1}I’m gonna do it.
 Dialogue: 10,0:10:07.29,0:10:08.42,Main,,0,0,0,,{\i1}Do it!
-Dialogue: 10,0:10:17.72,0:10:21.10,Main,,0,0,0,,You won't be able to finish him off with that.
+Dialogue: 10,0:10:17.72,0:10:21.10,Main,,0,0,0,,You won’t be able to finish him off with that.
 Dialogue: 10,0:10:22.72,0:10:24.10,Main,,0,0,0,,{\i1}A tengu mask!
-Dialogue: 10,0:10:24.77,0:10:27.39,Main,,0,0,0,,{\i1}I didn't hear his footsteps!
+Dialogue: 10,0:10:24.77,0:10:27.39,Main,,0,0,0,,{\i1}I didn’t hear his footsteps!
 Dialogue: 10,0:10:28.02,0:10:31.86,Main,,0,0,0,,H-How can I finish him off?
-Dialogue: 10,0:10:32.11,0:10:33.90,Main,,0,0,0,,Don't ask someone else!
-Dialogue: 10,0:10:33.90,0:10:37.36,Main,,0,0,0,,Can't you use your own head to think?
-Dialogue: 10,0:10:40.16,0:10:41.91,Main,,0,0,0,,{\i1}If stabbing doesn't work...
-Dialogue: 10,0:10:43.58,0:10:45.29,Main,,0,0,0,,{\i1}Crushing his head is my last resort. {It does carry a this is the only thing that's left, but I can't fit that into a short line.} {## how's this?}
+Dialogue: 10,0:10:32.11,0:10:33.90,Main,,0,0,0,,Don’t ask someone else!
+Dialogue: 10,0:10:33.90,0:10:37.36,Main,,0,0,0,,Can’t you use your own head to think?
+Dialogue: 10,0:10:40.16,0:10:41.91,Main,,0,0,0,,{\i1}If stabbing doesn’t work...
+Dialogue: 10,0:10:43.58,0:10:45.29,Main,,0,0,0,,{\i1}Crushing his head is my last resort. {It does carry a this is the only thing that’s left, but I can’t fit that into a short line.} {## how’s this?}
 Dialogue: 10,0:10:53.13,0:10:56.09,Main,,0,0,0,,{\i1}To break through his skull and smash his head up,
-Dialogue: 10,0:10:56.09,0:10:59.13,Main,,0,0,0,,{\i1}I'll have to strike him multiple times.
-Dialogue: 10,0:10:59.88,0:11:02.05,Main,,0,0,0,,{\i1}It'll be a painful death.
-Dialogue: 10,0:11:02.39,0:11:05.81,Main,,0,0,0,,{\i1}Isn't there anything I can use \Nto kill him with one blow?
-Dialogue: 10,0:11:11.56,0:11:13.31,Main,,0,0,0,,{\i1}This kid isn't going to cut it.
+Dialogue: 10,0:10:56.09,0:10:59.13,Main,,0,0,0,,{\i1}I’ll have to strike him multiple times.
+Dialogue: 10,0:10:59.88,0:11:02.05,Main,,0,0,0,,{\i1}It’ll be a painful death.
+Dialogue: 10,0:11:02.39,0:11:05.81,Main,,0,0,0,,{\i1}Isn’t there anything I can use \Nto kill him with one blow?
+Dialogue: 10,0:11:11.56,0:11:13.31,Main,,0,0,0,,{\i1}This kid isn’t going to cut it.
 Dialogue: 10,0:11:14.57,0:11:18.07,Main,,0,0,0,,{\i1}His sympathy is keeping him from making a clear decision.
-Dialogue: 10,0:11:18.86,0:11:23.32,Main,,0,0,0,,{\i1}He's facing a demon, \Nyet the scent of kindness remains.
+Dialogue: 10,0:11:18.86,0:11:23.32,Main,,0,0,0,,{\i1}He’s facing a demon, \Nyet the scent of kindness remains.
 Dialogue: 10,0:11:23.32,0:11:26.16,Main,,0,0,0,,{\i1}His empathy extends even to a demon.
 Dialogue: 10,0:11:27.75,0:11:29.58,Main,,0,0,0,,{\i1}Giyuu...
-Dialogue: 10,0:11:30.16,0:11:32.33,Main,,0,0,0,,{\i1}This kid won't make it.
+Dialogue: 10,0:11:30.16,0:11:32.33,Main,,0,0,0,,{\i1}This kid won’t make it.
 Dialogue: 10,0:11:38.46,0:11:40.63,Main,,0,0,0,,{\i1}I lost consciousness.
 Dialogue: 10,0:11:41.22,0:11:43.84,Main,,0,0,0,,{\i1}Is my body dead, then?
 Dialogue: 10,0:11:43.84,0:11:46.14,Main,,0,0,0,,{\i1}I feel sick!
-Dialogue: 10,0:11:48.02,0:11:50.06,Main,,0,0,0,,You bastard, I'll kill you!
-Dialogue: 10,0:11:50.06,0:11:51.23,Main,,0,0,0,,I'll fucking eat your guts.
+Dialogue: 10,0:11:48.02,0:11:50.06,Main,,0,0,0,,You bastard, I’ll kill you!
+Dialogue: 10,0:11:50.06,0:11:51.23,Main,,0,0,0,,I’ll fucking eat your guts.
 Dialogue: 10,0:11:51.23,0:11:53.40,Main,,0,0,0,,Get over here! Dammit!
-Dialogue: 10,0:11:53.40,0:11:55.90,Main,,0,0,0,,I can't go to you, so you come to me!
+Dialogue: 10,0:11:53.40,0:11:55.90,Main,,0,0,0,,I can’t go to you, so you come to me!
 Dialogue: 10,0:11:55.90,0:11:59.23,Main,,0,0,0,,{\i1}I faltered too long.
-Dialogue: 10,0:11:59.23,0:12:00.74,Main,,0,0,0,,{\i1}Now the sun's coming up!
+Dialogue: 10,0:11:59.23,0:12:00.74,Main,,0,0,0,,{\i1}Now the sun’s coming up!
 Dialogue: 10,0:11:56.44,0:11:58.03,Main,,0,0,0,,{\an8}Hey, are you listening, brat?
 Dialogue: 10,0:11:58.03,0:12:00.74,Main,,0,0,0,,{\an8}Hey, come here, you!
 Dialogue: 10,0:12:00.74,0:12:02.40,Main,,0,0,0,,Are you listening, you brat?
-Dialogue: 10,0:12:15.29,0:12:18.34,Main,,0,0,0,,{\i1}He's gone with that much sunlight?!
+Dialogue: 10,0:12:15.29,0:12:18.34,Main,,0,0,0,,{\i1}He’s gone with that much sunlight?!
 Dialogue: 10,0:12:18.34,0:12:20.55,Main,,0,0,0,,{\i1}No wonder Nezuko shrinks from it!
 Dialogue: 10,0:12:22.84,0:12:23.88,Main,,0,0,0,,Nezuko?
 Dialogue: 10,0:12:24.43,0:12:25.47,Main,,0,0,0,,Nezuko?
 Dialogue: 10,0:12:40.57,0:12:42.03,Main,,0,0,0,,Nezuko...
-Dialogue: 10,0:12:44.28,0:12:47.24,Main,,0,0,0,,O-Oh, that's right.
+Dialogue: 10,0:12:44.28,0:12:47.24,Main,,0,0,0,,O-Oh, that’s right.
 Dialogue: 10,0:12:47.24,0:12:48.83,Main,,0,0,0,,What about that man?
 Dialogue: 10,0:12:57.50,0:13:00.80,Main,,0,0,0,,{\i1}He buried the people who got killed.
 Dialogue: 10,0:13:06.22,0:13:07.18,Main,,0,0,0,,Excuse me.
-Dialogue: 10,0:13:09.60,0:13:12.89,Main,,0,0,0,,I'm Urokodaki Sakonji.
-Dialogue: 10,0:13:12.89,0:13:16.60,Main,,0,0,0,,I suppose you're the one\N Tomioka Giyuu sent my way.
+Dialogue: 10,0:13:09.60,0:13:12.89,Main,,0,0,0,,I’m Urokodaki Sakonji.
+Dialogue: 10,0:13:12.89,0:13:16.60,Main,,0,0,0,,I suppose you’re the one\N Tomioka Giyuu sent my way.
 Dialogue: 10,0:13:17.23,0:13:20.07,Main,,0,0,0,,Yes! My name is Kamado Tanjirou!
-Dialogue: 10,0:13:20.65,0:13:22.40,Main,,0,0,0,,My sister's name is Nezuko, and...
+Dialogue: 10,0:13:20.65,0:13:22.40,Main,,0,0,0,,My sister’s name is Nezuko, and...
 Dialogue: 10,0:13:22.40,0:13:24.03,Main,,0,0,0,,Tanjirou...
 Dialogue: 10,0:13:24.49,0:13:28.53,Main,,0,0,0,,What will you do when your sister devours a human?
-Dialogue: 10,0:13:38.38,0:13:40.54,Main,,0,0,0,,You're too indecisive!
-Dialogue: 10,0:13:40.96,0:13:44.38,Main,,0,0,0,,You're simply too slow at making tough decisions.
-Dialogue: 10,0:13:44.38,0:13:47.89,Main,,0,0,0,,You couldn't finish off that demon before daybreak.
-Dialogue: 10,0:13:48.26,0:13:53.27,Main,,0,0,0,,Do you know why you couldn't answer my question right away?
-Dialogue: 10,0:13:53.27,0:13:55.89,Main,,0,0,0,,It's because your resolve is too weak.
+Dialogue: 10,0:13:38.38,0:13:40.54,Main,,0,0,0,,You’re too indecisive!
+Dialogue: 10,0:13:40.96,0:13:44.38,Main,,0,0,0,,You’re simply too slow at making tough decisions.
+Dialogue: 10,0:13:44.38,0:13:47.89,Main,,0,0,0,,You couldn’t finish off that demon before daybreak.
+Dialogue: 10,0:13:48.26,0:13:53.27,Main,,0,0,0,,Do you know why you couldn’t answer my question right away?
+Dialogue: 10,0:13:53.27,0:13:55.89,Main,,0,0,0,,It’s because your resolve is too weak.
 Dialogue: 10,0:13:56.52,0:14:00.23,Main,,0,0,0,,There are only two things you can do if your sister devours a human.
 Dialogue: 10,0:14:00.23,0:14:01.94,Main,,0,0,0,,Kill your sister!
 Dialogue: 10,0:14:01.94,0:14:04.49,Main,,0,0,0,,Then cut your stomach and die! {You tell me whether we are okay with using harakiri, or not} {## Nah, this is fine}
-Dialogue: 10,0:14:04.49,0:14:08.82,Main,,0,0,0,,That's what it means to continue staying by your demon sister's side.
+Dialogue: 10,0:14:04.49,0:14:08.82,Main,,0,0,0,,That’s what it means to continue staying by your demon sister’s side.
 Dialogue: 10,0:14:09.53,0:14:15.00,Main,,0,0,0,,Commit to memory that such a thing should never happen, under any circumstance.
 Dialogue: 10,0:14:15.00,0:14:18.33,Main,,0,0,0,,Your sister taking the life of an innocent person...
-Dialogue: 10,0:14:18.33,0:14:21.54,Main,,0,0,0,,That's the one thing that must never happen.
-Dialogue: 10,0:14:22.34,0:14:24.88,Main,,0,0,0,,Do you understand what I'm saying?
+Dialogue: 10,0:14:18.33,0:14:21.54,Main,,0,0,0,,That’s the one thing that must never happen.
+Dialogue: 10,0:14:22.34,0:14:24.88,Main,,0,0,0,,Do you understand what I’m saying?
 Dialogue: 10,0:14:24.88,0:14:26.05,Main,,0,0,0,,Yes!
-Dialogue: 10,0:14:26.84,0:14:33.68,Main,,0,0,0,,{All right, now }I'm going to test you to see if you're fit to become a member of the Demon Slayers. {fixeth}
+Dialogue: 10,0:14:26.84,0:14:33.68,Main,,0,0,0,,{All right, now }I’m going to test you to see if you’re fit to become a member of the Demon Slayers. {fixeth}
 Dialogue: 10,0:14:34.39,0:14:37.18,Main,,0,0,0,,Get your sister ready and follow me.
-Dialogue: 10,0:14:46.74,0:14:50.11,Main,,0,0,0,,{\i1}He's fast! How old is this man?
-Dialogue: 10,0:14:50.11,0:14:53.37,Main,,0,0,0,,{\i1}And I still can't hear his footsteps, just like before!
-Dialogue: 10,0:14:55.29,0:14:59.00,Main,,0,0,0,,{\i1}Nezuko, you're probably uncomfortable in there but please bear with it.
-Dialogue: 10,0:15:01.04,0:15:03.00,Main,,0,0,0,,{\i1}You've always had to bear with everything.
+Dialogue: 10,0:14:46.74,0:14:50.11,Main,,0,0,0,,{\i1}He’s fast! How old is this man?
+Dialogue: 10,0:14:50.11,0:14:53.37,Main,,0,0,0,,{\i1}And I still can’t hear his footsteps, just like before!
+Dialogue: 10,0:14:55.29,0:14:59.00,Main,,0,0,0,,{\i1}Nezuko, you’re probably uncomfortable in there but please bear with it.
+Dialogue: 10,0:15:01.04,0:15:03.00,Main,,0,0,0,,{\i1}You’ve always had to bear with everything.
 Dialogue: 10,0:15:03.88,0:15:05.30,Main,,0,0,0,,{\i1}Nezuko...
 Dialogue: 10,0:15:05.30,0:15:06.34,Main,,0,0,0,,{\i1}All your life...
-Dialogue: 10,0:15:08.01,0:15:10.43,Main,,0,0,0,,You're fixing your kimono again?
-Dialogue: 10,0:15:10.43,0:15:13.22,Main,,0,0,0,,I guess we'll have to buy you a new one.
-Dialogue: 10,0:15:13.47,0:15:15.85,Main,,0,0,0,,No, no, it's all right!
-Dialogue: 10,0:15:15.85,0:15:17.98,Main,,0,0,0,,This kimono's my favorite!
-Dialogue: 10,0:15:18.31,0:15:22.86,Main,,0,0,0,,I'd rather the younger kids got more food to fill them up!
-Dialogue: 10,0:15:25.32,0:15:27.61,Main,,0,0,0,,{\i1}I swear I'll turn you back into a human!
-Dialogue: 10,0:15:28.28,0:15:32.11,Main,,0,0,0,,{\i1}I swear I'll buy you a beautiful kimono someday!
-Dialogue: 10,0:15:32.45,0:15:34.83,Main,,0,0,0,,{\i1}Everything that I couldn't do for the others...
-Dialogue: 10,0:15:35.58,0:15:37.12,Main,,0,0,0,,{\i1}I'll do it all for you!
+Dialogue: 10,0:15:08.01,0:15:10.43,Main,,0,0,0,,You’re fixing your kimono again?
+Dialogue: 10,0:15:10.43,0:15:13.22,Main,,0,0,0,,I guess we’ll have to buy you a new one.
+Dialogue: 10,0:15:13.47,0:15:15.85,Main,,0,0,0,,No, no, it’s all right!
+Dialogue: 10,0:15:15.85,0:15:17.98,Main,,0,0,0,,This kimono’s my favorite!
+Dialogue: 10,0:15:18.31,0:15:22.86,Main,,0,0,0,,I’d rather the younger kids got more food to fill them up!
+Dialogue: 10,0:15:25.32,0:15:27.61,Main,,0,0,0,,{\i1}I swear I’ll turn you back into a human!
+Dialogue: 10,0:15:28.28,0:15:32.11,Main,,0,0,0,,{\i1}I swear I’ll buy you a beautiful kimono someday!
+Dialogue: 10,0:15:32.45,0:15:34.83,Main,,0,0,0,,{\i1}Everything that I couldn’t do for the others...
+Dialogue: 10,0:15:35.58,0:15:37.12,Main,,0,0,0,,{\i1}I’ll do it all for you!
 Dialogue: 10,0:15:43.63,0:15:50.22,Main,,0,0,0,,N-Now have I... passed the test?
 Dialogue: 10,0:15:57.60,0:16:00.06,Main,,0,0,0,,The test starts now.
-Dialogue: 10,0:16:00.06,0:16:01.89,Main,,0,0,0,,We're going to climb up the mountain.
-Dialogue: 10,0:16:06.65,0:16:10.32,Main,,0,0,0,,I'll make sure to take care of your sister in the meantime.
-Dialogue: 10,0:16:12.28,0:16:14.11,Main,,0,0,0,,I'll leave her in your care then.
-Dialogue: 10,0:16:26.71,0:16:28.13,Main,,0,0,0,,{\i1}I'm so exhausted.
+Dialogue: 10,0:16:00.06,0:16:01.89,Main,,0,0,0,,We’re going to climb up the mountain.
+Dialogue: 10,0:16:06.65,0:16:10.32,Main,,0,0,0,,I’ll make sure to take care of your sister in the meantime.
+Dialogue: 10,0:16:12.28,0:16:14.11,Main,,0,0,0,,I’ll leave her in your care then.
+Dialogue: 10,0:16:26.71,0:16:28.13,Main,,0,0,0,,{\i1}I’m so exhausted.
 Dialogue: 10,0:16:28.13,0:16:31.09,Main,,0,0,0,,{\i1}My legs are starting to feel numb.
-Dialogue: 10,0:16:31.84,0:16:33.84,Main,,0,0,0,,{\i1}I'm starting to feel dizzy, too.
+Dialogue: 10,0:16:31.84,0:16:33.84,Main,,0,0,0,,{\i1}I’m starting to feel dizzy, too.
 Dialogue: 10,0:16:37.97,0:16:42.35,Main,,0,0,0,,Now find your way back to the house at the bottom of the mountain.
-Dialogue: 10,0:16:42.68,0:16:44.98,Main,,0,0,0,,This time I'm not going to wait until daybreak.
+Dialogue: 10,0:16:42.68,0:16:44.98,Main,,0,0,0,,This time I’m not going to wait until daybreak.
 Dialogue: 10,0:16:50.28,0:16:51.78,Main,,0,0,0,,{\i1}Is that all?
 Dialogue: 10,0:16:54.11,0:16:55.74,Main,,0,0,0,,{\i1}I see.
 Dialogue: 10,0:16:55.74,0:16:58.99,Main,,0,0,0,,{\i1}He thinks I might get lost in this thick fog.
 Dialogue: 10,0:17:00.04,0:17:02.54,Main,,0,0,0,,{\i1}I just have to get back by dawn, right?
-Dialogue: 10,0:17:03.00,0:17:04.37,Main,,0,0,0,,{\i1}That's a cakewalk!
-Dialogue: 10,0:17:04.37,0:17:06.25,Main,,0,0,0,,{\i1}I've got a great sense of smell!
-Dialogue: 10,0:17:06.25,0:17:08.92,Main,,0,0,0,,{\i1}I've already memorized Urokodaki's scent!
+Dialogue: 10,0:17:03.00,0:17:04.37,Main,,0,0,0,,{\i1}That’s a cakewalk!
+Dialogue: 10,0:17:04.37,0:17:06.25,Main,,0,0,0,,{\i1}I’ve got a great sense of smell!
+Dialogue: 10,0:17:06.25,0:17:08.92,Main,,0,0,0,,{\i1}I’ve already memorized Urokodaki’s scent!
 Dialogue: 10,0:17:20.18,0:17:21.43,Main,,0,0,0,,{\i1}Rocks?!
 Dialogue: 10,0:17:33.28,0:17:34.70,Main,,0,0,0,,{\i1}A pitfall?
 Dialogue: 10,0:17:36.03,0:17:37.41,Main,,0,0,0,,{\i1}I see.
 Dialogue: 10,0:17:37.99,0:17:40.66,Main,,0,0,0,,{\i1}There are traps, huh.
-Dialogue: 10,0:17:41.16,0:17:42.91,Main,,0,0,0,,{\i1}I guess that's the idea.
+Dialogue: 10,0:17:41.16,0:17:42.91,Main,,0,0,0,,{\i1}I guess that’s the idea.
 Dialogue: 10,0:17:44.66,0:17:45.96,Main,,0,0,0,,{\i1}Whoops! {maybe something else}
 Dialogue: 10,0:17:51.84,0:17:53.63,Main,,0,0,0,,{\i1}Crap, crap, crap!
-Dialogue: 10,0:17:53.63,0:17:58.51,Main,,0,0,0,,{\i1}If I keep getting caught in traps, \NI won't make it back by dawn!
+Dialogue: 10,0:17:53.63,0:17:58.51,Main,,0,0,0,,{\i1}If I keep getting caught in traps, \NI won’t make it back by dawn!
 Dialogue: 10,0:17:58.51,0:18:01.31,Main,,0,0,0,,{\i1}And besides, this mountain...
 Dialogue: 10,0:18:01.31,0:18:02.68,Main,,0,0,0,,{\i1}This mountain is...
-Dialogue: 10,0:18:03.64,0:18:05.98,Main,,0,0,0,,{\i1}The air's thin here!
-Dialogue: 10,0:18:05.98,0:18:09.31,Main,,0,0,0,,{\i1}It's way thinner than on the mountain back home.
-Dialogue: 10,0:18:09.81,0:18:13.90,Main,,0,0,0,,{\i1}That explains why I've been gasping for air and feel so light-headed.
+Dialogue: 10,0:18:03.64,0:18:05.98,Main,,0,0,0,,{\i1}The air’s thin here!
+Dialogue: 10,0:18:05.98,0:18:09.31,Main,,0,0,0,,{\i1}It’s way thinner than on the mountain back home.
+Dialogue: 10,0:18:09.81,0:18:13.90,Main,,0,0,0,,{\i1}That explains why I’ve been gasping for air and feel so light-headed.
 Dialogue: 10,0:18:14.90,0:18:16.86,Main,,0,0,0,,{\i1}Will I make it back?
 Dialogue: 10,0:18:16.86,0:18:18.36,Main,,0,0,0,,{\i1}I might pass out.
 Dialogue: 10,0:18:18.99,0:18:20.41,Main,,0,0,0,,{\i1}No! {WHYISTHISSHOWSOAWKARDSTOPTALKINGTOYOURSELF}
-Dialogue: 10,0:18:20.41,0:18:21.99,Main,,0,0,0,,{\i1}I'll make it back.
+Dialogue: 10,0:18:20.41,0:18:21.99,Main,,0,0,0,,{\i1}I’ll make it back.
 Dialogue: 10,0:18:22.41,0:18:26.91,Main,,0,0,0,,{\i1}Get your breathing under control \Nand sniff out each of those traps!
-Dialogue: 10,0:18:51.90,0:18:54.32,Main,,0,0,0,,{\i1}Right! I've got it! I finally get it!
+Dialogue: 10,0:18:51.90,0:18:54.32,Main,,0,0,0,,{\i1}Right! I’ve got it! I finally get it!
 Dialogue: 10,0:18:54.82,0:18:59.65,Main,,0,0,0,,{\i1}Traps set by human hands{As opposed to traps set by???? It is what he says, no idea what do}{## The show just being dumb. Line is fine} have a slightly different smell after all!
-Dialogue: 10,0:19:05.91,0:19:07.33,Main,,0,0,0,,{\i1}But that doesn't mean...
-Dialogue: 10,0:19:09.00,0:19:15.30,Main,,0,0,0,,{\i1}I'm suddenly athletic enough to dodge every single one of them!
-Dialogue: 10,0:19:15.84,0:19:18.72,Main,,0,0,0,,{\i1}I'm gonna make it back no matter what!
+Dialogue: 10,0:19:05.91,0:19:07.33,Main,,0,0,0,,{\i1}But that doesn’t mean...
+Dialogue: 10,0:19:09.00,0:19:15.30,Main,,0,0,0,,{\i1}I’m suddenly athletic enough to dodge every single one of them!
+Dialogue: 10,0:19:15.84,0:19:18.72,Main,,0,0,0,,{\i1}I’m gonna make it back no matter what!
 Dialogue: 10,0:19:19.42,0:19:21.30,Main,,0,0,0,,{\i1}Nezuko!
 Dialogue: 10,0:19:50.25,0:19:54.21,Main,,0,0,0,,I... have... returned... {split this into 3 lines please}
 Dialogue: 10,0:19:56.96,0:19:58.42,Main,,0,0,0,,{\i1}Dear Urokodaki Sakonji.
 Dialogue: 10,0:19:58.42,0:20:00.38,Main,,0,0,0,,{\i1}Please do forgive my briskness,
-Dialogue: 10,0:20:01.72,0:20:06.51,Main,,0,0,0,,{\i1}I'm sending a boy your way who wants to become a Demon Slayer.
+Dialogue: 10,0:20:01.72,0:20:06.51,Main,,0,0,0,,{\i1}I’m sending a boy your way who wants to become a Demon Slayer.
 Dialogue: 10,0:20:08.01,0:20:11.52,Main,,0,0,0,,{\i1}He was brazen enough to attack me unarmed.
 Dialogue: 10,0:20:12.77,0:20:15.15,Main,,0,0,0,,{\i1}His family was slaughtered by a demon,
 Dialogue: 10,0:20:15.15,0:20:18.23,Main,,0,0,0,,{\i1}and the surviving younger sister turned into one,
 Dialogue: 10,0:20:18.86,0:20:21.70,Main,,0,0,0,,{\i1}but I have determined that she will not attack humans.
 Dialogue: 10,0:20:23.45,0:20:28.03,Main,,0,0,0,,{\i1}I can sense something special about these two.
 Dialogue: 10,0:20:29.08,0:20:33.04,Main,,0,0,0,,{\i1}Like yourself, the boy seems to have a keen sense of smell.
-Dialogue: 10,0:20:34.37,0:20:39.67,Main,,0,0,0,,{\i1}Perhaps he'll find a way to break through and become your successor.
+Dialogue: 10,0:20:34.37,0:20:39.67,Main,,0,0,0,,{\i1}Perhaps he’ll find a way to break through and become your successor.
 Dialogue: 10,0:20:40.55,0:20:43.55,Main,,0,0,0,,{\i1}Please take him on as your apprentice.
 Dialogue: 10,0:20:44.89,0:20:47.68,Main,,0,0,0,,{\i1}I realize that this is a self-serving request,
 Dialogue: 10,0:20:48.14,0:20:50.39,Main,,0,0,0,,{\i1}but bear with me.
@@ -1402,17 +1402,17 @@ Dialogue: 3,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,,{\alpha&H00&\blur
 Dialogue: 3,0:23:37.60,0:23:39.98,To Be Continued Sign,,0,0,0,,{\alpha&H00&\blur0.6\fs130\bord0\c&HFFFFFF&\4a&HFF&\pos(1078,952.4)}To Be Continued
 Dialogue: 10,0:23:03.32,0:23:06.07,Main,,0,0,0,,The demon in the temple surprised us quite a bit, huh?
 Dialogue: 10,0:23:06.07,0:23:08.61,Main,,0,0,0,,I never expected to see arms grow from his head.
-Dialogue: 10,0:23:10.16,0:23:14.74,Main,,0,0,0,,Now that I'm accepted by \NMr. Urokodaki, I'll do my best!
-Dialogue: 10,0:23:16.12,0:23:19.33,Main,,0,0,0,,Now, it's time for a Taisho secret!
-Dialogue: 10,0:23:19.33,0:23:20.67,Main,,0,0,0,,The masked Urokodaki's age.
-Dialogue: 10,0:23:20.67,0:23:23.46,Main,,0,0,0,,Believe it or not, it's actually is— {probably split} {## leaving it up to skiddiks to decide}
+Dialogue: 10,0:23:10.16,0:23:14.74,Main,,0,0,0,,Now that I’m accepted by \NMr. Urokodaki, I’ll do my best!
+Dialogue: 10,0:23:16.12,0:23:19.33,Main,,0,0,0,,Now, it’s time for a Taisho secret!
+Dialogue: 10,0:23:19.33,0:23:20.67,Main,,0,0,0,,The masked Urokodaki’s age.
+Dialogue: 10,0:23:20.67,0:23:23.46,Main,,0,0,0,,Believe it or not, it’s actually— {probably split} {## leaving it up to skiddiks to decide}
 Dialogue: 10,0:23:23.46,0:23:24.34,Main,,0,0,0,,Tanjirou!
 Dialogue: 10,0:23:24.34,0:23:25.09,Main,,0,0,0,,Yes?
 Dialogue: 10,0:23:25.09,0:23:28.34,Main,,0,0,0,,Which do you want for dinner? \NNikujaga or oden?
 Dialogue: 10,0:23:28.34,0:23:30.47,Main,,0,0,0,,Huh? Well...
-Dialogue: 10,0:23:30.47,0:23:31.97,Main,,0,0,0,,You're too indecisive!
+Dialogue: 10,0:23:30.47,0:23:31.97,Main,,0,0,0,,You’re too indecisive!
 Dialogue: 10,0:23:31.97,0:23:33.64,Main,,0,0,0,,I want oden!
-Dialogue: 10,0:23:33.64,0:23:36.31,Main,,0,0,0,,Next, Episode 3, "Sabito and Makomo"!
+Dialogue: 10,0:23:33.64,0:23:36.31,Main,,0,0,0,,Next, Episode 3, “Sabito and Makomo”!
 Comment: 0,0:00:56.99,0:00:56.99,OP1 - Romaji B,,0,0,0,,---------------------------------------------- [     OP    ] ----------------------------------------------
 Comment: 0,0:00:58.03,0:01:04.46,OP1 - Romaji B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}tsuyoku nareru riyuu wo shitta
 Comment: 1,0:00:58.20,0:01:04.21,OP1 - Romaji A,,0,0,0,,{\fsp0.5\blur1\q2\c&HF9F8FB&}tsuyoku nareru riyuu wo shitta
@@ -1452,8 +1452,8 @@ Comment: 0,0:01:35.57,0:01:37.16,OP1 - English D,,0,0,0,,{\pos(960,970)\blur2\q2
 Comment: 1,0:01:35.74,0:01:36.90,OP1 - English C,,0,0,0,,{\pos(960,970)\blur1\q2}Staring into the sky
 Comment: 0,0:01:37.03,0:01:42.33,OP1 - Romaji B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}kawatte ikeru no wa jibun jishin dake
 Comment: 1,0:01:37.20,0:01:42.20,OP1 - Romaji A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}kawatte ikeru no wa jibun jishin dake
-Comment: 0,0:01:37.03,0:01:42.33,OP1 - English B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}Even with the break of dawn, who I am won't change
-Comment: 1,0:01:37.20,0:01:42.20,OP1 - English A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}Even with the break of dawn, who I am won't change
+Comment: 0,0:01:37.03,0:01:42.33,OP1 - English B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}Even with the break of dawn, who I am won’t change
+Comment: 1,0:01:37.20,0:01:42.20,OP1 - English A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}Even with the break of dawn, who I am won’t change
 Comment: 0,0:01:42.24,0:01:44.12,OP1 - Romaji B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}sore dakesa
 Comment: 1,0:01:42.41,0:01:43.87,OP1 - Romaji A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}sore dakesa
 Comment: 0,0:01:42.24,0:01:44.12,OP1 - English B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}And that’s all there is to it
@@ -1484,8 +1484,8 @@ Comment: 0,0:02:11.27,0:02:16.28,OP1 - Romaji B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(
 Comment: 1,0:02:11.44,0:02:16.03,OP1 - Romaji A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}sekai ni uchinomesarete modoru imi wo shitta
 Comment: 0,0:02:11.27,0:02:14.57,OP1 - English B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}This world once tore me down
 Comment: 1,0:02:11.44,0:02:14.32,OP1 - English A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}This world once tore me down
-Comment: 0,0:02:14.44,0:02:16.28,OP1 - English B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}Yet I've found a reason to return
-Comment: 1,0:02:14.61,0:02:16.03,OP1 - English A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}Yet I've found a reason to return
+Comment: 0,0:02:14.44,0:02:16.28,OP1 - English B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}Yet I’ve found a reason to return
+Comment: 1,0:02:14.61,0:02:16.03,OP1 - English A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}Yet I’ve found a reason to return
 Comment: 0,0:02:16.28,0:02:20.57,OP1 - Romaji B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}guren no hana yo sakihokore
 Comment: 1,0:02:16.44,0:02:20.32,OP1 - Romaji A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}guren no hana yo sakihokore
 Comment: 0,0:02:16.28,0:02:20.57,OP1 - English B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}The crimson flower shall be in full bloom
@@ -1845,7 +1845,7 @@ Dialogue: 1,0:01:37.41,0:01:42.20,OP1 - English A,,0,0,0,,{\an5\pos(1327.41,1006
 Dialogue: 1,0:01:37.41,0:01:42.24,OP1 - English A,,0,0,0,,{\an5\pos(1398.29,1006)\blur1\fad(300,300)\q2}w
 Dialogue: 1,0:01:37.45,0:01:42.24,OP1 - English A,,0,0,0,,{\an5\pos(1442.75,1006)\blur1\fad(300,300)\q2}o
 Dialogue: 1,0:01:37.45,0:01:42.24,OP1 - English A,,0,0,0,,{\an5\pos(1481.34,1006)\blur1\fad(300,300)\q2}n
-Dialogue: 1,0:01:37.49,0:01:42.29,OP1 - English A,,0,0,0,,{\an5\pos(1509.71,1006)\blur1\fad(300,300)\q2}'
+Dialogue: 1,0:01:37.49,0:01:42.29,OP1 - English A,,0,0,0,,{\an5\pos(1509.71,1006)\blur1\fad(300,300)\q2}’
 Dialogue: 1,0:01:37.49,0:01:42.29,OP1 - English A,,0,0,0,,{\an5\pos(1532.51,1006)\blur1\fad(300,300)\q2}t
 Dialogue: 1,0:01:37.49,0:01:42.33,OP1 - English A,,0,0,0,,{\an5\pos(1582.74,1006)\blur1\fad(300,300)\q2}c
 Dialogue: 1,0:01:37.53,0:01:42.33,OP1 - English A,,0,0,0,,{\an5\pos(1617.56,1006)\blur1\fad(300,300)\q2}h
@@ -2088,7 +2088,7 @@ Dialogue: 1,0:02:14.40,0:02:15.82,OP1 - English A,,0,0,0,,{\an5\pos(461.63,1006)
 Dialogue: 1,0:02:14.40,0:02:15.82,OP1 - English A,,0,0,0,,{\an5\pos(504.29,1006)\blur1\fad(300,300)\q2}e
 Dialogue: 1,0:02:14.44,0:02:15.86,OP1 - English A,,0,0,0,,{\an5\pos(536.05,1006)\blur1\fad(300,300)\q2}t
 Dialogue: 1,0:02:14.44,0:02:15.86,OP1 - English A,,0,0,0,,{\an5\pos(580.56,1006)\blur1\fad(300,300)\q2}I
-Dialogue: 1,0:02:14.44,0:02:15.86,OP1 - English A,,0,0,0,,{\an5\pos(598.73,1006)\blur1\fad(300,300)\q2}'
+Dialogue: 1,0:02:14.44,0:02:15.86,OP1 - English A,,0,0,0,,{\an5\pos(598.73,1006)\blur1\fad(300,300)\q2}’
 Dialogue: 1,0:02:14.48,0:02:15.90,OP1 - English A,,0,0,0,,{\an5\pos(625.55,1006)\blur1\fad(300,300)\q2}v
 Dialogue: 1,0:02:14.48,0:02:15.90,OP1 - English A,,0,0,0,,{\an5\pos(661.35,1006)\blur1\fad(300,300)\q2}e
 Dialogue: 1,0:02:14.48,0:02:15.90,OP1 - English A,,0,0,0,,{\an5\pos(713.51,1006)\blur1\fad(300,300)\q2}f
@@ -2409,7 +2409,7 @@ Dialogue: 0,0:01:37.24,0:01:42.33,OP1 - English B,,0,0,0,,{\an5\pos(1327.41,1006
 Dialogue: 0,0:01:37.24,0:01:42.37,OP1 - English B,,0,0,0,,{\an5\pos(1398.29,1006)\blur2\fad(300,300)\q2\t(0,1000,\bord0)}w
 Dialogue: 0,0:01:37.28,0:01:42.37,OP1 - English B,,0,0,0,,{\an5\pos(1442.75,1006)\blur2\fad(300,300)\q2\t(0,1000,\bord0)}o
 Dialogue: 0,0:01:37.28,0:01:42.37,OP1 - English B,,0,0,0,,{\an5\pos(1481.34,1006)\blur2\fad(300,300)\q2\t(0,1000,\bord0)}n
-Dialogue: 0,0:01:37.28,0:01:42.41,OP1 - English B,,0,0,0,,{\an5\pos(1509.71,1006)\blur2\fad(300,300)\q2\t(0,1000,\bord0)}'
+Dialogue: 0,0:01:37.28,0:01:42.41,OP1 - English B,,0,0,0,,{\an5\pos(1509.71,1006)\blur2\fad(300,300)\q2\t(0,1000,\bord0)}’
 Dialogue: 0,0:01:37.32,0:01:42.41,OP1 - English B,,0,0,0,,{\an5\pos(1532.51,1006)\blur2\fad(300,300)\q2\t(0,1000,\bord0)}t
 Dialogue: 0,0:01:37.32,0:01:42.41,OP1 - English B,,0,0,0,,{\an5\pos(1582.74,1006)\blur2\fad(300,300)\q2\t(0,1000,\bord0)}c
 Dialogue: 0,0:01:37.32,0:01:42.45,OP1 - English B,,0,0,0,,{\an5\pos(1617.56,1006)\blur2\fad(300,300)\q2\t(0,1000,\bord0)}h
@@ -2652,7 +2652,7 @@ Dialogue: 0,0:02:14.23,0:02:16.07,OP1 - English B,,0,0,0,,{\an5\pos(461.63,1006)
 Dialogue: 0,0:02:14.23,0:02:16.07,OP1 - English B,,0,0,0,,{\an5\pos(504.29,1006)\blur2\fad(300,300)\q2\t(0,1000,\bord0)}e
 Dialogue: 0,0:02:14.28,0:02:16.11,OP1 - English B,,0,0,0,,{\an5\pos(536.05,1006)\blur2\fad(300,300)\q2\t(0,1000,\bord0)}t
 Dialogue: 0,0:02:14.28,0:02:16.11,OP1 - English B,,0,0,0,,{\an5\pos(580.56,1006)\blur2\fad(300,300)\q2\t(0,1000,\bord0)}I
-Dialogue: 0,0:02:14.32,0:02:16.11,OP1 - English B,,0,0,0,,{\an5\pos(598.73,1006)\blur2\fad(300,300)\q2\t(0,1000,\bord0)}'
+Dialogue: 0,0:02:14.32,0:02:16.11,OP1 - English B,,0,0,0,,{\an5\pos(598.73,1006)\blur2\fad(300,300)\q2\t(0,1000,\bord0)}’
 Dialogue: 0,0:02:14.32,0:02:16.15,OP1 - English B,,0,0,0,,{\an5\pos(625.55,1006)\blur2\fad(300,300)\q2\t(0,1000,\bord0)}v
 Dialogue: 0,0:02:14.32,0:02:16.15,OP1 - English B,,0,0,0,,{\an5\pos(661.35,1006)\blur2\fad(300,300)\q2\t(0,1000,\bord0)}e
 Dialogue: 0,0:02:14.36,0:02:16.15,OP1 - English B,,0,0,0,,{\an5\pos(713.51,1006)\blur2\fad(300,300)\q2\t(0,1000,\bord0)}f
@@ -3754,4 +3754,3 @@ Dialogue: 0,0:22:06.59,0:22:06.68,ED1 - Romaji,,0,0,0,,{\pos(1390,109.16)\fscx74
 Dialogue: 0,0:22:06.63,0:22:06.72,ED1 - Romaji,,0,0,0,,{\pos(1490,104.16)\fscx78\fscy78\frz83\bord6\c&H2B39F9&\3c&HFE8856&\4c&H454545&\1a&H3C&\2a&H3C&\3a&H3C&\4a&H3C&\blur12\fad(840,840)\q2\p1}m 0 0 l 5 1 9 6 16 9 21 4 25 -1 29 4 31 9 34 6 40 -3 42 -8 44 -13 44 -9 45 -7 40 -3 34 7 35 10 29 4 25 -1 24 7 16 9 9 10 4 4 0 2
 Dialogue: 0,0:22:06.68,0:22:06.76,ED1 - Romaji,,0,0,0,,{\pos(1636,141.16)\fscx84\fscy84\frz195\bord6\c&H2B39F9&\3c&HFE8856&\4c&H454545&\1a&H3C&\2a&H3C&\3a&H3C&\4a&H3C&\blur12\fad(840,840)\q2\p1}m 0 0 l 4 -2 7 0 14 -17 16 -15 21 -14 28 -28 32 -33 34 -36 40 -25 42 -30 46 -34 46 -34 44 -25 40 -24 34 -36 37 -37 28 -24 21 -14 21 -16 14 -16 7 0 1 3 0 0
 Dialogue: 0,0:22:06.72,0:22:06.80,ED1 - Romaji,,0,0,0,,{\pos(531,100.16)\fscx70\fscy70\frz290\bord6\c&H2B39F9&\3c&HFE8856&\4c&H454545&\1a&H3C&\2a&H3C&\3a&H3C&\4a&H3C&\blur12\fad(840,840)\q2\p1}m 0 0 l 2 -1 7 -5 15 -21 19 -20 23 -21 28 -14 33 -18 37 -15 41 0 46 -4 49 -2 49 -2 44 -9 41 0 37 -13 34 -17 28 -14 23 -21 22 -17 15 -21 7 -5 4 -2 0 0
-Dialogue: 0,0:22:06.72,0:22:09.72,ED1 - Romaji,,0,0,0,,
