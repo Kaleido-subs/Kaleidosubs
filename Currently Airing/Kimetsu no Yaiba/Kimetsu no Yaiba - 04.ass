@@ -215,14 +215,15 @@ Dialogue: 10,0:08:35.20,0:08:37.07,Default,,0,0,0,,{\i1}There are so many.
 Dialogue: 10,0:08:38.87,0:08:40.12,Default,,0,0,0,,Everyone,
 Dialogue: 11,0:08:40.12,0:08:47.38,Default,,0,0,0,,we thank you for attending \Nthe Demon Slayers Final Selection tonight.
 Dialogue: 10,0:08:47.88,0:08:49.92,Default,,0,0,0,,Here on Mt. Fujikasane,
-Dialogue: 10,0:08:49.92,0:08:57.05,Default,,0,0,0,,the Demon Slayers have captured\N a number of demons alive. {Then for "soto ni derukoto wa dekimasen" you make a new line that says "They are unable to leave."}
+Dialogue: 10,0:08:49.92,0:08:54.59,Default,,0,0,0,,the Demon Slayers have captured\N a number of demons alive. {Then for "soto ni derukoto wa dekimasen" you make a new line that says "They are unable to leave."}
+Dialogue: 10,0:08:54.59,0:08:57.05,Default,,0,0,0,,They are unable to leave.
 Dialogue: 10,0:08:57.55,0:09:02.93,Default,,0,0,0,,That is because wisteria, \Nwhich demons hate so much,
 Dialogue: 10,0:09:02.93,0:09:06.40,Default,,0,0,0,,blooms year-round from\N halfway down the mountain.
 Dialogue: 10,0:09:07.23,0:09:13.78,Default,,0,0,0,,However, they don't grow from this point onward, \Nthus there will be demons abound.{\Nand thus there are demons abound.}
 Dialogue: 10,0:09:14.24,0:09:21.62,Default,,0,0,0,,To pass the Final Selection you will\N need to survive here for seven days.{Swapped sentence around and their speech pattern is not one where you should use abbreviations}
 Dialogue: 10,0:09:22.87,0:09:25.83,Default,,0,0,0,,And now, be on your way.
 Dialogue: 10,0:09:40.68,0:09:41.89,Default,,0,0,0,,{\i1}Survive for seven days...
-Dialogue: 10,0:09:41.89,0:09:44.60,Default,,0,0,0,,That’s all I’m going to think about.
+Dialogue: 10,0:09:41.89,0:09:44.60,Default,,0,0,0,,{\i1}That’s all I’m going to think about.
 Dialogue: 10,0:09:47.56,0:09:50.19,Default,,0,0,0,,{\i1}First, I have to survive the night.
 Dialogue: 10,0:09:50.19,0:09:53.57,Default,,0,0,0,,{\i1}Once the sun comes up, \Nthe demons won’t be able to do anything.
 Dialogue: 10,0:09:53.57,0:09:55.86,Default,,0,0,0,,{\i1}I can rest up then.
