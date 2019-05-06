@@ -222,8 +222,8 @@ Dialogue: 10,0:09:02.93,0:09:06.40,Default,,0,0,0,,blooms year-round from\N half
 Dialogue: 10,0:09:07.23,0:09:13.78,Default,,0,0,0,,However, they don't grow from this point onward, \Nthus there will be demons abound.{\Nand thus there are demons abound.}
 Dialogue: 10,0:09:14.24,0:09:21.62,Default,,0,0,0,,To pass the Final Selection you will\N need to survive here for seven days.{Swapped sentence around and their speech pattern is not one where you should use abbreviations}
 Dialogue: 10,0:09:22.87,0:09:25.83,Default,,0,0,0,,And now, be on your way.
-Dialogue: 10,0:09:40.68,0:09:41.89,Default,,0,0,0,,{\i1}Survive for seven days...
-Dialogue: 10,0:09:41.89,0:09:44.60,Default,,0,0,0,,{\i1}That’s all I’m going to think about.
+Dialogue: 10,0:09:40.68,0:09:41.89,Default,,0,0,0,,{\i1}Survival...
+Dialogue: 10,0:09:41.89,0:09:44.60,Default,,0,0,0,,{\i1}That’s all I’m gonna think \Nabout for the next seven days.
 Dialogue: 10,0:09:47.56,0:09:50.19,Default,,0,0,0,,{\i1}First, I have to survive the night.
 Dialogue: 10,0:09:50.19,0:09:53.57,Default,,0,0,0,,{\i1}Once the sun comes up, \Nthe demons won’t be able to do anything.
 Dialogue: 10,0:09:53.57,0:09:55.86,Default,,0,0,0,,{\i1}I can rest up then.
@@ -333,7 +333,7 @@ Dialogue: 10,0:17:11.71,0:17:14.68,Default,,0,0,0,,{\i1}They were already killed
 Dialogue: 10,0:17:14.68,0:17:16.55,Default,,0,0,0,,{\i1}But I was with them!
 Dialogue: 10,0:17:16.55,0:17:17.97,Default,,0,0,0,,Those fox masks!
 Dialogue: 10,0:17:18.26,0:17:22.06,Default,,0,0,0,,All of his disciples wear them.
-Dialogue: 10,0:17:22.60,0:17:27.02,Default,,0,0,0,,I’m familiar with the designs Urokadaki carves.
+Dialogue: 10,0:17:22.60,0:17:27.02,Default,,0,0,0,,I’m familiar with the designs Urokodaki carves.
 Dialogue: 10,0:17:27.02,0:17:31.07,Default,,0,0,0,,They’re the same style as his tengu mask!
 Dialogue: 10,0:17:31.07,0:17:33.65,Default,,0,0,0,,Warding masks, right?
 Dialogue: 10,0:17:33.65,0:17:36.32,Default,,0,0,0,,I ate them all {\i1}because{\i0} of the masks they wore.
