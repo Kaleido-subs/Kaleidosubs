@@ -219,7 +219,7 @@ Dialogue: 10,0:08:49.92,0:08:54.59,Default,,0,0,0,,the Demon Slayers have captur
 Dialogue: 10,0:08:54.59,0:08:57.05,Default,,0,0,0,,They are unable to leave.
 Dialogue: 10,0:08:57.55,0:09:02.93,Default,,0,0,0,,That is because wisteria, \Nwhich demons hate so much,
 Dialogue: 10,0:09:02.93,0:09:06.40,Default,,0,0,0,,blooms year-round from\N halfway down the mountain.
-Dialogue: 10,0:09:07.23,0:09:13.78,Default,,0,0,0,,However, they don't grow from this point onward, \Nthus there will be demons abound.{\Nand thus there are demons abound.}
+Dialogue: 10,0:09:07.23,0:09:13.78,Default,,0,0,0,,However, they don’t grow from this point onward, \Nthus there will be demons about.
 Dialogue: 10,0:09:14.24,0:09:21.62,Default,,0,0,0,,To pass the Final Selection you will\N need to survive here for seven days.{Swapped sentence around and their speech pattern is not one where you should use abbreviations}
 Dialogue: 10,0:09:22.87,0:09:25.83,Default,,0,0,0,,And now, be on your way.
 Dialogue: 10,0:09:40.68,0:09:41.89,Default,,0,0,0,,{\i1}Survival...
