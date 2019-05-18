@@ -51,98 +51,98 @@ Dialogue: 10,0:00:26.46,0:00:27.92,Default,,0,0,0,,{\i1}Water Breathing!
 Dialogue: 10,0:00:32.30,0:00:33.72,Default,,0,0,0,,{\i1}First Form!
 Dialogue: 10,0:00:41.72,0:00:43.48,Default,,0,0,0,,{\i1}Surface Water Slash!
 Comment: 0,0:02:14.94,0:02:14.94,Default,,0,0,0,,---------------------------------------------- [ PART A ] ----------------------------------------------
-Dialogue: 2,0:02:16.69,0:02:16.74,Title Card Sign,,0,0,0,,{\pos(1510.6,809.68)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HF8&\4a&HFF&\blur0.9}My own steel
-Dialogue: 2,0:02:16.74,0:02:16.78,Title Card Sign,,0,0,0,,{\pos(1508.49,808.48)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HF1&\4a&HFF&\blur0.9}My own steel
-Dialogue: 2,0:02:16.78,0:02:16.82,Title Card Sign,,0,0,0,,{\pos(1506.47,807.35)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HEB&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:16.69,0:02:16.74,Title Card Sign,,0,0,0,,{\pos(1510.6,809.68)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HF8&\4a&HFF&\blur0.9}My Own Steel
+Dialogue: 2,0:02:16.74,0:02:16.78,Title Card Sign,,0,0,0,,{\pos(1508.49,808.48)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HF1&\4a&HFF&\blur0.9}My Own Steel
+Dialogue: 2,0:02:16.78,0:02:16.82,Title Card Sign,,0,0,0,,{\pos(1506.47,807.35)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HEB&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:16.78,0:02:16.82,Title Card Sign,,0,0,0,,{\pos(1680.62,486.47)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HEB&\4a&HFF&\blur0.9\clip(m 1626 370 l 1619 433 1650 550 1456 572 1504 377)}Episode
-Dialogue: 2,0:02:16.82,0:02:16.86,Title Card Sign,,0,0,0,,{\pos(1504.49,806.24)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HE2&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:16.82,0:02:16.86,Title Card Sign,,0,0,0,,{\pos(1504.49,806.24)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HE2&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:16.82,0:02:16.86,Title Card Sign,,0,0,0,,{\pos(1678.64,485.36)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HE2&\4a&HFF&\blur0.9\clip(m 1622 367 l 1645 447 1669 548 1458 596 1320 366)}Episode
-Dialogue: 2,0:02:16.86,0:02:16.90,Title Card Sign,,0,0,0,,{\pos(1502.59,805.17)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HDB&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:16.86,0:02:16.90,Title Card Sign,,0,0,0,,{\pos(1502.59,805.17)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HDB&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:16.86,0:02:16.90,Title Card Sign,,0,0,0,,{\pos(1676.74,484.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HDB&\4a&HFF&\blur0.9\clip(m 1619 351 l 1632 410 1643 428 1643 460 1677 527 1411 580 1286 380)}Episode
 Dialogue: 2,0:02:16.86,0:02:16.90,Title Card Sign,,0,0,0,,{\pos(1679.46,549.8)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HDB&\4a&HFF&\blur1\clip(m 1656 474 l 1670 508 1690 544 1706 559 1752 551 1596 681 1534 484)}5
-Dialogue: 2,0:02:16.90,0:02:16.94,Title Card Sign,,0,0,0,,{\pos(1500.69,804.18)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HD5&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:16.90,0:02:16.94,Title Card Sign,,0,0,0,,{\pos(1500.69,804.18)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HD5&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:16.90,0:02:16.94,Title Card Sign,,0,0,0,,{\pos(1674.84,483.3)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HD5&\4a&HFF&\blur0.9\clip(m 1624 375 l 1640 430 1686 532 1442 580 1328 370)}Episode
 Dialogue: 2,0:02:16.90,0:02:16.94,Title Card Sign,,0,0,0,,{\pos(1677.46,548.81)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HD5&\4a&HFF&\blur1\clip(m 1648 446 l 1670 490 1674 519 1712 551 1564 615 1494 489)}5
-Dialogue: 2,0:02:16.94,0:02:16.99,Title Card Sign,,0,0,0,,{\pos(1498.36,803.15)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HCE&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:16.94,0:02:16.99,Title Card Sign,,0,0,0,,{\pos(1498.36,803.15)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HCE&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:16.94,0:02:16.99,Title Card Sign,,0,0,0,,{\pos(1672.51,482.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HCE&\4a&HFF&\blur0.9\clip(m 1618 370 l 1680 495 1451 582 1254 401)}Episode
 Dialogue: 2,0:02:16.94,0:02:16.99,Title Card Sign,,0,0,0,,{\pos(1675.14,547.79)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HCE&\4a&HFF&\blur1}5
-Dialogue: 2,0:02:16.99,0:02:17.03,Title Card Sign,,0,0,0,,{\pos(1496.54,802.39)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HC7&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:16.99,0:02:17.03,Title Card Sign,,0,0,0,,{\pos(1496.54,802.39)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HC7&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:16.99,0:02:17.03,Title Card Sign,,0,0,0,,{\pos(1670.69,481.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HC7&\4a&HFF&\blur0.9\clip(m 1606 351 l 1630 402 1659 446 1686 503 1488 548 1310 402)}Episode
 Dialogue: 2,0:02:16.99,0:02:17.03,Title Card Sign,,0,0,0,,{\pos(1674.41,547.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HC7&\4a&HFF&\blur0.9}5
-Dialogue: 2,0:02:17.03,0:02:17.07,Title Card Sign,,0,0,0,,{\pos(1495.22,801.39)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HC0&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:17.03,0:02:17.07,Title Card Sign,,0,0,0,,{\pos(1495.22,801.39)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HC0&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:17.03,0:02:17.07,Title Card Sign,,0,0,0,,{\pos(1669.37,480.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HC0&\4a&HFF&\blur0.9\clip(m 1605 359 l 1667 463 1536 562 1374 441)}Episode
 Dialogue: 2,0:02:17.03,0:02:17.07,Title Card Sign,,0,0,0,,{\pos(1671.99,546.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HC0&\4a&HFF&\blur0.9}5
-Dialogue: 2,0:02:17.07,0:02:17.11,Title Card Sign,,0,0,0,,{\pos(1493.69,800.67)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HB8&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:17.07,0:02:17.11,Title Card Sign,,0,0,0,,{\pos(1493.69,800.67)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HB8&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:17.07,0:02:17.11,Title Card Sign,,0,0,0,,{\pos(1667.84,479.79)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HB8&\4a&HFF&\blur1\clip(m 1606 369 l 1648 446 1742 502 1531 602 1320 478)}Episode
 Dialogue: 2,0:02:17.07,0:02:17.11,Title Card Sign,,0,0,0,,{\pos(1670.46,545.4)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HB8&\4a&HFF&\blur0.9}5
-Dialogue: 2,0:02:17.11,0:02:17.15,Title Card Sign,,0,0,0,,{\pos(1492.76,799.5)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HB1&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:17.11,0:02:17.15,Title Card Sign,,0,0,0,,{\pos(1492.76,799.5)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HB1&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:17.11,0:02:17.15,Title Card Sign,,0,0,0,,{\pos(1666.91,478.63)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HB1&\4a&HFF&\blur1.5\clip(m 1606 382 l 1645 447 1698 510 1517 586 1509 426)}Episode
 Dialogue: 2,0:02:17.11,0:02:17.15,Title Card Sign,,0,0,0,,{\pos(1669.54,544.14)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HB1&\4a&HFF&\blur1.6\clip(m 1638 524 l 1648 457 1674 500 1698 514 1635 594 1491 540)}5
-Dialogue: 2,0:02:17.15,0:02:17.20,Title Card Sign,,0,0,0,,{\pos(1491.72,798.27)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HAA&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:17.15,0:02:17.20,Title Card Sign,,0,0,0,,{\pos(1491.72,798.27)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HAA&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:17.15,0:02:17.20,Title Card Sign,,0,0,0,,{\pos(1665.87,477.4)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HAA&\4a&HFF&\blur1.5\clip(m 1611 396 l 1672 505 1510 586 1525 396)}Episode
 Dialogue: 2,0:02:17.15,0:02:17.20,Title Card Sign,,0,0,0,,{\pos(1668.49,542.91)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HAA&\4a&HFF&\blur1.5\clip(m 1645 474 l 1674 508 1698 535 1634 625 1550 570)}5
-Dialogue: 2,0:02:17.20,0:02:17.24,Title Card Sign,,0,0,0,,{\pos(1490.41,797.45)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HA3&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:17.20,0:02:17.24,Title Card Sign,,0,0,0,,{\pos(1490.41,797.45)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HA3&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:17.20,0:02:17.24,Title Card Sign,,0,0,0,,{\pos(1664.56,476.57)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HA3&\4a&HFF&\blur2\clip(m 1600 388 l 1677 527 1512 569 1422 441)}Episode
 Dialogue: 2,0:02:17.20,0:02:17.24,Title Card Sign,,0,0,0,,{\pos(1667.18,542.08)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HA4&\4a&HFF&\blur1.5\clip(m 1646 475 l 1694 534 1592 601 1528 524)}5
-Dialogue: 2,0:02:17.24,0:02:17.28,Title Card Sign,,0,0,0,,{\pos(1489.17,796.39)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H9C&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:17.24,0:02:17.28,Title Card Sign,,0,0,0,,{\pos(1489.17,796.39)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H9C&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:17.24,0:02:17.28,Title Card Sign,,0,0,0,,{\pos(1663.32,475.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H9C&\4a&HFF&\blur2\clip(m 1587 388 l 1664 503 1512 574 1392 452)}Episode
 Dialogue: 2,0:02:17.24,0:02:17.28,Title Card Sign,,0,0,0,,{\pos(1665.94,541.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H9C&\4a&HFF&\blur2\clip(m 1618 436 l 1664 511 1672 524 1695 615 1594 652 1522 527)}5
-Dialogue: 2,0:02:17.28,0:02:17.32,Title Card Sign,,0,0,0,,{\pos(1487.64,795.85)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H96&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:17.28,0:02:17.32,Title Card Sign,,0,0,0,,{\pos(1487.64,795.85)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H96&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:17.28,0:02:17.32,Title Card Sign,,0,0,0,,{\pos(1661.79,474.97)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H96&\4a&HFF&\blur2\clip(m 1584 399 l 1642 492 1514 542 1526 412)}Episode
 Dialogue: 2,0:02:17.28,0:02:17.32,Title Card Sign,,0,0,0,,{\pos(1664.41,540.48)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H96&\4a&HFF&\blur2}5
-Dialogue: 2,0:02:17.32,0:02:17.36,Title Card Sign,,0,0,0,,{\pos(1486.48,795.37)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H8D&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:17.32,0:02:17.36,Title Card Sign,,0,0,0,,{\pos(1486.48,795.37)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H8D&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:17.32,0:02:17.36,Title Card Sign,,0,0,0,,{\pos(1660.63,474.49)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H8D&\4a&HFF&\blur2\clip(m 1557 330 l 1563 375 1582 417 1616 471 1486 489 1446 394)}Episode
 Dialogue: 2,0:02:17.32,0:02:17.36,Title Card Sign,,0,0,0,,{\pos(1664.25,540)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H8D&\4a&HFF&\blur4}5
-Dialogue: 2,0:02:17.36,0:02:17.40,Title Card Sign,,0,0,0,,{\pos(1485.14,794.61)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H86&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:17.36,0:02:17.40,Title Card Sign,,0,0,0,,{\pos(1485.14,794.61)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H86&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:17.36,0:02:17.40,Title Card Sign,,0,0,0,,{\pos(1659.29,473.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H86&\4a&HFF&\blur3\clip(m 1578 430 l 1595 449 1645 458 1602 519)}Episode
 Dialogue: 2,0:02:17.36,0:02:17.40,Title Card Sign,,0,0,0,,{\pos(1661.91,539.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H86&\4a&HFF&\blur4}5
-Dialogue: 2,0:02:17.40,0:02:17.45,Title Card Sign,,0,0,0,,{\pos(1484.09,794.01)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H80&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:17.40,0:02:17.45,Title Card Sign,,0,0,0,,{\pos(1484.09,794.01)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H80&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:17.40,0:02:17.45,Title Card Sign,,0,0,0,,{\pos(1658.24,473.14)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H80&\4a&HFF&\blur5\clip(m 1571 433 l 1632 444 1669 433 1696 441 1739 478 1762 586 1602 607)}Episode
 Dialogue: 2,0:02:17.40,0:02:17.45,Title Card Sign,,0,0,0,,{\pos(1660.86,538.65)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H80&\4a&HFF&\blur4}5
-Dialogue: 2,0:02:17.45,0:02:17.49,Title Card Sign,,0,0,0,,{\pos(1483.37,794.01)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H79&\4a&HFF&\blur0.9}My own steel
-Dialogue: 2,0:02:17.49,0:02:17.53,Title Card Sign,,0,0,0,,{\pos(1482.71,793.47)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H72&\4a&HFF&\blur0.9}My own steel
-Dialogue: 2,0:02:17.53,0:02:17.57,Title Card Sign,,0,0,0,,{\pos(1482.18,793.07)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H6B&\4a&HFF&\blur0.9}My own steel
-Dialogue: 2,0:02:17.57,0:02:17.61,Title Card Sign,,0,0,0,,{\pos(1481.22,792.74)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H63&\4a&HFF&\blur0.9}My own steel
-Dialogue: 2,0:02:17.61,0:02:17.65,Title Card Sign,,0,0,0,,{\pos(1480.64,792.49)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H5C&\4a&HFF&\blur0.9}My own steel
-Dialogue: 2,0:02:17.65,0:02:17.70,Title Card Sign,,0,0,0,,{\pos(1480.18,792.26)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H55&\4a&HFF&\blur0.9}My own steel
-Dialogue: 2,0:02:17.70,0:02:17.74,Title Card Sign,,0,0,0,,{\pos(1479.59,792.12)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H4E&\4a&HFF&\blur0.9}My own steel
-Dialogue: 2,0:02:17.74,0:02:17.78,Title Card Sign,,0,0,0,,{\pos(1479.31,791.96)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H47&\4a&HFF&\blur0.9}My own steel
-Dialogue: 2,0:02:17.78,0:02:17.82,Title Card Sign,,0,0,0,,{\pos(1478.97,791.71)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H41&\4a&HFF&\blur0.9}My own steel
-Dialogue: 2,0:02:17.82,0:02:17.86,Title Card Sign,,0,0,0,,{\pos(1478.63,791.63)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H38&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:17.45,0:02:17.49,Title Card Sign,,0,0,0,,{\pos(1483.37,794.01)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H79&\4a&HFF&\blur0.9}My Own Steel
+Dialogue: 2,0:02:17.49,0:02:17.53,Title Card Sign,,0,0,0,,{\pos(1482.71,793.47)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H72&\4a&HFF&\blur0.9}My Own Steel
+Dialogue: 2,0:02:17.53,0:02:17.57,Title Card Sign,,0,0,0,,{\pos(1482.18,793.07)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H6B&\4a&HFF&\blur0.9}My Own Steel
+Dialogue: 2,0:02:17.57,0:02:17.61,Title Card Sign,,0,0,0,,{\pos(1481.22,792.74)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H63&\4a&HFF&\blur0.9}My Own Steel
+Dialogue: 2,0:02:17.61,0:02:17.65,Title Card Sign,,0,0,0,,{\pos(1480.64,792.49)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H5C&\4a&HFF&\blur0.9}My Own Steel
+Dialogue: 2,0:02:17.65,0:02:17.70,Title Card Sign,,0,0,0,,{\pos(1480.18,792.26)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H55&\4a&HFF&\blur0.9}My Own Steel
+Dialogue: 2,0:02:17.70,0:02:17.74,Title Card Sign,,0,0,0,,{\pos(1479.59,792.12)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H4E&\4a&HFF&\blur0.9}My Own Steel
+Dialogue: 2,0:02:17.74,0:02:17.78,Title Card Sign,,0,0,0,,{\pos(1479.31,791.96)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H47&\4a&HFF&\blur0.9}My Own Steel
+Dialogue: 2,0:02:17.78,0:02:17.82,Title Card Sign,,0,0,0,,{\pos(1478.97,791.71)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H41&\4a&HFF&\blur0.9}My Own Steel
+Dialogue: 2,0:02:17.82,0:02:17.86,Title Card Sign,,0,0,0,,{\pos(1478.63,791.63)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H38&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:17.82,0:02:17.86,Title Card Sign,,0,0,0,,{\pos(1652.78,470.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H38&\4a&HFF&\blur5\clip(m 1888 439 l 1803 423 1715 450 1666 484 1640 522 1720 569)}Episode
 Dialogue: 2,0:02:17.82,0:02:17.86,Title Card Sign,,0,0,0,,{\pos(1655.4,536.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H48&\4a&HFF&\blur6\clip(m 1718 446 l 1670 474 1640 506 1614 534 1662 676 1867 577)}5
-Dialogue: 2,0:02:17.86,0:02:17.90,Title Card Sign,,0,0,0,,{\pos(1478.48,791.58)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H31&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:17.86,0:02:17.90,Title Card Sign,,0,0,0,,{\pos(1478.48,791.58)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H31&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:17.86,0:02:17.90,Title Card Sign,,0,0,0,,{\pos(1652.63,470.7)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H31&\4a&HFF&\blur6\clip(m 1811 385 l 1739 399 1686 423 1621 487 1611 535 1706 594)}Episode
 Dialogue: 2,0:02:17.86,0:02:17.90,Title Card Sign,,0,0,0,,{\pos(1655.25,536.21)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H41&\4a&HFF&\blur5}5
-Dialogue: 2,0:02:17.90,0:02:17.95,Title Card Sign,,0,0,0,,{\pos(1478.74,791.64)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H2B&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:17.90,0:02:17.95,Title Card Sign,,0,0,0,,{\pos(1478.74,791.64)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H2B&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:17.90,0:02:17.95,Title Card Sign,,0,0,0,,{\pos(1652.89,470.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H2B&\4a&HFF&\blur6\clip(m 1750 358 l 1702 374 1654 402 1635 422 1618 457 1597 489 1640 548 1753 602)}Episode
 Dialogue: 2,0:02:17.90,0:02:17.95,Title Card Sign,,0,0,0,,{\pos(1655.51,536.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H2B&\4a&HFF&\blur4}5
-Dialogue: 2,0:02:17.95,0:02:17.99,Title Card Sign,,0,0,0,,{\pos(1478.76,791.65)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H24&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:17.95,0:02:17.99,Title Card Sign,,0,0,0,,{\pos(1478.76,791.65)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H24&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:17.95,0:02:17.99,Title Card Sign,,0,0,0,,{\pos(1652.91,470.78)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H24&\4a&HFF&\blur6\clip(m 1707 338 l 1634 388 1598 418 1573 487 1658 543 1715 545 1822 521)}Episode
 Dialogue: 2,0:02:17.95,0:02:17.99,Title Card Sign,,0,0,0,,{\pos(1655.54,536.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H24&\4a&HFF&\blur6}5
-Dialogue: 2,0:02:17.99,0:02:18.03,Title Card Sign,,0,0,0,,{\pos(1478.76,791.65)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H1D&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:17.99,0:02:18.03,Title Card Sign,,0,0,0,,{\pos(1478.76,791.65)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H1D&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:17.99,0:02:18.03,Title Card Sign,,0,0,0,,{\pos(1652.91,470.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H1D&\4a&HFF&\blur5}Episode
 Dialogue: 2,0:02:17.99,0:02:18.03,Title Card Sign,,0,0,0,,{\pos(1655.54,536.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H1D&\4a&HFF&\blur6}5
-Dialogue: 2,0:02:18.03,0:02:18.07,Title Card Sign,,0,0,0,,{\pos(1478.76,791.64)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H16&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:18.03,0:02:18.07,Title Card Sign,,0,0,0,,{\pos(1478.76,791.64)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H16&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:18.03,0:02:18.07,Title Card Sign,,0,0,0,,{\pos(1652.91,470.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H16&\4a&HFF&\blur4.73}Episode
 Dialogue: 2,0:02:18.03,0:02:18.07,Title Card Sign,,0,0,0,,{\pos(1655.54,536.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H16&\4a&HFF&\blur5.67}5
-Dialogue: 2,0:02:18.07,0:02:18.11,Title Card Sign,,0,0,0,,{\pos(1478.76,791.63)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H0E&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:18.07,0:02:18.11,Title Card Sign,,0,0,0,,{\pos(1478.76,791.63)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H0E&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:18.07,0:02:18.11,Title Card Sign,,0,0,0,,{\pos(1652.91,470.75)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H0E&\4a&HFF&\blur4.47}Episode
 Dialogue: 2,0:02:18.07,0:02:18.11,Title Card Sign,,0,0,0,,{\pos(1655.54,536.26)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H0E&\4a&HFF&\blur5.44}5
-Dialogue: 2,0:02:18.11,0:02:18.15,Title Card Sign,,0,0,0,,{\pos(1478.77,791.64)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H07&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:18.11,0:02:18.15,Title Card Sign,,0,0,0,,{\pos(1478.77,791.64)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H07&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:18.11,0:02:18.15,Title Card Sign,,0,0,0,,{\pos(1652.92,470.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H07&\4a&HFF&\blur4.2}Episode
 Dialogue: 2,0:02:18.11,0:02:18.15,Title Card Sign,,0,0,0,,{\pos(1655.54,536.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H07&\4a&HFF&\blur5}5
-Dialogue: 2,0:02:18.15,0:02:18.20,Title Card Sign,,0,0,0,,{\pos(1478.77,791.61)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:18.15,0:02:18.20,Title Card Sign,,0,0,0,,{\pos(1478.77,791.61)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:18.15,0:02:18.20,Title Card Sign,,0,0,0,,{\pos(1652.92,470.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur3.93}Episode
 Dialogue: 2,0:02:18.15,0:02:18.20,Title Card Sign,,0,0,0,,{\pos(1655.54,536.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur4.67}5
-Dialogue: 2,0:02:18.20,0:02:18.28,Title Card Sign,,0,0,0,,{\pos(1478.78,791.58)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:18.20,0:02:18.28,Title Card Sign,,0,0,0,,{\pos(1478.78,791.58)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:18.20,0:02:18.24,Title Card Sign,,0,0,0,,{\pos(1652.93,470.7)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur3.67}Episode
 Dialogue: 2,0:02:18.20,0:02:18.24,Title Card Sign,,0,0,0,,{\pos(1655.55,536.21)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur4.44}5
 Dialogue: 2,0:02:18.24,0:02:18.28,Title Card Sign,,0,0,0,,{\pos(1652.93,470.68)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur3.4}Episode
 Dialogue: 2,0:02:18.24,0:02:18.28,Title Card Sign,,0,0,0,,{\pos(1655.55,536.19)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur4}5
 Dialogue: 2,0:02:18.28,0:02:18.32,Title Card Sign,,0,0,0,,{\pos(1652.92,470.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur3.13}Episode
 Dialogue: 2,0:02:18.28,0:02:18.32,Title Card Sign,,0,0,0,,{\pos(1655.54,536.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur4.67}5
-Dialogue: 2,0:02:18.28,0:02:19.32,Title Card Sign,,0,0,0,,{\pos(1478.76,791.64)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:18.28,0:02:19.32,Title Card Sign,,0,0,0,,{\pos(1478.76,791.64)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 2,0:02:18.32,0:02:18.36,Title Card Sign,,0,0,0,,{\pos(1652.91,470.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur2.87}Episode
 Dialogue: 2,0:02:18.32,0:02:18.36,Title Card Sign,,0,0,0,,{\pos(1655.54,536.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur4.44}5
 Dialogue: 2,0:02:18.36,0:02:18.40,Title Card Sign,,0,0,0,,{\pos(1652.91,470.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur2.6}Episode
@@ -159,8 +159,8 @@ Dialogue: 2,0:02:18.57,0:02:18.61,Title Card Sign,,0,0,0,,{\pos(1652.91,470.77)\
 Dialogue: 2,0:02:18.57,0:02:18.61,Title Card Sign,,0,0,0,,{\pos(1655.54,536.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur1.44}5
 Dialogue: 2,0:02:18.61,0:02:20.95,Title Card Sign,,0,0,0,,{\pos(1652.91,470.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur1}Episode
 Dialogue: 2,0:02:18.61,0:02:20.95,Title Card Sign,,0,0,0,,{\pos(1655.54,536.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur1}5
-Dialogue: 2,0:02:19.32,0:02:20.95,Title Card Sign,,0,0,0,,{\pos(1478.76,791.65)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\4a&HFF&\blur0.9}My own steel
-Comment: 2,0:02:19.61,0:02:19.82,Title Card Sign,,0,0,0,,{=7}{\pos(1478.77,791.64)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9}My own steel
+Dialogue: 2,0:02:19.32,0:02:20.95,Title Card Sign,,0,0,0,,{\pos(1478.76,791.65)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\4a&HFF&\blur0.9}My Own Steel
+Comment: 2,0:02:19.61,0:02:19.82,Title Card Sign,,0,0,0,,{=7}{\pos(1478.77,791.64)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9}My Own Steel
 Dialogue: 10,0:03:43.70,0:03:44.95,Default,,0,0,0,,Urokodaki!
 Dialogue: 10,0:03:55.63,0:03:59.17,Default,,0,0,0,,Fuck, fuck, {\i1}fuck{\i0}!{Fuck’s sake! Fuck’s sake! Fuck’s sake! }{maybe something more vulgar?} {## This better?}{too vulgar, but w/e. didn't like sake}
 Dialogue: 10,0:03:59.63,0:04:03.22,Default,,0,0,0,,{\i1}My body’s crumbling away.
