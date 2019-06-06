@@ -21,9 +21,9 @@ Video File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 399
-Active Line: 402
-Video Position: 28085
+Scroll Position: 337
+Active Line: 348
+Video Position: 22827
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -393,7 +393,7 @@ Dialogue: 10,0:15:39.13,0:15:41.21,Default,,0,0,0,,After more than 200 years,
 Dialogue: 10,0:15:41.21,0:15:45.00,Default,,0,0,0,,Yushiro is still the only one \NI was able to transform into a demon.{I was only able to transform Yushiro into a demon after all.}
 Dialogue: 10,0:15:47.46,0:15:48.30,Default,,0,0,0,,Two...
 Dialogue: 10,0:15:50.17,0:15:52.05,Default,,0,0,0,,Two hundred years...
-Dialogue: 10,0:15:52.05,0:15:57.36,Default,,0,0,0,,After more than 200 years, \NYushiro’s the only one you were able to transform?{You were only able to transform Yushiro after more than 200 years?}
+Dialogue: 10,0:15:52.05,0:15:57.36,Default,,0,0,0,,After more than two hundred years, \NYushiro’s the only one you were able to transform?{You were only able to transform Yushiro after more than 200 years?}
 Dialogue: 10,0:15:57.36,0:15:59.18,Default,,0,0,0,,Just how old are you exactly, Miss Tamayo?{Exactly how old are you, Miss Tamayo?}
 Dialogue: 10,0:16:00.39,0:16:04.31,Default,,0,0,0,,Don’t ask a lady her age, you ill-mannered scoundrel!
 Dialogue: 10,0:16:04.31,0:16:05.57,Default,,0,0,0,,Yushiro!
