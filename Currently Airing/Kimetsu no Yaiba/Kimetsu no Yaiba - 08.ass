@@ -16,10 +16,14 @@ ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
 Last Style Storage: Main_1080p
-Audio File: ../../../Encoding-Projects/[Kaleido-subs]/Currently Airing/Kimetsu no Yaiba/08/Yaiba08p (Premux).mkv
-Video File: ../../../Encoding-Projects/[Kaleido-subs]/Currently Airing/Kimetsu no Yaiba/08/Yaiba08p (Premux).mkv
+Audio File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba/[Kaleido-Flax] Kimetsu no Yaiba - 08 (WEB 1080p) [5B5C85BD].mkv
+Video File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba/[Kaleido-Flax] Kimetsu no Yaiba - 08 (WEB 1080p) [5B5C85BD].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 399
+Active Line: 402
+Video Position: 28085
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,9 +47,9 @@ Style: To Be Continued Sign,FOT Manyo Gyosho Std Strp E,70,&H00FFFFFF,&H000000FF
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Aniplex / Ringo (OP, ED) \ TLC: Ringo \ Editing: torn \ Timing: torn \ TS: bthen13  \ QC: LightArrowsEXE }
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
-Dialogue: 69,0:00:06.73,0:00:09.06,Default,,0,0,0,,What’s the matter, dear?
-Dialogue: 69,0:00:10.98,0:00:12.23,Default,,0,0,0,,Dear?
-Dialogue: 69,0:00:16.02,0:00:16.82,Default,,0,0,0,,Stop!
+Dialogue: 10,0:00:06.73,0:00:09.06,Default,,0,0,0,,What’s the matter, dear?
+Dialogue: 10,0:00:10.98,0:00:12.23,Default,,0,0,0,,Dear?
+Dialogue: 10,0:00:16.02,0:00:16.82,Default,,0,0,0,,Stop!
 Comment: 0,0:01:51.96,0:01:51.96,Default,,0,0,0,,---------------------------------------------- [ PART A ] ----------------------------------------------
 Dialogue: 2,0:01:53.71,0:01:53.76,Title Card Sign,,0,0,0,,{=7}{\pos(1465.6,1079.68)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HF8&\4a&HFF&\blur0.9} The Fragrance \Nof Bewitching Blood
 Dialogue: 2,0:01:53.76,0:01:53.80,Title Card Sign,,0,0,0,,{=7}{\pos(1463.49,1078.48)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HF1&\4a&HFF&\blur0.9} The Fragrance \Nof Bewitching Blood
@@ -163,306 +167,306 @@ Dialogue: 2,0:01:56.34,0:01:57.01,Title Card Sign,,0,0,0,,{=7}{\pos(1433.76,1061
 Dialogue: 2,0:01:57.01,0:01:57.22,Title Card Sign,,0,0,0,,{=7}{\pos(1433.77,1061.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} The Fragrance \Nof Bewitching Blood
 Dialogue: 2,0:01:57.22,0:01:57.76,Title Card Sign,,0,0,0,,{=7}{\pos(1433.76,1061.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} The Fragrance \Nof Bewitching Blood
 Dialogue: 2,0:01:57.76,0:01:57.97,Title Card Sign,,0,0,0,,{=7}{\pos(1433.77,1061.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} The Fragrance \Nof Bewitching Blood
-Dialogue: 69,0:02:00.30,0:02:01.43,Default,,0,0,0,,What’s this?
-Dialogue: 69,0:02:01.43,0:02:02.57,Default,,0,0,0,,What’s going on?
-Dialogue: 69,0:02:02.57,0:02:03.81,Default,,0,0,0,,I-Is that blood?
-Dialogue: 69,0:02:05.98,0:02:07.77,Default,,0,0,0,,Stop it!
-Dialogue: 69,0:02:15.77,0:02:16.78,Default,,0,0,0,,Dear!
-Dialogue: 69,0:02:17.57,0:02:18.54,Default,,0,0,0,,Ma’am!
-Dialogue: 69,0:02:18.54,0:02:20.50,Default,,0,0,0,,You need to worry about yourself!
-Dialogue: 69,0:02:20.50,0:02:24.03,Default,,0,0,0,,Take a cloth and put pressure on the wound!{Please take a cloth and press down hard on the wound!}{This cloth is kinda weird, let’s go for take a cloth. It kinda implies that he gave the cloth himself}
-Dialogue: 69,0:02:27.95,0:02:30.63,Default,,0,0,0,,{\i1}It’ll be all right. I’ll handle it somehow.{It’s all right. Somehow, it’s going to turn out fine.}
-Dialogue: 69,0:02:30.63,0:02:33.22,Default,,0,0,0,,{\i1}Her wound isn’t fatal!{The wife’s wound isn’t fatal!}
-Dialogue: 69,0:02:33.22,0:02:34.63,Default,,0,0,0,,Do it harder!
-Dialogue: 69,0:02:34.63,0:02:37.38,Default,,0,0,0,,{Do it h}Harder! Tie it up with a rope!
-Dialogue: 69,0:02:37.88,0:02:39.63,Default,,0,0,0,,{\i1}It’s going to be all right.
-Dialogue: 69,0:02:39.63,0:02:41.39,Default,,0,0,0,,{\i1}This man hasn’t killed anyone!
-Dialogue: 69,0:02:43.63,0:02:47.64,Default,,0,0,0,,{\i1}He was walking down this street just a second ago.{Just a second ago, this man was just walking down this street!}
-Dialogue: 69,0:02:49.14,0:02:50.78,Default,,0,0,0,,Are you all right?
-Dialogue: 69,0:02:50.78,0:02:52.83,Default,,0,0,0,,You mustn’t look.
-Dialogue: 69,0:02:52.83,0:02:55.61,Default,,0,0,0,,It’s dangerous here, Rei. Let’s move over there.
-Dialogue: 69,0:02:55.61,0:02:56.82,Default,,0,0,0,,{\i1}Where’d he go?
-Dialogue: 69,0:03:10.04,0:03:10.92,Default,,0,0,0,,{\i1}Dammit!
-Dialogue: 69,0:03:11.50,0:03:13.17,Default,,0,0,0,,{\i1}Dammit!
-Dialogue: 69,0:03:16.47,0:03:18.80,Default,,0,0,0,,{\i1}I can’t just leave him here!{I can’t leave this man here!}
-Dialogue: 69,0:03:19.63,0:03:21.47,Default,,0,0,0,,Kibutsuji Muzan!
-Dialogue: 69,0:03:21.89,0:03:23.80,Default,,0,0,0,,You won’t get away from me!{I’m not letting you get away!}
-Dialogue: 69,0:03:23.80,0:03:26.39,Default,,0,0,0,,No matter where you go!
-Dialogue: 69,0:03:27.27,0:03:29.69,Default,,0,0,0,,What’s wrong with that boy?{What’s the matter with that child?}
-Dialogue: 69,0:03:29.69,0:03:31.39,Default,,0,0,0,,What do you think, Tsukihiko?
-Dialogue: 69,0:03:35.44,0:03:37.36,Default,,0,0,0,,You’re not getting away no matter where you go!{No matter where you go, you’re not getting away!}
-Dialogue: 69,0:03:37.36,0:03:39.50,Default,,0,0,0,,I’ll follow you to the {ends}depths of Hell,
-Dialogue: 69,0:03:39.50,0:03:42.21,Default,,0,0,0,,and I swear I’ll slice your head off with my sword{blade}!
-Dialogue: 69,0:03:42.21,0:03:44.49,Default,,0,0,0,,I’ll never forgive you{ no matter what}!
-Dialogue: 69,0:03:45.07,0:03:47.33,Default,,0,0,0,,What the hell are you doing?
-Dialogue: 69,0:03:47.33,0:03:48.95,Default,,0,0,0,,Are they drunk?{Is it a drunk?}
-Dialogue: 69,0:03:48.95,0:03:51.16,Default,,0,0,0,,Step away from the man, kid!{Kid, step away from that man!}
-Dialogue: 69,0:03:51.16,0:03:52.35,Default,,0,0,0,,I can’t!
-Dialogue: 69,0:03:52.35,0:03:54.14,Default,,0,0,0,,Bring some restraints please!
-Dialogue: 69,0:03:54.14,0:03:55.00,Default,,0,0,0,,Please!
-Dialogue: 69,0:03:55.00,0:03:56.67,Default,,0,0,0,,Shut up and get off him already{step away}!
-Dialogue: 69,0:03:56.67,0:03:58.23,Default,,0,0,0,,Please stop!{don’t do that!}
-Dialogue: 69,0:03:58.23,0:04:00.34,Default,,0,0,0,,Only I can hold him down!{No one but me can hold him down!}{No one can hold this person down but me!}
-Dialogue: 69,0:04:00.34,0:04:01.14,Default,,0,0,0,,Move!
-Dialogue: 69,0:04:01.14,0:04:02.68,Default,,0,0,0,,Please don’t do that!
-Dialogue: 69,0:04:03.47,0:04:06.90,Default,,0,0,0,,Just look at his{this guy’s} face. He’s lost his mind!{Just look at this guy’s face! Has he lost his mind?}
-Dialogue: 69,0:04:06.90,0:04:08.44,Default,,0,0,0,,Get him off this guy!{Pull the kid off him!}
-Dialogue: 69,0:04:08.44,0:04:10.12,Default,,0,0,0,,Please stop!
-Dialogue: 69,0:04:10.12,0:04:12.94,Default,,0,0,0,,I don’t want this person to kill anyone!
-Dialogue: 69,0:04:12.94,0:04:16.52,Default,,0,0,0,,Just don’t interfere, {\i1}please{\i0}!{Just stay out of my way, will you? I’m begging you!}
-Dialogue: 69,0:04:16.52,0:04:18.62,Default,,0,0,0,,Dammit! Look, you little...
-Dialogue: 69,0:04:18.62,0:04:21.03,Default,,0,0,0,,If you’re going to keep resisting...
-Dialogue: 69,0:04:27.90,0:04:29.21,Default,,0,0,0,,Bewitching Blood.
-Dialogue: 69,0:04:29.21,0:04:31.29,Default,,0,0,0,,Incense of Visual Phantasm.{*}
-Dialogue: 69,0:04:32.83,0:04:34.98,Default,,0,0,0,,{\i1}What’s this scent?
-Dialogue: 69,0:04:36.29,0:04:37.83,Default,,0,0,0,,What are all these patterns?
-Dialogue: 69,0:04:40.75,0:04:43.80,Default,,0,0,0,,What’s going on? I can’t see anything!
-Dialogue: 69,0:04:44.50,0:04:46.23,Default,,0,0,0,,{\i1}Is this some kind of attack?
-Dialogue: 69,0:04:46.23,0:04:47.67,Default,,0,0,0,,{\i1}If it is, that means trouble!
-Dialogue: 69,0:04:49.43,0:04:51.18,Default,,0,0,0,,{\i1}Is the scent growing stronger?
-Dialogue: 69,0:04:59.90,0:05:01.19,Default,,0,0,0,,You still use...
-Dialogue: 69,0:05:01.77,0:05:03.69,Default,,0,0,0,,the word{term} “person”...
-Dialogue: 69,0:05:04.40,0:05:08.29,Default,,0,0,0,,to refer to someone who was turned into a demon.{one turned demon}
-Dialogue: 69,0:05:08.29,0:05:10.37,Default,,0,0,0,,And you’re trying to save him.
-Dialogue: 69,0:05:12.04,0:05:15.71,Default,,0,0,0,,Allow me to lend you a hand.{Allow me, then, to lend you a hand.}
-Dialogue: 69,0:05:16.24,0:05:17.84,Default,,0,0,0,,But why?
-Dialogue: 69,0:05:17.84,0:05:19.04,Default,,0,0,0,,You...
-Dialogue: 69,0:05:19.04,0:05:20.42,Default,,0,0,0,,Your scent tells me...
-Dialogue: 69,0:05:21.42,0:05:22.63,Default,,0,0,0,,That’s right.
-Dialogue: 69,0:05:22.63,0:05:23.92,Default,,0,0,0,,I am...
-Dialogue: 69,0:05:26.68,0:05:28.68,Default,,0,0,0,,...a demon, but I am also a doctor.{,}
-Dialogue: 69,0:05:29.56,0:05:34.48,Default,,0,0,0,,{and I wish to annihilate that man, Kibutsuji.}And I wish to obliterate Kibutsuji.
-Dialogue: 69,0:05:38.44,0:05:40.48,Default,,0,0,0,,Aren’t you coming, Daddy?
-Dialogue: 69,0:05:40.74,0:05:42.71,Default,,0,0,0,,Daddy has work.
-Dialogue: 69,0:05:42.71,0:05:45.17,Default,,0,0,0,,I have a business meeting to attend.
-Dialogue: 69,0:05:45.17,0:05:47.99,Default,,0,0,0,,I’m still concerned about that disturbance just now.
-Dialogue: 69,0:05:48.25,0:05:49.67,Default,,0,0,0,,Dear...
-Dialogue: 69,0:05:49.67,0:05:50.97,Default,,0,0,0,,It’s all right.{Don’t worry.}
-Dialogue: 69,0:05:50.97,0:05:53.62,Default,,0,0,0,,I’m only going to speak with the police.
-Dialogue: 69,0:05:53.62,0:05:55.42,Default,,0,0,0,,Now, get in.
-Dialogue: 69,0:05:58.96,0:06:01.73,Default,,0,0,0,,Daddy, come home soon, okay?
-Dialogue: 69,0:06:01.73,0:06:04.48,Default,,0,0,0,,All right. You be a good girl now.
-Dialogue: 69,0:06:04.48,0:06:06.55,Default,,0,0,0,,Take them back to the house.
-Dialogue: 69,0:06:06.55,0:06:07.63,Default,,0,0,0,,Go on.
-Dialogue: 69,0:06:20.86,0:06:23.44,Default,,0,0,0,,C’mon, Bro, let’s hit another bar!{Big Bro, let’s hit one more bar!}
-Dialogue: 69,0:06:23.44,0:06:25.94,Default,,0,0,0,,You good, Yacchan?{Yacchan, are you okay?}
-Dialogue: 69,0:06:25.94,0:06:27.84,Default,,0,0,0,,Never been better!{I’m fine! I’m fine!}
-Dialogue: 69,0:06:27.84,0:06:30.59,Default,,0,0,0,,I’m not even drunk yet—
-Dialogue: 69,0:06:30.59,0:06:32.37,Default,,0,0,0,,Yo, what the hell, man?{What the hell, you bastard?}
-Dialogue: 69,0:06:35.78,0:06:37.20,Default,,0,0,0,,My apologies.{Forgive me.}
-Dialogue: 69,0:06:41.79,0:06:42.88,Default,,0,0,0,,Wait, hold up!{Hey, come back here!}
-Dialogue: 69,0:06:43.83,0:06:46.71,Default,,0,0,0,,I’m in a bit of a hurry, so if you’ll excuse me...{I’m very sorry, but I happen to be in a hurry, so...}
-Dialogue: 69,0:06:46.71,0:06:49.28,Default,,0,0,0,,Whazzat? Come again?{What did you say?}
-Dialogue: 69,0:06:49.28,0:06:53.40,Default,,0,0,0,,Those’re some {\i1}fancy{\i0} threads you got there.{Hey, look at you, decked out in those posh-looking threads!} {Is the threads thing on purpose? Cause he does talk about his clothes literally, not any threads of it.}
-Dialogue: 69,0:06:53.40,0:06:54.97,Default,,0,0,0,,It pisses me off!{You piss me off!}
-Dialogue: 69,0:06:55.38,0:06:58.14,Default,,0,0,0,,And you’re as pale as a ghost.{You and your pale face...}
-Dialogue: 69,0:06:58.14,0:07:00.48,Default,,0,0,0,,It looks like you’ll drop dead at any second!{You look like you’re about to fall over dead!}
-Dialogue: 69,0:07:04.31,0:07:07.48,Default,,0,0,0,,What’s the matter? Cat got your tongue?{Hey, say something, will you? Or did you just croak?}
-Dialogue: 69,0:07:13.19,0:07:14.49,Default,,0,0,0,,Yacchan!
-Dialogue: 69,0:07:14.49,0:07:16.33,Default,,0,0,0,,What’re you doin’ to my little brother?!{What did you do to my kid brother?}
-Dialogue: 69,0:07:16.75,0:07:18.01,Default,,0,0,0,,Yacchan!{*}{?}
-Dialogue: 69,0:07:18.01,0:07:19.08,Default,,0,0,0,,He’s dead!
-Dialogue: 69,0:07:19.08,0:07:21.46,Default,,0,0,0,,Yacchan’s not breathing!
-Dialogue: 69,0:07:23.25,0:07:24.25,Default,,0,0,0,,You son of a—{bastard!}
-Dialogue: 69,0:07:43.77,0:07:47.27,Default,,0,0,0,,Does my complexion look unhealthy to you?
-Dialogue: 69,0:07:49.15,0:07:51.94,Default,,0,0,0,,Is my face pale?
-Dialogue: 69,0:07:53.86,0:07:55.70,Default,,0,0,0,,Do I look sickly to you?
-Dialogue: 69,0:07:56.99,0:07:59.87,Default,,0,0,0,,Does it seem like I don’t have long to live?{Do I look like I’m not long for this world?}
-Dialogue: 69,0:08:00.45,0:08:02.66,Default,,0,0,0,,Do I look like I’m dying?{about to die?}
-Dialogue: 69,0:08:05.20,0:08:07.96,Default,,0,0,0,,Oh no, no, no, no.{Wrong, wrong, wrong, wrong.}
-Dialogue: 69,0:08:08.79,0:08:13.25,Default,,0,0,0,,I’m a living being who’s infinitely close to perfection.{私は限りなく完璧に近い生物だ。}{TLC}{*}{not quite sure what to say, it’s a pretty literate rendering of the line from what I can tell. Reads well as well.}
-Dialogue: 69,0:08:24.57,0:08:29.19,Default,,0,0,0,,What do you think will happen\N if I keep flooding you with my blood?
-Dialogue: 69,0:08:37.16,0:08:41.37,Default,,0,0,0,,The human body cannot{is unable to} withstand \Nthe speed of transformation.
-Dialogue: 69,0:08:45.71,0:08:48.38,Default,,0,0,0,,Your cells will rupture.{And its cells are destroyed.}
-Dialogue: 69,0:09:08.11,0:09:14.11,Default,,0,0,0,,Bring me the head of the demon hunter\N{different from demon slayer. "鬼狩り"} with the hanafuda earrings.{Bring me the head of the Demon Slayer who wears hanafuda-like earrings.}{I’m with you on demon hunter, he’s saying that in part because I think the demon slayer term refers specifically to that thing tanjirou is part of now and that may even be a term that demons don’t use. He does say Hanafuda-like earrings.But that does sound weird, Hanafuda looking, hanafuda resembling is slightly better. That being said, dropping the like is fine for all I care even if they’re not really hanafuda cards. Also, hanafuda cards doens’t work because hanafuda means flower cards already. So flower cards cards is what that amounts to}
-Dialogue: 69,0:09:15.32,0:09:16.86,Default,,0,0,0,,Understood?
-Dialogue: 69,0:09:16.86,0:09:18.12,Default,,0,0,0,,As you wish.
-Dialogue: 69,0:09:18.12,0:09:19.86,Default,,0,0,0,,Your wish is our command.
-Dialogue: 69,0:09:30.50,0:09:33.05,Default,,0,0,0,,Those earrings...
-Dialogue: 69,0:09:46.32,0:09:48.98,Default,,0,0,0,,All right, listen!{Now, listen to me! Here’s the deal...}
+Dialogue: 10,0:02:00.30,0:02:01.43,Default,,0,0,0,,What’s this?
+Dialogue: 10,0:02:01.43,0:02:02.57,Default,,0,0,0,,What’s going on?
+Dialogue: 10,0:02:02.57,0:02:03.81,Default,,0,0,0,,I-Is that blood?
+Dialogue: 10,0:02:05.98,0:02:07.77,Default,,0,0,0,,Stop it!
+Dialogue: 10,0:02:15.77,0:02:16.78,Default,,0,0,0,,Dear!
+Dialogue: 10,0:02:17.57,0:02:18.54,Default,,0,0,0,,Ma’am!
+Dialogue: 10,0:02:18.54,0:02:20.50,Default,,0,0,0,,You need to worry about yourself!
+Dialogue: 10,0:02:20.50,0:02:24.03,Default,,0,0,0,,Take a cloth and put pressure on the wound!{Please take a cloth and press down hard on the wound!}{This cloth is kinda weird, let’s go for take a cloth. It kinda implies that he gave the cloth himself}
+Dialogue: 10,0:02:27.95,0:02:30.63,Default,,0,0,0,,{\i1}It’ll be all right. I’ll handle it somehow.{It’s all right. Somehow, it’s going to turn out fine.}
+Dialogue: 10,0:02:30.63,0:02:33.22,Default,,0,0,0,,{\i1}Her wound isn’t fatal!{The wife’s wound isn’t fatal!}
+Dialogue: 10,0:02:33.22,0:02:34.63,Default,,0,0,0,,Do it harder!
+Dialogue: 10,0:02:34.63,0:02:37.38,Default,,0,0,0,,{Do it h}Harder! Tie it up with a rope!
+Dialogue: 10,0:02:37.88,0:02:39.63,Default,,0,0,0,,{\i1}It’s going to be all right.
+Dialogue: 10,0:02:39.63,0:02:41.39,Default,,0,0,0,,{\i1}This man hasn’t killed anyone!
+Dialogue: 10,0:02:43.63,0:02:47.64,Default,,0,0,0,,{\i1}He was walking down this street just a second ago.{Just a second ago, this man was just walking down this street!}
+Dialogue: 10,0:02:49.14,0:02:50.78,Default,,0,0,0,,Are you all right?
+Dialogue: 10,0:02:50.78,0:02:52.83,Default,,0,0,0,,You mustn’t look.
+Dialogue: 10,0:02:52.83,0:02:55.61,Default,,0,0,0,,It’s dangerous here, Rei. Let’s move over there.
+Dialogue: 10,0:02:55.61,0:02:56.82,Default,,0,0,0,,{\i1}Where’d he go?
+Dialogue: 10,0:03:10.04,0:03:10.92,Default,,0,0,0,,{\i1}Dammit!
+Dialogue: 10,0:03:11.50,0:03:13.17,Default,,0,0,0,,{\i1}Dammit!
+Dialogue: 10,0:03:16.47,0:03:18.80,Default,,0,0,0,,{\i1}I can’t just leave him here!{I can’t leave this man here!}
+Dialogue: 10,0:03:19.63,0:03:21.47,Default,,0,0,0,,Kibutsuji Muzan!
+Dialogue: 10,0:03:21.89,0:03:23.80,Default,,0,0,0,,You won’t get away from me!{I’m not letting you get away!}
+Dialogue: 10,0:03:23.80,0:03:26.39,Default,,0,0,0,,No matter where you go!
+Dialogue: 10,0:03:27.27,0:03:29.69,Default,,0,0,0,,What’s wrong with that boy?{What’s the matter with that child?}
+Dialogue: 10,0:03:29.69,0:03:31.39,Default,,0,0,0,,What do you think, Tsukihiko?
+Dialogue: 10,0:03:35.44,0:03:37.36,Default,,0,0,0,,You’re not getting away no matter where you go!{No matter where you go, you’re not getting away!}
+Dialogue: 10,0:03:37.36,0:03:39.50,Default,,0,0,0,,I’ll follow you to the {ends}depths of Hell,
+Dialogue: 10,0:03:39.50,0:03:42.21,Default,,0,0,0,,and I swear I’ll slice your head off with my sword{blade}!
+Dialogue: 10,0:03:42.21,0:03:44.49,Default,,0,0,0,,I’ll never forgive you{ no matter what}!
+Dialogue: 10,0:03:45.07,0:03:47.33,Default,,0,0,0,,What the hell are you doing?
+Dialogue: 10,0:03:47.33,0:03:48.95,Default,,0,0,0,,Are they drunk?{Is it a drunk?}
+Dialogue: 10,0:03:48.95,0:03:51.16,Default,,0,0,0,,Step away from the man, kid!{Kid, step away from that man!}
+Dialogue: 10,0:03:51.16,0:03:52.35,Default,,0,0,0,,I can’t!
+Dialogue: 10,0:03:52.35,0:03:54.14,Default,,0,0,0,,Bring some restraints please!
+Dialogue: 10,0:03:54.14,0:03:55.00,Default,,0,0,0,,Please!
+Dialogue: 10,0:03:55.00,0:03:56.67,Default,,0,0,0,,Shut up and get off him already{step away}!
+Dialogue: 10,0:03:56.67,0:03:58.23,Default,,0,0,0,,Please stop!{don’t do that!}
+Dialogue: 10,0:03:58.23,0:04:00.34,Default,,0,0,0,,Only I can hold him down!{No one but me can hold him down!}{No one can hold this person down but me!}
+Dialogue: 10,0:04:00.34,0:04:01.14,Default,,0,0,0,,Move!
+Dialogue: 10,0:04:01.14,0:04:02.68,Default,,0,0,0,,Please don’t do that!
+Dialogue: 10,0:04:03.47,0:04:06.90,Default,,0,0,0,,Just look at his{this guy’s} face. He’s lost his mind!{Just look at this guy’s face! Has he lost his mind?}
+Dialogue: 10,0:04:06.90,0:04:08.44,Default,,0,0,0,,Get him off this guy!{Pull the kid off him!}
+Dialogue: 10,0:04:08.44,0:04:10.12,Default,,0,0,0,,Please stop!
+Dialogue: 10,0:04:10.12,0:04:12.94,Default,,0,0,0,,I don’t want this person to kill anyone!
+Dialogue: 10,0:04:12.94,0:04:16.52,Default,,0,0,0,,Just don’t interfere, {\i1}please{\i0}!{Just stay out of my way, will you? I’m begging you!}
+Dialogue: 10,0:04:16.52,0:04:18.62,Default,,0,0,0,,Dammit! Look, you little...
+Dialogue: 10,0:04:18.62,0:04:21.03,Default,,0,0,0,,If you’re going to keep resisting...
+Dialogue: 10,0:04:27.90,0:04:29.21,Default,,0,0,0,,Bewitching Blood.
+Dialogue: 10,0:04:29.21,0:04:31.29,Default,,0,0,0,,Incense of Visual Phantasm.{*}
+Dialogue: 10,0:04:32.83,0:04:34.98,Default,,0,0,0,,{\i1}What’s this scent?
+Dialogue: 10,0:04:36.29,0:04:37.83,Default,,0,0,0,,What are all these patterns?
+Dialogue: 10,0:04:40.75,0:04:43.80,Default,,0,0,0,,What’s going on? I can’t see anything!
+Dialogue: 10,0:04:44.50,0:04:46.23,Default,,0,0,0,,{\i1}Is this some kind of attack?
+Dialogue: 10,0:04:46.23,0:04:47.67,Default,,0,0,0,,{\i1}If it is, that means trouble!
+Dialogue: 10,0:04:49.43,0:04:51.18,Default,,0,0,0,,{\i1}Is the scent growing stronger?
+Dialogue: 10,0:04:59.90,0:05:01.19,Default,,0,0,0,,You still use...
+Dialogue: 10,0:05:01.77,0:05:03.69,Default,,0,0,0,,the word{term} “person”...
+Dialogue: 10,0:05:04.40,0:05:08.29,Default,,0,0,0,,to refer to someone who was turned into a demon.{one turned demon}
+Dialogue: 10,0:05:08.29,0:05:10.37,Default,,0,0,0,,And you’re trying to save him.
+Dialogue: 10,0:05:12.04,0:05:15.71,Default,,0,0,0,,Allow me to lend you a hand.{Allow me, then, to lend you a hand.}
+Dialogue: 10,0:05:16.24,0:05:17.84,Default,,0,0,0,,But why?
+Dialogue: 10,0:05:17.84,0:05:19.04,Default,,0,0,0,,You...
+Dialogue: 10,0:05:19.04,0:05:20.42,Default,,0,0,0,,Your scent tells me...
+Dialogue: 10,0:05:21.42,0:05:22.63,Default,,0,0,0,,That’s right.
+Dialogue: 10,0:05:22.63,0:05:23.92,Default,,0,0,0,,I am...
+Dialogue: 10,0:05:26.68,0:05:28.68,Default,,0,0,0,,...a demon, but I am also a doctor.{,}
+Dialogue: 10,0:05:29.56,0:05:34.48,Default,,0,0,0,,{and I wish to annihilate that man, Kibutsuji.}And I wish to obliterate Kibutsuji.
+Dialogue: 10,0:05:38.44,0:05:40.48,Default,,0,0,0,,Aren’t you coming, Daddy?
+Dialogue: 10,0:05:40.74,0:05:42.71,Default,,0,0,0,,Daddy has work.
+Dialogue: 10,0:05:42.71,0:05:45.17,Default,,0,0,0,,I have a business meeting to attend.
+Dialogue: 10,0:05:45.17,0:05:47.99,Default,,0,0,0,,I’m still concerned about that disturbance just now.
+Dialogue: 10,0:05:48.25,0:05:49.67,Default,,0,0,0,,Dear...
+Dialogue: 10,0:05:49.67,0:05:50.97,Default,,0,0,0,,It’s all right.{Don’t worry.}
+Dialogue: 10,0:05:50.97,0:05:53.62,Default,,0,0,0,,I’m only going to speak with the police.
+Dialogue: 10,0:05:53.62,0:05:55.42,Default,,0,0,0,,Now, get in.
+Dialogue: 10,0:05:58.96,0:06:01.73,Default,,0,0,0,,Daddy, come home soon, okay?
+Dialogue: 10,0:06:01.73,0:06:04.48,Default,,0,0,0,,All right. You be a good girl now.
+Dialogue: 10,0:06:04.48,0:06:06.55,Default,,0,0,0,,Take them back to the house.
+Dialogue: 10,0:06:06.55,0:06:07.63,Default,,0,0,0,,Go on.
+Dialogue: 10,0:06:20.86,0:06:23.44,Default,,0,0,0,,C’mon, Bro, let’s hit another bar!{Big Bro, let’s hit one more bar!}
+Dialogue: 10,0:06:23.44,0:06:25.94,Default,,0,0,0,,You good, Yacchan?{Yacchan, are you okay?}
+Dialogue: 10,0:06:25.94,0:06:27.84,Default,,0,0,0,,Never been better!{I’m fine! I’m fine!}
+Dialogue: 10,0:06:27.84,0:06:30.59,Default,,0,0,0,,I’m not even drunk yet—
+Dialogue: 10,0:06:30.59,0:06:32.37,Default,,0,0,0,,Yo, what the hell, man?{What the hell, you bastard?}
+Dialogue: 10,0:06:35.78,0:06:37.20,Default,,0,0,0,,My apologies.{Forgive me.}
+Dialogue: 10,0:06:41.79,0:06:42.88,Default,,0,0,0,,Wait, hold up!{Hey, come back here!}
+Dialogue: 10,0:06:43.83,0:06:46.71,Default,,0,0,0,,I’m in a bit of a hurry, so if you’ll excuse me...{I’m very sorry, but I happen to be in a hurry, so...}
+Dialogue: 10,0:06:46.71,0:06:49.28,Default,,0,0,0,,Whazzat? Come again?{What did you say?}
+Dialogue: 10,0:06:49.28,0:06:53.40,Default,,0,0,0,,Those’re some {\i1}fancy{\i0} threads you got there.{Hey, look at you, decked out in those posh-looking threads!} {Is the threads thing on purpose? Cause he does talk about his clothes literally, not any threads of it.}
+Dialogue: 10,0:06:53.40,0:06:54.97,Default,,0,0,0,,It pisses me off!{You piss me off!}
+Dialogue: 10,0:06:55.38,0:06:58.14,Default,,0,0,0,,And you’re as pale as a ghost.{You and your pale face...}
+Dialogue: 10,0:06:58.14,0:07:00.48,Default,,0,0,0,,It looks like you’ll drop dead at any second!{You look like you’re about to fall over dead!}
+Dialogue: 10,0:07:04.31,0:07:07.48,Default,,0,0,0,,What’s the matter? Cat got your tongue?{Hey, say something, will you? Or did you just croak?}
+Dialogue: 10,0:07:13.19,0:07:14.49,Default,,0,0,0,,Yacchan!
+Dialogue: 10,0:07:14.49,0:07:16.33,Default,,0,0,0,,What’re you doin’ to my little brother?!{What did you do to my kid brother?}
+Dialogue: 10,0:07:16.75,0:07:18.01,Default,,0,0,0,,Dear!{*}{?}
+Dialogue: 10,0:07:18.01,0:07:19.08,Default,,0,0,0,,He’s dead!
+Dialogue: 10,0:07:19.08,0:07:21.46,Default,,0,0,0,,Yacchan’s not breathing!
+Dialogue: 10,0:07:23.25,0:07:24.25,Default,,0,0,0,,You son of a—{bastard!}
+Dialogue: 10,0:07:43.77,0:07:47.27,Default,,0,0,0,,Does my complexion look unhealthy to you?
+Dialogue: 10,0:07:49.15,0:07:51.94,Default,,0,0,0,,Is my face pale?
+Dialogue: 10,0:07:53.86,0:07:55.70,Default,,0,0,0,,Do I look sickly to you?
+Dialogue: 10,0:07:56.99,0:07:59.87,Default,,0,0,0,,Does it seem like I don’t have long to live?{Do I look like I’m not long for this world?}
+Dialogue: 10,0:08:00.45,0:08:02.66,Default,,0,0,0,,Do I look like I’m dying?{about to die?}
+Dialogue: 10,0:08:05.20,0:08:07.96,Default,,0,0,0,,Oh no, no, no, no.{Wrong, wrong, wrong, wrong.}
+Dialogue: 10,0:08:08.79,0:08:13.25,Default,,0,0,0,,I’m a living being who’s infinitely close to perfection.{私は限りなく完璧に近い生物だ。}{TLC}{*}{not quite sure what to say, it’s a pretty literate rendering of the line from what I can tell. Reads well as well.}
+Dialogue: 10,0:08:24.57,0:08:29.19,Default,,0,0,0,,What do you think will happen\N if I keep flooding you with my blood?
+Dialogue: 10,0:08:37.16,0:08:41.37,Default,,0,0,0,,The human body cannot{is unable to} withstand \Nthe speed of transformation.
+Dialogue: 10,0:08:45.71,0:08:48.38,Default,,0,0,0,,Your cells will rupture.{And its cells are destroyed.}
+Dialogue: 10,0:09:08.11,0:09:14.11,Default,,0,0,0,,Bring me the head of the demon hunter\N{different from demon slayer. "鬼狩り"} with the hanafuda earrings.{Bring me the head of the Demon Slayer who wears hanafuda-like earrings.}{I’m with you on demon hunter, he’s saying that in part because I think the demon slayer term refers specifically to that thing tanjirou is part of now and that may even be a term that demons don’t use. He does say Hanafuda-like earrings.But that does sound weird, Hanafuda looking, hanafuda resembling is slightly better. That being said, dropping the like is fine for all I care even if they’re not really hanafuda cards. Also, hanafuda cards doens’t work because hanafuda means flower cards already. So flower cards cards is what that amounts to}
+Dialogue: 10,0:09:15.32,0:09:16.86,Default,,0,0,0,,Understood?
+Dialogue: 10,0:09:16.86,0:09:18.12,Default,,0,0,0,,As you wish.
+Dialogue: 10,0:09:18.12,0:09:19.86,Default,,0,0,0,,Your wish is our command.
+Dialogue: 10,0:09:30.50,0:09:33.05,Default,,0,0,0,,Those earrings...
+Dialogue: 10,0:09:46.32,0:09:48.98,Default,,0,0,0,,All right, listen!{Now, listen to me! Here’s the deal...}
 Dialogue: 0,0:09:38.05,0:09:46.06,Title Card Sign,,0,0,0,,{\pos(1539.61,877.22)\fscx100.46\fscy100.46\fnBrushStroke 35\fs48\b0\c&H090415&\blur0.56}Demon Slayer
 Comment: 0,0:09:42.06,0:09:42.06,Default,,0,0,0,,---------------------------------------------- [ PART B ] ----------------------------------------------
-Dialogue: 69,0:09:49.40,0:09:53.42,Default,,0,0,0,,I’m saying it’s not about the money!{My point is this, okay? It’s not about the money!}
-Comment: 69,0:09:49.40,0:09:51.15,Default,,0,0,0,,My point is this, okay?
-Comment: 69,0:09:51.40,0:09:53.20,Default,,0,0,0,,It’s not about the money!
-Dialogue: 69,0:09:53.42,0:09:58.49,Default,,0,0,0,,What I can’t forgive is \Nyou not eating my udon, all right?{What I can’t forgive is your lack of intent to eat my udon, all right?}
-Dialogue: 69,0:09:58.49,0:10:01.50,Default,,0,0,0,,Sorry, please serve me another bowl!{I’m so sorry! Please serve me another bowl!}
-Dialogue: 69,0:10:01.50,0:10:02.49,Default,,0,0,0,,{So, y}You’re gonna eat it?
-Dialogue: 69,0:10:02.49,0:10:03.37,Default,,0,0,0,,Yes!
-Dialogue: 69,0:10:03.73,0:10:04.91,Default,,0,0,0,,Every last drop?{You’re definitely gonna eat it?}
-Dialogue: 69,0:10:04.91,0:10:06.37,Default,,0,0,0,,All of it!{Yes, I shall!}{a little liberal but w/e}{works, not even thaaat literal}
-Dialogue: 69,0:10:06.37,0:10:07.37,Default,,0,0,0,,Good!{Okay!}
-Dialogue: 69,0:10:07.37,0:10:08.80,Default,,0,0,0,,You, too!
-Dialogue: 69,0:10:08.80,0:10:11.58,Default,,0,0,0,,If you’re gonna have udon, \Ntake off that bamboo thingie first!
-Dialogue: 69,0:10:11.58,0:10:13.13,Default,,0,0,0,,What’s it even {\i1}for{\i0}?{What is that thing anyway?}
-Dialogue: 69,0:10:13.45,0:10:15.26,Default,,0,0,0,,Take these chopsticks and chow down, all right?!{Take these chopsticks! Chopsticks!}
-Dialogue: 69,0:10:17.26,0:10:19.02,Default,,0,0,0,,I’ll take her bowl!{I’d like a bowl of udon!}
-Dialogue: 69,0:10:19.02,0:10:20.72,Default,,0,0,0,,I’ll have two, please!{I’d like two bowls of udon!}
-Dialogue: 69,0:10:20.72,0:10:22.43,Default,,0,0,0,,R-Right.
-Dialogue: 69,0:10:36.95,0:10:38.37,Default,,0,0,0,,Thanks for the meal!{Thank you very much for the meal!}
-Dialogue: 69,0:10:38.91,0:10:40.53,Default,,0,0,0,,That was delicious!
-Dialogue: 69,0:10:40.53,0:10:43.53,Default,,0,0,0,,As long as you get it, it’s all good!{very liberal but it works well}
-Dialogue: 69,0:10:43.53,0:10:44.74,Default,,0,0,0,,Come again!{Thanks for your business!}
-Dialogue: 69,0:10:46.54,0:10:50.08,Default,,0,0,0,,Sorry for leaving you behind like that, Nezuko.{Sorry about that, Nezuko. Leaving you behind like that...}
-Comment: 69,0:10:46.78,0:10:48.03,Default,,0,0,0,,Sorry about that, Nezuko.
-Comment: 69,0:10:48.45,0:10:50.08,Default,,0,0,0,,Leaving you behind like that...
-Dialogue: 69,0:10:51.38,0:10:53.91,Default,,0,0,0,,What’s wrong, Nezuko?
-Dialogue: 69,0:11:01.39,0:11:03.64,Default,,0,0,0,,Were you waiting for us?{So, you’ve been waiting for us?}
-Dialogue: 69,0:11:03.64,0:11:08.14,Default,,0,0,0,,I was instructed to bring you along by my lady.{Because I was told to bring you to see her.}{This is actually "I was told to bring you along/take you with me/escort you by her"(her being a very respectful way of phrasing it, so more like by that lady/my lady)}
-Dialogue: 69,0:11:08.14,0:11:10.61,Default,,0,0,0,,I could’ve just tracked you by scent.
-Dialogue: 69,0:11:10.61,0:11:14.02,Default,,0,0,0,,She’s in a place that’s under a cloaking spell.
-Dialogue: 69,0:11:14.02,0:11:15.57,Default,,0,0,0,,No way could you find it.
-Dialogue: 69,0:11:15.57,0:11:17.44,Default,,0,0,0,,Cloaking?
-Dialogue: 69,0:11:17.98,0:11:19.48,Default,,0,0,0,,Anyway...
-Dialogue: 69,0:11:21.03,0:11:23.58,Default,,0,0,0,,Isn’t {\i1}she{\i0}{that woman} a demon?
-Dialogue: 69,0:11:23.58,0:11:25.45,Default,,0,0,0,,And an eyesore to boot.{*}
-Dialogue: 69,0:11:27.78,0:11:28.78,Default,,0,0,0,,{\i1}Eyesore?
-Dialogue: 69,0:11:29.41,0:11:30.33,Default,,0,0,0,,{\i1}Eyesore?
-Dialogue: 69,0:11:31.08,0:11:33.15,Default,,0,0,0,,{\i1}Does he mean “ugly”?
-Dialogue: 69,0:11:33.15,0:11:34.46,Default,,0,0,0,,{\i1}Who?
-Dialogue: 69,0:11:37.75,0:11:38.96,Default,,0,0,0,,{\i1}Nezuko?
-Dialogue: 69,0:11:39.47,0:11:41.47,Default,,0,0,0,,Who in their right mind would call her an eyesore?
-Dialogue: 69,0:11:41.47,0:11:43.84,Default,,0,0,0,,Just take a good look at those features!
-Dialogue: 69,0:11:43.84,0:11:47.68,Default,,0,0,0,,Nezuko was known as the town beauty!{She was the beauty of our hometown! Our Nezuko!}
-Dialogue: 69,0:11:50.18,0:11:51.31,Default,,0,0,0,,Let’s go.
-Dialogue: 69,0:11:51.31,0:11:52.93,Default,,0,0,0,,Yeah, let’s go.{Sure, we’ll go, but still...}
-Dialogue: 69,0:11:52.93,0:11:55.02,Default,,0,0,0,,But no way is she an eyesore! Not on your life!
-Dialogue: 69,0:11:55.73,0:11:58.57,Default,,0,0,0,,Look at her where the lighting’s a little better!{Take a look at her where there’s a bit more light!}
-Dialogue: 69,0:11:58.57,0:12:01.36,Default,,0,0,0,,Like over there! C’mon, let’s go!{Come on, let’s go over there!}
-Dialogue: 69,0:12:06.70,0:12:10.04,Default,,0,0,0,,Oh, I know what it is! It’s the muzzle, right?
-Dialogue: 69,0:12:10.04,0:12:12.26,Default,,0,0,0,,Yeah, that’s probably it!{It might be because of this muzzle!}
-Dialogue: 69,0:12:12.26,0:12:16.26,Default,,0,0,0,,Take another {\i1}good{\i0} look at her after I take it off!{I’d like you to behold Nezuko without the muzzle!}{I like a little more bombasm on this line. Maybe something as little as turning it into "take another good look at her" does the job already}
-Dialogue: 69,0:12:19.05,0:12:20.27,Default,,0,0,0,,Hurry it up.
-Dialogue: 69,0:12:20.27,0:12:21.76,Default,,0,0,0,,Before someone comes.{While no one’s around.}
-Dialogue: 69,0:12:33.02,0:12:35.66,Default,,0,0,0,,There’s a house behind the dead end!
-Dialogue: 69,0:12:35.66,0:12:37.15,Default,,0,0,0,,Get over here!
-Dialogue: 69,0:12:37.15,0:12:41.23,Default,,0,0,0,,Listen. Make sure you don’t offend my lady{that person} in any way.{I think it may make sense to change the way he refers to Tamayo into my lady.}
-Dialogue: 69,0:12:41.23,0:12:43.86,Default,,0,0,0,,Personally, I couldn’t care less what happens to you.
-Dialogue: 69,0:12:43.86,0:12:46.94,Default,,0,0,0,,I just brought you here because she insisted!{But I brought you here because she insisted!}
-Dialogue: 69,0:12:46.94,0:12:48.66,Default,,0,0,0,,R-Right.
-Dialogue: 69,0:12:51.12,0:12:52.41,Default,,0,0,0,,Come in.
-Dialogue: 69,0:12:53.20,0:12:54.79,Default,,0,0,0,,I have returned.
-Dialogue: 69,0:12:55.49,0:12:56.79,Default,,0,0,0,,Welcome back.
-Dialogue: 69,0:12:58.58,0:13:01.64,Default,,0,0,0,,Sorry about leaving them to you.{I’m sorry that I left you to take care of things just now.}
-Dialogue: 69,0:13:01.64,0:13:02.84,Default,,0,0,0,,How’s the lady?
-Dialogue: 69,0:13:03.46,0:13:05.55,Default,,0,0,0,,She’ll be just fine.
-Dialogue: 69,0:13:06.55,0:13:10.81,Default,,0,0,0,,Unfortunately, I have to keep her husband \Nrestrained in an underground cell. {more like dungeon}
-Dialogue: 69,0:13:14.98,0:13:19.06,Default,,0,0,0,,Isn’t it hard for you to treat people’s wounds?{Isn’t treating human wounds unbearable for you?}
-Dialogue: 69,0:13:21.41,0:13:28.53,Default,,0,0,0,,Are you suggesting that the smell of blood \Nas we treat humans makes us drool?{You think demons treat humans while choking back their own drool at the smell of blood?}
-Dialogue: 69,0:13:30.03,0:13:30.91,Default,,0,0,0,,Sorry.
-Dialogue: 69,0:13:32.20,0:13:35.49,Default,,0,0,0,,Stop it. Why would you resort to violence?
-Dialogue: 69,0:13:38.20,0:13:40.43,Default,,0,0,0,,I never introduced myself, did I?
-Dialogue: 69,0:13:40.43,0:13:42.93,Default,,0,0,0,,My name is Tamayo.
-Dialogue: 69,0:13:42.93,0:13:44.81,Default,,0,0,0,,That boy is Yushirou.
-Dialogue: 69,0:13:44.81,0:13:46.93,Default,,0,0,0,,Please try to get along.{I hope that you’ll be his friend.}
-Dialogue: 69,0:13:52.26,0:13:54.25,Default,,0,0,0,,{\i1}I don’t think that’s gonna happen.
-Dialogue: 69,0:13:54.25,0:13:55.93,Default,,0,0,0,,It’s not hard{unbearable | consistency}, you know.{the you know is awkward, she talks too politely to use it. Aniplex has a tendency to turn desuyo into you know. Ending with actually might work much better.}
-Dialogue: 69,0:13:57.31,0:14:00.68,Default,,0,0,0,,I believe it’s much easier for me than for normal demons.
-Dialogue: 69,0:14:01.48,0:14:05.69,Default,,0,0,0,,{Because }I’ve altered{tweaked} my body considerably.
-Dialogue: 69,0:14:06.19,0:14:08.90,Default,,0,0,0,,I’ve also removed Kibutsuji’s curse.
-Dialogue: 69,0:14:10.28,0:14:13.91,Default,,0,0,0,,Curse? A-Altered{T-Tweaked} your body?
-Dialogue: 69,0:14:21.91,0:14:22.96,Default,,0,0,0,,Come this way.
-Dialogue: 69,0:14:26.88,0:14:29.89,Default,,0,0,0,,Nezuko! Where are your manners?{Hey, Nezuko, that’s bad manners!}
-Dialogue: 69,0:14:31.01,0:14:32.52,Default,,0,0,0,,That’s quite all right.
-Dialogue: 69,0:14:32.52,0:14:34.35,Default,,0,0,0,,Please make yourselves at home.
-Dialogue: 69,0:14:34.93,0:14:36.35,Default,,0,0,0,,Sorry.
-Dialogue: 69,0:14:36.93,0:14:40.13,Default,,0,0,0,,Now then, allow me to continue.
-Dialogue: 69,0:14:40.13,0:14:44.82,Default,,0,0,0,,I adjusted our bodies so that we no longer \Nneed to feed upon humans to survive.{can live without devouring humans.}
-Dialogue: 69,0:14:44.82,0:14:48.03,Default,,0,0,0,,A small amount of human blood is all we need.
-Dialogue: 69,0:14:48.29,0:14:49.49,Default,,0,0,0,,Blood?
-Dialogue: 69,0:14:50.08,0:14:51.28,Default,,0,0,0,,You mean...
-Dialogue: 69,0:14:51.28,0:14:56.92,Default,,0,0,0,,You may find it distasteful, \Nbut what I do is buy blood
-Dialogue: 69,0:14:56.92,0:14:59.74,Default,,0,0,0,,from people unable to make ends meet, \Ntelling them it’s for transfusions.{under the guise of transfusions from those unable to make ends meet.}
-Dialogue: 69,0:14:59.74,0:15:03.75,Default,,0,0,0,,Of course, we never take so much that it harms them.{Of course, no more than would impair them.}
-Dialogue: 69,0:15:04.25,0:15:06.12,Default,,0,0,0,,{\i1}I see.
-Dialogue: 69,0:15:06.12,0:15:10.92,Default,,0,0,0,,{\i1}So that’s why they don’t have \Nthe distinct smell of demons.{So, that’s why I’m not picking up that strange scent unique to demons from these two.}{The word he says to refer to the smell does seems to carry a negative connotation but I think it still works like this}
-Dialogue: 69,0:15:10.92,0:15:13.76,Default,,0,0,0,,{\i1}But they {\i0}do{\i1} need human blood after all.
-Dialogue: 69,0:15:14.59,0:15:17.27,Default,,0,0,0,,{\i1}If blood is all they need, then Nezuko...
-Dialogue: 69,0:15:17.85,0:15:21.40,Default,,0,0,0,,Yushiro can get by with even less blood.
-Dialogue: 69,0:15:21.40,0:15:24.02,Default,,0,0,0,,I’m the one who turned him into a demon.
-Dialogue: 69,0:15:25.06,0:15:26.65,Default,,0,0,0,,You did that?
-Dialogue: 69,0:15:26.65,0:15:27.65,Default,,0,0,0,,But...
-Dialogue: 69,0:15:29.36,0:15:30.73,Default,,0,0,0,,You’re right.
-Dialogue: 69,0:15:31.29,0:15:35.99,Default,,0,0,0,,It is said that no one but Kibutsuji \Nholds the power to produce demons.{It’s generally held that no one but Kibutsuji can reproduce demons.}
-Dialogue: 69,0:15:35.99,0:15:38.08,Default,,0,0,0,,That’s basically correct.{That’s more or less accurate.}
-Dialogue: 69,0:15:39.13,0:15:41.21,Default,,0,0,0,,After more than 200 years,
-Dialogue: 69,0:15:41.21,0:15:45.00,Default,,0,0,0,,Yushiro is still the only one \NI was able to transform into a demon.{I was only able to transform Yushiro into a demon after all.}
-Dialogue: 69,0:15:47.46,0:15:48.30,Default,,0,0,0,,Two...
-Dialogue: 69,0:15:50.17,0:15:52.05,Default,,0,0,0,,Two hundred years...
-Dialogue: 69,0:15:52.05,0:15:57.36,Default,,0,0,0,,After more than 200 years, \NYushiro’s the only one you were able to transform?{You were only able to transform Yushiro after more than 200 years?}
-Dialogue: 69,0:15:57.36,0:15:59.18,Default,,0,0,0,,Just how old are you exactly, Miss Tamayo?{Exactly how old are you, Miss Tamayo?}
-Dialogue: 69,0:16:00.39,0:16:04.31,Default,,0,0,0,,Don’t ask a lady her age, you ill-mannered scoundrel!
-Dialogue: 69,0:16:04.31,0:16:05.57,Default,,0,0,0,,Yushiro!
-Dialogue: 69,0:16:05.57,0:16:08.32,Default,,0,0,0,,The next time you hit that boy, I’ll make you regret it!
-Dialogue: 69,0:16:09.15,0:16:10.32,Default,,0,0,0,,Yes, ma’am!
-Dialogue: 69,0:16:11.27,0:16:13.82,Default,,0,0,0,,{\i1}She’s beautiful even when she’s angry!
-Dialogue: 69,0:16:15.28,0:16:18.74,Default,,0,0,0,,There’s one thing I’d like to clear up with you.
-Dialogue: 69,0:16:19.45,0:16:22.41,Default,,0,0,0,,I’m not trying to create more demons.
-Dialogue: 69,0:16:22.91,0:16:25.55,Default,,0,0,0,,I only perform the procedure on the terminally ill
-Dialogue: 69,0:16:25.55,0:16:29.67,Default,,0,0,0,,or those so gravely injured that they don’t have long to live.
-Dialogue: 69,0:16:30.39,0:16:32.78,Default,,0,0,0,,And in those cases,
-Dialogue: 69,0:16:32.78,0:16:37.18,Default,,0,0,0,,I always ask them beforehand\N if they wish to live on even as demons.
-Dialogue: 69,0:16:42.11,0:16:45.68,Default,,0,0,0,,{\i1}The scent she’s giving off \Nis pure and devoid of deception.
-Dialogue: 69,0:16:46.23,0:16:48.19,Default,,0,0,0,,{\i1}She’s someone I can trust.
-Dialogue: 69,0:16:49.49,0:16:50.86,Default,,0,0,0,,Miss Tamayo,
-Dialogue: 69,0:16:52.06,0:16:56.44,Default,,0,0,0,,once people have become demons, \Nis there a way to make them human again?{is there a way to return a transformed demon back to human form?}
-Dialogue: 69,0:17:13.59,0:17:15.09,Default,,0,0,0,,See anything?
-Dialogue: 69,0:17:16.46,0:17:17.51,Default,,0,0,0,,I can see.
-Dialogue: 69,0:17:18.05,0:17:20.60,Default,,0,0,0,,I can see footprints.
-Dialogue: 69,0:17:20.60,0:17:22.86,Default,,0,0,0,,This is it. This is it.
-Dialogue: 69,0:17:26.40,0:17:29.07,Default,,0,0,0,,Making a huge turn over there.
-Dialogue: 69,0:17:32.66,0:17:35.13,Default,,0,0,0,,There are three of them.
-Dialogue: 69,0:17:35.13,0:17:37.95,Default,,0,0,0,,And one’s carrying some kind of big box.
-Dialogue: 69,0:17:40.79,0:17:43.42,Default,,0,0,0,,How should we kill them, I wonder.
-Dialogue: 69,0:17:45.24,0:17:47.37,Default,,0,0,0,,I’m overflowing with power.{I can feel the flow of power.}{It’s closer to like overflowing or bursting}
-Dialogue: 69,0:17:47.63,0:17:51.30,Default,,0,0,0,,Thanks to{Because of} all the blood he shared with me.
-Dialogue: 69,0:17:52.51,0:17:56.34,Default,,0,0,0,,Of course we’re going to slay them brutally.
-Dialogue: 69,0:17:57.56,0:18:00.22,Default,,0,0,0,,A way to turn a demon back into a human...{There is a way to turn a demon...}{I’m a strong proponent of bringing things in line with the visual pacing if possible. She says it exists in the next line. Why not turn the thing around? "A way to turn a demon back into a human..." and then the next line "It does exist."}
-Dialogue: 69,0:18:01.05,0:18:02.06,Default,,0,0,0,,It does exist.
-Dialogue: 69,0:18:02.97,0:18:03.85,Default,,0,0,0,,Please tell me how—
-Dialogue: 69,0:18:04.27,0:18:08.15,Default,,0,0,0,,Don’t you dare get so close to Lady Tamayo!
-Dialogue: 69,0:18:09.36,0:18:10.53,Default,,0,0,0,,Yushirou...
-Dialogue: 69,0:18:11.78,0:18:15.20,Default,,0,0,0,,{Yes, ma’am! }I only threw him, Lady Tamayo. I did not hit him.
-Dialogue: 69,0:18:15.20,0:18:16.66,Default,,0,0,0,,You mustn’t do either.
-Dialogue: 69,0:18:16.66,0:18:17.49,Default,,0,0,0,,Yes, ma’am!
-Dialogue: 69,0:18:17.98,0:18:19.99,Default,,0,0,0,,Ouch, ouch, ouch.
-Dialogue: 69,0:18:20.57,0:18:22.33,Default,,0,0,0,,Please tell me how.
-Dialogue: 69,0:18:23.32,0:18:29.01,Default,,0,0,0,,For any kind of wound, \Nthere’s always some kind of medicine or treatment.
-Dialogue: 69,0:18:29.01,0:18:32.79,Default,,0,0,0,,At this time, I’m unable to \Nturn a demon back into a human,
-Dialogue: 69,0:18:33.92,0:18:35.84,Default,,0,0,0,,but surely, one day...{that, too...}{idk wat to do about this lel, -  I’m with you. Unfinished sentences are hard. maybe "But surely, one day( it may).}
-Dialogue: 69,0:18:37.80,0:18:38.84,Default,,0,0,0,,Nevertheless{However},
-Dialogue: 69,0:18:39.42,0:18:44.34,Default,,0,0,0,,we are dedicated to establishing \Nsuch a method of treatment.
-Dialogue: 69,0:18:45.30,0:18:49.22,Default,,0,0,0,,Towards that end, I’d like to \Nask you to do something for me.
-Dialogue: 69,0:18:50.27,0:18:52.32,Default,,0,0,0,,To produce such an elixir,
-Dialogue: 69,0:18:52.32,0:18:55.44,Default,,0,0,0,,it is necessary to study the blood of numerous demons.
-Dialogue: 69,0:18:56.31,0:18:59.24,Default,,0,0,0,,I have two favors to ask of you.
-Dialogue: 69,0:18:59.65,0:19:04.20,Default,,0,0,0,,One, permission to study your sister’s blood.
-Dialogue: 69,0:19:04.20,0:19:11.75,Default,,0,0,0,,{\q2}Two, to retrieve as many blood samples from demons \Nwith a high concentration of Kibutsuji’s blood as you can.{Two, to retrieve blood samples from demons as closely related to Kibutsuji as possible.}{closely related to?}{tlc}{So, she literally says have strong/dense blood of kibutsuji. However, the one part that’s not in the subs here is that she says "to the best of your ability" or as much as you can, seemingly prioritising his safety here. So like, maybe get that in somehow?}
-Dialogue: 69,0:19:12.51,0:19:17.05,Default,,0,0,0,,Nezuko’s current condition is extremely rare and unique.
-Dialogue: 69,0:19:17.64,0:19:20.53,Default,,0,0,0,,I understand that she was asleep for two straight years,
-Dialogue: 69,0:19:20.53,0:19:24.01,Default,,0,0,0,,and I believe that her body \Nunderwent changes during that time.
-Dialogue: 69,0:19:24.34,0:19:27.47,Default,,0,0,0,,Normally, any demon who went that long
-Dialogue: 69,0:19:27.47,0:19:31.37,Default,,0,0,0,,without consuming the \Nflesh or blood of a human or beast
-Dialogue: 69,0:19:31.37,0:19:34.36,Default,,0,0,0,,would unquestionably go berserk.
-Dialogue: 69,0:19:34.78,0:19:37.50,Default,,0,0,0,,{\i1}Lady Tamayo is beautiful today, too!
-Dialogue: 69,0:19:37.50,0:19:39.70,Default,,0,0,0,,{\i1}I’m sure she’ll be beautiful again tomorrow!
-Dialogue: 69,0:19:40.66,0:19:46.08,Default,,0,0,0,,And yet, surprisingly, Nezuko shows none of those signs.
-Dialogue: 69,0:19:46.53,0:19:49.87,Default,,0,0,0,,This miracle will be the key to finding a solution.
-Dialogue: 69,0:19:50.83,0:19:51.83,Default,,0,0,0,,{\i1}Nezuko...
-Dialogue: 69,0:19:58.46,0:20:01.92,Default,,0,0,0,,The second request will be a harsh one to fulfill.{The other request I have for you is a harsh one.}{I think she means her second request here, not another one. It will be a harsh one to fulfill.}
-Dialogue: 69,0:20:03.17,0:20:05.60,Default,,0,0,0,,A demon with a higher\N concentration of Kibutsuji’s blood{By "demons closely related to Kibutsuji,"}{*}{tlc}{I actually opted to change the wording between the two of them. I think it works pretty well when you read the entire thing.}
-Dialogue: 69,0:20:05.60,0:20:11.64,Default,,0,0,0,,{will thus have power much closer to that of}means a demon closer in strength to Kibutsuji himself.{I meant demons whose powers are more on par with that of Kibutsuji himself.}{Well, she doesn’t say that - This means, rather than I meant. I actually don’t like this line that much. More on par sounds off. I’m gonna rewrite both of these lines and put the original in comments}
-Dialogue: 69,0:20:12.22,0:20:15.60,Default,,0,0,0,,It won’t be easy to extract blood from such demons.
-Dialogue: 69,0:20:16.39,0:20:21.40,Default,,0,0,0,,Are you still willing to go along with my requests?
-Dialogue: 69,0:20:26.74,0:20:30.41,Default,,0,0,0,,If there’s no other way, then I’ll do it.
-Dialogue: 69,0:20:31.16,0:20:33.88,Default,,0,0,0,,If it means you’re going to \Nresearch all these demons’ blood
-Dialogue: 69,0:20:33.88,0:20:35.83,Default,,0,0,0,,and create this medicine...
-Dialogue: 69,0:20:37.04,0:20:39.54,Default,,0,0,0,,If that happens, that means it won’t just be Nezuko.
-Dialogue: 69,0:20:40.38,0:20:43.34,Default,,0,0,0,,Lots of other people will be saved, too, right?
-Dialogue: 69,0:20:46.76,0:20:48.43,Default,,0,0,0,,That’s right.
-Dialogue: 69,0:20:54.77,0:20:55.31,Default,,0,0,0,,Get down!
-Dialogue: 69,0:21:08.55,0:21:10.58,Default,,0,0,0,,Did you decide how to kill them?
-Dialogue: 69,0:21:10.58,0:21:12.87,Default,,0,0,0,,Brutally, of course!{I was thinking that before, but here it stands out even more. Vindictive doesn’t seem quite right here. It’s more cruelly, it’s focused on the cruel and brutal aspect. Probs needs to be changed everywhere.}
+Dialogue: 10,0:09:49.40,0:09:53.42,Default,,0,0,0,,I’m saying it’s not about the money!{My point is this, okay? It’s not about the money!}
+Comment: 10,0:09:49.40,0:09:51.15,Default,,0,0,0,,My point is this, okay?
+Comment: 10,0:09:51.40,0:09:53.20,Default,,0,0,0,,It’s not about the money!
+Dialogue: 10,0:09:53.42,0:09:58.49,Default,,0,0,0,,What I can’t forgive is \Nyou not eating my udon, all right?{What I can’t forgive is your lack of intent to eat my udon, all right?}
+Dialogue: 10,0:09:58.49,0:10:01.50,Default,,0,0,0,,Sorry, please serve me another bowl!{I’m so sorry! Please serve me another bowl!}
+Dialogue: 10,0:10:01.50,0:10:02.49,Default,,0,0,0,,{So, y}You’re gonna eat it?
+Dialogue: 10,0:10:02.49,0:10:03.37,Default,,0,0,0,,Yes!
+Dialogue: 10,0:10:03.73,0:10:04.91,Default,,0,0,0,,Every last drop?{You’re definitely gonna eat it?}
+Dialogue: 10,0:10:04.91,0:10:06.37,Default,,0,0,0,,All of it!{Yes, I shall!}{a little liberal but w/e}{works, not even thaaat literal}
+Dialogue: 10,0:10:06.37,0:10:07.37,Default,,0,0,0,,Good!{Okay!}
+Dialogue: 10,0:10:07.37,0:10:08.80,Default,,0,0,0,,You, too!
+Dialogue: 10,0:10:08.80,0:10:11.58,Default,,0,0,0,,If you’re gonna have udon, \Ntake off that bamboo thingy first!
+Dialogue: 10,0:10:11.58,0:10:13.13,Default,,0,0,0,,What’s it even {\i1}for{\i0}?{What is that thing anyway?}
+Dialogue: 10,0:10:13.45,0:10:15.26,Default,,0,0,0,,Take these chopsticks and chow down, all right?!{Take these chopsticks! Chopsticks!}
+Dialogue: 10,0:10:17.26,0:10:19.02,Default,,0,0,0,,I’ll take her bowl!{I’d like a bowl of udon!}
+Dialogue: 10,0:10:19.02,0:10:20.72,Default,,0,0,0,,I’ll have two, please!{I’d like two bowls of udon!}
+Dialogue: 10,0:10:20.72,0:10:22.43,Default,,0,0,0,,R-Right.
+Dialogue: 10,0:10:36.95,0:10:38.37,Default,,0,0,0,,Thanks for the meal!{Thank you very much for the meal!}
+Dialogue: 10,0:10:38.91,0:10:40.53,Default,,0,0,0,,That was delicious!
+Dialogue: 10,0:10:40.53,0:10:43.53,Default,,0,0,0,,As long as you get it, it’s all good!{very liberal but it works well}
+Dialogue: 10,0:10:43.53,0:10:44.74,Default,,0,0,0,,Come again!{Thanks for your business!}
+Dialogue: 10,0:10:46.54,0:10:50.08,Default,,0,0,0,,Sorry for leaving you behind like that, Nezuko.{Sorry about that, Nezuko. Leaving you behind like that...}
+Comment: 10,0:10:46.78,0:10:48.03,Default,,0,0,0,,Sorry about that, Nezuko.
+Comment: 10,0:10:48.45,0:10:50.08,Default,,0,0,0,,Leaving you behind like that...
+Dialogue: 10,0:10:51.38,0:10:53.91,Default,,0,0,0,,What’s wrong, Nezuko?
+Dialogue: 10,0:11:01.39,0:11:03.64,Default,,0,0,0,,Were you waiting for us?{So, you’ve been waiting for us?}
+Dialogue: 10,0:11:03.64,0:11:08.14,Default,,0,0,0,,I was instructed to bring you along by my lady.{Because I was told to bring you to see her.}{This is actually "I was told to bring you along/take you with me/escort you by her"(her being a very respectful way of phrasing it, so more like by that lady/my lady)}
+Dialogue: 10,0:11:08.14,0:11:10.61,Default,,0,0,0,,I could’ve just tracked you by scent.
+Dialogue: 10,0:11:10.61,0:11:14.02,Default,,0,0,0,,She’s in a place that’s under a cloaking spell.
+Dialogue: 10,0:11:14.02,0:11:15.57,Default,,0,0,0,,No way could you find it.
+Dialogue: 10,0:11:15.57,0:11:17.44,Default,,0,0,0,,Cloaking?
+Dialogue: 10,0:11:17.98,0:11:19.48,Default,,0,0,0,,Anyway...
+Dialogue: 10,0:11:21.03,0:11:23.58,Default,,0,0,0,,Isn’t {\i1}she{\i0}{that woman} a demon?
+Dialogue: 10,0:11:23.58,0:11:25.45,Default,,0,0,0,,And an eyesore to boot.{*}
+Dialogue: 10,0:11:27.78,0:11:28.78,Default,,0,0,0,,{\i1}Eyesore?
+Dialogue: 10,0:11:29.41,0:11:30.33,Default,,0,0,0,,{\i1}Eyesore?
+Dialogue: 10,0:11:31.08,0:11:33.15,Default,,0,0,0,,{\i1}Does he mean “ugly”?
+Dialogue: 10,0:11:33.15,0:11:34.46,Default,,0,0,0,,{\i1}Who?
+Dialogue: 10,0:11:37.75,0:11:38.96,Default,,0,0,0,,{\i1}Nezuko?
+Dialogue: 10,0:11:39.47,0:11:41.47,Default,,0,0,0,,Who in their right mind would call her an eyesore?
+Dialogue: 10,0:11:41.47,0:11:43.84,Default,,0,0,0,,Just take a good look at those features!
+Dialogue: 10,0:11:43.84,0:11:47.68,Default,,0,0,0,,Nezuko was known as the town beauty!{She was the beauty of our hometown! Our Nezuko!}
+Dialogue: 10,0:11:50.18,0:11:51.31,Default,,0,0,0,,Let’s go.
+Dialogue: 10,0:11:51.31,0:11:52.93,Default,,0,0,0,,Yeah, let’s go.{Sure, we’ll go, but still...}
+Dialogue: 10,0:11:52.93,0:11:55.02,Default,,0,0,0,,But no way is she an eyesore! Not on your life!
+Dialogue: 10,0:11:55.73,0:11:58.57,Default,,0,0,0,,Look at her where the lighting’s a little better!{Take a look at her where there’s a bit more light!}
+Dialogue: 10,0:11:58.57,0:12:01.36,Default,,0,0,0,,Like over there! C’mon, let’s go!{Come on, let’s go over there!}
+Dialogue: 10,0:12:06.70,0:12:10.04,Default,,0,0,0,,Oh, I know what it is! It’s the muzzle, right?
+Dialogue: 10,0:12:10.04,0:12:12.26,Default,,0,0,0,,Yeah, that’s probably it!{It might be because of this muzzle!}
+Dialogue: 10,0:12:12.26,0:12:16.26,Default,,0,0,0,,Take another {\i1}good{\i0} look at her after I take it off!{I’d like you to behold Nezuko without the muzzle!}{I like a little more bombasm on this line. Maybe something as little as turning it into "take another good look at her" does the job already}
+Dialogue: 10,0:12:19.05,0:12:20.27,Default,,0,0,0,,Hurry it up.
+Dialogue: 10,0:12:20.27,0:12:21.76,Default,,0,0,0,,Before someone comes.{While no one’s around.}
+Dialogue: 10,0:12:33.02,0:12:35.66,Default,,0,0,0,,There’s a house behind the dead end!
+Dialogue: 10,0:12:35.66,0:12:37.15,Default,,0,0,0,,Get over here!
+Dialogue: 10,0:12:37.15,0:12:41.23,Default,,0,0,0,,Listen. Make sure you don’t offend my lady{that person} in any way.{I think it may make sense to change the way he refers to Tamayo into my lady.}
+Dialogue: 10,0:12:41.23,0:12:43.86,Default,,0,0,0,,Personally, I couldn’t care less what happens to you.
+Dialogue: 10,0:12:43.86,0:12:46.94,Default,,0,0,0,,I just brought you here because she insisted!{But I brought you here because she insisted!}
+Dialogue: 10,0:12:46.94,0:12:48.66,Default,,0,0,0,,R-Right.
+Dialogue: 10,0:12:51.12,0:12:52.41,Default,,0,0,0,,Come in.
+Dialogue: 10,0:12:53.20,0:12:54.79,Default,,0,0,0,,I have returned.
+Dialogue: 10,0:12:55.49,0:12:56.79,Default,,0,0,0,,Welcome back.
+Dialogue: 10,0:12:58.58,0:13:01.64,Default,,0,0,0,,Sorry about leaving them to you.{I’m sorry that I left you to take care of things just now.}
+Dialogue: 10,0:13:01.64,0:13:02.84,Default,,0,0,0,,How’s the lady?
+Dialogue: 10,0:13:03.46,0:13:05.55,Default,,0,0,0,,She’ll be just fine.
+Dialogue: 10,0:13:06.55,0:13:10.81,Default,,0,0,0,,Unfortunately, I have to keep her husband \Nrestrained in an underground cell. {more like dungeon}
+Dialogue: 10,0:13:14.98,0:13:19.06,Default,,0,0,0,,Isn’t it hard for you to treat people’s wounds?{Isn’t treating human wounds unbearable for you?}
+Dialogue: 10,0:13:21.41,0:13:28.53,Default,,0,0,0,,Are you suggesting that the smell of blood \Nas we treat humans makes us drool?{You think demons treat humans while choking back their own drool at the smell of blood?}
+Dialogue: 10,0:13:30.03,0:13:30.91,Default,,0,0,0,,Sorry.
+Dialogue: 10,0:13:32.20,0:13:35.49,Default,,0,0,0,,Stop it. Why would you resort to violence?
+Dialogue: 10,0:13:38.20,0:13:40.43,Default,,0,0,0,,I never introduced myself, did I?
+Dialogue: 10,0:13:40.43,0:13:42.93,Default,,0,0,0,,My name is Tamayo.
+Dialogue: 10,0:13:42.93,0:13:44.81,Default,,0,0,0,,That boy is Yushirou.
+Dialogue: 10,0:13:44.81,0:13:46.93,Default,,0,0,0,,Please try to get along.{I hope that you’ll be his friend.}
+Dialogue: 10,0:13:52.26,0:13:54.25,Default,,0,0,0,,{\i1}I don’t think that’s gonna happen.
+Dialogue: 10,0:13:54.25,0:13:55.93,Default,,0,0,0,,It’s not hard{unbearable | consistency}, you know.{the you know is awkward, she talks too politely to use it. Aniplex has a tendency to turn desuyo into you know. Ending with actually might work much better.}
+Dialogue: 10,0:13:57.31,0:14:00.68,Default,,0,0,0,,I believe it’s much easier for me than for normal demons.
+Dialogue: 10,0:14:01.48,0:14:05.69,Default,,0,0,0,,{Because }I’ve altered{tweaked} my body considerably.
+Dialogue: 10,0:14:06.19,0:14:08.90,Default,,0,0,0,,I’ve also removed Kibutsuji’s curse.
+Dialogue: 10,0:14:10.28,0:14:13.91,Default,,0,0,0,,Curse? A-Altered{T-Tweaked} your body?
+Dialogue: 10,0:14:21.91,0:14:22.96,Default,,0,0,0,,Come this way.
+Dialogue: 10,0:14:26.88,0:14:29.89,Default,,0,0,0,,Nezuko! Where are your manners?{Hey, Nezuko, that’s bad manners!}
+Dialogue: 10,0:14:31.01,0:14:32.52,Default,,0,0,0,,That’s quite all right.
+Dialogue: 10,0:14:32.52,0:14:34.35,Default,,0,0,0,,Please make yourselves at home.
+Dialogue: 10,0:14:34.93,0:14:36.35,Default,,0,0,0,,Sorry.
+Dialogue: 10,0:14:36.93,0:14:40.13,Default,,0,0,0,,Now then, allow me to continue.
+Dialogue: 10,0:14:40.13,0:14:44.82,Default,,0,0,0,,I adjusted our bodies so that we no longer \Nneed to feed upon humans to survive.{can live without devouring humans.}
+Dialogue: 10,0:14:44.82,0:14:48.03,Default,,0,0,0,,A small amount of human blood is all we need.
+Dialogue: 10,0:14:48.29,0:14:49.49,Default,,0,0,0,,Blood?
+Dialogue: 10,0:14:50.08,0:14:51.28,Default,,0,0,0,,You mean...
+Dialogue: 10,0:14:51.28,0:14:56.92,Default,,0,0,0,,You may find it distasteful, \Nbut what I do is buy blood
+Dialogue: 10,0:14:56.92,0:14:59.74,Default,,0,0,0,,from people unable to make ends meet, \Ntelling them it’s for transfusions.{under the guise of transfusions from those unable to make ends meet.}
+Dialogue: 10,0:14:59.74,0:15:03.75,Default,,0,0,0,,Of course, we never take so much that it harms them.{Of course, no more than would impair them.}
+Dialogue: 10,0:15:04.25,0:15:06.12,Default,,0,0,0,,{\i1}I see.
+Dialogue: 10,0:15:06.12,0:15:10.92,Default,,0,0,0,,{\i1}So that’s why they don’t have \Nthe distinct smell of demons.{So, that’s why I’m not picking up that strange scent unique to demons from these two.}{The word he says to refer to the smell does seems to carry a negative connotation but I think it still works like this}
+Dialogue: 10,0:15:10.92,0:15:13.76,Default,,0,0,0,,{\i1}But they {\i0}do{\i1} need human blood after all.
+Dialogue: 10,0:15:14.59,0:15:17.27,Default,,0,0,0,,{\i1}If blood is all they need, then Nezuko...
+Dialogue: 10,0:15:17.85,0:15:21.40,Default,,0,0,0,,Yushiro can get by with even less blood.
+Dialogue: 10,0:15:21.40,0:15:24.02,Default,,0,0,0,,I’m the one who turned him into a demon.
+Dialogue: 10,0:15:25.06,0:15:26.65,Default,,0,0,0,,You did that?
+Dialogue: 10,0:15:26.65,0:15:27.65,Default,,0,0,0,,But...
+Dialogue: 10,0:15:29.36,0:15:30.73,Default,,0,0,0,,You’re right.
+Dialogue: 10,0:15:31.29,0:15:35.99,Default,,0,0,0,,It is said that no one but Kibutsuji \Nholds the power to produce demons.{It’s generally held that no one but Kibutsuji can reproduce demons.}
+Dialogue: 10,0:15:35.99,0:15:38.08,Default,,0,0,0,,That’s basically correct.{That’s more or less accurate.}
+Dialogue: 10,0:15:39.13,0:15:41.21,Default,,0,0,0,,After more than 200 years,
+Dialogue: 10,0:15:41.21,0:15:45.00,Default,,0,0,0,,Yushiro is still the only one \NI was able to transform into a demon.{I was only able to transform Yushiro into a demon after all.}
+Dialogue: 10,0:15:47.46,0:15:48.30,Default,,0,0,0,,Two...
+Dialogue: 10,0:15:50.17,0:15:52.05,Default,,0,0,0,,Two hundred years...
+Dialogue: 10,0:15:52.05,0:15:57.36,Default,,0,0,0,,After more than 200 years, \NYushiro’s the only one you were able to transform?{You were only able to transform Yushiro after more than 200 years?}
+Dialogue: 10,0:15:57.36,0:15:59.18,Default,,0,0,0,,Just how old are you exactly, Miss Tamayo?{Exactly how old are you, Miss Tamayo?}
+Dialogue: 10,0:16:00.39,0:16:04.31,Default,,0,0,0,,Don’t ask a lady her age, you ill-mannered scoundrel!
+Dialogue: 10,0:16:04.31,0:16:05.57,Default,,0,0,0,,Yushiro!
+Dialogue: 10,0:16:05.57,0:16:08.32,Default,,0,0,0,,The next time you hit that boy, I’ll make you regret it!
+Dialogue: 10,0:16:09.15,0:16:10.32,Default,,0,0,0,,Yes, ma’am!
+Dialogue: 10,0:16:11.27,0:16:13.82,Default,,0,0,0,,{\i1}She’s beautiful even when she’s angry!
+Dialogue: 10,0:16:15.28,0:16:18.74,Default,,0,0,0,,There’s one thing I’d like to clear up with you.
+Dialogue: 10,0:16:19.45,0:16:22.41,Default,,0,0,0,,I’m not trying to create more demons.
+Dialogue: 10,0:16:22.91,0:16:25.55,Default,,0,0,0,,I only perform the procedure on the terminally ill
+Dialogue: 10,0:16:25.55,0:16:29.67,Default,,0,0,0,,or those so gravely injured that they don’t have long to live.
+Dialogue: 10,0:16:30.39,0:16:32.78,Default,,0,0,0,,And in those cases,
+Dialogue: 10,0:16:32.78,0:16:37.18,Default,,0,0,0,,I always ask them beforehand\N if they wish to live on even as demons.
+Dialogue: 10,0:16:42.11,0:16:45.68,Default,,0,0,0,,{\i1}The scent she’s giving off \Nis pure and devoid of deception.
+Dialogue: 10,0:16:46.23,0:16:48.19,Default,,0,0,0,,{\i1}She’s someone I can trust.
+Dialogue: 10,0:16:49.49,0:16:50.86,Default,,0,0,0,,Miss Tamayo,
+Dialogue: 10,0:16:52.06,0:16:56.44,Default,,0,0,0,,once people have become demons, \Nis there a way to make them human again?{is there a way to return a transformed demon back to human form?}
+Dialogue: 10,0:17:13.59,0:17:15.09,Default,,0,0,0,,See anything?
+Dialogue: 10,0:17:16.46,0:17:17.51,Default,,0,0,0,,I can see.
+Dialogue: 10,0:17:18.05,0:17:20.60,Default,,0,0,0,,I can see footprints.
+Dialogue: 10,0:17:20.60,0:17:22.86,Default,,0,0,0,,This is it. This is it.
+Dialogue: 10,0:17:26.40,0:17:29.07,Default,,0,0,0,,Making a huge turn over there.
+Dialogue: 10,0:17:32.66,0:17:35.13,Default,,0,0,0,,There are three of them.
+Dialogue: 10,0:17:35.13,0:17:37.95,Default,,0,0,0,,And one’s carrying some kind of big box.
+Dialogue: 10,0:17:40.79,0:17:43.42,Default,,0,0,0,,How should we kill them, I wonder.
+Dialogue: 10,0:17:45.24,0:17:47.37,Default,,0,0,0,,I’m overflowing with power.{I can feel the flow of power.}{It’s closer to like overflowing or bursting}
+Dialogue: 10,0:17:47.63,0:17:51.30,Default,,0,0,0,,Thanks to{Because of} all the blood he shared with me.
+Dialogue: 10,0:17:52.51,0:17:56.34,Default,,0,0,0,,Of course we’re going to slay them brutally.
+Dialogue: 10,0:17:57.56,0:18:00.22,Default,,0,0,0,,A way to turn a demon back into a human...{There is a way to turn a demon...}{I’m a strong proponent of bringing things in line with the visual pacing if possible. She says it exists in the next line. Why not turn the thing around? "A way to turn a demon back into a human..." and then the next line "It does exist."}
+Dialogue: 10,0:18:01.05,0:18:02.06,Default,,0,0,0,,It does exist.
+Dialogue: 10,0:18:02.97,0:18:03.85,Default,,0,0,0,,Please tell me how—
+Dialogue: 10,0:18:04.27,0:18:08.15,Default,,0,0,0,,Don’t you dare get so close to Lady Tamayo!
+Dialogue: 10,0:18:09.36,0:18:10.53,Default,,0,0,0,,Yushirou...
+Dialogue: 10,0:18:11.78,0:18:15.20,Default,,0,0,0,,{Yes, ma’am! }I only threw him, Lady Tamayo. I did not hit him.
+Dialogue: 10,0:18:15.20,0:18:16.66,Default,,0,0,0,,You mustn’t do either.
+Dialogue: 10,0:18:16.66,0:18:17.49,Default,,0,0,0,,Yes, ma’am!
+Dialogue: 10,0:18:17.98,0:18:19.99,Default,,0,0,0,,Ouch, ouch, ouch.
+Dialogue: 10,0:18:20.57,0:18:22.33,Default,,0,0,0,,Please tell me how.
+Dialogue: 10,0:18:23.32,0:18:29.01,Default,,0,0,0,,For any kind of wound, \Nthere’s always some kind of medicine or treatment.
+Dialogue: 10,0:18:29.01,0:18:32.79,Default,,0,0,0,,At this time, I’m unable to \Nturn a demon back into a human,
+Dialogue: 10,0:18:33.92,0:18:35.84,Default,,0,0,0,,but surely, one day...{that, too...}{idk wat to do about this lel, -  I’m with you. Unfinished sentences are hard. maybe "But surely, one day( it may).}
+Dialogue: 10,0:18:37.80,0:18:38.84,Default,,0,0,0,,Nevertheless{However},
+Dialogue: 10,0:18:39.42,0:18:44.34,Default,,0,0,0,,we are dedicated to establishing \Nsuch a method of treatment.
+Dialogue: 10,0:18:45.30,0:18:49.22,Default,,0,0,0,,Towards that end, I’d like to \Nask you to do something for me.
+Dialogue: 10,0:18:50.27,0:18:52.32,Default,,0,0,0,,To produce such an elixir,
+Dialogue: 10,0:18:52.32,0:18:55.44,Default,,0,0,0,,it is necessary to study the blood of numerous demons.
+Dialogue: 10,0:18:56.31,0:18:59.24,Default,,0,0,0,,I have two favors to ask of you.
+Dialogue: 10,0:18:59.65,0:19:04.20,Default,,0,0,0,,One, permission to study your sister’s blood.
+Dialogue: 10,0:19:04.20,0:19:11.75,Default,,0,0,0,,{\q2}Two, to retrieve as many blood samples from demons \Nwith a high concentration of Kibutsuji’s blood as you can.{Two, to retrieve blood samples from demons as closely related to Kibutsuji as possible.}{closely related to?}{tlc}{So, she literally says have strong/dense blood of kibutsuji. However, the one part that’s not in the subs here is that she says "to the best of your ability" or as much as you can, seemingly prioritising his safety here. So like, maybe get that in somehow?}
+Dialogue: 10,0:19:12.51,0:19:17.05,Default,,0,0,0,,Nezuko’s current condition is extremely rare and unique.
+Dialogue: 10,0:19:17.64,0:19:20.53,Default,,0,0,0,,I understand that she was asleep for two straight years,
+Dialogue: 10,0:19:20.53,0:19:24.01,Default,,0,0,0,,and I believe that her body \Nunderwent changes during that time.
+Dialogue: 10,0:19:24.34,0:19:27.47,Default,,0,0,0,,Normally, any demon who went that long
+Dialogue: 10,0:19:27.47,0:19:31.37,Default,,0,0,0,,without consuming the \Nflesh or blood of a human or beast
+Dialogue: 10,0:19:31.37,0:19:34.36,Default,,0,0,0,,would unquestionably go berserk.
+Dialogue: 10,0:19:34.78,0:19:37.50,Default,,0,0,0,,{\i1}Lady Tamayo is beautiful today, too!
+Dialogue: 10,0:19:37.50,0:19:39.70,Default,,0,0,0,,{\i1}I’m sure she’ll be beautiful again tomorrow!
+Dialogue: 10,0:19:40.66,0:19:46.08,Default,,0,0,0,,And yet, surprisingly, Nezuko shows none of those signs.
+Dialogue: 10,0:19:46.53,0:19:49.87,Default,,0,0,0,,This miracle will be the key to finding a solution.
+Dialogue: 10,0:19:50.83,0:19:51.83,Default,,0,0,0,,{\i1}Nezuko...
+Dialogue: 10,0:19:58.46,0:20:01.92,Default,,0,0,0,,The second request will be a harsh one to fulfill.{The other request I have for you is a harsh one.}{I think she means her second request here, not another one. It will be a harsh one to fulfill.}
+Dialogue: 10,0:20:03.17,0:20:05.60,Default,,0,0,0,,A demon with a higher\N concentration of Kibutsuji’s blood{By "demons closely related to Kibutsuji,"}{*}{tlc}{I actually opted to change the wording between the two of them. I think it works pretty well when you read the entire thing.}
+Dialogue: 10,0:20:05.60,0:20:11.64,Default,,0,0,0,,{will thus have power much closer to that of}means a demon closer in strength to Kibutsuji himself.{I meant demons whose powers are more on par with that of Kibutsuji himself.}{Well, she doesn’t say that - This means, rather than I meant. I actually don’t like this line that much. More on par sounds off. I’m gonna rewrite both of these lines and put the original in comments}
+Dialogue: 10,0:20:12.22,0:20:15.60,Default,,0,0,0,,It won’t be easy to extract blood from such demons.
+Dialogue: 10,0:20:16.39,0:20:21.40,Default,,0,0,0,,Are you still willing to go along with my requests?
+Dialogue: 10,0:20:26.74,0:20:30.41,Default,,0,0,0,,If there’s no other way, then I’ll do it.
+Dialogue: 10,0:20:31.16,0:20:33.88,Default,,0,0,0,,If it means you’re going to \Nresearch all these demons’ blood
+Dialogue: 10,0:20:33.88,0:20:35.83,Default,,0,0,0,,and create this medicine...
+Dialogue: 10,0:20:37.04,0:20:39.54,Default,,0,0,0,,If that happens, that means it won’t just be Nezuko.
+Dialogue: 10,0:20:40.38,0:20:43.34,Default,,0,0,0,,Lots of other people will be saved, too, right?
+Dialogue: 10,0:20:46.76,0:20:48.43,Default,,0,0,0,,That’s right.
+Dialogue: 10,0:20:54.77,0:20:55.31,Default,,0,0,0,,Get down!
+Dialogue: 10,0:21:08.55,0:21:10.58,Default,,0,0,0,,Did you decide how to kill them?
+Dialogue: 10,0:21:10.58,0:21:12.87,Default,,0,0,0,,Brutally, of course!{I was thinking that before, but here it stands out even more. Vindictive doesn’t seem quite right here. It’s more cruelly, it’s focused on the cruel and brutal aspect. Probs needs to be changed everywhere.}
 Comment: 0,0:22:59.98,0:22:59.98,Default,,0,0,0,,---------------------------------------------- [ OUTRO ] ----------------------------------------------
 Dialogue: 0,0:22:59.98,0:23:00.23,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx100.46\fscy100.46\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
 Dialogue: 0,0:23:00.23,0:23:00.27,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx100.46\fscy100.46\frz0.1\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
@@ -506,17 +510,17 @@ Dialogue: 0,0:23:06.03,0:23:12.28,Default,,0,0,0,,{\fax-0.\an7\blur1.4\bord1\sha
 Dialogue: 1,0:23:06.03,0:23:12.28,Default,,0,0,0,,{\fax-0.\an7\blur1.3\bord0\shad0\p1\3c&H000000&\fscx97\fscy97\c&HF3F5F9&\pos(1341.568,559.801)\frz359.1}m -98 -40 l -109 -6 99 11 108 -23
 Dialogue: 2,0:23:06.03,0:23:12.28,Default,,0,0,0,,{\fry1.57\frx14.06\fax-0.2\fnArturo Trial\fs25\b0\bord0\shad0\c&H070C18&\blur0.8\pos(1341.568,559.801)\frz354.5}Lady Tamayo
 Dialogue: 2,0:23:06.03,0:23:12.28,Default,,0,0,0,,{\fry1.57\frx14.06\fax-0.2\fnArturo Trial\fs25\b0\bord0\shad0\c&H070C18&\blur0.8\pos(1341.568,559.801)\frz354.5}Lady Tamayo
-Dialogue: 69,0:23:03.19,0:23:06.03,Default,,0,0,0,,I’m starting with the Taisho secret today!
-Dialogue: 69,0:23:06.03,0:23:08.86,Default,,0,0,0,,Yushirou’s hobby is to write in his Lady Tamayo journal.
-Dialogue: 69,0:23:08.86,0:23:12.28,Default,,0,0,0,,I hear that he churns out seven to ten pages a day.
-Dialogue: 69,0:23:12.60,0:23:15.78,Default,,0,0,0,,And now, I’ve found that very journal. \NLet’s take a peek, huh?
-Dialogue: 69,0:23:16.57,0:23:17.45,Default,,0,0,0,,Let’s see.
-Dialogue: 69,0:23:17.45,0:23:20.91,Default,,0,0,0,,“January 10. Lady Tamayo was \Nethereal and gorgeous again today.
-Dialogue: 69,0:23:20.91,0:23:24.25,Default,,0,0,0,,At 17:10, she called my name. Twice, no less!
-Dialogue: 69,0:23:24.25,0:23:26.00,Default,,0,0,0,,Her voice was beautiful.
-Dialogue: 69,0:23:26.00,0:23:30.96,Default,,0,0,0,,At 17:29, when Lady Tamayo,\N deep in thought, slipped on the step...”
-Dialogue: 69,0:23:31.71,0:23:34.60,Default,,0,0,0,,Next time, Episode Nine:\N “The Temari Demon and The Arrow Demon”!  {added the}
-Dialogue: 69,0:23:34.60,0:23:36.51,Default,,0,0,0,,Let’s pretend we never saw this.
+Dialogue: 10,0:23:03.19,0:23:06.03,Default,,0,0,0,,I’m starting with the Taisho secret today!
+Dialogue: 10,0:23:06.03,0:23:08.86,Default,,0,0,0,,Yushirou’s hobby is to write in his Lady Tamayo journal.
+Dialogue: 10,0:23:08.86,0:23:12.28,Default,,0,0,0,,I hear that he churns out seven to ten pages a day.
+Dialogue: 10,0:23:12.60,0:23:15.78,Default,,0,0,0,,And now, I’ve found that very journal. \NLet’s take a peek, huh?
+Dialogue: 10,0:23:16.57,0:23:17.45,Default,,0,0,0,,Let’s see.
+Dialogue: 10,0:23:17.45,0:23:20.91,Default,,0,0,0,,“January 10. Lady Tamayo was \Nethereal and gorgeous again today.
+Dialogue: 10,0:23:20.91,0:23:24.25,Default,,0,0,0,,At 17:10, she called my name. Twice, no less!
+Dialogue: 10,0:23:24.25,0:23:26.00,Default,,0,0,0,,Her voice was beautiful.
+Dialogue: 10,0:23:26.00,0:23:30.96,Default,,0,0,0,,At 17:29, when Lady Tamayo,\N deep in thought, slipped on the step...”
+Dialogue: 10,0:23:31.71,0:23:34.60,Default,,0,0,0,,Next time, Episode Nine:\N “The Temari Demon and The Arrow Demon”!  {added the}
+Dialogue: 10,0:23:34.60,0:23:36.51,Default,,0,0,0,,Let’s pretend we never saw this.
 Dialogue: 0,0:23:37.22,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord23\c&H000000&\3c&H080118&\alpha&H00&\1a&HFF&\blur9}To Be Continued
 Dialogue: 1,0:23:37.22,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur9}To Be Continued
 Dialogue: 2,0:23:37.22,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur9}To Be Continued
