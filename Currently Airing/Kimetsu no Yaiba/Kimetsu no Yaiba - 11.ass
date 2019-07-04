@@ -21,9 +21,9 @@ Video File: ../../../../Encoding Projects/[Kaleido-subs]/Currently Airing/Kimets
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 366
-Active Line: 385
-Video Position: 25291
+Scroll Position: 2337
+Active Line: 2347
+Video Position: 2035
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -63,122 +63,122 @@ Dialogue: 10,0:00:30.13,0:00:32.30,Default,,0,0,0,,Wh-What’s up with that?
 Dialogue: 10,0:00:33.09,0:00:34.34,Default,,0,0,0,,What on earth?
 Dialogue: 10,0:00:37.76,0:00:39.06,Default,,0,0,0,,Huh?
 Comment: 0,0:02:14.94,0:02:14.94,Default,,0,0,0,,---------------------------------------------- [ PART A ] ----------------------------------------------
-Dialogue: 2,0:02:16.69,0:02:16.74,Title Card Sign,,0,0,0,TS,{=7}{\pos(1485.6,909.68)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HF8&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:16.74,0:02:16.78,Title Card Sign,,0,0,0,TS,{=7}{\pos(1483.49,908.48)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HF1&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:16.78,0:02:16.82,Title Card Sign,,0,0,0,TS,{=7}{\pos(1481.47,907.35)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HEB&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:16.78,0:02:16.82,Title Card Sign,,0,0,0,TS,{=7}{\pos(1641.62,466.47)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HEB&\4a&HFF&\blur0.9\clip(m 1587 350 l 1580 413 1611 530 1417 552 1465 357)}Episode
-Dialogue: 2,0:02:16.82,0:02:16.86,Title Card Sign,,0,0,0,TS,{=7}{\pos(1479.49,906.24)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HE2&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:16.82,0:02:16.86,Title Card Sign,,0,0,0,TS,{=7}{\pos(1639.64,465.36)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HE2&\4a&HFF&\blur0.9\clip(m 1583 347 l 1606 427 1630 528 1419 576 1281 346)}Episode
-Dialogue: 2,0:02:16.86,0:02:16.90,Title Card Sign,,0,0,0,TS,{=7}{\pos(1477.59,905.17)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HDB&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:16.86,0:02:16.90,Title Card Sign,,0,0,0,TS,{=7}{\pos(1637.74,464.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HDB&\4a&HFF&\blur0.9\clip(m 1580 331 l 1593 390 1604 408 1604 440 1638 507 1372 560 1247 360)}Episode
-Dialogue: 2,0:02:16.86,0:02:16.90,Title Card Sign,,0,0,0,TS,{=7}{\pos(1640.46,529.8)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HDB&\4a&HFF&\blur1\clip(m 1617 454 l 1631 488 1651 524 1667 539 1713 531 1557 661 1495 464)}10
-Dialogue: 2,0:02:16.90,0:02:16.94,Title Card Sign,,0,0,0,TS,{=7}{\pos(1475.69,904.18)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HD5&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:16.90,0:02:16.94,Title Card Sign,,0,0,0,TS,{=7}{\pos(1635.84,463.3)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HD5&\4a&HFF&\blur0.9\clip(m 1585 355 l 1601 410 1647 512 1403 560 1289 350)}Episode
-Dialogue: 2,0:02:16.90,0:02:16.94,Title Card Sign,,0,0,0,TS,{=7}{\pos(1638.46,528.81)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HD5&\4a&HFF&\blur1\clip(m 1609 426 l 1631 470 1635 499 1673 531 1525 595 1455 469)}10
-Dialogue: 2,0:02:16.94,0:02:16.99,Title Card Sign,,0,0,0,TS,{=7}{\pos(1473.36,903.15)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HCE&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:16.94,0:02:16.99,Title Card Sign,,0,0,0,TS,{=7}{\pos(1633.51,462.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HCE&\4a&HFF&\blur0.9\clip(m 1579 350 l 1641 475 1412 562 1215 381)}Episode
-Dialogue: 2,0:02:16.94,0:02:16.99,Title Card Sign,,0,0,0,TS,{=7}{\pos(1636.14,527.79)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HCE&\4a&HFF&\blur1}10
-Dialogue: 2,0:02:16.99,0:02:17.03,Title Card Sign,,0,0,0,TS,{=7}{\pos(1471.54,902.39)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC7&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:16.99,0:02:17.03,Title Card Sign,,0,0,0,TS,{=7}{\pos(1631.69,461.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC7&\4a&HFF&\blur0.9\clip(m 1567 331 l 1591 382 1620 426 1647 483 1449 528 1271 382)}Episode
-Dialogue: 2,0:02:16.99,0:02:17.03,Title Card Sign,,0,0,0,TS,{=7}{\pos(1635.41,527.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC7&\4a&HFF&\blur0.9}10
-Dialogue: 2,0:02:17.03,0:02:17.07,Title Card Sign,,0,0,0,TS,{=7}{\pos(1470.22,901.39)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC0&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.03,0:02:17.07,Title Card Sign,,0,0,0,TS,{=7}{\pos(1630.37,460.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC0&\4a&HFF&\blur0.9\clip(m 1566 339 l 1628 443 1497 542 1335 421)}Episode
-Dialogue: 2,0:02:17.03,0:02:17.07,Title Card Sign,,0,0,0,TS,{=7}{\pos(1632.99,526.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC0&\4a&HFF&\blur0.9}10
-Dialogue: 2,0:02:17.07,0:02:17.11,Title Card Sign,,0,0,0,TS,{=7}{\pos(1468.69,900.67)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB8&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.07,0:02:17.11,Title Card Sign,,0,0,0,TS,{=7}{\pos(1628.84,459.79)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB8&\4a&HFF&\blur1\clip(m 1567 349 l 1609 426 1703 482 1492 582 1281 458)}Episode
-Dialogue: 2,0:02:17.07,0:02:17.11,Title Card Sign,,0,0,0,TS,{=7}{\pos(1631.46,525.4)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB8&\4a&HFF&\blur0.9}10
-Dialogue: 2,0:02:17.11,0:02:17.15,Title Card Sign,,0,0,0,TS,{=7}{\pos(1467.76,899.5)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB1&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.11,0:02:17.15,Title Card Sign,,0,0,0,TS,{=7}{\pos(1627.91,458.63)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB1&\4a&HFF&\blur1.5\clip(m 1567 362 l 1606 427 1659 490 1478 566 1470 406)}Episode
-Dialogue: 2,0:02:17.11,0:02:17.15,Title Card Sign,,0,0,0,TS,{=7}{\pos(1630.54,524.14)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB1&\4a&HFF&\blur1.6\clip(m 1599 504 l 1609 437 1635 480 1659 494 1596 574 1452 520)}10
-Dialogue: 2,0:02:17.15,0:02:17.20,Title Card Sign,,0,0,0,TS,{=7}{\pos(1466.72,898.27)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HAA&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.15,0:02:17.20,Title Card Sign,,0,0,0,TS,{=7}{\pos(1626.87,457.4)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HAA&\4a&HFF&\blur1.5\clip(m 1572 376 l 1633 485 1471 566 1486 376)}Episode
-Dialogue: 2,0:02:17.15,0:02:17.20,Title Card Sign,,0,0,0,TS,{=7}{\pos(1629.49,522.91)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HAA&\4a&HFF&\blur1.5\clip(m 1606 454 l 1635 488 1659 515 1595 605 1511 550)}10
-Dialogue: 2,0:02:17.20,0:02:17.24,Title Card Sign,,0,0,0,TS,{=7}{\pos(1465.41,897.45)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HA3&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.20,0:02:17.24,Title Card Sign,,0,0,0,TS,{=7}{\pos(1625.56,456.57)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HA3&\4a&HFF&\blur2\clip(m 1561 368 l 1638 507 1473 549 1383 421)}Episode
-Dialogue: 2,0:02:17.20,0:02:17.24,Title Card Sign,,0,0,0,TS,{=7}{\pos(1628.18,522.08)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HA4&\4a&HFF&\blur1.5\clip(m 1607 455 l 1655 514 1553 581 1489 504)}10
-Dialogue: 2,0:02:17.24,0:02:17.28,Title Card Sign,,0,0,0,TS,{=7}{\pos(1464.17,896.39)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H9C&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.24,0:02:17.28,Title Card Sign,,0,0,0,TS,{=7}{\pos(1624.32,455.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H9C&\4a&HFF&\blur2\clip(m 1548 368 l 1625 483 1473 554 1353 432)}Episode
-Dialogue: 2,0:02:17.24,0:02:17.28,Title Card Sign,,0,0,0,TS,{=7}{\pos(1626.94,521.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H9C&\4a&HFF&\blur2\clip(m 1579 416 l 1625 491 1633 504 1656 595 1555 632 1483 507)}10
-Dialogue: 2,0:02:17.28,0:02:17.32,Title Card Sign,,0,0,0,TS,{=7}{\pos(1462.64,895.85)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H96&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.28,0:02:17.32,Title Card Sign,,0,0,0,TS,{=7}{\pos(1622.79,454.97)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H96&\4a&HFF&\blur2\clip(m 1545 379 l 1603 472 1475 522 1487 392)}Episode
-Dialogue: 2,0:02:17.28,0:02:17.32,Title Card Sign,,0,0,0,TS,{=7}{\pos(1625.41,520.48)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H96&\4a&HFF&\blur2}10
-Dialogue: 2,0:02:17.32,0:02:17.36,Title Card Sign,,0,0,0,TS,{=7}{\pos(1461.48,895.37)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H8D&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.32,0:02:17.36,Title Card Sign,,0,0,0,TS,{=7}{\pos(1621.63,454.49)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H8D&\4a&HFF&\blur2\clip(m 1518 310 l 1524 355 1543 397 1577 451 1447 469 1407 374)}Episode
-Dialogue: 2,0:02:17.32,0:02:17.36,Title Card Sign,,0,0,0,TS,{=7}{\pos(1625.25,520)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H8D&\4a&HFF&\blur4}10
-Dialogue: 2,0:02:17.36,0:02:17.40,Title Card Sign,,0,0,0,TS,{=7}{\pos(1460.14,894.61)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H86&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.36,0:02:17.40,Title Card Sign,,0,0,0,TS,{=7}{\pos(1620.29,453.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H86&\4a&HFF&\blur3\clip(m 1539 410 l 1556 429 1606 438 1563 499)}Episode
-Dialogue: 2,0:02:17.36,0:02:17.40,Title Card Sign,,0,0,0,TS,{=7}{\pos(1622.91,519.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H86&\4a&HFF&\blur4}10
-Dialogue: 2,0:02:17.40,0:02:17.45,Title Card Sign,,0,0,0,TS,{=7}{\pos(1459.09,894.01)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H80&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.40,0:02:17.45,Title Card Sign,,0,0,0,TS,{=7}{\pos(1619.24,453.14)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H80&\4a&HFF&\blur5\clip(m 1532 413 l 1593 424 1630 413 1657 421 1700 458 1723 566 1563 587)}Episode
-Dialogue: 2,0:02:17.40,0:02:17.45,Title Card Sign,,0,0,0,TS,{=7}{\pos(1621.86,518.65)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H80&\4a&HFF&\blur4}10
-Dialogue: 2,0:02:17.45,0:02:17.49,Title Card Sign,,0,0,0,TS,{=7}{\pos(1458.37,894.01)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H79&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.49,0:02:17.53,Title Card Sign,,0,0,0,TS,{=7}{\pos(1457.71,893.47)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H72&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.53,0:02:17.57,Title Card Sign,,0,0,0,TS,{=7}{\pos(1457.18,893.07)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H6B&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.57,0:02:17.61,Title Card Sign,,0,0,0,TS,{=7}{\pos(1456.22,892.74)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H63&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.61,0:02:17.65,Title Card Sign,,0,0,0,TS,{=7}{\pos(1455.64,892.49)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H5C&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.65,0:02:17.70,Title Card Sign,,0,0,0,TS,{=7}{\pos(1455.18,892.26)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H55&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.70,0:02:17.74,Title Card Sign,,0,0,0,TS,{=7}{\pos(1454.59,892.12)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H4E&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.74,0:02:17.78,Title Card Sign,,0,0,0,TS,{=7}{\pos(1454.31,891.96)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H47&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.78,0:02:17.82,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.97,891.71)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H41&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.82,0:02:17.86,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.63,891.63)\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H38&\4a&HFF&\blur0.9\fscx130\fscy107} Tsuzumi Mansion
-Dialogue: 2,0:02:17.82,0:02:17.86,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.78,450.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H38&\4a&HFF&\blur5\clip(m 1849 419 l 1764 403 1676 430 1627 464 1601 502 1681 549)}Episode
-Dialogue: 2,0:02:17.82,0:02:17.86,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.4,516.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H48&\4a&HFF&\blur6\clip(m 1679 426 l 1631 454 1601 486 1575 514 1623 656 1828 557)}10
-Dialogue: 2,0:02:17.86,0:02:17.90,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.48,891.58)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H31&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.86,0:02:17.90,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.63,450.7)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H31&\4a&HFF&\blur6\clip(m 1772 365 l 1700 379 1647 403 1582 467 1572 515 1667 574)}Episode
-Dialogue: 2,0:02:17.86,0:02:17.90,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.25,516.21)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H41&\4a&HFF&\blur5}10
-Dialogue: 2,0:02:17.90,0:02:17.95,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.74,891.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H2B&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.90,0:02:17.95,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.89,450.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H2B&\4a&HFF&\blur6\clip(m 1711 338 l 1663 354 1615 382 1596 402 1579 437 1558 469 1601 528 1714 582)}Episode
-Dialogue: 2,0:02:17.90,0:02:17.95,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.51,516.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H2B&\4a&HFF&\blur4}10
-Dialogue: 2,0:02:17.95,0:02:17.99,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.76,891.65)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H24&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.95,0:02:17.99,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.91,450.78)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H24&\4a&HFF&\blur6\clip(m 1668 318 l 1595 368 1559 398 1534 467 1619 523 1676 525 1783 501)}Episode
-Dialogue: 2,0:02:17.95,0:02:17.99,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.54,516.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H24&\4a&HFF&\blur6}10
-Dialogue: 2,0:02:17.99,0:02:18.03,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.76,891.65)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H1D&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:17.99,0:02:18.03,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.91,450.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H1D&\4a&HFF&\blur5}Episode
-Dialogue: 2,0:02:17.99,0:02:18.03,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.54,516.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H1D&\4a&HFF&\blur6}10
-Dialogue: 2,0:02:18.03,0:02:18.07,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.76,891.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H16&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:18.03,0:02:18.07,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.91,450.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H16&\4a&HFF&\blur4.73}Episode
-Dialogue: 2,0:02:18.03,0:02:18.07,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.54,516.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H16&\4a&HFF&\blur5.67}10
-Dialogue: 2,0:02:18.07,0:02:18.11,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.76,891.63)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H0E&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:18.07,0:02:18.11,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.91,450.75)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H0E&\4a&HFF&\blur4.47}Episode
-Dialogue: 2,0:02:18.07,0:02:18.11,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.54,516.26)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H0E&\4a&HFF&\blur5.44}10
-Dialogue: 2,0:02:18.11,0:02:18.15,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.77,891.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H07&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:18.11,0:02:18.15,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.92,450.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H07&\4a&HFF&\blur4.2}Episode
-Dialogue: 2,0:02:18.11,0:02:18.15,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.54,516.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H07&\4a&HFF&\blur5}10
-Dialogue: 2,0:02:18.15,0:02:18.20,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.77,891.61)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:18.15,0:02:18.20,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.92,450.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.93}Episode
-Dialogue: 2,0:02:18.15,0:02:18.20,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.54,516.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.67}10
-Dialogue: 2,0:02:18.20,0:02:18.24,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.77,891.61)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:18.20,0:02:18.24,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.93,450.7)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.67}Episode
-Dialogue: 2,0:02:18.20,0:02:18.24,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.55,516.21)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.44}10
-Dialogue: 2,0:02:18.24,0:02:18.28,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.78,891.55)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:18.24,0:02:18.28,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.93,450.68)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.4}Episode
-Dialogue: 2,0:02:18.24,0:02:18.28,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.55,516.19)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4}10
-Dialogue: 2,0:02:18.28,0:02:18.32,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.92,450.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.13}Episode
-Dialogue: 2,0:02:18.28,0:02:18.32,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.54,516.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.67}10
-Dialogue: 2,0:02:18.28,0:02:18.32,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.77,891.62)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:18.32,0:02:18.36,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.76,891.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:18.32,0:02:18.36,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.91,450.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.87}Episode
-Dialogue: 2,0:02:18.32,0:02:18.36,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.54,516.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.44}10
-Dialogue: 2,0:02:18.36,0:02:18.53,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.76,891.65)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:18.36,0:02:18.40,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.91,450.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.6}Episode
-Dialogue: 2,0:02:18.36,0:02:18.40,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.54,516.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4}10
-Dialogue: 2,0:02:18.40,0:02:18.45,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.91,450.78)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.33}Episode
-Dialogue: 2,0:02:18.40,0:02:18.45,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.54,516.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.67}10
-Dialogue: 2,0:02:18.45,0:02:18.49,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.91,450.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.07}Episode
-Dialogue: 2,0:02:18.45,0:02:18.49,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.54,516.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.44}10
-Dialogue: 2,0:02:18.49,0:02:18.53,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.91,450.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.8}Episode
-Dialogue: 2,0:02:18.49,0:02:18.53,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.54,516.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2}10
-Dialogue: 2,0:02:18.53,0:02:19.32,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.76,891.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:18.53,0:02:18.57,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.91,450.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.53}Episode
-Dialogue: 2,0:02:18.53,0:02:18.57,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.54,516.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.67}10
-Dialogue: 2,0:02:18.57,0:02:18.61,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.91,450.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.27}Episode
-Dialogue: 2,0:02:18.57,0:02:18.61,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.54,516.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.44}10
-Dialogue: 2,0:02:18.61,0:02:20.95,Title Card Sign,,0,0,0,TS,{=7}{\pos(1613.91,450.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}Episode
-Dialogue: 2,0:02:18.61,0:02:20.95,Title Card Sign,,0,0,0,TS,{=7}{\pos(1616.54,516.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}10
-Dialogue: 2,0:02:19.32,0:02:19.99,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.76,891.65)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:19.99,0:02:20.20,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.77,891.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:20.20,0:02:20.74,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.76,891.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
-Dialogue: 2,0:02:20.74,0:02:20.95,Title Card Sign,,0,0,0,TS,{=7}{\pos(1453.77,891.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:16.69,0:02:16.74,Title Card Sign,,0,0,0,,{=7}{\pos(1485.6,909.68)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HF8&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:16.74,0:02:16.78,Title Card Sign,,0,0,0,,{=7}{\pos(1483.49,908.48)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HF1&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:16.78,0:02:16.82,Title Card Sign,,0,0,0,,{=7}{\pos(1481.47,907.35)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HEB&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:16.78,0:02:16.82,Title Card Sign,,0,0,0,,{=7}{\pos(1641.62,466.47)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HEB&\4a&HFF&\blur0.9\clip(m 1587 350 l 1580 413 1611 530 1417 552 1465 357)}Episode
+Dialogue: 2,0:02:16.82,0:02:16.86,Title Card Sign,,0,0,0,,{=7}{\pos(1479.49,906.24)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HE2&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:16.82,0:02:16.86,Title Card Sign,,0,0,0,,{=7}{\pos(1639.64,465.36)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HE2&\4a&HFF&\blur0.9\clip(m 1583 347 l 1606 427 1630 528 1419 576 1281 346)}Episode
+Dialogue: 2,0:02:16.86,0:02:16.90,Title Card Sign,,0,0,0,,{=7}{\pos(1477.59,905.17)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HDB&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:16.86,0:02:16.90,Title Card Sign,,0,0,0,,{=7}{\pos(1637.74,464.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HDB&\4a&HFF&\blur0.9\clip(m 1580 331 l 1593 390 1604 408 1604 440 1638 507 1372 560 1247 360)}Episode
+Dialogue: 2,0:02:16.86,0:02:16.90,Title Card Sign,,0,0,0,,{=7}{\pos(1640.46,529.8)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HDB&\4a&HFF&\blur1\clip(m 1617 454 l 1631 488 1651 524 1667 539 1713 531 1557 661 1495 464)}11
+Dialogue: 2,0:02:16.90,0:02:16.94,Title Card Sign,,0,0,0,,{=7}{\pos(1475.69,904.18)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HD5&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:16.90,0:02:16.94,Title Card Sign,,0,0,0,,{=7}{\pos(1635.84,463.3)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HD5&\4a&HFF&\blur0.9\clip(m 1585 355 l 1601 410 1647 512 1403 560 1289 350)}Episode
+Dialogue: 2,0:02:16.90,0:02:16.94,Title Card Sign,,0,0,0,,{=7}{\pos(1638.46,528.81)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HD5&\4a&HFF&\blur1\clip(m 1609 426 l 1631 470 1635 499 1673 531 1525 595 1455 469)}11
+Dialogue: 2,0:02:16.94,0:02:16.99,Title Card Sign,,0,0,0,,{=7}{\pos(1473.36,903.15)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HCE&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:16.94,0:02:16.99,Title Card Sign,,0,0,0,,{=7}{\pos(1633.51,462.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HCE&\4a&HFF&\blur0.9\clip(m 1579 350 l 1641 475 1412 562 1215 381)}Episode
+Dialogue: 2,0:02:16.94,0:02:16.99,Title Card Sign,,0,0,0,,{=7}{\pos(1636.14,527.79)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HCE&\4a&HFF&\blur1}11
+Dialogue: 2,0:02:16.99,0:02:17.03,Title Card Sign,,0,0,0,,{=7}{\pos(1471.54,902.39)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC7&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:16.99,0:02:17.03,Title Card Sign,,0,0,0,,{=7}{\pos(1631.69,461.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC7&\4a&HFF&\blur0.9\clip(m 1567 331 l 1591 382 1620 426 1647 483 1449 528 1271 382)}Episode
+Dialogue: 2,0:02:16.99,0:02:17.03,Title Card Sign,,0,0,0,,{=7}{\pos(1635.41,527.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC7&\4a&HFF&\blur0.9}11
+Dialogue: 2,0:02:17.03,0:02:17.07,Title Card Sign,,0,0,0,,{=7}{\pos(1470.22,901.39)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC0&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.03,0:02:17.07,Title Card Sign,,0,0,0,,{=7}{\pos(1630.37,460.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC0&\4a&HFF&\blur0.9\clip(m 1566 339 l 1628 443 1497 542 1335 421)}Episode
+Dialogue: 2,0:02:17.03,0:02:17.07,Title Card Sign,,0,0,0,,{=7}{\pos(1632.99,526.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC0&\4a&HFF&\blur0.9}11
+Dialogue: 2,0:02:17.07,0:02:17.11,Title Card Sign,,0,0,0,,{=7}{\pos(1468.69,900.67)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB8&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.07,0:02:17.11,Title Card Sign,,0,0,0,,{=7}{\pos(1628.84,459.79)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB8&\4a&HFF&\blur1\clip(m 1567 349 l 1609 426 1703 482 1492 582 1281 458)}Episode
+Dialogue: 2,0:02:17.07,0:02:17.11,Title Card Sign,,0,0,0,,{=7}{\pos(1631.46,525.4)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB8&\4a&HFF&\blur0.9}11
+Dialogue: 2,0:02:17.11,0:02:17.15,Title Card Sign,,0,0,0,,{=7}{\pos(1467.76,899.5)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB1&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.11,0:02:17.15,Title Card Sign,,0,0,0,,{=7}{\pos(1627.91,458.63)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB1&\4a&HFF&\blur1.5\clip(m 1567 362 l 1606 427 1659 490 1478 566 1470 406)}Episode
+Dialogue: 2,0:02:17.11,0:02:17.15,Title Card Sign,,0,0,0,,{=7}{\pos(1630.54,524.14)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB1&\4a&HFF&\blur1.6\clip(m 1599 504 l 1609 437 1635 480 1659 494 1596 574 1452 520)}11
+Dialogue: 2,0:02:17.15,0:02:17.20,Title Card Sign,,0,0,0,,{=7}{\pos(1466.72,898.27)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HAA&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.15,0:02:17.20,Title Card Sign,,0,0,0,,{=7}{\pos(1626.87,457.4)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HAA&\4a&HFF&\blur1.5\clip(m 1572 376 l 1633 485 1471 566 1486 376)}Episode
+Dialogue: 2,0:02:17.15,0:02:17.20,Title Card Sign,,0,0,0,,{=7}{\pos(1629.49,522.91)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HAA&\4a&HFF&\blur1.5\clip(m 1606 454 l 1635 488 1659 515 1595 605 1511 550)}11
+Dialogue: 2,0:02:17.20,0:02:17.24,Title Card Sign,,0,0,0,,{=7}{\pos(1465.41,897.45)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HA3&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.20,0:02:17.24,Title Card Sign,,0,0,0,,{=7}{\pos(1625.56,456.57)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HA3&\4a&HFF&\blur2\clip(m 1561 368 l 1638 507 1473 549 1383 421)}Episode
+Dialogue: 2,0:02:17.20,0:02:17.24,Title Card Sign,,0,0,0,,{=7}{\pos(1628.18,522.08)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HA4&\4a&HFF&\blur1.5\clip(m 1607 455 l 1655 514 1553 581 1489 504)}11
+Dialogue: 2,0:02:17.24,0:02:17.28,Title Card Sign,,0,0,0,,{=7}{\pos(1464.17,896.39)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H9C&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.24,0:02:17.28,Title Card Sign,,0,0,0,,{=7}{\pos(1624.32,455.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H9C&\4a&HFF&\blur2\clip(m 1548 368 l 1625 483 1473 554 1353 432)}Episode
+Dialogue: 2,0:02:17.24,0:02:17.28,Title Card Sign,,0,0,0,,{=7}{\pos(1626.94,521.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H9C&\4a&HFF&\blur2\clip(m 1579 416 l 1625 491 1633 504 1656 595 1555 632 1483 507)}11
+Dialogue: 2,0:02:17.28,0:02:17.32,Title Card Sign,,0,0,0,,{=7}{\pos(1462.64,895.85)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H96&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.28,0:02:17.32,Title Card Sign,,0,0,0,,{=7}{\pos(1622.79,454.97)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H96&\4a&HFF&\blur2\clip(m 1545 379 l 1603 472 1475 522 1487 392)}Episode
+Dialogue: 2,0:02:17.28,0:02:17.32,Title Card Sign,,0,0,0,,{=7}{\pos(1625.41,520.48)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H96&\4a&HFF&\blur2}11
+Dialogue: 2,0:02:17.32,0:02:17.36,Title Card Sign,,0,0,0,,{=7}{\pos(1461.48,895.37)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H8D&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.32,0:02:17.36,Title Card Sign,,0,0,0,,{=7}{\pos(1621.63,454.49)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H8D&\4a&HFF&\blur2\clip(m 1518 310 l 1524 355 1543 397 1577 451 1447 469 1407 374)}Episode
+Dialogue: 2,0:02:17.32,0:02:17.36,Title Card Sign,,0,0,0,,{=7}{\pos(1625.25,520)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H8D&\4a&HFF&\blur4}11
+Dialogue: 2,0:02:17.36,0:02:17.40,Title Card Sign,,0,0,0,,{=7}{\pos(1460.14,894.61)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H86&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.36,0:02:17.40,Title Card Sign,,0,0,0,,{=7}{\pos(1620.29,453.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H86&\4a&HFF&\blur3\clip(m 1539 410 l 1556 429 1606 438 1563 499)}Episode
+Dialogue: 2,0:02:17.36,0:02:17.40,Title Card Sign,,0,0,0,,{=7}{\pos(1622.91,519.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H86&\4a&HFF&\blur4}11
+Dialogue: 2,0:02:17.40,0:02:17.45,Title Card Sign,,0,0,0,,{=7}{\pos(1459.09,894.01)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H80&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.40,0:02:17.45,Title Card Sign,,0,0,0,,{=7}{\pos(1619.24,453.14)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H80&\4a&HFF&\blur5\clip(m 1532 413 l 1593 424 1630 413 1657 421 1700 458 1723 566 1563 587)}Episode
+Dialogue: 2,0:02:17.40,0:02:17.45,Title Card Sign,,0,0,0,,{=7}{\pos(1621.86,518.65)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H80&\4a&HFF&\blur4}11
+Dialogue: 2,0:02:17.45,0:02:17.49,Title Card Sign,,0,0,0,,{=7}{\pos(1458.37,894.01)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H79&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.49,0:02:17.53,Title Card Sign,,0,0,0,,{=7}{\pos(1457.71,893.47)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H72&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.53,0:02:17.57,Title Card Sign,,0,0,0,,{=7}{\pos(1457.18,893.07)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H6B&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.57,0:02:17.61,Title Card Sign,,0,0,0,,{=7}{\pos(1456.22,892.74)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H63&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.61,0:02:17.65,Title Card Sign,,0,0,0,,{=7}{\pos(1455.64,892.49)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H5C&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.65,0:02:17.70,Title Card Sign,,0,0,0,,{=7}{\pos(1455.18,892.26)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H55&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.70,0:02:17.74,Title Card Sign,,0,0,0,,{=7}{\pos(1454.59,892.12)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H4E&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.74,0:02:17.78,Title Card Sign,,0,0,0,,{=7}{\pos(1454.31,891.96)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H47&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.78,0:02:17.82,Title Card Sign,,0,0,0,,{=7}{\pos(1453.97,891.71)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H41&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.82,0:02:17.86,Title Card Sign,,0,0,0,,{=7}{\pos(1453.63,891.63)\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H38&\4a&HFF&\blur0.9\fscx130\fscy107} Tsuzumi Mansion
+Dialogue: 2,0:02:17.82,0:02:17.86,Title Card Sign,,0,0,0,,{=7}{\pos(1613.78,450.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H38&\4a&HFF&\blur5\clip(m 1849 419 l 1764 403 1676 430 1627 464 1601 502 1681 549)}Episode
+Dialogue: 2,0:02:17.82,0:02:17.86,Title Card Sign,,0,0,0,,{=7}{\pos(1616.4,516.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H48&\4a&HFF&\blur6\clip(m 1679 426 l 1631 454 1601 486 1575 514 1623 656 1828 557)}11
+Dialogue: 2,0:02:17.86,0:02:17.90,Title Card Sign,,0,0,0,,{=7}{\pos(1453.48,891.58)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H31&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.86,0:02:17.90,Title Card Sign,,0,0,0,,{=7}{\pos(1613.63,450.7)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H31&\4a&HFF&\blur6\clip(m 1772 365 l 1700 379 1647 403 1582 467 1572 515 1667 574)}Episode
+Dialogue: 2,0:02:17.86,0:02:17.90,Title Card Sign,,0,0,0,,{=7}{\pos(1616.25,516.21)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H41&\4a&HFF&\blur5}11
+Dialogue: 2,0:02:17.90,0:02:17.95,Title Card Sign,,0,0,0,,{=7}{\pos(1453.74,891.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H2B&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.90,0:02:17.95,Title Card Sign,,0,0,0,,{=7}{\pos(1613.89,450.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H2B&\4a&HFF&\blur6\clip(m 1711 338 l 1663 354 1615 382 1596 402 1579 437 1558 469 1601 528 1714 582)}Episode
+Dialogue: 2,0:02:17.90,0:02:17.95,Title Card Sign,,0,0,0,,{=7}{\pos(1616.51,516.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H2B&\4a&HFF&\blur4}11
+Dialogue: 2,0:02:17.95,0:02:17.99,Title Card Sign,,0,0,0,,{=7}{\pos(1453.76,891.65)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H24&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.95,0:02:17.99,Title Card Sign,,0,0,0,,{=7}{\pos(1613.91,450.78)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H24&\4a&HFF&\blur6\clip(m 1668 318 l 1595 368 1559 398 1534 467 1619 523 1676 525 1783 501)}Episode
+Dialogue: 2,0:02:17.95,0:02:17.99,Title Card Sign,,0,0,0,,{=7}{\pos(1616.54,516.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H24&\4a&HFF&\blur6}11
+Dialogue: 2,0:02:17.99,0:02:18.03,Title Card Sign,,0,0,0,,{=7}{\pos(1453.76,891.65)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H1D&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:17.99,0:02:18.03,Title Card Sign,,0,0,0,,{=7}{\pos(1613.91,450.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H1D&\4a&HFF&\blur5}Episode
+Dialogue: 2,0:02:17.99,0:02:18.03,Title Card Sign,,0,0,0,,{=7}{\pos(1616.54,516.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H1D&\4a&HFF&\blur6}11
+Dialogue: 2,0:02:18.03,0:02:18.07,Title Card Sign,,0,0,0,,{=7}{\pos(1453.76,891.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H16&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:18.03,0:02:18.07,Title Card Sign,,0,0,0,,{=7}{\pos(1613.91,450.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H16&\4a&HFF&\blur4.73}Episode
+Dialogue: 2,0:02:18.03,0:02:18.07,Title Card Sign,,0,0,0,,{=7}{\pos(1616.54,516.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H16&\4a&HFF&\blur5.67}11
+Dialogue: 2,0:02:18.07,0:02:18.11,Title Card Sign,,0,0,0,,{=7}{\pos(1453.76,891.63)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H0E&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:18.07,0:02:18.11,Title Card Sign,,0,0,0,,{=7}{\pos(1613.91,450.75)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H0E&\4a&HFF&\blur4.47}Episode
+Dialogue: 2,0:02:18.07,0:02:18.11,Title Card Sign,,0,0,0,,{=7}{\pos(1616.54,516.26)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H0E&\4a&HFF&\blur5.44}11
+Dialogue: 2,0:02:18.11,0:02:18.15,Title Card Sign,,0,0,0,,{=7}{\pos(1453.77,891.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H07&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:18.11,0:02:18.15,Title Card Sign,,0,0,0,,{=7}{\pos(1613.92,450.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H07&\4a&HFF&\blur4.2}Episode
+Dialogue: 2,0:02:18.11,0:02:18.15,Title Card Sign,,0,0,0,,{=7}{\pos(1616.54,516.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H07&\4a&HFF&\blur5}11
+Dialogue: 2,0:02:18.15,0:02:18.20,Title Card Sign,,0,0,0,,{=7}{\pos(1453.77,891.61)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:18.15,0:02:18.20,Title Card Sign,,0,0,0,,{=7}{\pos(1613.92,450.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.93}Episode
+Dialogue: 2,0:02:18.15,0:02:18.20,Title Card Sign,,0,0,0,,{=7}{\pos(1616.54,516.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.67}11
+Dialogue: 2,0:02:18.20,0:02:18.24,Title Card Sign,,0,0,0,,{=7}{\pos(1453.77,891.61)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:18.20,0:02:18.24,Title Card Sign,,0,0,0,,{=7}{\pos(1613.93,450.7)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.67}Episode
+Dialogue: 2,0:02:18.20,0:02:18.24,Title Card Sign,,0,0,0,,{=7}{\pos(1616.55,516.21)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.44}11
+Dialogue: 2,0:02:18.24,0:02:18.28,Title Card Sign,,0,0,0,,{=7}{\pos(1453.78,891.55)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:18.24,0:02:18.28,Title Card Sign,,0,0,0,,{=7}{\pos(1613.93,450.68)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.4}Episode
+Dialogue: 2,0:02:18.24,0:02:18.28,Title Card Sign,,0,0,0,,{=7}{\pos(1616.55,516.19)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4}11
+Dialogue: 2,0:02:18.28,0:02:18.32,Title Card Sign,,0,0,0,,{=7}{\pos(1613.92,450.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.13}Episode
+Dialogue: 2,0:02:18.28,0:02:18.32,Title Card Sign,,0,0,0,,{=7}{\pos(1616.54,516.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.67}11
+Dialogue: 2,0:02:18.28,0:02:18.32,Title Card Sign,,0,0,0,,{=7}{\pos(1453.77,891.62)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:18.32,0:02:18.36,Title Card Sign,,0,0,0,,{=7}{\pos(1453.76,891.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:18.32,0:02:18.36,Title Card Sign,,0,0,0,,{=7}{\pos(1613.91,450.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.87}Episode
+Dialogue: 2,0:02:18.32,0:02:18.36,Title Card Sign,,0,0,0,,{=7}{\pos(1616.54,516.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.44}11
+Dialogue: 2,0:02:18.36,0:02:18.53,Title Card Sign,,0,0,0,,{=7}{\pos(1453.76,891.65)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:18.36,0:02:18.40,Title Card Sign,,0,0,0,,{=7}{\pos(1613.91,450.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.6}Episode
+Dialogue: 2,0:02:18.36,0:02:18.40,Title Card Sign,,0,0,0,,{=7}{\pos(1616.54,516.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4}11
+Dialogue: 2,0:02:18.40,0:02:18.45,Title Card Sign,,0,0,0,,{=7}{\pos(1613.91,450.78)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.33}Episode
+Dialogue: 2,0:02:18.40,0:02:18.45,Title Card Sign,,0,0,0,,{=7}{\pos(1616.54,516.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.67}11
+Dialogue: 2,0:02:18.45,0:02:18.49,Title Card Sign,,0,0,0,,{=7}{\pos(1613.91,450.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.07}Episode
+Dialogue: 2,0:02:18.45,0:02:18.49,Title Card Sign,,0,0,0,,{=7}{\pos(1616.54,516.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.44}11
+Dialogue: 2,0:02:18.49,0:02:18.53,Title Card Sign,,0,0,0,,{=7}{\pos(1613.91,450.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.8}Episode
+Dialogue: 2,0:02:18.49,0:02:18.53,Title Card Sign,,0,0,0,,{=7}{\pos(1616.54,516.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2}11
+Dialogue: 2,0:02:18.53,0:02:19.32,Title Card Sign,,0,0,0,,{=7}{\pos(1453.76,891.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:18.53,0:02:18.57,Title Card Sign,,0,0,0,,{=7}{\pos(1613.91,450.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.53}Episode
+Dialogue: 2,0:02:18.53,0:02:18.57,Title Card Sign,,0,0,0,,{=7}{\pos(1616.54,516.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.67}11
+Dialogue: 2,0:02:18.57,0:02:18.61,Title Card Sign,,0,0,0,,{=7}{\pos(1613.91,450.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.27}Episode
+Dialogue: 2,0:02:18.57,0:02:18.61,Title Card Sign,,0,0,0,,{=7}{\pos(1616.54,516.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.44}11
+Dialogue: 2,0:02:18.61,0:02:20.95,Title Card Sign,,0,0,0,,{=7}{\pos(1613.91,450.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}Episode
+Dialogue: 2,0:02:18.61,0:02:20.95,Title Card Sign,,0,0,0,,{=7}{\pos(1616.54,516.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}11
+Dialogue: 2,0:02:19.32,0:02:19.99,Title Card Sign,,0,0,0,,{=7}{\pos(1453.76,891.65)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:19.99,0:02:20.20,Title Card Sign,,0,0,0,,{=7}{\pos(1453.77,891.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:20.20,0:02:20.74,Title Card Sign,,0,0,0,,{=7}{\pos(1453.76,891.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
+Dialogue: 2,0:02:20.74,0:02:20.95,Title Card Sign,,0,0,0,,{=7}{\pos(1453.77,891.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9} Tsuzumi Mansion
 Dialogue: 10,0:02:23.49,0:02:24.79,Default,,0,0,0,,I’m begging you!
 Dialogue: 10,0:02:24.79,0:02:26.45,Default,,0,0,0,,There’s no one else!
 Dialogue: 10,0:02:26.45,0:02:29.29,Default,,0,0,0,,You’re all I have!
@@ -343,7 +343,7 @@ Dialogue: 10,0:11:48.77,0:11:50.60,Default,,0,0,0,,{\i1}He’s gone...
 Dialogue: 10,0:11:51.39,0:11:53.02,Default,,0,0,0,,{\i1}It must’ve hurt a lot.
 Dialogue: 10,0:11:53.02,0:11:54.44,Default,,0,0,0,,{\i1}You must’ve suffered a lot.
 Dialogue: 10,0:11:56.15,0:12:00.95,Default,,0,0,0,,Tanjirou, by any chance, is that guy these kids’...
-Dialogue: 0,0:12:08.95,0:12:16.96,Title Card Sign,,0,0,0,TS,{\pos(1539.61,877.22)\fscx100.46\fscy100.46\fnBrushStroke 35\fs48\b0\c&H090415&\blur0.56}Demon Slayer
+Dialogue: 0,0:12:08.95,0:12:16.96,Title Card Sign,,0,0,0,,{\pos(1539.61,877.22)\fscx100.46\fscy100.46\fnBrushStroke 35\fs48\b0\c&H090415&\blur0.56}Demon Slayer
 Comment: 0,0:12:12.96,0:12:12.96,Default,,0,0,0,,---------------------------------------------- [ PART B ] ----------------------------------------------
 Dialogue: 10,0:12:27.51,0:12:29.31,Default,,0,0,0,,{\i1}We couldn’t save him.
 Dialogue: 10,0:12:31.02,0:12:33.56,Default,,0,0,0,,{\i1}If only we’d gotten here a little sooner,
@@ -484,40 +484,40 @@ Dialogue: 10,0:21:04.61,0:21:06.11,Default,,0,0,0,,Here goes...
 Dialogue: 10,0:21:06.11,0:21:07.12,Default,,0,0,0,,Comin’...
 Dialogue: 10,0:21:07.62,0:21:09.95,Default,,0,0,0,,through!
 Comment: 0,0:22:40.00,0:22:40.00,Default,,0,0,0,,---------------------------------------------- [ OUTRO ] ----------------------------------------------
-Dialogue: 0,0:22:40.00,0:22:40.50,Title Card Sign,,0,0,0,TS,{\an3\pos(1147.48,494.42)\fscx100.46\fscy100.46\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
-Dialogue: 0,0:22:40.50,0:22:40.54,Title Card Sign,,0,0,0,TS,{\an3\pos(1147.48,494.42)\fscx100.46\fscy100.46\frz0.1\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
-Dialogue: 0,0:22:40.54,0:22:40.58,Title Card Sign,,0,0,0,TS,{\an3\pos(1147.48,494.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
-Dialogue: 0,0:22:40.58,0:22:40.63,Title Card Sign,,0,0,0,TS,{\an3\pos(1148.48,495.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
-Dialogue: 0,0:22:40.63,0:22:40.67,Title Card Sign,,0,0,0,TS,{\an3\pos(1149.48,496.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29272E&\blur1}Demon Slayer
-Dialogue: 0,0:22:40.67,0:22:40.71,Title Card Sign,,0,0,0,TS,{\an3\pos(1151.48,496.42)\fscx100\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H2B2A2E&\blur1.1}Demon Slayer
-Dialogue: 0,0:22:40.71,0:22:40.75,Title Card Sign,,0,0,0,TS,{\an3\pos(1155.48,496.42)\fscx99\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:40.75,0:22:40.79,Title Card Sign,,0,0,0,TS,{\an3\pos(1167.48,494.42)\fscx95\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:40.79,0:22:40.83,Title Card Sign,,0,0,0,TS,{\an3\pos(1207.41,490.38)\fscx95\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:40.83,0:22:40.88,Title Card Sign,,0,0,0,TS,{\an3\pos(1257.98,480.1)\fscx95\fscy102\frz1.65\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:40.88,0:22:40.92,Title Card Sign,,0,0,0,TS,{\an3\pos(1329.41,478.38)\fscx95\fscy102\frz1.65\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:40.92,0:22:40.96,Title Card Sign,,0,0,0,TS,{\an3\pos(1403.41,478.96)\fscx95\fscy102\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:40.96,0:22:41.00,Title Card Sign,,0,0,0,TS,{\an3\pos(1498.55,471.53)\fscx90.31\fscy96.96\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:41.00,0:22:41.04,Title Card Sign,,0,0,0,TS,{\an3\pos(1593.12,474.38)\fscx83\fscy96\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:41.04,0:22:41.08,Title Card Sign,,0,0,0,TS,{\an3\pos(1682.84,466.67)\fscx73\fscy92\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:41.08,0:22:41.13,Title Card Sign,,0,0,0,TS,{\an3\pos(1751.98,461.53)\fscx63\fscy98\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:41.13,0:22:41.17,Title Card Sign,,0,0,0,TS,{\an3\pos(1825.12,458.1)\fscx45\fscy99\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:41.17,0:22:41.21,Title Card Sign,,0,0,0,TS,{\an3\pos(1892.27,456.1)\fscx28\fscy109\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:41.17,0:22:41.21,Episode Preview Sign 2,,0,0,0,TS,{\pos(698.257,227.327)\fscx90\fscy90\frz16.92\fs40\bord3\c&HC4EADF&\3c&H555A58&\blur0.6\clip(m 705 177 l 722 241 612 275 568 233)\2c&H666667&}Rustle
-Dialogue: 0,0:22:41.17,0:22:41.21,Episode Preview Sign 2,,0,0,0,TS,{\pos(698.257,227.327)\fscx90\fscy90\frz16.92\fs40\bord0\c&HC4EADF&\3c&H555A58&\blur0.5\clip(m 705 177 l 722 241 612 275 568 233)}Rustle
-Dialogue: 0,0:22:41.21,0:23:11.03,Episode Preview Sign 2,,0,0,0,TS,{\pos(698.257,227.327)\fscx90\fscy90\frz16.92\fs40\bord3\c&HC4EADF&\3c&H555A58&\blur0.6}Rustle
-Dialogue: 0,0:22:41.21,0:23:11.03,Episode Preview Sign 2,,0,0,0,TS,{\pos(698.257,227.327)\fscx90\fscy90\frz16.92\fs40\bord0\c&HC4EADF&\3c&H555A58&\blur0.5}Rustle
-Dialogue: 0,0:23:18.50,0:23:37.18,Episode Preview Sign 2,,0,0,0,TS,{\pos(698.257,227.327)\fscx90\fscy90\frz16.92\fs40\bord3\c&HC4EADF&\3c&H555A58&\blur0.6}Rustle
-Dialogue: 0,0:23:18.50,0:23:37.18,Episode Preview Sign 2,,0,0,0,TS,{\pos(698.257,227.327)\fscx90\fscy90\frz16.92\fs40\bord0\c&HC4EADF&\3c&H555A58&\blur0.5}Rustle
-Dialogue: 0,0:22:41.33,0:22:41.38,Episode Preview Sign,,0,0,0,TS,{\pos(1464.8,115.6)\frz3.24\fs100\fsp5\c&H636363&\3c&HD3EFE4&\blur0.7\clip(m 1466 21 l 1509 125 1221 123 1242 27)}PREVIEW
-Dialogue: 1,0:22:41.33,0:22:41.38,Episode Preview Sign,,0,0,0,TS,{\pos(1464.8,115.6)\frz3.24\fs100\fsp5\bord0\c&H636363&\3c&HD3EFE4&\clip(m 1466 21 l 1509 125 1221 123 1242 27)}PREVIEW
-Dialogue: 0,0:22:41.38,0:23:11.03,Episode Preview Sign,,0,0,0,TS,{\pos(1464.8,115.6)\frz3.24\fs100\fsp5\c&H636363&\3c&HD3EFE4&\blur0.7}PREVIEW
-Dialogue: 1,0:22:41.38,0:23:11.03,Episode Preview Sign,,0,0,0,TS,{\pos(1464.8,115.6)\frz3.24\fs100\fsp5\bord0\c&H636363&\3c&HD3EFE4&\blur1}PREVIEW
-Dialogue: 0,0:23:18.50,0:23:37.18,Episode Preview Sign,,0,0,0,TS,{\pos(1464.8,115.6)\frz3.24\fs100\fsp5\c&H636363&\3c&HD3EFE4&\blur0.7}PREVIEW
-Dialogue: 1,0:23:18.50,0:23:37.18,Episode Preview Sign,,0,0,0,TS,{\pos(1464.8,115.6)\frz3.24\fs100\fsp5\bord0\c&H636363&\3c&HD3EFE4&\blur1}PREVIEW
-Dialogue: 0,0:22:42.63,0:23:11.03,Episode Preview Sign 2,,0,0,0,TS,{\fscx90\fscy90\frz16.92\fs40\bord3\c&HC4EADF&\3c&H555A58&\blur0.6\pos(889.6,202.13)}Rustle
-Dialogue: 0,0:22:42.63,0:23:11.03,Episode Preview Sign 2,,0,0,0,TS,{\fscx90\fscy90\frz16.92\fs40\bord0\c&HC4EADF&\3c&H555A58&\blur0.5\pos(889.6,202.13)}Rustle
-Dialogue: 0,0:23:18.50,0:23:37.18,Episode Preview Sign 2,,0,0,0,TS,{\fscx90\fscy90\frz16.92\fs40\bord3\c&HC4EADF&\3c&H555A58&\blur0.6\pos(889.6,202.13)}Rustle
-Dialogue: 0,0:23:18.50,0:23:37.18,Episode Preview Sign 2,,0,0,0,TS,{\fscx90\fscy90\frz16.92\fs40\bord0\c&HBEE4F0&\c&HC4EADF&\3c&H555A58&\blur0.5\pos(889.6,202.13)}Rustle
+Dialogue: 0,0:22:40.00,0:22:40.50,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx100.46\fscy100.46\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:22:40.50,0:22:40.54,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx100.46\fscy100.46\frz0.1\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:22:40.54,0:22:40.58,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:22:40.58,0:22:40.63,Title Card Sign,,0,0,0,,{\an3\pos(1148.48,495.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:22:40.63,0:22:40.67,Title Card Sign,,0,0,0,,{\an3\pos(1149.48,496.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29272E&\blur1}Demon Slayer
+Dialogue: 0,0:22:40.67,0:22:40.71,Title Card Sign,,0,0,0,,{\an3\pos(1151.48,496.42)\fscx100\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H2B2A2E&\blur1.1}Demon Slayer
+Dialogue: 0,0:22:40.71,0:22:40.75,Title Card Sign,,0,0,0,,{\an3\pos(1155.48,496.42)\fscx99\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:40.75,0:22:40.79,Title Card Sign,,0,0,0,,{\an3\pos(1167.48,494.42)\fscx95\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:40.79,0:22:40.83,Title Card Sign,,0,0,0,,{\an3\pos(1207.41,490.38)\fscx95\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:40.83,0:22:40.88,Title Card Sign,,0,0,0,,{\an3\pos(1257.98,480.1)\fscx95\fscy102\frz1.65\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:40.88,0:22:40.92,Title Card Sign,,0,0,0,,{\an3\pos(1329.41,478.38)\fscx95\fscy102\frz1.65\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:40.92,0:22:40.96,Title Card Sign,,0,0,0,,{\an3\pos(1403.41,478.96)\fscx95\fscy102\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:40.96,0:22:41.00,Title Card Sign,,0,0,0,,{\an3\pos(1498.55,471.53)\fscx90.31\fscy96.96\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:41.00,0:22:41.04,Title Card Sign,,0,0,0,,{\an3\pos(1593.12,474.38)\fscx83\fscy96\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:41.04,0:22:41.08,Title Card Sign,,0,0,0,,{\an3\pos(1682.84,466.67)\fscx73\fscy92\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:41.08,0:22:41.13,Title Card Sign,,0,0,0,,{\an3\pos(1751.98,461.53)\fscx63\fscy98\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:41.13,0:22:41.17,Title Card Sign,,0,0,0,,{\an3\pos(1825.12,458.1)\fscx45\fscy99\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:41.17,0:22:41.21,Title Card Sign,,0,0,0,,{\an3\pos(1892.27,456.1)\fscx28\fscy109\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:41.17,0:22:41.21,Episode Preview Sign 2,,0,0,0,,{\pos(698.257,227.327)\fscx90\fscy90\frz16.92\fs40\bord3\c&HC4EADF&\3c&H555A58&\blur0.6\clip(m 705 177 l 722 241 612 275 568 233)\2c&H666667&}Rustle
+Dialogue: 0,0:22:41.17,0:22:41.21,Episode Preview Sign 2,,0,0,0,,{\pos(698.257,227.327)\fscx90\fscy90\frz16.92\fs40\bord0\c&HC4EADF&\3c&H555A58&\blur0.5\clip(m 705 177 l 722 241 612 275 568 233)}Rustle
+Dialogue: 0,0:22:41.21,0:23:11.03,Episode Preview Sign 2,,0,0,0,,{\pos(698.257,227.327)\fscx90\fscy90\frz16.92\fs40\bord3\c&HC4EADF&\3c&H555A58&\blur0.6}Rustle
+Dialogue: 0,0:22:41.21,0:23:11.03,Episode Preview Sign 2,,0,0,0,,{\pos(698.257,227.327)\fscx90\fscy90\frz16.92\fs40\bord0\c&HC4EADF&\3c&H555A58&\blur0.5}Rustle
+Dialogue: 0,0:23:18.50,0:23:37.18,Episode Preview Sign 2,,0,0,0,,{\pos(698.257,227.327)\fscx90\fscy90\frz16.92\fs40\bord3\c&HC4EADF&\3c&H555A58&\blur0.6}Rustle
+Dialogue: 0,0:23:18.50,0:23:37.18,Episode Preview Sign 2,,0,0,0,,{\pos(698.257,227.327)\fscx90\fscy90\frz16.92\fs40\bord0\c&HC4EADF&\3c&H555A58&\blur0.5}Rustle
+Dialogue: 0,0:22:41.33,0:22:41.38,Episode Preview Sign,,0,0,0,,{\pos(1464.8,115.6)\frz3.24\fs100\fsp5\c&H636363&\3c&HD3EFE4&\blur0.7\clip(m 1466 21 l 1509 125 1221 123 1242 27)}PREVIEW
+Dialogue: 1,0:22:41.33,0:22:41.38,Episode Preview Sign,,0,0,0,,{\pos(1464.8,115.6)\frz3.24\fs100\fsp5\bord0\c&H636363&\3c&HD3EFE4&\clip(m 1466 21 l 1509 125 1221 123 1242 27)}PREVIEW
+Dialogue: 0,0:22:41.38,0:23:11.03,Episode Preview Sign,,0,0,0,,{\pos(1464.8,115.6)\frz3.24\fs100\fsp5\c&H636363&\3c&HD3EFE4&\blur0.7}PREVIEW
+Dialogue: 1,0:22:41.38,0:23:11.03,Episode Preview Sign,,0,0,0,,{\pos(1464.8,115.6)\frz3.24\fs100\fsp5\bord0\c&H636363&\3c&HD3EFE4&\blur1}PREVIEW
+Dialogue: 0,0:23:18.50,0:23:37.18,Episode Preview Sign,,0,0,0,,{\pos(1464.8,115.6)\frz3.24\fs100\fsp5\c&H636363&\3c&HD3EFE4&\blur0.7}PREVIEW
+Dialogue: 1,0:23:18.50,0:23:37.18,Episode Preview Sign,,0,0,0,,{\pos(1464.8,115.6)\frz3.24\fs100\fsp5\bord0\c&H636363&\3c&HD3EFE4&\blur1}PREVIEW
+Dialogue: 0,0:22:42.63,0:23:11.03,Episode Preview Sign 2,,0,0,0,,{\fscx90\fscy90\frz16.92\fs40\bord3\c&HC4EADF&\3c&H555A58&\blur0.6\pos(889.6,202.13)}Rustle
+Dialogue: 0,0:22:42.63,0:23:11.03,Episode Preview Sign 2,,0,0,0,,{\fscx90\fscy90\frz16.92\fs40\bord0\c&HC4EADF&\3c&H555A58&\blur0.5\pos(889.6,202.13)}Rustle
+Dialogue: 0,0:23:18.50,0:23:37.18,Episode Preview Sign 2,,0,0,0,,{\fscx90\fscy90\frz16.92\fs40\bord3\c&HC4EADF&\3c&H555A58&\blur0.6\pos(889.6,202.13)}Rustle
+Dialogue: 0,0:23:18.50,0:23:37.18,Episode Preview Sign 2,,0,0,0,,{\fscx90\fscy90\frz16.92\fs40\bord0\c&HBEE4F0&\c&HC4EADF&\3c&H555A58&\blur0.5\pos(889.6,202.13)}Rustle
 Dialogue: 0,0:22:43.59,0:22:44.50,Default,,0,0,0,,Say, Tanjirou,
 Dialogue: 0,0:22:44.84,0:22:49.55,Default,,0,0,0,,I think that girl you forcibly pulled away \Nfrom me might love me after all.
 Dialogue: 0,0:22:49.55,0:22:50.76,Default,,0,0,0,,What are you talking about?
@@ -538,54 +538,54 @@ Dialogue: 0,0:23:26.67,0:23:27.84,Default,,0,0,0,,If I make it out of this house
 Dialogue: 0,0:23:27.84,0:23:30.30,Default,,0,0,0,,I’m gonna go straight after her and tie the knot! {Okay, so I’m not actually sure what he says at the end here and I really can’t seem to be able to figure it out ebtirely. But I think it’s to confess to her again or tell her about it. At the very least, I’m pretty sure it’s not rubbing cheeks. If you can, please change it to something less sexually predatory and more uhh, you know, zenitsu-like.} {## How’s this? It’s an idiom for getting married}
 Dialogue: 0,0:23:30.30,0:23:34.30,Default,,0,0,0,,Next, Episode 12, \N"The Boar Bares Its Fangs, Zenitsu Sleeps"!
 Dialogue: 0,0:23:34.30,0:23:37.18,Default,,0,0,0,,Hey, don’t just ignore me, Tanjirou!
-Dialogue: 0,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,TS,{\pos(1019.57,1185.48)\fs152\bord23\c&H000000&\3c&H080118&\alpha&H00&\1a&HFF&\blur9}To Be Continued
-Dialogue: 1,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,TS,{\pos(1019.57,1185.48)\fs152\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur9}To Be Continued
-Dialogue: 2,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,TS,{\pos(1019.57,1185.48)\fs152\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur9}To Be Continued
-Dialogue: 3,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,TS,{\pos(1019.57,1185.48)\fs152\bord0\shad0\c&HFFFFFF&\blur9}To Be Continued
-Dialogue: 0,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,TS,{=10}{\pos(1081.08,973.86)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur3}To Be Continued
-Dialogue: 1,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,TS,{=9}{\pos(1081.08,973.86)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur3}To Be Continued
-Dialogue: 2,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,TS,{=8}{\pos(1081.08,973.86)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur3}To Be Continued
-Dialogue: 3,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,TS,{=7}{\pos(1081.08,973.86)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2}To Be Continued
-Dialogue: 0,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,TS,{=10}{\pos(1094.43,1012.19)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
-Dialogue: 1,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,TS,{=9}{\pos(1094.43,1012.19)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
-Dialogue: 2,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,TS,{=8}{\pos(1094.43,1012.19)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
-Dialogue: 3,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,TS,{=7}{\pos(1094.43,1012.19)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2}To Be Continued
-Dialogue: 0,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,TS,{=10}{\pos(1077.84,998.9)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
-Dialogue: 1,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,TS,{=9}{\pos(1077.84,998.9)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
-Dialogue: 2,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,TS,{=8}{\pos(1077.84,998.9)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
-Dialogue: 3,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,TS,{=7}{\pos(1077.84,998.9)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.5}To Be Continued
-Dialogue: 0,0:23:37.43,0:23:37.47,To Be Continued Sign,,0,0,0,TS,{=10}{\pos(1089.16,1009.04)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
-Dialogue: 1,0:23:37.43,0:23:37.47,To Be Continued Sign,,0,0,0,TS,{=9}{\pos(1089.16,1009.04)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
-Dialogue: 2,0:23:37.43,0:23:37.47,To Be Continued Sign,,0,0,0,TS,{=8}{\pos(1089.16,1009.04)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
-Dialogue: 3,0:23:37.43,0:23:37.47,To Be Continued Sign,,0,0,0,TS,{=7}{\pos(1089.16,1009.04)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.5}To Be Continued
-Dialogue: 0,0:23:37.47,0:23:37.52,To Be Continued Sign,,0,0,0,TS,{=10}{\pos(1084.29,996.27)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
-Dialogue: 1,0:23:37.47,0:23:37.52,To Be Continued Sign,,0,0,0,TS,{=9}{\pos(1084.29,996.27)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
-Dialogue: 2,0:23:37.47,0:23:37.52,To Be Continued Sign,,0,0,0,TS,{=8}{\pos(1084.29,996.27)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
-Dialogue: 3,0:23:37.47,0:23:37.52,To Be Continued Sign,,0,0,0,TS,{=7}{\pos(1084.29,996.27)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.5}To Be Continued
-Dialogue: 0,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,TS,{=10}{\pos(1085.12,1011.76)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
-Dialogue: 1,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,TS,{=9}{\pos(1085.12,1011.76)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
-Dialogue: 2,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,TS,{=8}{\pos(1085.12,1011.76)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
-Dialogue: 3,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,TS,{=7}{\pos(1085.12,1011.76)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,TS,{=10}{\pos(1090.47,1000.41)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
-Dialogue: 1,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,TS,{=9}{\pos(1090.47,1000.41)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,TS,{=8}{\pos(1090.47,1000.41)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,TS,{=7}{\pos(1090.47,1000.41)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.60,0:23:37.64,To Be Continued Sign,,0,0,0,TS,{=10}{\pos(1089.42,1005.3)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
-Dialogue: 1,0:23:37.60,0:23:37.64,To Be Continued Sign,,0,0,0,TS,{=9}{\pos(1089.42,1005.3)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.60,0:23:37.64,To Be Continued Sign,,0,0,0,TS,{=8}{\pos(1089.42,1005.3)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.60,0:23:37.64,To Be Continued Sign,,0,0,0,TS,{=7}{\pos(1089.42,1005.3)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.64,0:23:37.68,To Be Continued Sign,,0,0,0,TS,{=10}{\pos(1082.12,1000.78)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
-Dialogue: 1,0:23:37.64,0:23:37.68,To Be Continued Sign,,0,0,0,TS,{=9}{\pos(1082.12,1000.78)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.64,0:23:37.68,To Be Continued Sign,,0,0,0,TS,{=8}{\pos(1082.12,1000.78)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.64,0:23:37.68,To Be Continued Sign,,0,0,0,TS,{=7}{\pos(1082.12,1000.78)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.68,0:23:37.72,To Be Continued Sign,,0,0,0,TS,{=10}{\pos(1079.01,1008.57)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
-Dialogue: 1,0:23:37.68,0:23:37.72,To Be Continued Sign,,0,0,0,TS,{=9}{\pos(1079.01,1008.57)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.68,0:23:37.72,To Be Continued Sign,,0,0,0,TS,{=8}{\pos(1079.01,1008.57)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.68,0:23:37.72,To Be Continued Sign,,0,0,0,TS,{=7}{\pos(1079.01,1008.57)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.72,0:23:40.27,To Be Continued Sign,,0,0,0,TS,{=10}{\pos(1081.49,1011.15)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
-Dialogue: 1,0:23:37.72,0:23:40.27,To Be Continued Sign,,0,0,0,TS,{=9}{\pos(1081.49,1011.15)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.72,0:23:40.27,To Be Continued Sign,,0,0,0,TS,{=8}{\pos(1081.49,1011.15)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.72,0:23:40.27,To Be Continued Sign,,0,0,0,TS,{=7}{\pos(1081.49,1011.15)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord23\c&H000000&\3c&H080118&\alpha&H00&\1a&HFF&\blur9}To Be Continued
+Dialogue: 1,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur9}To Be Continued
+Dialogue: 2,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur9}To Be Continued
+Dialogue: 3,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord0\shad0\c&HFFFFFF&\blur9}To Be Continued
+Dialogue: 0,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{=10}{\pos(1081.08,973.86)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur3}To Be Continued
+Dialogue: 1,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{=9}{\pos(1081.08,973.86)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur3}To Be Continued
+Dialogue: 2,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{=8}{\pos(1081.08,973.86)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur3}To Be Continued
+Dialogue: 3,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{=7}{\pos(1081.08,973.86)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2}To Be Continued
+Dialogue: 0,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{=10}{\pos(1094.43,1012.19)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
+Dialogue: 1,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{=9}{\pos(1094.43,1012.19)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
+Dialogue: 2,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{=8}{\pos(1094.43,1012.19)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
+Dialogue: 3,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{=7}{\pos(1094.43,1012.19)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2}To Be Continued
+Dialogue: 0,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{=10}{\pos(1077.84,998.9)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
+Dialogue: 1,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{=9}{\pos(1077.84,998.9)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
+Dialogue: 2,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{=8}{\pos(1077.84,998.9)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
+Dialogue: 3,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{=7}{\pos(1077.84,998.9)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.5}To Be Continued
+Dialogue: 0,0:23:37.43,0:23:37.47,To Be Continued Sign,,0,0,0,,{=10}{\pos(1089.16,1009.04)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
+Dialogue: 1,0:23:37.43,0:23:37.47,To Be Continued Sign,,0,0,0,,{=9}{\pos(1089.16,1009.04)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
+Dialogue: 2,0:23:37.43,0:23:37.47,To Be Continued Sign,,0,0,0,,{=8}{\pos(1089.16,1009.04)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
+Dialogue: 3,0:23:37.43,0:23:37.47,To Be Continued Sign,,0,0,0,,{=7}{\pos(1089.16,1009.04)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.5}To Be Continued
+Dialogue: 0,0:23:37.47,0:23:37.52,To Be Continued Sign,,0,0,0,,{=10}{\pos(1084.29,996.27)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
+Dialogue: 1,0:23:37.47,0:23:37.52,To Be Continued Sign,,0,0,0,,{=9}{\pos(1084.29,996.27)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
+Dialogue: 2,0:23:37.47,0:23:37.52,To Be Continued Sign,,0,0,0,,{=8}{\pos(1084.29,996.27)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
+Dialogue: 3,0:23:37.47,0:23:37.52,To Be Continued Sign,,0,0,0,,{=7}{\pos(1084.29,996.27)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.5}To Be Continued
+Dialogue: 0,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{=10}{\pos(1085.12,1011.76)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
+Dialogue: 1,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{=9}{\pos(1085.12,1011.76)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
+Dialogue: 2,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{=8}{\pos(1085.12,1011.76)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
+Dialogue: 3,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{=7}{\pos(1085.12,1011.76)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,,{=10}{\pos(1090.47,1000.41)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
+Dialogue: 1,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,,{=9}{\pos(1090.47,1000.41)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,,{=8}{\pos(1090.47,1000.41)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,,{=7}{\pos(1090.47,1000.41)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.60,0:23:37.64,To Be Continued Sign,,0,0,0,,{=10}{\pos(1089.42,1005.3)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
+Dialogue: 1,0:23:37.60,0:23:37.64,To Be Continued Sign,,0,0,0,,{=9}{\pos(1089.42,1005.3)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.60,0:23:37.64,To Be Continued Sign,,0,0,0,,{=8}{\pos(1089.42,1005.3)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.60,0:23:37.64,To Be Continued Sign,,0,0,0,,{=7}{\pos(1089.42,1005.3)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.64,0:23:37.68,To Be Continued Sign,,0,0,0,,{=10}{\pos(1082.12,1000.78)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
+Dialogue: 1,0:23:37.64,0:23:37.68,To Be Continued Sign,,0,0,0,,{=9}{\pos(1082.12,1000.78)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.64,0:23:37.68,To Be Continued Sign,,0,0,0,,{=8}{\pos(1082.12,1000.78)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.64,0:23:37.68,To Be Continued Sign,,0,0,0,,{=7}{\pos(1082.12,1000.78)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.68,0:23:37.72,To Be Continued Sign,,0,0,0,,{=10}{\pos(1079.01,1008.57)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
+Dialogue: 1,0:23:37.68,0:23:37.72,To Be Continued Sign,,0,0,0,,{=9}{\pos(1079.01,1008.57)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.68,0:23:37.72,To Be Continued Sign,,0,0,0,,{=8}{\pos(1079.01,1008.57)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.68,0:23:37.72,To Be Continued Sign,,0,0,0,,{=7}{\pos(1079.01,1008.57)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.72,0:23:40.27,To Be Continued Sign,,0,0,0,,{=10}{\pos(1081.49,1011.15)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
+Dialogue: 1,0:23:37.72,0:23:40.27,To Be Continued Sign,,0,0,0,,{=9}{\pos(1081.49,1011.15)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.72,0:23:40.27,To Be Continued Sign,,0,0,0,,{=8}{\pos(1081.49,1011.15)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.72,0:23:40.27,To Be Continued Sign,,0,0,0,,{=7}{\pos(1081.49,1011.15)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
 Comment: 0,0:00:44.98,0:00:44.98,Default,,0,0,0,,---------------------------------------------- [     OP    ] ----------------------------------------------
 Comment: 0,0:00:46.02,0:00:52.44,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}tsuyoku nareru riyuu wo shitta
 Comment: 1,0:00:46.19,0:00:52.28,OP1 - ROM A,,0,0,0,,{\fsp0.5\blur1\q2\c&HF9F8FB&}tsuyoku nareru riyuu wo shitta
