@@ -291,7 +291,7 @@ Dialogue: 10,0:15:55.47,0:15:56.85,Default,,0,0,0,,At last.
 Dialogue: 10,0:15:59.22,0:16:01.94,Default,,0,0,0,,I’m truly impressed that you made it back. {Again, more a well done that impressed, but it works here} {## Works fine}
 Dialogue: 10,0:16:01.94,0:16:02.64,Default,,0,0,0,,Yes.
 Dialogue: 10,0:16:05.27,0:16:08.78,Default,,0,0,0,,There are several kinds of demons.
-Dialogue: 10,0:16:09.48,0:16:13.07,Default,,0,0,0,,There are demons that use a special technique called{ the} “Blood Demon Arts”,
+Dialogue: 10,0:16:09.48,0:16:13.07,Default,,0,0,0,,There are demons that use a special technique called{ the} “Demon Blood Arts”,
 Dialogue: 10,0:16:13.07,0:16:14.95,Default,,0,0,0,,and possess supernatural abilities. {Changed spells again, that’s just obviously questionable. This sentence could be phrased better. Also Uroko didn’t come up with that name at least not clearly fro mthe sentence}
 Dialogue: 10,0:16:16.74,0:16:21.21,Default,,0,0,0,,You may have to fight\Nthose kinds of demons as well from now on.
 Dialogue: 10,0:16:21.21,0:16:26.34,Default,,0,0,0,,And battling them will be far more difficult\Nthan anything you’ve faced until now.
@@ -301,7 +301,7 @@ Dialogue: 10,0:16:37.01,0:16:38.26,Default,,0,0,0,,Say...
 Dialogue: 10,0:16:38.26,0:16:41.77,Default,,0,0,0,,I think that Nezuko’s not like the other demons.
 Dialogue: 10,0:16:42.02,0:16:45.52,Default,,0,0,0,,You think it could it be that Whatchamacallit-Arts{Whatever-You-Call-It-Arts}?
 Dialogue: 10,0:16:45.52,0:16:48.65,Default,,0,0,0,,No, I don’t think so.
-Dialogue: 10,0:16:48.65,0:16:51.94,Default,,0,0,0,,I wouldn’t call that an example\Nof the Blood Demon Arts.
+Dialogue: 10,0:16:48.65,0:16:51.94,Default,,0,0,0,,I wouldn’t call that an example\Nof the Demon Blood Arts.
 Dialogue: 10,0:16:53.07,0:16:55.57,Default,,0,0,0,,I’m just taking a guess here,
 Dialogue: 10,0:16:55.57,0:17:00.24,Default,,0,0,0,,but it could be that Nezuko’s \Nrecovering her strength through sleep
 Dialogue: 10,0:17:00.24,0:17:03.33,Default,,0,0,0,,rather than by consuming flesh.

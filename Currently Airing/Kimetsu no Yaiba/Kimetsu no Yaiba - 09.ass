@@ -167,7 +167,7 @@ Dialogue: 2,0:02:27.62,0:02:29.96,Title Card Sign,,0,0,0,,{\pos(1616.54,466.28)\
 Dialogue: 2,0:02:28.33,0:02:29.96,Title Card Sign,,0,0,0,,{\pos(1433.76,1081.65)\fscx130\fscy107\fnBrushStroke 35\b0\c&HFFFFFF&\4a&HFF&\blur0.9} The Temari Demon\N and The Arrow Demon
 Dialogue: 10,0:02:44.06,0:02:46.22,Default,,0,0,0,,You were right, Yahaba!
 Dialogue: 10,0:02:46.47,0:02:50.10,Default,,0,0,0,,A building just appeared out of thin air!
-Dialogue: 10,0:02:51.77,0:02:56.32,Default,,0,0,0,,The handiwork of a demon \Nthat’s adept at hiding objects.{Blood Demon Arts wielder adept at hiding objects.} {## omit "Blood Demon Arts" because it doesn’t fit nicely in the sentence}{Yup}
+Dialogue: 10,0:02:51.77,0:02:56.32,Default,,0,0,0,,The handiwork of a demon \Nthat’s adept at hiding objects.{Demon Blood Arts wielder adept at hiding objects.} {## omit "Demon Blood Arts" because it doesn’t fit nicely in the sentence}{Yup}
 Dialogue: 10,0:02:57.74,0:03:01.61,Default,,0,0,0,,And is the demon hunter accompanied by a demon?
 Dialogue: 10,0:03:02.20,0:03:03.74,Default,,0,0,0,,What’s going on here?
 Dialogue: 10,0:03:05.54,0:03:07.33,Default,,0,0,0,,Isn’t this fun?
@@ -240,7 +240,7 @@ Dialogue: 10,0:07:23.13,0:07:25.84,Default,,0,0,0,,The greater our numbers, the 
 Dialogue: 10,0:07:25.84,0:07:28.84,Default,,0,0,0,,which increases the odds of Kibutsuji discovering us!
 Dialogue: 10,0:07:29.88,0:07:32.34,Default,,0,0,0,,{\i1}Those demons got so close,
 Dialogue: 10,0:07:32.34,0:07:34.64,Default,,0,0,0,,{\i1}yet there was no scent until they attacked!
-Dialogue: 10,0:07:35.89,0:07:38.27,Default,,0,0,0,,{\i1}That was Yushirou’s Blood Demon Arts, huh?
+Dialogue: 10,0:07:35.89,0:07:38.27,Default,,0,0,0,,{\i1}That was Yushirou’s Demon Blood Arts, huh?
 Dialogue: 10,0:07:39.43,0:07:43.40,Default,,0,0,0,,Anyone who ruins the time I spend alone with you...
 Dialogue: 10,0:07:43.40,0:07:45.15,Default,,0,0,0,,I despise such people!
 Dialogue: 10,0:07:46.07,0:07:47.90,Default,,0,0,0,,I despise them with all my heart!
