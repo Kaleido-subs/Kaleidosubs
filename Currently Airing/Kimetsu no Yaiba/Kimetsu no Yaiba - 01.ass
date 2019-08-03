@@ -20,9 +20,10 @@ Audio File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimets
 Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Encoded/YaibaBD_01 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 2514
-Active Line: 2531
-Video Position: 32607
+Video Zoom Percent: 0.500000
+Scroll Position: 135
+Active Line: 139
+Video Position: 12861
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -191,7 +192,7 @@ Dialogue: 10,0:09:25.33,0:09:27.11,Default,,0,0,0,,{\i1}I will save you no matte
 Dialogue: 10,0:09:27.79,0:09:30.21,Default,,0,0,0,,{\i1}Your big brother will definitely save you!
 Dialogue: 10,0:09:38.39,0:09:39.60,Default,,0,0,0,,{\i1}Oh no!
 Dialogue: 10,0:09:48.15,0:09:51.08,Default,,0,0,0,,{\i1}The snow saved me.
-Dialogue: 10,0:09:51.82,0:09:53.86,Default,,0,0,0,,{\i1}	Though that's what made me slip to begin with.
+Dialogue: 10,0:09:51.82,0:09:53.86,Default,,0,0,0,,{\i1}Though that's what made me slip to begin with.
 Dialogue: 10,0:09:55.78,0:09:56.99,Default,,0,0,0,,Nezuko?
 Dialogue: 10,0:10:03.24,0:10:05.56,Default,,0,0,0,,Nezuko, are you all right?
 Dialogue: 10,0:10:06.87,0:10:08.37,Default,,0,0,0,,You don’t have to walk!
