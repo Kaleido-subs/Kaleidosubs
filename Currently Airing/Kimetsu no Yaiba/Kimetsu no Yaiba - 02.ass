@@ -16,14 +16,14 @@ ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
 Last Style Storage: Default (1080p)
-Audio File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Encoded/YaibaBD_02 (Premux).mkv
-Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Encoded/YaibaBD_02 (Premux).mkv
+Audio File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/YaibaBD_02_cut.m4a
+Video File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba Vol.1 (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba - 02 (BD 1080p) [1955904F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 207
-Active Line: 223
-Video Position: 26385
+Scroll Position: 195
+Active Line: 206
+Video Position: 24618
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -250,8 +250,8 @@ Dialogue: 10,0:16:54.15,0:16:55.78,Default,,0,0,0,,{\i1}I see.
 Dialogue: 10,0:16:55.78,0:16:59.03,Default,,0,0,0,,{\i1}He thinks I might get lost in this thick fog.
 Dialogue: 10,0:17:00.08,0:17:02.58,Default,,0,0,0,,{\i1}I just have to get back by dawn, right?
 Dialogue: 10,0:17:03.04,0:17:04.41,Default,,0,0,0,,{\i1}That’s a cakewalk!
-Dialogue: 10,0:17:04.41,0:17:06.75,Default,,0,0,0,,{\i1}I’ve got a great sense of smell!
-Dialogue: 10,0:17:06.75,0:17:08.96,Default,,0,0,0,,{\i1}I’ve already memorized Urokodaki’s scent!
+Dialogue: 10,0:17:04.41,0:17:06.25,Default,,0,0,0,,{\i1}I’ve got a great sense of smell!
+Dialogue: 10,0:17:06.25,0:17:08.96,Default,,0,0,0,,{\i1}I’ve already memorized Urokodaki’s scent!
 Dialogue: 10,0:17:20.22,0:17:21.47,Default,,0,0,0,,{\i1}Rocks?!
 Dialogue: 10,0:17:33.32,0:17:34.74,Default,,0,0,0,,{\i1}A pitfall?
 Dialogue: 10,0:17:36.07,0:17:37.45,Default,,0,0,0,,{\i1}I see.
