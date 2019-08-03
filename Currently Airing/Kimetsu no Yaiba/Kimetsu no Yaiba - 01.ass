@@ -21,9 +21,9 @@ Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimets
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 135
-Active Line: 139
-Video Position: 12861
+Scroll Position: 231
+Active Line: 235
+Video Position: 21893
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -49,300 +49,300 @@ Dialogue: 10,0:00:39.35,0:00:41.52,Default,,0,0,0,,I will save you no matter wha
 Dialogue: 10,0:00:43.48,0:00:44.91,Default,,0,0,0,,I won’t let you die!
 Dialogue: 10,0:00:46.27,0:00:50.52,Default,,0,0,0,,Your big brother is definitely \Ngonna save you, you hear?
 Comment: 0,0:00:59.03,0:00:59.03,Default,,0,0,0,,---------------------------------------------- [ PART A ] ----------------------------------------------
-Dialogue: 10,0:01:03.08,0:01:04.13,Default,,0,0,0,,Tanjirou?
-Dialogue: 10,0:01:07.54,0:01:09.60,Default,,0,0,0,,Your face is all covered in soot.
-Dialogue: 10,0:01:10.04,0:01:11.84,Default,,0,0,0,,Come over here.
-Dialogue: 10,0:01:14.05,0:01:18.39,Default,,0,0,0,,It might get dangerous if it starts snowing, \Nso it’s fine if you just stay home.
-Dialogue: 10,0:01:18.59,0:01:23.45,Default,,0,0,0,,Well, I want everyone to eat their fill on New Year’s,
-Dialogue: 10,0:01:23.45,0:01:25.64,Default,,0,0,0,,so I’m gonna sell as much charcoal as I can.
-Dialogue: 10,0:01:26.64,0:01:28.27,Default,,0,0,0,,Thank you.
-Dialogue: 10,0:01:29.77,0:01:30.86,Default,,0,0,0,,Tanjirou!
-Dialogue: 10,0:01:32.61,0:01:34.65,Default,,0,0,0,,You’re going to town again today?
-Dialogue: 10,0:01:34.65,0:01:36.28,Default,,0,0,0,,I’m coming with you!
-Dialogue: 10,0:01:38.07,0:01:39.49,Default,,0,0,0,,Oh no, you’re not!
-Dialogue: 10,0:01:39.49,0:01:42.16,Default,,0,0,0,,You know you can’t walk as fast as Tanjirou.
-Dialogue: 10,0:01:42.39,0:01:44.04,Default,,0,0,0,,But Mom!
-Dialogue: 10,0:01:44.04,0:01:45.16,Default,,0,0,0,,No buts.
-Dialogue: 10,0:01:45.50,0:01:48.29,Default,,0,0,0,,Since he can’t use the cart today,
-Dialogue: 10,0:01:48.29,0:01:51.00,Default,,0,0,0,,he won’t be able to give you a ride when you’re tired.
-Dialogue: 10,0:01:53.30,0:01:54.97,Default,,0,0,0,,Tanjirou!
-Dialogue: 10,0:01:56.36,0:01:57.84,Default,,0,0,0,,I wanna come with you!
-Dialogue: 10,0:01:58.51,0:02:00.65,Default,,0,0,0,,I promise I’ll help you!
-Dialogue: 10,0:02:01.47,0:02:03.06,Default,,0,0,0,,Thanks, Hanako.
-Dialogue: 10,0:02:03.81,0:02:06.22,Default,,0,0,0,,But you’re staying home today.
-Dialogue: 10,0:02:09.52,0:02:10.82,Default,,0,0,0,,You too, Shigeru.
-Dialogue: 10,0:02:10.82,0:02:13.86,Default,,0,0,0,,I’ll get you lots of tasty stuff, okay?
-Dialogue: 10,0:02:13.86,0:02:15.28,Default,,0,0,0,,For real?
-Dialogue: 10,0:02:15.28,0:02:16.19,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:02:17.99,0:02:21.12,Default,,0,0,0,,And Hanako, I’ll read you a book when I get back.
-Dialogue: 10,0:02:21.12,0:02:21.95,Default,,0,0,0,,Okay!
-Dialogue: 10,0:02:22.28,0:02:23.62,Default,,0,0,0,,That’s a good girl.
-Dialogue: 10,0:02:23.62,0:02:25.75,Default,,0,0,0,,Thank you so much, Tanjirou.
-Dialogue: 10,0:02:25.75,0:02:26.70,Default,,0,0,0,,Sure.
-Dialogue: 10,0:02:27.21,0:02:28.71,Default,,0,0,0,,All right, I’ll be heading out now.
-Dialogue: 10,0:02:29.21,0:02:30.42,Default,,0,0,0,,Takeo.
-Dialogue: 10,0:02:30.42,0:02:32.48,Default,,0,0,0,,Could you go chop some wood?
-Dialogue: 10,0:02:32.48,0:02:34.30,Default,,0,0,0,,Only as much as you can.
-Dialogue: 10,0:02:34.59,0:02:37.40,Default,,0,0,0,,I mean, sure, but...
-Dialogue: 10,0:02:37.97,0:02:40.72,Default,,0,0,0,,I thought we would do it together.
-Dialogue: 10,0:02:42.85,0:02:43.88,Default,,0,0,0,,There, there.
-Dialogue: 10,0:02:43.88,0:02:45.52,Default,,0,0,0,,What’s with that all of a sudden?
-Dialogue: 10,0:02:45.52,0:02:47.27,Default,,0,0,0,,Take’s all red!
-Dialogue: 10,0:02:47.27,0:02:48.60,Default,,0,0,0,,Sh-Shut up!
-Dialogue: 10,0:02:48.60,0:02:50.06,Default,,0,0,0,,There, there.
-Dialogue: 10,0:02:50.06,0:02:51.94,Default,,0,0,0,,I told you to cut it out!
-Dialogue: 10,0:02:56.86,0:02:59.14,Default,,0,0,0,,Come back soon, okay?
-Dialogue: 10,0:02:59.61,0:03:01.86,Default,,0,0,0,,Take care, okay?
-Dialogue: 10,0:03:06.87,0:03:08.18,Default,,0,0,0,,Tanjirou!
-Dialogue: 10,0:03:09.25,0:03:10.65,Default,,0,0,0,,Ah, Nezuko.
-Dialogue: 10,0:03:10.65,0:03:15.42,Default,,0,0,0,,I was busy putting Rokuta to sleep \Nso he won’t make a scene when you leave.
-Dialogue: 10,0:03:15.89,0:03:18.91,Default,,0,0,0,,He really misses Dad.
-Dialogue: 10,0:03:20.93,0:03:24.68,Default,,0,0,0,,Everyone’s been clinging to you \Na lot more since he passed away.
-Dialogue: 10,0:03:26.97,0:03:28.41,Default,,0,0,0,,Have a nice trip!
-Dialogue: 10,0:03:31.69,0:03:33.77,Default,,0,0,0,,{\i1}Our lives aren’t always easy,
-Dialogue: 10,0:03:34.40,0:03:35.76,Default,,0,0,0,,{\i1}but we’re happy.
-Dialogue: 10,0:03:36.73,0:03:40.00,Default,,0,0,0,,{\i1}However, life can be as fickle as the weather.
-Dialogue: 10,0:03:40.95,0:03:43.53,Default,,0,0,0,,{\i1}Constantly changing, never stagnating.
-Dialogue: 10,0:03:44.57,0:03:46.70,Default,,0,0,0,,{\i1}It won’t always stay sunny,
-Dialogue: 10,0:03:47.17,0:03:49.64,Default,,0,0,0,,{\i1}but snowfall doesn’t last forever either.
-Dialogue: 10,0:03:50.67,0:03:51.69,Default,,0,0,0,,{\i1}And...
-Dialogue: 10,0:03:52.45,0:03:54.70,Default,,0,0,0,,{\i1}whenever happiness meets its end,
-Dialogue: 10,0:03:55.13,0:03:56.18,Default,,0,0,0,,{\i1}it always carries
-Dialogue: 10,0:03:57.25,0:03:58.79,Default,,0,0,0,,{\i1}the smell of blood.
-Dialogue: 10,0:04:07.85,0:04:09.81,Default,,0,0,0,,Oh my, Tanjirou!
-Dialogue: 10,0:04:10.02,0:04:12.94,Default,,0,0,0,,I can’t believe you came down \Nthe mountain in this weather.
-Dialogue: 10,0:04:12.94,0:04:15.19,Default,,0,0,0,,You’re such a hard worker!
-Dialogue: 10,0:04:15.19,0:04:16.48,Default,,0,0,0,,You might catch a cold!
-Dialogue: 10,0:04:17.02,0:04:18.71,Default,,0,0,0,,This is nothing, really.
-Dialogue: 10,0:04:18.71,0:04:21.44,Default,,0,0,0,,Do you have enough charcoal?
-Dialogue: 10,0:04:21.44,0:04:23.28,Default,,0,0,0,,Hey, Tanjirou!
-Dialogue: 10,0:04:24.41,0:04:26.32,Default,,0,0,0,,Can I have some charcoal?
-Dialogue: 10,0:04:26.32,0:04:29.99,Default,,0,0,0,,Thanks for fixing the sliding doors the other day.
-Dialogue: 10,0:04:29.99,0:04:31.91,Default,,0,0,0,,I’ll need some charcoal as well!
-Dialogue: 10,0:04:35.92,0:04:37.36,Default,,0,0,0,,Tanjirou!
-Dialogue: 10,0:04:37.79,0:04:39.25,Default,,0,0,0,,Oh man, perfect timing!
-Dialogue: 10,0:04:40.17,0:04:43.22,Default,,0,0,0,,I’m being accused of breaking this plate!
-Dialogue: 10,0:04:43.22,0:04:45.01,Default,,0,0,0,,Help me out, will ya?
-Dialogue: 10,0:04:45.01,0:04:46.09,Default,,0,0,0,,Sniff it!
-Dialogue: 10,0:04:50.68,0:04:52.68,Default,,0,0,0,,It smells like a cat.
-Dialogue: 10,0:04:52.68,0:04:54.14,Default,,0,0,0,,See?
-Dialogue: 10,0:04:54.14,0:04:55.85,Default,,0,0,0,,Oh my, so it was a cat?
-Dialogue: 10,0:04:55.85,0:04:58.15,Default,,0,0,0,,I told you it wasn’t me!
-Dialogue: 10,0:04:58.56,0:04:59.61,Default,,0,0,0,,Tanjirou!
-Dialogue: 10,0:04:59.61,0:05:03.49,Default,,0,0,0,,Can you give me a hand with this luggage?
-Dialogue: 10,0:05:07.74,0:05:09.69,Default,,0,0,0,,Gosh, it’s gotten dark already.
-Dialogue: 10,0:05:10.49,0:05:13.16,Default,,0,0,0,,I’m glad I managed to sell everything, though.
-Dialogue: 10,0:05:14.71,0:05:16.14,Default,,0,0,0,,Hey, Tanjirou!
-Dialogue: 10,0:05:17.88,0:05:20.50,Default,,0,0,0,,Are you going back up the mountain?
-Dialogue: 10,0:05:20.50,0:05:22.55,Default,,0,0,0,,It’s too dangerous.
-Dialogue: 10,0:05:22.55,0:05:25.51,Default,,0,0,0,,I’ve got a good nose, so I’ll be fine.
-Dialogue: 10,0:05:25.88,0:05:27.84,Default,,0,0,0,,I’ll let you stay for the night.
-Dialogue: 10,0:05:27.84,0:05:29.72,Default,,0,0,0,,Come on. Get back here.
-Dialogue: 10,0:05:30.97,0:05:32.01,Default,,0,0,0,,But...
-Dialogue: 10,0:05:32.01,0:05:33.77,Default,,0,0,0,,Don’t argue, get over here!
-Dialogue: 10,0:05:34.48,0:05:36.33,Default,,0,0,0,,Before the demons show up.
-Dialogue: 10,0:05:50.24,0:05:51.70,Default,,0,0,0,,Thanks for treating me.
-Dialogue: 10,0:05:56.48,0:05:59.08,Default,,0,0,0,,Hey Saburo,
-Dialogue: 10,0:05:59.08,0:06:00.73,Default,,0,0,0,,what are demons like?
-Dialogue: 10,0:06:01.88,0:06:05.80,Default,,0,0,0,,Man-eating demons have always \Nroamed the lands after dark.
-Dialogue: 10,0:06:08.55,0:06:11.84,Default,,0,0,0,,That’s why you shouldn’t stroll around at night.
-Dialogue: 10,0:06:12.68,0:06:16.22,Default,,0,0,0,,If you’re done eating, sleep. \NYou can set off at dawn.
-Dialogue: 10,0:06:20.90,0:06:24.99,Default,,0,0,0,,Couldn’t these demons enter people’s homes?
-Dialogue: 10,0:06:25.90,0:06:28.44,Default,,0,0,0,,Yes, and they do.
-Dialogue: 10,0:06:32.07,0:06:35.56,Default,,0,0,0,,Then, everyone would end up \Ngetting eaten by the demons.
-Dialogue: 10,0:06:38.50,0:06:42.12,Default,,0,0,0,,That’s why the demon hunters \Nprotect us by slaying them.
-Dialogue: 10,0:06:42.63,0:06:44.00,Default,,0,0,0,,As they always have.
-Dialogue: 10,0:06:46.26,0:06:48.01,Default,,0,0,0,,I’m cutting the lights.
-Dialogue: 10,0:06:48.01,0:06:49.21,Default,,0,0,0,,Go to sleep now.
-Dialogue: 10,0:06:52.47,0:06:56.89,Default,,0,0,0,,{\i1}Saburo has been all alone after losing his family.
-Dialogue: 10,0:06:56.89,0:06:58.30,Default,,0,0,0,,{\i1}He’s probably lonely.
-Dialogue: 10,0:06:59.35,0:07:01.67,Default,,0,0,0,,{\i1}I’ll bring my brothers and sisters along next time.
-Dialogue: 10,0:07:02.34,0:07:06.40,Default,,0,0,0,,{\i1}It’s fine, there are no demons to be afraid of.
-Dialogue: 10,0:07:07.40,0:07:09.24,Default,,0,0,0,,{\i1}But, come to think of it,
-Dialogue: 10,0:07:09.95,0:07:13.82,Default,,0,0,0,,{\i1}Grandma used to say the same thing \Nwhen she was still alive.
+Dialogue: 10,0:01:03.12,0:01:04.16,Default,,0,0,0,,Tanjirou?
+Dialogue: 10,0:01:07.58,0:01:09.63,Default,,0,0,0,,Your face is all covered in soot.
+Dialogue: 10,0:01:10.09,0:01:11.88,Default,,0,0,0,,Come over here.
+Dialogue: 10,0:01:14.09,0:01:18.43,Default,,0,0,0,,It might get dangerous if it starts snowing, \Nso it’s fine if you just stay home.
+Dialogue: 10,0:01:18.64,0:01:23.47,Default,,0,0,0,,Well, I want everyone to eat their fill on New Year’s,
+Dialogue: 10,0:01:23.47,0:01:25.69,Default,,0,0,0,,so I’m gonna sell as much charcoal as I can.
+Dialogue: 10,0:01:26.69,0:01:28.31,Default,,0,0,0,,Thank you.
+Dialogue: 10,0:01:29.81,0:01:30.90,Default,,0,0,0,,Tanjirou!
+Dialogue: 10,0:01:32.65,0:01:34.69,Default,,0,0,0,,You’re going to town again today?
+Dialogue: 10,0:01:34.69,0:01:36.32,Default,,0,0,0,,I’m coming with you!
+Dialogue: 10,0:01:38.11,0:01:39.53,Default,,0,0,0,,Oh no, you’re not!
+Dialogue: 10,0:01:39.53,0:01:42.20,Default,,0,0,0,,You know you can’t walk as fast as Tanjirou.
+Dialogue: 10,0:01:42.41,0:01:44.08,Default,,0,0,0,,But Mom!
+Dialogue: 10,0:01:44.08,0:01:45.20,Default,,0,0,0,,No buts.
+Dialogue: 10,0:01:45.54,0:01:48.33,Default,,0,0,0,,Since he can’t use the cart today,
+Dialogue: 10,0:01:48.33,0:01:51.04,Default,,0,0,0,,he won’t be able to give you a ride when you’re tired.
+Dialogue: 10,0:01:53.34,0:01:55.01,Default,,0,0,0,,Tanjirou!
+Dialogue: 10,0:01:56.38,0:01:57.88,Default,,0,0,0,,I wanna come with you!
+Dialogue: 10,0:01:58.55,0:02:00.68,Default,,0,0,0,,I promise I’ll help you!
+Dialogue: 10,0:02:01.51,0:02:03.10,Default,,0,0,0,,Thanks, Hanako.
+Dialogue: 10,0:02:03.85,0:02:06.27,Default,,0,0,0,,But you’re staying home today.
+Dialogue: 10,0:02:09.56,0:02:10.86,Default,,0,0,0,,You too, Shigeru.
+Dialogue: 10,0:02:10.86,0:02:13.90,Default,,0,0,0,,I’ll get you lots of tasty stuff, okay?
+Dialogue: 10,0:02:13.90,0:02:15.32,Default,,0,0,0,,For real?
+Dialogue: 10,0:02:15.32,0:02:16.24,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:02:18.03,0:02:21.16,Default,,0,0,0,,And Hanako, I’ll read you a book when I get back.
+Dialogue: 10,0:02:21.16,0:02:21.99,Default,,0,0,0,,Okay!
+Dialogue: 10,0:02:22.33,0:02:23.66,Default,,0,0,0,,That’s a good girl.
+Dialogue: 10,0:02:23.66,0:02:25.79,Default,,0,0,0,,Thank you so much, Tanjirou.
+Dialogue: 10,0:02:25.79,0:02:26.75,Default,,0,0,0,,Sure.
+Dialogue: 10,0:02:27.25,0:02:28.75,Default,,0,0,0,,All right, I’ll be heading out now.
+Dialogue: 10,0:02:29.25,0:02:30.46,Default,,0,0,0,,Takeo.
+Dialogue: 10,0:02:30.46,0:02:32.50,Default,,0,0,0,,Could you go chop some wood?
+Dialogue: 10,0:02:32.50,0:02:34.34,Default,,0,0,0,,Only as much as you can.
+Dialogue: 10,0:02:34.63,0:02:37.42,Default,,0,0,0,,I mean, sure, but...
+Dialogue: 10,0:02:38.01,0:02:40.76,Default,,0,0,0,,I thought we would do it together.
+Dialogue: 10,0:02:42.89,0:02:43.93,Default,,0,0,0,,There, there.
+Dialogue: 10,0:02:43.93,0:02:45.56,Default,,0,0,0,,What’s with that all of a sudden?
+Dialogue: 10,0:02:45.56,0:02:47.31,Default,,0,0,0,,Take’s all red!
+Dialogue: 10,0:02:47.31,0:02:48.64,Default,,0,0,0,,Sh-Shut up!
+Dialogue: 10,0:02:48.64,0:02:50.10,Default,,0,0,0,,There, there.
+Dialogue: 10,0:02:50.10,0:02:51.98,Default,,0,0,0,,I told you to cut it out!
+Dialogue: 10,0:02:56.90,0:02:59.20,Default,,0,0,0,,Come back soon, okay?
+Dialogue: 10,0:02:59.65,0:03:01.91,Default,,0,0,0,,Take care, okay?
+Dialogue: 10,0:03:06.91,0:03:08.20,Default,,0,0,0,,Tanjirou!
+Dialogue: 10,0:03:09.29,0:03:10.71,Default,,0,0,0,,Ah, Nezuko.
+Dialogue: 10,0:03:10.71,0:03:15.46,Default,,0,0,0,,I was busy putting Rokuta to sleep \Nso he won’t make a scene when you leave.
+Dialogue: 10,0:03:15.92,0:03:18.97,Default,,0,0,0,,He really misses Dad.
+Dialogue: 10,0:03:20.97,0:03:24.72,Default,,0,0,0,,Everyone’s been clinging to you \Na lot more since he passed away.
+Dialogue: 10,0:03:27.01,0:03:28.43,Default,,0,0,0,,Have a nice trip!
+Dialogue: 10,0:03:31.73,0:03:33.81,Default,,0,0,0,,{\i1}Our lives aren’t always easy,
+Dialogue: 10,0:03:34.44,0:03:35.82,Default,,0,0,0,,{\i1}but we’re happy.
+Dialogue: 10,0:03:36.77,0:03:40.03,Default,,0,0,0,,{\i1}However, life can be as fickle as the weather.
+Dialogue: 10,0:03:40.99,0:03:43.57,Default,,0,0,0,,{\i1}Constantly changing, never stagnating.
+Dialogue: 10,0:03:44.62,0:03:46.74,Default,,0,0,0,,{\i1}It won’t always stay sunny,
+Dialogue: 10,0:03:47.20,0:03:49.66,Default,,0,0,0,,{\i1}but snowfall doesn’t last forever either.
+Dialogue: 10,0:03:50.71,0:03:51.71,Default,,0,0,0,,{\i1}And...
+Dialogue: 10,0:03:52.50,0:03:54.75,Default,,0,0,0,,{\i1}whenever happiness meets its end,
+Dialogue: 10,0:03:55.17,0:03:56.21,Default,,0,0,0,,{\i1}it always carries
+Dialogue: 10,0:03:57.30,0:03:58.84,Default,,0,0,0,,{\i1}the smell of blood.
+Dialogue: 10,0:04:07.89,0:04:09.85,Default,,0,0,0,,Oh my, Tanjirou!
+Dialogue: 10,0:04:10.06,0:04:12.98,Default,,0,0,0,,I can’t believe you came down \Nthe mountain in this weather.
+Dialogue: 10,0:04:12.98,0:04:15.23,Default,,0,0,0,,You’re such a hard worker!
+Dialogue: 10,0:04:15.23,0:04:16.52,Default,,0,0,0,,You might catch a cold!
+Dialogue: 10,0:04:17.06,0:04:18.73,Default,,0,0,0,,This is nothing, really.
+Dialogue: 10,0:04:18.73,0:04:21.49,Default,,0,0,0,,Do you have enough charcoal?
+Dialogue: 10,0:04:21.49,0:04:23.32,Default,,0,0,0,,Hey, Tanjirou!
+Dialogue: 10,0:04:24.45,0:04:26.37,Default,,0,0,0,,Can I have some charcoal?
+Dialogue: 10,0:04:26.37,0:04:30.04,Default,,0,0,0,,Thanks for fixing the sliding doors the other day.
+Dialogue: 10,0:04:30.04,0:04:31.95,Default,,0,0,0,,I’ll need some charcoal as well!
+Dialogue: 10,0:04:35.96,0:04:37.38,Default,,0,0,0,,Tanjirou!
+Dialogue: 10,0:04:37.84,0:04:39.30,Default,,0,0,0,,Oh man, perfect timing!
+Dialogue: 10,0:04:40.21,0:04:43.26,Default,,0,0,0,,I’m being accused of breaking this plate!
+Dialogue: 10,0:04:43.26,0:04:45.05,Default,,0,0,0,,Help me out, will ya?
+Dialogue: 10,0:04:45.05,0:04:46.14,Default,,0,0,0,,Sniff it!
+Dialogue: 10,0:04:50.72,0:04:52.73,Default,,0,0,0,,It smells like a cat.
+Dialogue: 10,0:04:52.73,0:04:54.19,Default,,0,0,0,,See?
+Dialogue: 10,0:04:54.19,0:04:55.90,Default,,0,0,0,,Oh my, so it was a cat?
+Dialogue: 10,0:04:55.90,0:04:58.19,Default,,0,0,0,,I told you it wasn’t me!
+Dialogue: 10,0:04:58.61,0:04:59.65,Default,,0,0,0,,Tanjirou!
+Dialogue: 10,0:04:59.65,0:05:03.53,Default,,0,0,0,,Can you give me a hand with this luggage?
+Dialogue: 10,0:05:07.78,0:05:09.74,Default,,0,0,0,,Gosh, it’s gotten dark already.
+Dialogue: 10,0:05:10.54,0:05:13.20,Default,,0,0,0,,I’m glad I managed to sell everything, though.
+Dialogue: 10,0:05:14.75,0:05:16.17,Default,,0,0,0,,Hey, Tanjirou!
+Dialogue: 10,0:05:17.92,0:05:20.55,Default,,0,0,0,,Are you going back up the mountain?
+Dialogue: 10,0:05:20.55,0:05:22.59,Default,,0,0,0,,It’s too dangerous.
+Dialogue: 10,0:05:22.59,0:05:25.55,Default,,0,0,0,,I’ve got a good nose, so I’ll be fine.
+Dialogue: 10,0:05:25.93,0:05:27.89,Default,,0,0,0,,I’ll let you stay for the night.
+Dialogue: 10,0:05:27.89,0:05:29.76,Default,,0,0,0,,Come on. Get back here.
+Dialogue: 10,0:05:31.01,0:05:32.06,Default,,0,0,0,,But...
+Dialogue: 10,0:05:32.06,0:05:33.81,Default,,0,0,0,,Don’t argue, get over here!
+Dialogue: 10,0:05:34.52,0:05:36.35,Default,,0,0,0,,Before the demons show up.
+Dialogue: 10,0:05:50.28,0:05:51.74,Default,,0,0,0,,Thanks for treating me.
+Dialogue: 10,0:05:56.50,0:05:59.13,Default,,0,0,0,,Hey Saburo,
+Dialogue: 10,0:05:59.13,0:06:00.75,Default,,0,0,0,,what are demons like?
+Dialogue: 10,0:06:01.92,0:06:05.84,Default,,0,0,0,,Man-eating demons have always \Nroamed the lands after dark.
+Dialogue: 10,0:06:08.59,0:06:11.89,Default,,0,0,0,,That’s why you shouldn’t stroll around at night.
+Dialogue: 10,0:06:12.72,0:06:16.27,Default,,0,0,0,,If you’re done eating, sleep. \NYou can set off at dawn.
+Dialogue: 10,0:06:20.94,0:06:25.03,Default,,0,0,0,,Couldn’t these demons enter people’s homes?
+Dialogue: 10,0:06:25.94,0:06:28.49,Default,,0,0,0,,Yes, and they do.
+Dialogue: 10,0:06:32.12,0:06:35.58,Default,,0,0,0,,Then, everyone would end up \Ngetting eaten by the demons.
+Dialogue: 10,0:06:38.54,0:06:42.17,Default,,0,0,0,,That’s why the demon hunters \Nprotect us by slaying them.
+Dialogue: 10,0:06:42.67,0:06:44.05,Default,,0,0,0,,As they always have.
+Dialogue: 10,0:06:46.30,0:06:48.05,Default,,0,0,0,,I’m cutting the lights.
+Dialogue: 10,0:06:48.05,0:06:49.26,Default,,0,0,0,,Go to sleep now.
+Dialogue: 10,0:06:52.51,0:06:56.93,Default,,0,0,0,,{\i1}Saburo has been all alone after losing his family.
+Dialogue: 10,0:06:56.93,0:06:58.35,Default,,0,0,0,,{\i1}He’s probably lonely.
+Dialogue: 10,0:06:59.39,0:07:01.69,Default,,0,0,0,,{\i1}I’ll bring my brothers and sisters along next time.
+Dialogue: 10,0:07:02.40,0:07:06.44,Default,,0,0,0,,{\i1}It’s fine, there are no demons to be afraid of.
+Dialogue: 10,0:07:07.44,0:07:09.28,Default,,0,0,0,,{\i1}But, come to think of it,
+Dialogue: 10,0:07:09.99,0:07:13.87,Default,,0,0,0,,{\i1}Grandma used to say the same thing \Nwhen she was still alive.
 Comment: 0,0:07:17.54,0:07:20.54,Default,,0,0,0,,---------------------------------------------- [ PART B ] ----------------------------------------------
-Dialogue: 10,0:07:19.71,0:07:21.54,Default,,0,0,0,,Be careful, okay?
-Dialogue: 10,0:07:21.54,0:07:22.42,Default,,0,0,0,,Okay!
-Dialogue: 10,0:07:31.38,0:07:33.68,Default,,0,0,0,,{\i1}Whenever happiness meets its end,
-Dialogue: 10,0:07:34.35,0:07:35.31,Default,,0,0,0,,{\i1}it always carries...
-Dialogue: 10,0:07:42.73,0:07:44.05,Default,,0,0,0,,The smell of blood!
-Dialogue: 10,0:08:07.34,0:08:08.60,Default,,0,0,0,,Nezuko!
-Dialogue: 10,0:08:09.30,0:08:11.83,Default,,0,0,0,,What happened? What’s going on?
-Dialogue: 10,0:08:12.38,0:08:14.09,Default,,0,0,0,,What happened here?
-Dialogue: 10,0:08:19.93,0:08:21.48,Default,,0,0,0,,Mom...
-Dialogue: 10,0:08:28.48,0:08:30.07,Default,,0,0,0,,Mom...
-Dialogue: 10,0:08:30.07,0:08:30.99,Default,,0,0,0,,Hanako...
-Dialogue: 10,0:08:31.99,0:08:33.40,Default,,0,0,0,,Takeo...
-Dialogue: 10,0:08:33.40,0:08:34.59,Default,,0,0,0,,Shigeru...
-Dialogue: 10,0:08:35.41,0:08:36.82,Default,,0,0,0,,Nezuko...
-Dialogue: 10,0:08:36.82,0:08:38.11,Default,,0,0,0,,Rokuta...
-Dialogue: 10,0:08:46.54,0:08:48.73,Default,,0,0,0,,{\i1}Nezuko’s the only one who’s still warm!
-Dialogue: 10,0:08:50.00,0:08:52.34,Default,,0,0,0,,{\i1}If I can get her to a doctor, \Nshe might still make it!
-Dialogue: 10,0:08:52.92,0:08:55.12,Default,,0,0,0,,{\i1}How did this happen?
-Dialogue: 10,0:08:56.39,0:08:57.55,Default,,0,0,0,,{\i1}Was it a bear?
-Dialogue: 10,0:08:57.55,0:08:59.86,Default,,0,0,0,,{\i1}Was it a bear that wasn’t able to hibernate?
-Dialogue: 10,0:09:06.27,0:09:08.23,Default,,0,0,0,,{\i1}It’s hard to breathe!
-Dialogue: 10,0:09:08.23,0:09:10.95,Default,,0,0,0,,{\i1}The air’s so cold that my lungs hurt!
-Dialogue: 10,0:09:11.65,0:09:13.49,Default,,0,0,0,,{\i1}Keep moving forward!
-Dialogue: 10,0:09:13.49,0:09:15.74,Default,,0,0,0,,{\i1}Move your legs faster!
-Dialogue: 10,0:09:16.45,0:09:18.87,Default,,0,0,0,,{\i1}There’s still a long way to town.
-Dialogue: 10,0:09:18.87,0:09:20.10,Default,,0,0,0,,{\i1}Hurry!
-Dialogue: 10,0:09:20.95,0:09:23.08,Default,,0,0,0,,{\i1}I won’t let you die!
-Dialogue: 10,0:09:25.33,0:09:27.11,Default,,0,0,0,,{\i1}I will save you no matter what!
-Dialogue: 10,0:09:27.79,0:09:30.21,Default,,0,0,0,,{\i1}Your big brother will definitely save you!
-Dialogue: 10,0:09:38.39,0:09:39.60,Default,,0,0,0,,{\i1}Oh no!
-Dialogue: 10,0:09:48.15,0:09:51.08,Default,,0,0,0,,{\i1}The snow saved me.
-Dialogue: 10,0:09:51.82,0:09:53.86,Default,,0,0,0,,{\i1}Though that's what made me slip to begin with.
-Dialogue: 10,0:09:55.78,0:09:56.99,Default,,0,0,0,,Nezuko?
-Dialogue: 10,0:10:03.24,0:10:05.56,Default,,0,0,0,,Nezuko, are you all right?
-Dialogue: 10,0:10:06.87,0:10:08.37,Default,,0,0,0,,You don’t have to walk!
-Dialogue: 10,0:10:08.37,0:10:10.55,Default,,0,0,0,,I’ll carry you to town, okay?
-Dialogue: 10,0:10:11.42,0:10:12.63,Default,,0,0,0,,Nezuko!
-Dialogue: 10,0:10:21.89,0:10:24.10,Default,,0,0,0,,{\i1}Sh-She’s...
-Dialogue: 10,0:10:24.77,0:10:25.87,Default,,0,0,0,,{\i1}a demon!
-Dialogue: 10,0:10:27.27,0:10:30.15,Default,,0,0,0,,{\i1}Is this what Saburo was talking about?
-Dialogue: 10,0:10:31.65,0:10:33.73,Default,,0,0,0,,{\i1}Nezuko’s a man-eating demon?
-Dialogue: 10,0:10:34.07,0:10:35.12,Default,,0,0,0,,{\i1}No, there’s no way.
-Dialogue: 10,0:10:35.12,0:10:38.11,Default,,0,0,0,,{\i1\t(2600,0,\c&H000000&\3c&H000000&\4c&H000000&)}Nezuko’s been a human \Nfrom the day she was born!
-Dialogue: 10,0:10:38.74,0:10:42.39,Default,,0,0,0,,{\i1}However, her scent is no longer the same.
-Dialogue: 10,0:10:43.62,0:10:45.79,Default,,0,0,0,,{\i1}But she couldn’t be the killer!
-Dialogue: 10,0:10:46.29,0:10:51.31,Default,,0,0,0,,{\i1}She was lying as if she was protecting Rokuta, \Nand there isn't any blood on her mouth or hands.
-Dialogue: 10,0:10:52.08,0:10:53.71,Default,,0,0,0,,{\i1}And there was another one...
-Dialogue: 10,0:10:53.71,0:10:55.60,Default,,0,0,0,,{\i1}There was one more scent!
-Dialogue: 10,0:11:00.10,0:11:02.67,Default,,0,0,0,,Her body got bigger!
-Dialogue: 10,0:11:04.68,0:11:06.89,Default,,0,0,0,,{\i1}And she’s getting stronger and stronger!
-Dialogue: 10,0:11:07.81,0:11:10.64,Default,,0,0,0,,{\i1}While I was sleeping all carefree at Saburo’s house,
-Dialogue: 10,0:11:10.64,0:11:13.23,Default,,0,0,0,,{\i1}everyone was brutally murdered!
-Dialogue: 10,0:11:13.98,0:11:15.24,Default,,0,0,0,,{\i1}It must have hurt a lot.
-Dialogue: 10,0:11:15.69,0:11:17.07,Default,,0,0,0,,{\i1}You all suffered, didn’t you?
-Dialogue: 10,0:11:18.36,0:11:21.16,Default,,0,0,0,,{\i1}I’m so sorry I couldn’t save you.
-Dialogue: 10,0:11:22.53,0:11:25.58,Default,,0,0,0,,{\i1}I want to at least do something about Nezuko!
-Dialogue: 10,0:11:25.58,0:11:28.70,Default,,0,0,0,,{\i1}But she’s too strong! I can’t push her back!
-Dialogue: 10,0:11:29.46,0:11:30.87,Default,,0,0,0,,Nezuko!
-Dialogue: 10,0:11:30.87,0:11:32.67,Default,,0,0,0,,Fight against it, Nezuko!
-Dialogue: 10,0:11:32.67,0:11:34.04,Default,,0,0,0,,Don’t give in!
-Dialogue: 10,0:11:34.04,0:11:35.79,Default,,0,0,0,,You’ve gotta hang in there!
-Dialogue: 10,0:11:37.09,0:11:38.92,Default,,0,0,0,,Don’t turn into a demon!
-Dialogue: 10,0:11:38.92,0:11:40.67,Default,,0,0,0,,You’ve gotta stay strong!
-Dialogue: 10,0:11:40.67,0:11:44.39,Default,,0,0,0,,Hang in there!
-Dialogue: 10,0:12:16.34,0:12:17.56,Default,,0,0,0,,{\i1}What the...
-Dialogue: 10,0:12:21.92,0:12:22.94,Default,,0,0,0,,{\i1}Who’s that?
-Dialogue: 10,0:12:27.72,0:12:28.83,Default,,0,0,0,,{\i1}A sword?
-Dialogue: 10,0:12:30.06,0:12:31.77,Default,,0,0,0,,Why are you protecting that thing?
-Dialogue: 10,0:12:31.77,0:12:33.10,Default,,0,0,0,,She’s my sister!
-Dialogue: 10,0:12:33.10,0:12:34.90,Default,,0,0,0,,She’s my younger sister!
-Dialogue: 10,0:12:37.65,0:12:39.10,Default,,0,0,0,,Nezuko!
-Dialogue: 10,0:12:42.77,0:12:44.84,Default,,0,0,0,,You call that thing your sister?
-Dialogue: 10,0:13:00.75,0:13:01.76,Default,,0,0,0,,Nezuko!
-Dialogue: 10,0:13:01.76,0:13:03.18,Default,,0,0,0,,Don’t move!
-Dialogue: 10,0:13:06.80,0:13:09.76,Default,,0,0,0,,My job is to slay demons.
-Dialogue: 10,0:13:09.76,0:13:13.23,Default,,0,0,0,,As such, I will behead your sister as well.
-Dialogue: 10,0:13:13.43,0:13:14.73,Default,,0,0,0,,Hold on!
-Dialogue: 10,0:13:14.73,0:13:17.15,Default,,0,0,0,,She hasn’t killed anyone!
-Dialogue: 10,0:13:17.77,0:13:22.36,Default,,0,0,0,,Back at my house, there was another scent. \NOne I had never smelled before!
-Dialogue: 10,0:13:22.36,0:13:26.66,Default,,0,0,0,,That’s probably the one who killed my family!
-Dialogue: 10,0:13:26.66,0:13:28.70,Default,,0,0,0,,It wasn’t Nezuko!
-Dialogue: 10,0:13:28.70,0:13:31.47,Default,,0,0,0,,I don’t know what’s going on with her now, but...
-Dialogue: 10,0:13:32.24,0:13:33.54,Default,,0,0,0,,But still...
-Dialogue: 10,0:13:33.79,0:13:35.87,Default,,0,0,0,,It’s quite simple.
-Dialogue: 10,0:13:35.87,0:13:40.04,Default,,0,0,0,,Her wounds were exposed to demon blood, \Nso she turned into a demon.
-Dialogue: 10,0:13:40.75,0:13:43.45,Default,,0,0,0,,That’s how the man-eating demons multiply.
-Dialogue: 10,0:13:44.05,0:13:46.47,Default,,0,0,0,,Nezuko would never eat humans!
-Dialogue: 10,0:13:46.97,0:13:48.97,Default,,0,0,0,,You’ve gotta be kidding.
-Dialogue: 10,0:13:48.97,0:13:52.03,Default,,0,0,0,,Just now, you were about to be devoured.
-Dialogue: 10,0:13:53.06,0:13:54.35,Default,,0,0,0,,You’re wrong!
-Dialogue: 10,0:13:54.35,0:13:57.06,Default,,0,0,0,,I’m sure she knows who I am!
-Dialogue: 10,0:13:57.31,0:13:59.61,Default,,0,0,0,,I won’t let her hurt anyone!
-Dialogue: 10,0:13:59.61,0:14:01.90,Default,,0,0,0,,I’m going to turn Nezuko back into a human!
-Dialogue: 10,0:14:01.90,0:14:03.57,Default,,0,0,0,,I swear I’ll cure her!
-Dialogue: 10,0:14:04.32,0:14:05.99,Default,,0,0,0,,She can’t be cured.
-Dialogue: 10,0:14:05.99,0:14:09.32,Default,,0,0,0,,Once you turn into a demon, \Nyou can never return to being a human.
-Dialogue: 10,0:14:09.57,0:14:13.45,Default,,0,0,0,,I’ll search for a way! \NI’ll definitely find a solution.
-Dialogue: 10,0:14:13.45,0:14:15.50,Default,,0,0,0,,So please don’t kill her!
-Dialogue: 10,0:14:15.50,0:14:18.42,Default,,0,0,0,,I’ll hunt down the one who slaughtered my family!
-Dialogue: 10,0:14:18.42,0:14:21.00,Default,,0,0,0,,I’ll make everything all right!
-Dialogue: 10,0:14:21.00,0:14:22.23,Default,,0,0,0,,So please!
-Dialogue: 10,0:14:22.63,0:14:24.00,Default,,0,0,0,,Please!
-Dialogue: 10,0:14:24.00,0:14:25.84,Default,,0,0,0,,Don’t do it!
-Dialogue: 10,0:14:26.47,0:14:29.38,Default,,0,0,0,,{\i1}Please, don’t take anyone else from me.
-Dialogue: 10,0:14:31.64,0:14:33.21,Default,,0,0,0,,I’m begging you!
-Dialogue: 10,0:14:34.18,0:14:35.31,Default,,0,0,0,,Please!
-Dialogue: 10,0:14:35.31,0:14:38.19,Default,,0,0,0,,Don’t kill my little sister!
-Dialogue: 10,0:14:39.06,0:14:40.44,Default,,0,0,0,,Please don’t do it!
-Dialogue: 10,0:14:41.86,0:14:43.43,Default,,0,0,0,,I’m begging you...
-Dialogue: 10,0:14:51.70,0:14:55.49,Default,,0,0,0,,Don’t ever give others a chance to kill you!
-Dialogue: 10,0:14:56.66,0:14:59.29,Default,,0,0,0,,Stop that pathetic groveling!
-Dialogue: 10,0:14:59.29,0:15:03.71,Default,,0,0,0,,If it was the least bit effective, \Nyour family wouldn’t be dead!
-Dialogue: 10,0:15:04.25,0:15:07.72,Default,,0,0,0,,You’re a weakling—a coward who folds at adversity.
-Dialogue: 10,0:15:07.72,0:15:11.05,Default,,0,0,0,,You’ll find a cure for your sister? \NHunt down your enemy?
-Dialogue: 10,0:15:11.30,0:15:13.05,Default,,0,0,0,,Don’t make me laugh!
-Dialogue: 10,0:15:13.05,0:15:16.60,Default,,0,0,0,,The weak have no rights or choices!
-Dialogue: 10,0:15:16.60,0:15:20.39,Default,,0,0,0,,Their fate is to be crushed by the strong!
-Dialogue: 10,0:15:20.64,0:15:24.57,Default,,0,0,0,,The demons might know how to cure your sister!
-Dialogue: 10,0:15:24.57,0:15:29.74,Default,,0,0,0,,But don't think that even a single demon \Nwill listen to your hopes or wishes!
-Dialogue: 10,0:15:30.03,0:15:32.78,Default,,0,0,0,,Naturally, I have no respect for you, either!
-Dialogue: 10,0:15:32.78,0:15:34.16,Default,,0,0,0,,That’s reality!
-Dialogue: 10,0:15:34.41,0:15:37.58,Default,,0,0,0,,Why did you throw yourself over your sister earlier?
-Dialogue: 10,0:15:37.58,0:15:39.75,Default,,0,0,0,,Was that your way of protecting her?
-Dialogue: 10,0:15:40.02,0:15:42.10,Default,,0,0,0,,Why didn’t you swing your axe?
-Dialogue: 10,0:15:42.10,0:15:44.04,Default,,0,0,0,,Why did you turn your back to me?
-Dialogue: 10,0:15:44.04,0:15:46.92,Default,,0,0,0,,All those blunders led to your sister’s capture!
-Dialogue: 10,0:15:47.36,0:15:50.63,Default,,0,0,0,,I should’ve skewered her along with you!
-Dialogue: 10,0:15:53.76,0:15:55.26,Default,,0,0,0,,{\i1}Don’t cry.
-Dialogue: 10,0:15:55.26,0:15:57.06,Default,,0,0,0,,{\i1}Don’t despair.
-Dialogue: 10,0:15:57.06,0:15:59.31,Default,,0,0,0,,{\i1}Now’s not the time for that.
-Dialogue: 10,0:16:00.14,0:16:02.95,Default,,0,0,0,,{\i1}I know you’re devastated right now.
-Dialogue: 10,0:16:03.40,0:16:06.77,Default,,0,0,0,,{\i1}Your family was massacred, \Nand your sister turned a demon.
-Dialogue: 10,0:16:06.77,0:16:07.93,Default,,0,0,0,,{\i1}It must be painful.
-Dialogue: 10,0:16:08.61,0:16:10.65,Default,,0,0,0,,{\i1}You probably want to scream.
-Dialogue: 10,0:16:11.40,0:16:12.54,Default,,0,0,0,,{\i1}I get it.
-Dialogue: 10,0:16:13.57,0:16:16.91,Default,,0,0,0,,{\i1}If I’d gotten here even half a day sooner,
-Dialogue: 10,0:16:16.91,0:16:19.64,Default,,0,0,0,,{\i1}your family might still have been alive right now.
-Dialogue: 10,0:16:20.29,0:16:24.25,Default,,0,0,0,,{\i1}But there’s no way to turn back time.
-Dialogue: 10,0:16:24.92,0:16:26.08,Default,,0,0,0,,{\i1}Feel the anger.
-Dialogue: 10,0:16:26.59,0:16:32.67,Default,,0,0,0,,{\i1}The pure, unforgiving wrath will become \Nyour unwavering drive forward!
-Dialogue: 10,0:16:33.34,0:16:35.17,Default,,0,0,0,,{\i1}With such fragile resolve,
-Dialogue: 10,0:16:35.59,0:16:38.64,Default,,0,0,0,,{\i1}protecting or curing your sister,
-Dialogue: 10,0:16:38.64,0:16:41.56,Default,,0,0,0,,{\i1}let alone getting revenge will be impossible!
-Dialogue: 10,0:16:41.56,0:16:42.43,Default,,0,0,0,,No!
-Dialogue: 10,0:16:44.90,0:16:46.23,Default,,0,0,0,,Stop!
-Dialogue: 10,0:17:01.16,0:17:04.21,Default,,0,0,0,,{\i1}A straightforward attack driven solely by emotion...
-Dialogue: 10,0:17:04.21,0:17:05.46,Default,,0,0,0,,You fool!
-Dialogue: 10,0:17:20.18,0:17:21.60,Default,,0,0,0,,{\i1}Where’s his axe?
-Dialogue: 10,0:17:30.52,0:17:32.86,Default,,0,0,0,,{\i1}Just before he hid behind the tree,
-Dialogue: 10,0:17:33.86,0:17:35.85,Default,,0,0,0,,{\i1}he threw that rock at me
-Dialogue: 10,0:17:35.85,0:17:38.94,Default,,0,0,0,,{\i1}and, simultaneously, tossed the axe into the air.
-Dialogue: 10,0:17:40.03,0:17:45.37,Default,,0,0,0,,{\i1}He hid his hands as he pretended to attack \Nso I wouldn’t realize he was unarmed.
-Dialogue: 10,0:17:46.50,0:17:49.38,Default,,0,0,0,,{\i1}He knew he couldn’t beat me.
-Dialogue: 10,0:17:49.84,0:17:53.60,Default,,0,0,0,,{\i1}He tried to bring me down after I struck him!
-Dialogue: 10,0:17:54.97,0:17:56.38,Default,,0,0,0,,{\i1}This kid...
-Dialogue: 10,0:18:01.22,0:18:02.18,Default,,0,0,0,,{\i1}Damn!
-Dialogue: 10,0:18:02.18,0:18:03.60,Default,,0,0,0,,{\i1}She’ll devour him!
-Dialogue: 10,0:18:08.06,0:18:09.44,Default,,0,0,0,,{\i1}Nezuko...
-Dialogue: 10,0:18:12.98,0:18:14.86,Default,,0,0,0,,{\i1}It wasn’t Nezuko!
-Dialogue: 10,0:18:16.86,0:18:18.82,Default,,0,0,0,,{\i1}She’d never eat humans!
-Dialogue: 10,0:18:22.49,0:18:23.61,Default,,0,0,0,,{\i1}Long ago,
-Dialogue: 10,0:18:24.04,0:18:27.79,Default,,0,0,0,,{\i1}someone once said the same thing, \Nonly to be devoured by a demon.
-Dialogue: 10,0:18:28.67,0:18:33.57,Default,,0,0,0,,{\i1}When a demon is starving, \Nit will consume even its own family.
-Dialogue: 10,0:18:34.34,0:18:36.33,Default,,0,0,0,,{\i1}Because for them, humans are nutritious.
-Dialogue: 10,0:18:36.97,0:18:40.26,Default,,0,0,0,,{\i1}I’ve seen it happen more times than I can count.
-Dialogue: 10,0:18:41.18,0:18:43.68,Default,,0,0,0,,{\i1}This girl has been wounded,
-Dialogue: 10,0:18:44.06,0:18:47.68,Default,,0,0,0,,{\i1}and she’s expending energy to heal those injuries.
-Dialogue: 10,0:18:47.68,0:18:51.19,Default,,0,0,0,,{\i1}Her transformation must have also drained her greatly.
-Dialogue: 10,0:18:51.94,0:18:55.40,Default,,0,0,0,,{\i1}That means right now, \Nshe’s undoubtedly severely starved.
-Dialogue: 10,0:18:56.57,0:19:01.11,Default,,0,0,0,,{\i1}She must’ve wanted to feast \Non a human as soon as possible.
-Dialogue: 10,0:19:01.66,0:19:05.58,Default,,0,0,0,,{\i1}Yet she protected him instead, \Neven going so far as to threaten me...
-Dialogue: 10,0:19:08.29,0:19:09.33,Default,,0,0,0,,{\i1}There might be
-Dialogue: 10,0:19:10.17,0:19:11.28,Default,,0,0,0,,{\i1}something
-Dialogue: 10,0:19:11.79,0:19:13.70,Default,,0,0,0,,{\i1}special about them.
-Dialogue: 10,0:19:31.14,0:19:35.07,Default,,0,0,0,,I’m sorry for leaving you behind, Tanjirou.
-Dialogue: 10,0:19:36.11,0:19:38.57,Default,,0,0,0,,Take good care of Nezuko for me, all right?
-Dialogue: 10,0:19:49.91,0:19:51.12,Default,,0,0,0,,You awake?
-Dialogue: 10,0:19:54.33,0:19:59.63,Default,,0,0,0,,Go see an old man named Urokodaki Sakonji \Nwho lives at the foot of Mt. Sagiri.
-Dialogue: 10,0:20:00.97,0:20:03.80,Default,,0,0,0,,Tell him that Tomioka Giyuu sent you.
-Dialogue: 10,0:20:05.14,0:20:08.27,Default,,0,0,0,,She seems to be all right since it’s cloudy now,
-Dialogue: 10,0:20:08.77,0:20:11.39,Default,,0,0,0,,but make sure she’s never exposed to the sun.
-Dialogue: 10,0:20:28.83,0:20:30.00,Default,,0,0,0,,Let’s go.
+Dialogue: 10,0:07:19.75,0:07:21.58,Default,,0,0,0,,Be careful, okay?
+Dialogue: 10,0:07:21.58,0:07:22.46,Default,,0,0,0,,Okay!
+Dialogue: 10,0:07:31.43,0:07:33.72,Default,,0,0,0,,{\i1}Whenever happiness meets its end,
+Dialogue: 10,0:07:34.39,0:07:35.35,Default,,0,0,0,,{\i1}it always carries...
+Dialogue: 10,0:07:42.77,0:07:44.11,Default,,0,0,0,,The smell of blood!
+Dialogue: 10,0:08:07.38,0:08:08.63,Default,,0,0,0,,Nezuko!
+Dialogue: 10,0:08:09.34,0:08:11.88,Default,,0,0,0,,What happened? What’s going on?
+Dialogue: 10,0:08:12.43,0:08:14.14,Default,,0,0,0,,What happened here?
+Dialogue: 10,0:08:19.97,0:08:21.52,Default,,0,0,0,,Mom...
+Dialogue: 10,0:08:28.52,0:08:30.11,Default,,0,0,0,,Mom...
+Dialogue: 10,0:08:30.11,0:08:31.03,Default,,0,0,0,,Hanako...
+Dialogue: 10,0:08:32.03,0:08:33.45,Default,,0,0,0,,Takeo...
+Dialogue: 10,0:08:33.45,0:08:34.61,Default,,0,0,0,,Shigeru...
+Dialogue: 10,0:08:35.45,0:08:36.87,Default,,0,0,0,,Nezuko...
+Dialogue: 10,0:08:36.87,0:08:38.16,Default,,0,0,0,,Rokuta...
+Dialogue: 10,0:08:46.58,0:08:48.75,Default,,0,0,0,,{\i1}Nezuko’s the only one who’s still warm!
+Dialogue: 10,0:08:50.05,0:08:52.38,Default,,0,0,0,,{\i1}If I can get her to a doctor, \Nshe might still make it!
+Dialogue: 10,0:08:52.97,0:08:55.18,Default,,0,0,0,,{\i1}How did this happen?
+Dialogue: 10,0:08:56.43,0:08:57.60,Default,,0,0,0,,{\i1}Was it a bear?
+Dialogue: 10,0:08:57.60,0:08:59.89,Default,,0,0,0,,{\i1}Was it a bear that wasn’t able to hibernate?
+Dialogue: 10,0:09:06.31,0:09:08.27,Default,,0,0,0,,{\i1}It’s hard to breathe!
+Dialogue: 10,0:09:08.27,0:09:10.98,Default,,0,0,0,,{\i1}The air’s so cold that my lungs hurt!
+Dialogue: 10,0:09:11.69,0:09:13.53,Default,,0,0,0,,{\i1}Keep moving forward!
+Dialogue: 10,0:09:13.53,0:09:15.78,Default,,0,0,0,,{\i1}Move your legs faster!
+Dialogue: 10,0:09:16.49,0:09:18.91,Default,,0,0,0,,{\i1}There’s still a long way to town.
+Dialogue: 10,0:09:18.91,0:09:20.12,Default,,0,0,0,,{\i1}Hurry!
+Dialogue: 10,0:09:20.99,0:09:23.12,Default,,0,0,0,,{\i1}I won’t let you die!
+Dialogue: 10,0:09:25.37,0:09:27.17,Default,,0,0,0,,{\i1}I will save you no matter what!
+Dialogue: 10,0:09:27.83,0:09:30.25,Default,,0,0,0,,{\i1}Your big brother will definitely save you!
+Dialogue: 10,0:09:38.43,0:09:39.64,Default,,0,0,0,,{\i1}Oh no!
+Dialogue: 10,0:09:48.19,0:09:51.11,Default,,0,0,0,,{\i1}The snow saved me.
+Dialogue: 10,0:09:51.86,0:09:53.90,Default,,0,0,0,,{\i1}Though that's what made me slip to begin with.
+Dialogue: 10,0:09:55.82,0:09:57.03,Default,,0,0,0,,Nezuko?
+Dialogue: 10,0:10:03.29,0:10:05.58,Default,,0,0,0,,Nezuko, are you all right?
+Dialogue: 10,0:10:06.91,0:10:08.42,Default,,0,0,0,,You don’t have to walk!
+Dialogue: 10,0:10:08.42,0:10:10.58,Default,,0,0,0,,I’ll carry you to town, okay?
+Dialogue: 10,0:10:11.46,0:10:12.67,Default,,0,0,0,,Nezuko!
+Dialogue: 10,0:10:21.93,0:10:24.14,Default,,0,0,0,,{\i1}Sh-She’s...
+Dialogue: 10,0:10:24.81,0:10:25.89,Default,,0,0,0,,{\i1}a demon!
+Dialogue: 10,0:10:27.31,0:10:30.19,Default,,0,0,0,,{\i1}Is this what Saburo was talking about?
+Dialogue: 10,0:10:31.69,0:10:33.77,Default,,0,0,0,,{\i1}Nezuko’s a man-eating demon?
+Dialogue: 10,0:10:34.11,0:10:35.15,Default,,0,0,0,,{\i1}No, there’s no way.
+Dialogue: 10,0:10:35.15,0:10:38.15,Default,,0,0,0,,{\i1\t(2600,0,\c&H000000&\3c&H000000&\4c&H000000&)}Nezuko’s been a human \Nfrom the day she was born!
+Dialogue: 10,0:10:38.78,0:10:42.41,Default,,0,0,0,,{\i1}However, her scent is no longer the same.
+Dialogue: 10,0:10:43.66,0:10:45.83,Default,,0,0,0,,{\i1}But she couldn’t be the killer!
+Dialogue: 10,0:10:46.33,0:10:51.33,Default,,0,0,0,,{\i1}She was lying as if she was protecting Rokuta, \Nand there isn't any blood on her mouth or hands.
+Dialogue: 10,0:10:52.13,0:10:53.75,Default,,0,0,0,,{\i1}And there was another one...
+Dialogue: 10,0:10:53.75,0:10:55.63,Default,,0,0,0,,{\i1}There was one more scent!
+Dialogue: 10,0:11:00.13,0:11:02.72,Default,,0,0,0,,Her body got bigger!
+Dialogue: 10,0:11:04.72,0:11:06.93,Default,,0,0,0,,{\i1}And she’s getting stronger and stronger!
+Dialogue: 10,0:11:07.85,0:11:10.69,Default,,0,0,0,,{\i1}While I was sleeping all carefree at Saburo’s house,
+Dialogue: 10,0:11:10.69,0:11:13.27,Default,,0,0,0,,{\i1}everyone was brutally murdered!
+Dialogue: 10,0:11:14.02,0:11:15.27,Default,,0,0,0,,{\i1}It must have hurt a lot.
+Dialogue: 10,0:11:15.73,0:11:17.11,Default,,0,0,0,,{\i1}You all suffered, didn’t you?
+Dialogue: 10,0:11:18.40,0:11:21.20,Default,,0,0,0,,{\i1}I’m so sorry I couldn’t save you.
+Dialogue: 10,0:11:22.57,0:11:25.62,Default,,0,0,0,,{\i1}I want to at least do something about Nezuko!
+Dialogue: 10,0:11:25.62,0:11:28.75,Default,,0,0,0,,{\i1}But she’s too strong! I can’t push her back!
+Dialogue: 10,0:11:29.50,0:11:30.92,Default,,0,0,0,,Nezuko!
+Dialogue: 10,0:11:30.92,0:11:32.71,Default,,0,0,0,,Fight against it, Nezuko!
+Dialogue: 10,0:11:32.71,0:11:34.08,Default,,0,0,0,,Don’t give in!
+Dialogue: 10,0:11:34.08,0:11:35.84,Default,,0,0,0,,You’ve gotta hang in there!
+Dialogue: 10,0:11:37.13,0:11:38.96,Default,,0,0,0,,Don’t turn into a demon!
+Dialogue: 10,0:11:38.96,0:11:40.72,Default,,0,0,0,,You’ve gotta stay strong!
+Dialogue: 10,0:11:40.72,0:11:44.43,Default,,0,0,0,,Hang in there!
+Dialogue: 10,0:12:16.38,0:12:17.59,Default,,0,0,0,,{\i1}What the...
+Dialogue: 10,0:12:21.97,0:12:22.97,Default,,0,0,0,,{\i1}Who’s that?
+Dialogue: 10,0:12:27.76,0:12:28.85,Default,,0,0,0,,{\i1}A sword?
+Dialogue: 10,0:12:30.10,0:12:31.81,Default,,0,0,0,,Why are you protecting that thing?
+Dialogue: 10,0:12:31.81,0:12:33.14,Default,,0,0,0,,She’s my sister!
+Dialogue: 10,0:12:33.14,0:12:34.94,Default,,0,0,0,,She’s my younger sister!
+Dialogue: 10,0:12:37.69,0:12:39.15,Default,,0,0,0,,Nezuko!
+Dialogue: 10,0:12:42.82,0:12:44.86,Default,,0,0,0,,You call that thing your sister?
+Dialogue: 10,0:13:00.80,0:13:01.80,Default,,0,0,0,,Nezuko!
+Dialogue: 10,0:13:01.80,0:13:03.22,Default,,0,0,0,,Don’t move!
+Dialogue: 10,0:13:06.84,0:13:09.81,Default,,0,0,0,,My job is to slay demons.
+Dialogue: 10,0:13:09.81,0:13:13.27,Default,,0,0,0,,As such, I will behead your sister as well.
+Dialogue: 10,0:13:13.48,0:13:14.77,Default,,0,0,0,,Hold on!
+Dialogue: 10,0:13:14.77,0:13:17.19,Default,,0,0,0,,She hasn’t killed anyone!
+Dialogue: 10,0:13:17.81,0:13:22.40,Default,,0,0,0,,Back at my house, there was another scent. \NOne I had never smelled before!
+Dialogue: 10,0:13:22.40,0:13:26.70,Default,,0,0,0,,That’s probably the one who killed my family!
+Dialogue: 10,0:13:26.70,0:13:28.74,Default,,0,0,0,,It wasn’t Nezuko!
+Dialogue: 10,0:13:28.74,0:13:31.49,Default,,0,0,0,,I don’t know what’s going on with her now, but...
+Dialogue: 10,0:13:32.29,0:13:33.58,Default,,0,0,0,,But still...
+Dialogue: 10,0:13:33.83,0:13:35.91,Default,,0,0,0,,It’s quite simple.
+Dialogue: 10,0:13:35.91,0:13:40.09,Default,,0,0,0,,Her wounds were exposed to demon blood, \Nso she turned into a demon.
+Dialogue: 10,0:13:40.79,0:13:43.51,Default,,0,0,0,,That’s how the man-eating demons multiply.
+Dialogue: 10,0:13:44.09,0:13:46.51,Default,,0,0,0,,Nezuko would never eat humans!
+Dialogue: 10,0:13:47.01,0:13:49.01,Default,,0,0,0,,You’ve gotta be kidding.
+Dialogue: 10,0:13:49.01,0:13:52.06,Default,,0,0,0,,Just now, you were about to be devoured.
+Dialogue: 10,0:13:53.10,0:13:54.39,Default,,0,0,0,,You’re wrong!
+Dialogue: 10,0:13:54.39,0:13:57.10,Default,,0,0,0,,I’m sure she knows who I am!
+Dialogue: 10,0:13:57.35,0:13:59.65,Default,,0,0,0,,I won’t let her hurt anyone!
+Dialogue: 10,0:13:59.65,0:14:01.94,Default,,0,0,0,,I’m going to turn Nezuko back into a human!
+Dialogue: 10,0:14:01.94,0:14:03.61,Default,,0,0,0,,I swear I’ll cure her!
+Dialogue: 10,0:14:04.36,0:14:06.03,Default,,0,0,0,,She can’t be cured.
+Dialogue: 10,0:14:06.03,0:14:09.36,Default,,0,0,0,,Once you turn into a demon, \Nyou can never return to being a human.
+Dialogue: 10,0:14:09.62,0:14:13.49,Default,,0,0,0,,I’ll search for a way! \NI’ll definitely find a solution.
+Dialogue: 10,0:14:13.49,0:14:15.54,Default,,0,0,0,,So please don’t kill her!
+Dialogue: 10,0:14:15.54,0:14:18.46,Default,,0,0,0,,I’ll hunt down the one who slaughtered my family!
+Dialogue: 10,0:14:18.46,0:14:21.04,Default,,0,0,0,,I’ll make everything all right!
+Dialogue: 10,0:14:21.04,0:14:22.25,Default,,0,0,0,,So please!
+Dialogue: 10,0:14:22.67,0:14:24.05,Default,,0,0,0,,Please!
+Dialogue: 10,0:14:24.05,0:14:25.88,Default,,0,0,0,,Don’t do it!
+Dialogue: 10,0:14:26.51,0:14:29.43,Default,,0,0,0,,{\i1}Please, don’t take anyone else from me.
+Dialogue: 10,0:14:31.68,0:14:33.26,Default,,0,0,0,,I’m begging you!
+Dialogue: 10,0:14:34.22,0:14:35.35,Default,,0,0,0,,Please!
+Dialogue: 10,0:14:35.35,0:14:38.23,Default,,0,0,0,,Don’t kill my little sister!
+Dialogue: 10,0:14:39.10,0:14:40.48,Default,,0,0,0,,Please don’t do it!
+Dialogue: 10,0:14:41.90,0:14:43.48,Default,,0,0,0,,I’m begging you...
+Dialogue: 10,0:14:51.74,0:14:55.54,Default,,0,0,0,,Don’t ever give others a chance to kill you!
+Dialogue: 10,0:14:56.70,0:14:59.33,Default,,0,0,0,,Stop that pathetic groveling!
+Dialogue: 10,0:14:59.33,0:15:03.75,Default,,0,0,0,,If it was the least bit effective, \Nyour family wouldn’t be dead!
+Dialogue: 10,0:15:04.29,0:15:07.76,Default,,0,0,0,,You’re a weakling—a coward who folds at adversity.
+Dialogue: 10,0:15:07.76,0:15:11.09,Default,,0,0,0,,You’ll find a cure for your sister? \NHunt down your enemy?
+Dialogue: 10,0:15:11.34,0:15:13.10,Default,,0,0,0,,Don’t make me laugh!
+Dialogue: 10,0:15:13.10,0:15:16.64,Default,,0,0,0,,The weak have no rights or choices!
+Dialogue: 10,0:15:16.64,0:15:20.44,Default,,0,0,0,,Their fate is to be crushed by the strong!
+Dialogue: 10,0:15:20.69,0:15:24.61,Default,,0,0,0,,The demons might know how to cure your sister!
+Dialogue: 10,0:15:24.61,0:15:29.78,Default,,0,0,0,,But don't think that even a single demon \Nwill listen to your hopes or wishes!
+Dialogue: 10,0:15:30.07,0:15:32.82,Default,,0,0,0,,Naturally, I have no respect for you, either!
+Dialogue: 10,0:15:32.82,0:15:34.20,Default,,0,0,0,,That’s reality!
+Dialogue: 10,0:15:34.45,0:15:37.62,Default,,0,0,0,,Why did you throw yourself over your sister earlier?
+Dialogue: 10,0:15:37.62,0:15:39.79,Default,,0,0,0,,Was that your way of protecting her?
+Dialogue: 10,0:15:40.04,0:15:42.12,Default,,0,0,0,,Why didn’t you swing your axe?
+Dialogue: 10,0:15:42.12,0:15:44.08,Default,,0,0,0,,Why did you turn your back to me?
+Dialogue: 10,0:15:44.08,0:15:46.96,Default,,0,0,0,,All those blunders led to your sister’s capture!
+Dialogue: 10,0:15:47.38,0:15:50.67,Default,,0,0,0,,I should’ve skewered her along with you!
+Dialogue: 10,0:15:53.80,0:15:55.30,Default,,0,0,0,,{\i1}Don’t cry.
+Dialogue: 10,0:15:55.30,0:15:57.10,Default,,0,0,0,,{\i1}Don’t despair.
+Dialogue: 10,0:15:57.10,0:15:59.35,Default,,0,0,0,,{\i1}Now’s not the time for that.
+Dialogue: 10,0:16:00.18,0:16:02.98,Default,,0,0,0,,{\i1}I know you’re devastated right now.
+Dialogue: 10,0:16:03.44,0:16:06.82,Default,,0,0,0,,{\i1}Your family was massacred, \Nand your sister turned a demon.
+Dialogue: 10,0:16:06.82,0:16:07.98,Default,,0,0,0,,{\i1}It must be painful.
+Dialogue: 10,0:16:08.65,0:16:10.69,Default,,0,0,0,,{\i1}You probably want to scream.
+Dialogue: 10,0:16:11.45,0:16:12.57,Default,,0,0,0,,{\i1}I get it.
+Dialogue: 10,0:16:13.61,0:16:16.95,Default,,0,0,0,,{\i1}If I’d gotten here even half a day sooner,
+Dialogue: 10,0:16:16.95,0:16:19.66,Default,,0,0,0,,{\i1}your family might still have been alive right now.
+Dialogue: 10,0:16:20.33,0:16:24.29,Default,,0,0,0,,{\i1}But there’s no way to turn back time.
+Dialogue: 10,0:16:24.96,0:16:26.13,Default,,0,0,0,,{\i1}Feel the anger.
+Dialogue: 10,0:16:26.63,0:16:32.72,Default,,0,0,0,,{\i1}The pure, unforgiving wrath will become \Nyour unwavering drive forward!
+Dialogue: 10,0:16:33.38,0:16:35.22,Default,,0,0,0,,{\i1}With such fragile resolve,
+Dialogue: 10,0:16:35.64,0:16:38.68,Default,,0,0,0,,{\i1}protecting or curing your sister,
+Dialogue: 10,0:16:38.68,0:16:41.60,Default,,0,0,0,,{\i1}let alone getting revenge will be impossible!
+Dialogue: 10,0:16:41.60,0:16:42.48,Default,,0,0,0,,No!
+Dialogue: 10,0:16:44.94,0:16:46.27,Default,,0,0,0,,Stop!
+Dialogue: 10,0:17:01.20,0:17:04.25,Default,,0,0,0,,{\i1}A straightforward attack driven solely by emotion...
+Dialogue: 10,0:17:04.25,0:17:05.50,Default,,0,0,0,,You fool!
+Dialogue: 10,0:17:20.22,0:17:21.64,Default,,0,0,0,,{\i1}Where’s his axe?
+Dialogue: 10,0:17:30.57,0:17:32.90,Default,,0,0,0,,{\i1}Just before he hid behind the tree,
+Dialogue: 10,0:17:33.90,0:17:35.90,Default,,0,0,0,,{\i1}he threw that rock at me
+Dialogue: 10,0:17:35.90,0:17:38.99,Default,,0,0,0,,{\i1}and, simultaneously, tossed the axe into the air.
+Dialogue: 10,0:17:40.08,0:17:45.41,Default,,0,0,0,,{\i1}He hid his hands as he pretended to attack \Nso I wouldn’t realize he was unarmed.
+Dialogue: 10,0:17:46.54,0:17:49.42,Default,,0,0,0,,{\i1}He knew he couldn’t beat me.
+Dialogue: 10,0:17:49.88,0:17:53.63,Default,,0,0,0,,{\i1}He tried to bring me down after I struck him!
+Dialogue: 10,0:17:55.01,0:17:56.43,Default,,0,0,0,,{\i1}This kid...
+Dialogue: 10,0:18:01.26,0:18:02.22,Default,,0,0,0,,{\i1}Damn!
+Dialogue: 10,0:18:02.22,0:18:03.64,Default,,0,0,0,,{\i1}She’ll devour him!
+Dialogue: 10,0:18:08.10,0:18:09.48,Default,,0,0,0,,{\i1}Nezuko...
+Dialogue: 10,0:18:13.03,0:18:14.90,Default,,0,0,0,,{\i1}It wasn’t Nezuko!
+Dialogue: 10,0:18:16.90,0:18:18.86,Default,,0,0,0,,{\i1}She’d never eat humans!
+Dialogue: 10,0:18:22.53,0:18:23.66,Default,,0,0,0,,{\i1}Long ago,
+Dialogue: 10,0:18:24.08,0:18:27.83,Default,,0,0,0,,{\i1}someone once said the same thing, \Nonly to be devoured by a demon.
+Dialogue: 10,0:18:28.71,0:18:33.59,Default,,0,0,0,,{\i1}When a demon is starving, \Nit will consume even its own family.
+Dialogue: 10,0:18:34.38,0:18:36.38,Default,,0,0,0,,{\i1}Because for them, humans are nutritious.
+Dialogue: 10,0:18:37.01,0:18:40.30,Default,,0,0,0,,{\i1}I’ve seen it happen more times than I can count.
+Dialogue: 10,0:18:41.22,0:18:43.72,Default,,0,0,0,,{\i1}This girl has been wounded,
+Dialogue: 10,0:18:44.10,0:18:47.73,Default,,0,0,0,,{\i1}and she’s expending energy to heal those injuries.
+Dialogue: 10,0:18:47.73,0:18:51.23,Default,,0,0,0,,{\i1}Her transformation must have also drained her greatly.
+Dialogue: 10,0:18:51.98,0:18:55.44,Default,,0,0,0,,{\i1}That means right now, \Nshe’s undoubtedly severely starved.
+Dialogue: 10,0:18:56.61,0:19:01.16,Default,,0,0,0,,{\i1}She must’ve wanted to feast \Non a human as soon as possible.
+Dialogue: 10,0:19:01.70,0:19:05.62,Default,,0,0,0,,{\i1}Yet she protected him instead, \Neven going so far as to threaten me...
+Dialogue: 10,0:19:08.33,0:19:09.37,Default,,0,0,0,,{\i1}There might be
+Dialogue: 10,0:19:10.21,0:19:11.33,Default,,0,0,0,,{\i1}something
+Dialogue: 10,0:19:11.83,0:19:13.75,Default,,0,0,0,,{\i1}special about them.
+Dialogue: 10,0:19:31.19,0:19:35.11,Default,,0,0,0,,I’m sorry for leaving you behind, Tanjirou.
+Dialogue: 10,0:19:36.15,0:19:38.61,Default,,0,0,0,,Take good care of Nezuko for me, all right?
+Dialogue: 10,0:19:49.96,0:19:51.16,Default,,0,0,0,,You awake?
+Dialogue: 10,0:19:54.38,0:19:59.67,Default,,0,0,0,,Go see an old man named Urokodaki Sakonji \Nwho lives at the foot of Mt. Sagiri.
+Dialogue: 10,0:20:01.01,0:20:03.84,Default,,0,0,0,,Tell him that Tomioka Giyuu sent you.
+Dialogue: 10,0:20:05.18,0:20:08.31,Default,,0,0,0,,She seems to be all right since it’s cloudy now,
+Dialogue: 10,0:20:08.81,0:20:11.44,Default,,0,0,0,,but make sure she’s never exposed to the sun.
+Dialogue: 10,0:20:28.87,0:20:30.04,Default,,0,0,0,,Let’s go.
 Dialogue: 0,0:21:06.49,0:21:09.99,Title Card Sign,,0,0,0,,{\pos(680,618.49)\fs104\blur1}Cruelty
 Dialogue: 0,0:21:06.49,0:21:09.99,Title Card Sign,,0,0,0,,{\pos(680,390)\fs94\blur1}Episode
 Dialogue: 0,0:21:06.49,0:21:09.99,Title Card Sign,,0,0,0,,{\pos(680,486)\fs148\blur1}1
