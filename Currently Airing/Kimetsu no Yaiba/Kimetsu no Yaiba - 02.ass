@@ -22,9 +22,9 @@ Keyframes File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Y
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 57
-Active Line: 58
-Video Position: 6417
+Scroll Position: 212
+Active Line: 228
+Video Position: 27714
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -274,7 +274,7 @@ Dialogue: 10,0:18:51.94,0:18:54.36,Default,,0,0,0,,{\i1}I’ve got it! I finally
 Dialogue: 10,0:18:54.86,0:18:59.70,Default,,0,0,0,,{\i1}Human traps have a slightly different smell after all!
 Dialogue: 10,0:19:05.95,0:19:07.37,Default,,0,0,0,,{\i1}But that doesn’t mean
 Dialogue: 10,0:19:09.04,0:19:15.34,Default,,0,0,0,,{\i1}that I’m suddenly athletic enough \Nto dodge every single one of them!
-Dialogue: 10,0:19:15.88,0:19:18.76,Default,,0,0,0,,{\i1}I’m gonna make it back no matter what!
+Dialogue: 10,0:19:15.88,0:19:18.76,Default,,0,0,0,,{\i1}I’ll make it back to you no matter what!
 Dialogue: 10,0:19:19.47,0:19:21.34,Default,,0,0,0,,{\i1}Nezuko!
 Dialogue: 10,0:19:50.29,0:19:54.25,Default,,0,0,0,,I have... returned.
 Dialogue: 10,0:19:57.00,0:20:00.42,Default,,0,0,0,,{\i1}Dear Urokodaki Sakonji. \NPlease do forgive my briskness.
