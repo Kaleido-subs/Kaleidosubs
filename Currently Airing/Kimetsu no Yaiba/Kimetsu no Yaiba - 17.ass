@@ -16,14 +16,14 @@ ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
 Last Style Storage: Default (1080p)
-Audio File: Yaiba17 (QC).mkv
-Video File: Yaiba17 (QC).mkv
+Audio File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba/[Kaleido-Flax] Kimetsu no Yaiba - 17 (WEB 1080p) [E2EA41C5].mkv
+Video File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba/[Kaleido-Flax] Kimetsu no Yaiba - 17 (WEB 1080p) [E2EA41C5].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 446
-Active Line: 489
-Video Position: 33140
+Scroll Position: 297
+Active Line: 298
+Video Position: 18098
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -343,7 +343,7 @@ Dialogue: 10,0:12:17.17,0:12:21.67,Default,,0,0,0,,Take the one thing you can do
 Dialogue: 10,0:12:24.64,0:12:27.81,Default,,0,0,0,,Refine it! Polish it to its utmost limit! {Refine it, polish it all the way to the utmost limit!}
 Dialogue: 10,0:12:29.68,0:12:32.02,Default,,0,0,0,,{\i1}Hey, but Gramps...
 Dialogue: 10,0:12:32.02,0:12:34.31,Default,,0,0,0,,{\i1}Just a little while ago, you were fuming.
-Dialogue: 10,0:12:34.81,0:12:39.94,Default,,0,0,0,,{\i1}Since Thunder Breathing has three forms, \Nyet I can only perform one.{something up with tenses}
+Dialogue: 10,0:12:34.81,0:12:39.94,Default,,0,0,0,,{\i1}Since Thunder Breathing has fix forms, \Nyet I can only perform one.{something up with tenses}
 Dialogue: 10,0:12:41.44,0:12:44.20,Default,,0,0,0,,Do you know how a sword is forged? {Do you know how a sword is forged?}
 Dialogue: 10,0:12:47.12,0:12:48.53,Default,,0,0,0,,{\i1}I have no idea.
 Dialogue: 10,0:12:48.53,0:12:51.20,Default,,0,0,0,,{\i1}Are you going to keep hitting me? \NI think I’m about to cry.
