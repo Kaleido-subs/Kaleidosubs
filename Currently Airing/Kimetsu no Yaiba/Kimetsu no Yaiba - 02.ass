@@ -18,12 +18,13 @@ ScaledBorderAndShadow: yes
 Last Style Storage: Default (1080p)
 Audio File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba Vol.1-2 (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba - 02 (BD 1080p).mkv
 Video File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba Vol.1-2 (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba - 02 (BD 1080p).mkv
+Keyframes File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba Vol.1-2 (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba - 02 (BD 1080p)._keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 2841
-Active Line: 2842
-Video Position: 31811
+Scroll Position: 57
+Active Line: 58
+Video Position: 6417
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -103,7 +104,7 @@ Dialogue: 10,0:04:14.65,0:04:15.86,Default,,0,0,0,,It’s dangerous.
 Dialogue: 10,0:04:16.86,0:04:18.61,Default,,0,0,0,,Don’t worry, I’ll be careful.
 Dialogue: 10,0:04:19.28,0:04:20.69,Default,,0,0,0,,Thank you very much.
 Dialogue: 10,0:04:24.11,0:04:27.62,Default,,0,0,0,,People have gone missing as of late!
-Dialogue: 10,0:04:27.62,0:04:29.24,Default,,0,0,0,,Make sure you don't get lost.
+Dialogue: 10,0:04:27.62,0:04:29.24,Default,,0,0,0,,Make sure you don’t get lost.
 Dialogue: 10,0:04:38.63,0:04:40.46,Default,,0,0,0,,There’s a temple here.
 Dialogue: 10,0:04:41.01,0:04:44.84,Default,,0,0,0,,The lights are on, so someone might be around.
 Dialogue: 10,0:04:44.84,0:04:46.05,Default,,0,0,0,,Let’s check it out.
