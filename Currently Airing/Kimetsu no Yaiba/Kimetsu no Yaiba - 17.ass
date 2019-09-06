@@ -21,9 +21,9 @@ Video File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 390
-Active Line: 400
-Video Position: 28846
+Scroll Position: 262
+Active Line: 287
+Video Position: 17250
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -332,7 +332,7 @@ Dialogue: 10,0:11:40.38,0:11:42.38,Default,,0,0,0,,Hey, you guys! Pounce on him!
 Dialogue: 10,0:11:46.35,0:11:47.97,Default,,0,0,0,,Thunder Breathing!
 Dialogue: 10,0:11:47.97,0:11:49.18,Default,,0,0,0,,First Form!
 Dialogue: 10,0:11:54.02,0:11:57.61,Default,,0,0,0,,{\i1}He’s been assuming the same stance over and over.
-Dialogue: 10,0:11:59.44,0:12:02.40,Default,,0,0,0,,{\i1}Oh, I get it. This guy....
+Dialogue: 10,0:11:59.44,0:12:02.40,Default,,0,0,0,,{\i1}Oh, I get it. This guy...
 Dialogue: 10,0:12:03.36,0:12:06.33,Default,,0,0,0,,{\i1}He only has one move!
 Dialogue: 10,0:12:08.20,0:12:10.20,Default,,0,0,0,,{\i1}That’s all right, Zenitsu.
 Dialogue: 10,0:12:10.20,0:12:12.16,Default,,0,0,0,,{\i1}That’s good enough for you.
