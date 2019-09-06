@@ -21,9 +21,9 @@ Video File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 262
-Active Line: 287
-Video Position: 17250
+Scroll Position: 286
+Active Line: 302
+Video Position: 18683
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -301,13 +301,13 @@ Dialogue: 10,0:09:23.12,0:09:25.58,Default,,0,0,0,,{\i1}My hair color changed.
 Dialogue: 10,0:09:27.58,0:09:30.80,Default,,0,0,0,,{\i1}I was thankful just to be alive, but...
 Dialogue: 10,0:09:33.09,0:09:34.17,Default,,0,0,0,,{\i1}I...
 Dialogue: 10,0:09:34.63,0:09:37.34,Default,,0,0,0,,{\i1}I hate myself more than anyone else. {## ? what needs changing here?}
-Dialogue: 10,0:09:39.14,0:09:42.22,Default,,0,0,0,,{\i1}I always think I have to get my act together,
-Dialogue: 10,0:09:42.22,0:09:46.31,Default,,0,0,0,,{\i1}but I end up cowering, running away, sniveling.
+Dialogue: 10,0:09:39.14,0:09:42.22,Default,,0,0,0,,{\i1}I always think about how I have to get my act together,
+Dialogue: 10,0:09:42.22,0:09:46.31,Default,,0,0,0,,{\i1}but in the end I just end up cowering, \Nrunning away, and sniveling.
 Dialogue: 10,0:09:48.06,0:09:51.57,Default,,0,0,0,,{\i1}I want to change. I want to be a competent person.
 Dialogue: 10,0:09:52.86,0:09:54.19,Default,,0,0,0,,Even still!
-Dialogue: 10,0:09:54.49,0:09:56.95,Default,,0,0,0,,I’m doing everything I can, okay?
+Dialogue: 10,0:09:54.49,0:09:56.95,Default,,0,0,0,,I’m doing the best I can, okay?{I’m doing everything I can, okay?}
 Dialogue: 10,0:09:56.95,0:10:00.37,Default,,0,0,0,,Why do I have to end up going bald \Nand turn{ing} into a monster? {## Sounds fine to me without the -ing}
-Dialogue: 10,0:10:00.37,0:10:02.95,Default,,0,0,0,,You can’t be for real, right? It {\i1}so{\i0} can’t be true! {You can’t be for real./ italicise the so}
+Dialogue: 10,0:10:00.37,0:10:02.95,Default,,0,0,0,,You can’t be for real, right? {It so can’t be true!} {You can’t be for real./ italicise the so}
 Dialogue: 10,0:10:05.70,0:10:07.67,Default,,0,0,0,,{\i1}What’s up with this guy?
 Dialogue: 10,0:10:11.13,0:10:13.63,Default,,0,0,0,,Oh, crap! Don’t climb up here!
 Dialogue: 10,0:10:13.63,0:10:15.88,Default,,0,0,0,,Just leave me alone for a minute!
@@ -318,9 +318,9 @@ Dialogue: 10,0:10:30.77,0:10:33.90,Default,,0,0,0,,{\i1}Hey, he never mentioned 
 Dialogue: 10,0:10:44.08,0:10:46.16,Default,,0,0,0,,{\i1}What’s up with this guy?{What’s up with this guy?}
 Dialogue: 10,0:10:46.16,0:10:50.17,Default,,0,0,0,,{\i1}Isn’t he a demon hunter that \Ncame here to kill our family? {So just a comment here, he ays ichizoku rather than kazoku through this. Which is less a family in the sense of like closely knit buy more in the sense of one tribe, one clan, one blood, relatives, etc. Not sure if I’d change anything, but if you feel like you have a way to express him in less a "ahh, don’t come and kill my family"-way then use it. or just generally keep it in mind} {## I can’t really think of anything better than "clan". Not changing for now.}
 Dialogue: 10,0:10:50.58,0:10:52.25,Default,,0,0,0,,{\i1}Did he black out already?{Surprise only in the sense that it’s early.}{## how’s this?}
-Dialogue: 10,0:10:52.25,0:10:54.30,Default,,0,0,0,,{\i1}I can’t believe how spineless he is.
+Dialogue: 10,0:10:52.25,0:10:54.30,Default,,0,0,0,,{\i1}I can’t believe he's so spineless.{how spineless he is.}
 Dialogue: 10,0:10:56.38,0:10:58.76,Default,,0,0,0,,{\i1}He’s gonna land on his head and die.
-Dialogue: 10,0:10:59.13,0:11:00.84,Default,,0,0,0,,{\i1}The hell’s his problem?
+Dialogue: 10,0:10:59.13,0:11:00.84,Default,,0,0,0,,{\i1}The hell is his problem?
 Dialogue: 10,0:11:08.31,0:11:09.77,Default,,0,0,0,,Thunder Breathing!
 Dialogue: 10,0:11:09.77,0:11:11.27,Default,,0,0,0,,First Form!
 Dialogue: 10,0:11:19.61,0:11:20.91,Default,,0,0,0,,{\i1}Gastro Acid! {## Is this really poison? Its effects seem closer to acid to me. Kinda reminds me of Gastro Acid from Pokemon lol. Kinda tempted to just steal that name.} {## fuck it, I did it}
@@ -333,15 +333,15 @@ Dialogue: 10,0:11:46.35,0:11:47.97,Default,,0,0,0,,Thunder Breathing!
 Dialogue: 10,0:11:47.97,0:11:49.18,Default,,0,0,0,,First Form!
 Dialogue: 10,0:11:54.02,0:11:57.61,Default,,0,0,0,,{\i1}He’s been assuming the same stance over and over.
 Dialogue: 10,0:11:59.44,0:12:02.40,Default,,0,0,0,,{\i1}Oh, I get it. This guy...
-Dialogue: 10,0:12:03.36,0:12:06.33,Default,,0,0,0,,{\i1}He only has one move!
-Dialogue: 10,0:12:08.20,0:12:10.20,Default,,0,0,0,,{\i1}That’s all right, Zenitsu.
+Dialogue: 10,0:12:03.36,0:12:06.33,Default,,0,0,0,,{\i1}He only knows one move!
+Dialogue: 10,0:12:08.20,0:12:10.20,Default,,0,0,0,,{\i1}That’s fine, Zenitsu.
 Dialogue: 10,0:12:10.20,0:12:12.16,Default,,0,0,0,,{\i1}That’s good enough for you.
 Dialogue: 10,0:12:12.87,0:12:15.71,Default,,0,0,0,,If you can master even one, \Nthat’s a cause for celebration!
-Dialogue: 10,0:12:17.17,0:12:21.67,Default,,0,0,0,,Take the one thing you can do \Nand hone it to perfection.{OG: If you can only do one thing, hone it to perfection.} {OG is literally true. But keep it. I think the gramps should sound warm but wise. But the sentence should be a two parter, to match the jp I think. Hmm. "Take the the one thing you can and hone it all the way to perfection."}
+Dialogue: 10,0:12:17.17,0:12:21.67,Default,,0,0,0,,Take the one move you can do \Nand hone it to perfection.{OG: If you can only do one thing, hone it to perfection.} {OG is literally true. But keep it. I think the gramps should sound warm but wise. But the sentence should be a two parter, to match the jp I think. Hmm. "Take the the one thing you can and hone it all the way to perfection."}
 Dialogue: 10,0:12:24.64,0:12:27.81,Default,,0,0,0,,Refine it! Polish it to its utmost limit! {Refine it, polish it all the way to the utmost limit!}
-Dialogue: 10,0:12:29.68,0:12:32.02,Default,,0,0,0,,{\i1}Hey, but Gramps...
-Dialogue: 10,0:12:32.02,0:12:34.31,Default,,0,0,0,,{\i1}Just a little while ago, you were fuming.
-Dialogue: 10,0:12:34.81,0:12:39.94,Default,,0,0,0,,{\i1}Since Thunder Breathing has six forms, \Nyet I’ve only ever been to pull of one. {something up with tenses}
+Dialogue: 10,0:12:29.68,0:12:32.02,Default,,0,0,0,,{\i1}But Gramps,
+Dialogue: 10,0:12:32.02,0:12:34.31,Default,,0,0,0,,{\i1}you were fuming not too long ago.
+Dialogue: 10,0:12:34.81,0:12:39.94,Default,,0,0,0,,{\i1}Since Thunder Breathing has six forms, \Nyet I’ve only ever been able to pull of one. {something up with tenses}
 Dialogue: 10,0:12:41.44,0:12:44.20,Default,,0,0,0,,Do you know how a sword is forged? {Do you know how a sword is forged?}
 Dialogue: 10,0:12:47.12,0:12:48.53,Default,,0,0,0,,{\i1}I have no idea.
 Dialogue: 10,0:12:48.53,0:12:51.20,Default,,0,0,0,,{\i1}Are you going to keep hitting me? \NI think I’m about to cry.
@@ -365,36 +365,35 @@ Dialogue: 10,0:13:45.13,0:13:46.97,Default,,0,0,0,,{\i1}Hone it to the utmost li
 Dialogue: 10,0:13:47.38,0:13:50.60,Default,,0,0,0,,{\i1}Become the strongest blade of all!{same as before}{jet: was this "most durable" meant to be changed to "strongest" to match 305?}
 Dialogue: 10,0:13:51.72,0:13:53.97,Default,,0,0,0,,{\i1}Hone that one move to perfection!
 Dialogue: 10,0:14:01.40,0:14:02.98,Default,,0,0,0,,{\i1}Get out of my sight.
-Dialogue: 10,0:14:08.11,0:14:11.53,Default,,0,0,0,,Don’t make me repeat myself. Get out of my sight.
-Dialogue: 10,0:14:12.74,0:14:14.04,Default,,0,0,0,,Don’t play dumb. {jet: "Don’t play dumb."? Mostly for CPS purposes}
+Dialogue: 10,0:14:08.11,0:14:11.53,Default,,0,0,0,,Don’t make me repeat myself. \NGet out of my sight.
+Dialogue: 10,0:14:12.74,0:14:14.04,Default,,0,0,0,,Stop playing dumb. {jet: "Don’t play dumb."? Mostly for CPS purposes}
 Dialogue: 10,0:14:15.00,0:14:19.42,Default,,0,0,0,,Aren’t you ashamed of crying like a baby all day long?
 Dialogue: 10,0:14:22.42,0:14:23.80,Default,,0,0,0,,You laggard...
 Dialogue: 10,0:14:23.80,0:14:27.22,Default,,0,0,0,,Any time spent on you is wasted.
 Dialogue: 10,0:14:27.93,0:14:30.93,Default,,0,0,0,,Master is an extraordinary man. {## Tempted to keep this as "sensei". Thoughts?} {use master. our master}
 Dialogue: 10,0:14:30.93,0:14:32.51,Default,,0,0,0,,But Gramps said—
-Dialogue: 10,0:14:33.72,0:14:37.06,Default,,0,0,0,,Just who do you think you are, calling him “Gramps”?
+Dialogue: 10,0:14:33.72,0:14:37.06,Default,,0,0,0,,“Gramps”? Just who do you think you are?
 Dialogue: 10,0:14:37.56,0:14:39.73,Default,,0,0,0,,Master is a former Hashira!
-Dialogue: 10,0:14:39.73,0:14:42.77,Default,,0,0,0,,Someone who earned \Nthe highest title in the Demon Slayers!
+Dialogue: 10,0:14:39.73,0:14:42.77,Default,,0,0,0,,He earned the highest title among the Demon Slayers!
 Dialogue: 10,0:14:44.40,0:14:48.03,Default,,0,0,0,,Almost no one ever gets the chance \Nto be trained by a former Hashira!
 Dialogue: 10,0:14:48.61,0:14:52.78,Default,,0,0,0,,The time Master spends training you is all for naught!
-Dialogue: 10,0:14:53.08,0:14:55.29,Default,,0,0,0,,You’re an eyesore, okay? Get out of my sight!
+Dialogue: 10,0:14:53.08,0:14:55.29,Default,,0,0,0,,You’re an eyesore, okay? \NGet out of my sight!
 Dialogue: 10,0:14:55.74,0:14:57.75,Default,,0,0,0,,Why are you still here?
 Dialogue: 10,0:14:57.75,0:15:00.29,Default,,0,0,0,,Why do you insist on dawdling here?
 Dialogue: 10,0:15:10.80,0:15:14.26,Default,,0,0,0,,{\i1}I have no parents, and no one expects anything of me.
 Dialogue: 10,0:15:15.56,0:15:21.65,Default,,0,0,0,,{\i1}There isn’t a single soul that has any hope for me.{There’s no one who dreams that \NI’ll either grasp or accomplish something one day.}
-Dialogue: 10,0:15:23.65,0:15:25.61,Default,,0,0,0,,{\i1}That I’ll prove myself useful to somebody.
-Dialogue: 10,0:15:25.61,0:15:27.61,Default,,0,0,0,,{\i1}That I’ll manage to protect somebody
-Dialogue: 10,0:15:27.61,0:15:30.36,Default,,0,0,0,,{\i1}and make that person happy, just once in my life.
+Dialogue: 10,0:15:23.65,0:15:25.61,Default,,0,0,0,,{\i1}No one believes I’ll prove myself useful to someone.
+Dialogue: 10,0:15:25.61,0:15:30.36,Default,,0,0,0,,{\i1}That I’ll manage to protect somebody \Nand make them happy, even once in my life.
 Dialogue: 10,0:15:30.36,0:15:32.41,Default,,0,0,0,,{\i1}Not even a simple future like that.
-Dialogue: 10,0:15:33.41,0:15:35.37,Default,,0,0,0,,{\i1}There’s no one who hopes that I’ll have one.
+Dialogue: 10,0:15:33.41,0:15:35.37,Default,,0,0,0,,{\i1}No one has any hope for me. {There’s no one who hopes that I’ll have one.}
 Dialogue: 10,0:15:36.20,0:15:39.37,Default,,0,0,0,,{\i1}If you fail, cry, and run away even once,
-Dialogue: 10,0:15:39.37,0:15:43.13,Default,,0,0,0,,{\i1}they say, “Oh, this guy’s no good”, and walk away.
-Dialogue: 10,0:15:45.29,0:15:46.96,Default,,0,0,0,,{\i1}But not Gramps!
+Dialogue: 10,0:15:39.37,0:15:43.13,Default,,0,0,0,,{\i1}they just go, “Oh, this guy’s no good”, \Nand turn their backs to you.
+Dialogue: 10,0:15:45.29,0:15:46.96,Default,,0,0,0,,{\i1}But Gramps was different!
 Dialogue: 10,0:15:50.97,0:15:54.22,Default,,0,0,0,,{\i1}Time and time again, he would patiently scold me.{what the fuck, just use scolded me. Make is sound warmer. "Again and again, he would patiently scold me."}
 Dialogue: 10,0:15:56.68,0:15:58.47,Default,,0,0,0,,{\i1}All those times I kept running away...
 Dialogue: 10,0:16:00.48,0:16:02.06,Default,,0,0,0,,{\i1}Time and time again...
 Dialogue: 10,0:16:03.48,0:16:04.98,Default,,0,0,0,,{\i1}He’d drag me right back.
-Dialogue: 10,0:16:08.28,0:16:11.11,Default,,0,0,0,,{\i1}Clearly, he did smack me around a bit too much.
+Dialogue: 10,0:16:08.28,0:16:11.11,Default,,0,0,0,,{\i1}Well yeah, he did smack me around a tad too much.{Clearly, he did smack me around a bit too much.}
 Dialogue: 10,0:16:12.57,0:16:14.87,Default,,0,0,0,,{\i1}But he never abandoned me!
 Dialogue: 10,0:16:16.41,0:16:19.24,Default,,0,0,0,,Sting him! Inject him with more venom!
 Dialogue: 10,0:16:32.55,0:16:34.05,Default,,0,0,0,,That should do it for him!
