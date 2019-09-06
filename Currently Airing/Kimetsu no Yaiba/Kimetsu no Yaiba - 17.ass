@@ -21,9 +21,9 @@ Video File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 297
-Active Line: 319
-Video Position: 19838
+Scroll Position: 390
+Active Line: 400
+Video Position: 28846
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,9 +48,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Aniplex / Ringo (OP, ED) \ TLC: Ringo \ Editing: LightArrowsEXE \ Timing: skiddiks \ TS: bthen13  \ QC: CaptainJet }
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
 Dialogue: 10,0:00:03.56,0:00:07.69,Default,,0,0,0,,{\i1}The blood of the Twelve Blood Moons \Nshould have a high degree of Kibutsuji’s blood.
-Comment: 10,0:00:08.40,0:00:10.03,Default,,0,0,0,,{\i1}If I can extract it,
 Dialogue: 10,0:00:08.40,0:00:12.99,Default,,0,0,0,,{\i1}If I can extract it, we’ll be one step closer to turning Nezuko back into a human.
-Comment: 10,0:00:10.03,0:00:13.70,Default,,0,0,0,,{\i1}we’ll be one step closer to completing the medicine \Nto turn turn Nezuko back into a human! {It’s a necessity so - we’ll be one step closer to} {## done}
 Dialogue: 10,0:00:15.37,0:00:16.99,Default,,0,0,0,,That’s right! Inosuke!
 Dialogue: 10,0:00:21.29,0:00:23.29,Default,,0,0,0,,Did you defeat them?
 Dialogue: 10,0:00:23.83,0:00:26.17,Default,,0,0,0,,Are you all right, Inosuke?
@@ -89,133 +87,133 @@ Dialogue: 10,0:02:00.80,0:02:02.31,Default,,0,0,0,,Dammit! Shut up!
 Dialogue: 10,0:02:02.31,0:02:03.39,Default,,0,0,0,,Just stay still!
 Dialogue: 10,0:02:06.39,0:02:09.94,Default,,0,0,0,,The hell is {\i1}that{\i0}?! {It’s literal but I’d prefer you just edit that to something more nicely flowing - What the hell is that?! or something} {## Yeah, that works.}
 Comment: 0,0:03:39.94,0:03:39.94,Default,,0,0,0,,---------------------------------------------- [ PART A ] ----------------------------------------------
-Dialogue: 2,0:03:41.65,0:03:41.70,Title Card Sign,,0,0,0,TS,{\pos(1506.6,1039.83)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HF8&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:41.70,0:03:41.74,Title Card Sign,,0,0,0,TS,{\pos(1504.49,1038.63)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HF1&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:41.74,0:03:41.78,Title Card Sign,,0,0,0,TS,{\pos(1502.47,1037.5)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HEB&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:41.74,0:03:41.78,Title Card Sign,,0,0,0,TS,{\pos(1656.62,490.47)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HEB&\4a&HFF&\blur0.9\clip(m 1587 350 l 1580 413 1611 530 1417 552 1465 357)}Episode
-Dialogue: 2,0:03:41.78,0:03:41.82,Title Card Sign,,0,0,0,TS,{\pos(1500.49,1036.39)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HE2&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:41.78,0:03:41.82,Title Card Sign,,0,0,0,TS,{\pos(1654.64,489.36)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HE2&\4a&HFF&\blur0.9\clip(m 1583 347 l 1606 427 1630 528 1419 576 1281 346)}Episode
-Dialogue: 2,0:03:41.82,0:03:41.86,Title Card Sign,,0,0,0,TS,{\pos(1498.59,1035.32)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HDB&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:41.82,0:03:41.86,Title Card Sign,,0,0,0,TS,{\pos(1652.74,488.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HDB&\4a&HFF&\blur0.9\clip(m 1580 331 l 1593 390 1604 408 1604 440 1638 507 1372 560 1247 360)}Episode
-Dialogue: 2,0:03:41.82,0:03:41.86,Title Card Sign,,0,0,0,TS,{\pos(1655.46,553.8)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HDB&\4a&HFF&\blur1\clip(m 1617 454 l 1631 488 1651 524 1667 539 1713 531 1557 661 1495 464)}17
-Dialogue: 2,0:03:41.86,0:03:41.90,Title Card Sign,,0,0,0,TS,{\pos(1496.69,1034.33)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HD5&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:41.86,0:03:41.90,Title Card Sign,,0,0,0,TS,{\pos(1650.84,487.3)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HD5&\4a&HFF&\blur0.9\clip(m 1585 355 l 1601 410 1647 512 1403 560 1289 350)}Episode
-Dialogue: 2,0:03:41.86,0:03:41.90,Title Card Sign,,0,0,0,TS,{\pos(1653.46,552.81)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HD5&\4a&HFF&\blur1\clip(m 1609 426 l 1631 470 1635 499 1673 531 1525 595 1455 469)}17
-Dialogue: 2,0:03:41.90,0:03:41.95,Title Card Sign,,0,0,0,TS,{\pos(1494.36,1033.3)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HCE&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:41.90,0:03:41.95,Title Card Sign,,0,0,0,TS,{\pos(1648.51,486.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HCE&\4a&HFF&\blur0.9\clip(m 1579 350 l 1641 475 1412 562 1215 381)}Episode
-Dialogue: 2,0:03:41.90,0:03:41.95,Title Card Sign,,0,0,0,TS,{\pos(1651.14,551.79)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HCE&\4a&HFF&\blur1}17
-Dialogue: 2,0:03:41.95,0:03:41.99,Title Card Sign,,0,0,0,TS,{\pos(1492.54,1032.54)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC7&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:41.95,0:03:41.99,Title Card Sign,,0,0,0,TS,{\pos(1646.69,485.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC7&\4a&HFF&\blur0.9\clip(m 1567 331 l 1591 382 1620 426 1647 483 1449 528 1271 382)}Episode
-Dialogue: 2,0:03:41.95,0:03:41.99,Title Card Sign,,0,0,0,TS,{\pos(1650.41,551.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC7&\4a&HFF&\blur0.9}17
-Dialogue: 2,0:03:41.99,0:03:42.03,Title Card Sign,,0,0,0,TS,{\pos(1491.22,1031.54)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC0&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:41.99,0:03:42.03,Title Card Sign,,0,0,0,TS,{\pos(1645.37,484.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC0&\4a&HFF&\blur0.9\clip(m 1566 339 l 1628 443 1497 542 1335 421)}Episode
-Dialogue: 2,0:03:41.99,0:03:42.03,Title Card Sign,,0,0,0,TS,{\pos(1647.99,550.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC0&\4a&HFF&\blur0.9}17
-Dialogue: 2,0:03:42.03,0:03:42.07,Title Card Sign,,0,0,0,TS,{\pos(1489.69,1030.82)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB8&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.03,0:03:42.07,Title Card Sign,,0,0,0,TS,{\pos(1643.84,483.79)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB8&\4a&HFF&\blur1\clip(m 1567 349 l 1609 426 1703 482 1492 582 1281 458)}Episode
-Dialogue: 2,0:03:42.03,0:03:42.07,Title Card Sign,,0,0,0,TS,{\pos(1646.46,549.4)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB8&\4a&HFF&\blur0.9}17
-Dialogue: 2,0:03:42.07,0:03:42.11,Title Card Sign,,0,0,0,TS,{\pos(1488.76,1029.65)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB1&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.07,0:03:42.11,Title Card Sign,,0,0,0,TS,{\pos(1642.91,482.63)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB1&\4a&HFF&\blur1.5\clip(m 1567 362 l 1606 427 1659 490 1478 566 1470 406)}Episode
-Dialogue: 2,0:03:42.07,0:03:42.11,Title Card Sign,,0,0,0,TS,{\pos(1645.54,548.14)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB1&\4a&HFF&\blur1.6\clip(m 1599 504 l 1609 437 1635 480 1659 494 1596 574 1452 520)}17
-Dialogue: 2,0:03:42.11,0:03:42.16,Title Card Sign,,0,0,0,TS,{\pos(1487.72,1028.42)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HAA&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.11,0:03:42.16,Title Card Sign,,0,0,0,TS,{\pos(1641.87,481.4)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HAA&\4a&HFF&\blur1.5\clip(m 1572 376 l 1633 485 1471 566 1486 376)}Episode
-Dialogue: 2,0:03:42.11,0:03:42.16,Title Card Sign,,0,0,0,TS,{\pos(1644.49,546.91)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HAA&\4a&HFF&\blur1.5\clip(m 1606 454 l 1635 488 1659 515 1595 605 1511 550)}17
-Dialogue: 2,0:03:42.16,0:03:42.20,Title Card Sign,,0,0,0,TS,{\pos(1486.41,1027.6)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HA3&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.16,0:03:42.20,Title Card Sign,,0,0,0,TS,{\pos(1640.56,480.57)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HA3&\4a&HFF&\blur2\clip(m 1561 368 l 1638 507 1473 549 1383 421)}Episode
-Dialogue: 2,0:03:42.16,0:03:42.20,Title Card Sign,,0,0,0,TS,{\pos(1643.18,546.08)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HA4&\4a&HFF&\blur1.5\clip(m 1607 455 l 1655 514 1553 581 1489 504)}17
-Dialogue: 2,0:03:42.20,0:03:42.24,Title Card Sign,,0,0,0,TS,{\pos(1485.17,1026.54)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H9C&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.20,0:03:42.24,Title Card Sign,,0,0,0,TS,{\pos(1639.32,479.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H9C&\4a&HFF&\blur2\clip(m 1548 368 l 1625 483 1473 554 1353 432)}Episode
-Dialogue: 2,0:03:42.20,0:03:42.24,Title Card Sign,,0,0,0,TS,{\pos(1641.94,545.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H9C&\4a&HFF&\blur2\clip(m 1579 416 l 1625 491 1633 504 1656 595 1555 632 1483 507)}17
-Dialogue: 2,0:03:42.24,0:03:42.28,Title Card Sign,,0,0,0,TS,{\pos(1483.64,1026)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H96&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.24,0:03:42.28,Title Card Sign,,0,0,0,TS,{\pos(1637.79,478.97)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H96&\4a&HFF&\blur2\clip(m 1545 379 l 1603 472 1475 522 1487 392)}Episode
-Dialogue: 2,0:03:42.24,0:03:42.28,Title Card Sign,,0,0,0,TS,{\pos(1640.41,544.48)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H96&\4a&HFF&\blur2}17
-Dialogue: 2,0:03:42.28,0:03:42.32,Title Card Sign,,0,0,0,TS,{\pos(1482.48,1025.52)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H8D&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.28,0:03:42.32,Title Card Sign,,0,0,0,TS,{\pos(1636.63,478.49)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H8D&\4a&HFF&\blur2\clip(m 1518 310 l 1524 355 1543 397 1577 451 1447 469 1407 374)}Episode
-Dialogue: 2,0:03:42.28,0:03:42.32,Title Card Sign,,0,0,0,TS,{\pos(1640.25,544)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H8D&\4a&HFF&\blur4}17
-Dialogue: 2,0:03:42.32,0:03:42.36,Title Card Sign,,0,0,0,TS,{\pos(1481.14,1024.76)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H86&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.32,0:03:42.36,Title Card Sign,,0,0,0,TS,{\pos(1635.29,477.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H86&\4a&HFF&\blur3\clip(m 1539 410 l 1556 429 1606 438 1563 499)}Episode
-Dialogue: 2,0:03:42.32,0:03:42.36,Title Card Sign,,0,0,0,TS,{\pos(1637.91,543.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H86&\4a&HFF&\blur4}17
-Dialogue: 2,0:03:42.36,0:03:42.41,Title Card Sign,,0,0,0,TS,{\pos(1480.09,1024.16)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H80&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.36,0:03:42.41,Title Card Sign,,0,0,0,TS,{\pos(1634.24,477.14)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H80&\4a&HFF&\blur5\clip(m 1532 413 l 1593 424 1630 413 1657 421 1700 458 1723 566 1563 587)}Episode
-Dialogue: 2,0:03:42.36,0:03:42.41,Title Card Sign,,0,0,0,TS,{\pos(1636.86,542.65)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H80&\4a&HFF&\blur4}17
-Dialogue: 2,0:03:42.41,0:03:42.45,Title Card Sign,,0,0,0,TS,{\pos(1479.37,1024.16)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H79&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.45,0:03:42.49,Title Card Sign,,0,0,0,TS,{\pos(1478.71,1023.62)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H72&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.49,0:03:42.53,Title Card Sign,,0,0,0,TS,{\pos(1478.18,1023.22)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H6B&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.53,0:03:42.57,Title Card Sign,,0,0,0,TS,{\pos(1477.22,1022.89)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H63&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.57,0:03:42.61,Title Card Sign,,0,0,0,TS,{\pos(1476.64,1022.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H5C&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.61,0:03:42.66,Title Card Sign,,0,0,0,TS,{\pos(1476.18,1022.41)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H55&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.66,0:03:42.70,Title Card Sign,,0,0,0,TS,{\pos(1475.59,1022.27)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H4E&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.70,0:03:42.74,Title Card Sign,,0,0,0,TS,{\pos(1475.31,1022.11)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H47&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.74,0:03:42.78,Title Card Sign,,0,0,0,TS,{\pos(1474.97,1021.86)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H41&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.78,0:03:42.82,Title Card Sign,,0,0,0,TS,{\pos(1474.63,1021.78)\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H38&\4a&HFF&\blur0.9\fscx130\fscy107\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.78,0:03:42.82,Title Card Sign,,0,0,0,TS,{\pos(1628.78,474.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H38&\4a&HFF&\blur5\clip(m 1849 419 l 1764 403 1676 430 1627 464 1601 502 1681 549)}Episode
-Dialogue: 2,0:03:42.78,0:03:42.82,Title Card Sign,,0,0,0,TS,{\pos(1631.4,540.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H48&\4a&HFF&\blur6\clip(m 1679 426 l 1631 454 1601 486 1575 514 1623 656 1828 557)}17
-Dialogue: 2,0:03:42.82,0:03:42.86,Title Card Sign,,0,0,0,TS,{\pos(1474.48,1021.73)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H31&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.82,0:03:42.86,Title Card Sign,,0,0,0,TS,{\pos(1628.63,474.7)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H31&\4a&HFF&\blur6\clip(m 1772 365 l 1700 379 1647 403 1582 467 1572 515 1667 574)}Episode
-Dialogue: 2,0:03:42.82,0:03:42.86,Title Card Sign,,0,0,0,TS,{\pos(1631.25,540.21)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H41&\4a&HFF&\blur5}17
-Dialogue: 2,0:03:42.86,0:03:42.91,Title Card Sign,,0,0,0,TS,{\pos(1474.74,1021.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H2B&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.86,0:03:42.91,Title Card Sign,,0,0,0,TS,{\pos(1628.89,474.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H2B&\4a&HFF&\blur6\clip(m 1711 338 l 1663 354 1615 382 1596 402 1579 437 1558 469 1601 528 1714 582)}Episode
-Dialogue: 2,0:03:42.86,0:03:42.91,Title Card Sign,,0,0,0,TS,{\pos(1631.51,540.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H2B&\4a&HFF&\blur4}17
-Dialogue: 2,0:03:42.91,0:03:42.95,Title Card Sign,,0,0,0,TS,{\pos(1474.76,1021.8)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H24&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.91,0:03:42.95,Title Card Sign,,0,0,0,TS,{\pos(1628.91,474.78)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H24&\4a&HFF&\blur6\clip(m 1668 318 l 1595 368 1559 398 1534 467 1619 523 1676 525 1783 501)}Episode
-Dialogue: 2,0:03:42.91,0:03:42.95,Title Card Sign,,0,0,0,TS,{\pos(1631.54,540.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H24&\4a&HFF&\blur6}17
-Dialogue: 2,0:03:42.95,0:03:42.99,Title Card Sign,,0,0,0,TS,{\pos(1474.76,1021.8)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H1D&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.95,0:03:42.99,Title Card Sign,,0,0,0,TS,{\pos(1628.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H1D&\4a&HFF&\blur5}Episode
-Dialogue: 2,0:03:42.95,0:03:42.99,Title Card Sign,,0,0,0,TS,{\pos(1631.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H1D&\4a&HFF&\blur6}17
-Dialogue: 2,0:03:42.99,0:03:43.03,Title Card Sign,,0,0,0,TS,{\pos(1474.76,1021.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H16&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:42.99,0:03:43.03,Title Card Sign,,0,0,0,TS,{\pos(1628.91,474.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H16&\4a&HFF&\blur4.73}Episode
-Dialogue: 2,0:03:42.99,0:03:43.03,Title Card Sign,,0,0,0,TS,{\pos(1631.54,540.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H16&\4a&HFF&\blur5.67}17
-Dialogue: 2,0:03:43.03,0:03:43.07,Title Card Sign,,0,0,0,TS,{\pos(1474.76,1021.78)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H0E&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:43.03,0:03:43.07,Title Card Sign,,0,0,0,TS,{\pos(1628.91,474.75)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H0E&\4a&HFF&\blur4.47}Episode
-Dialogue: 2,0:03:43.03,0:03:43.07,Title Card Sign,,0,0,0,TS,{\pos(1631.54,540.26)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H0E&\4a&HFF&\blur5.44}17
-Dialogue: 2,0:03:43.07,0:03:43.11,Title Card Sign,,0,0,0,TS,{\pos(1474.77,1021.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H07&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:43.07,0:03:43.11,Title Card Sign,,0,0,0,TS,{\pos(1628.92,474.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H07&\4a&HFF&\blur4.2}Episode
-Dialogue: 2,0:03:43.07,0:03:43.11,Title Card Sign,,0,0,0,TS,{\pos(1631.54,540.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H07&\4a&HFF&\blur5}17
-Dialogue: 2,0:03:43.11,0:03:43.16,Title Card Sign,,0,0,0,TS,{\pos(1474.77,1021.76)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:43.11,0:03:43.16,Title Card Sign,,0,0,0,TS,{\pos(1628.92,474.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.93}Episode
-Dialogue: 2,0:03:43.11,0:03:43.16,Title Card Sign,,0,0,0,TS,{\pos(1631.54,540.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.67}17
-Dialogue: 2,0:03:43.16,0:03:43.20,Title Card Sign,,0,0,0,TS,{\pos(1474.77,1021.76)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:43.16,0:03:43.20,Title Card Sign,,0,0,0,TS,{\pos(1628.93,474.7)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.67}Episode
-Dialogue: 2,0:03:43.16,0:03:43.20,Title Card Sign,,0,0,0,TS,{\pos(1631.55,540.21)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.44}17
-Dialogue: 2,0:03:43.20,0:03:43.24,Title Card Sign,,0,0,0,TS,{\pos(1474.78,1021.7)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:43.20,0:03:43.24,Title Card Sign,,0,0,0,TS,{\pos(1628.93,474.68)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.4}Episode
-Dialogue: 2,0:03:43.20,0:03:43.24,Title Card Sign,,0,0,0,TS,{\pos(1631.55,540.19)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4}17
-Dialogue: 2,0:03:43.24,0:03:43.28,Title Card Sign,,0,0,0,TS,{\pos(1628.92,474.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.13}Episode
-Dialogue: 2,0:03:43.24,0:03:43.28,Title Card Sign,,0,0,0,TS,{\pos(1631.54,540.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.67}17
-Dialogue: 2,0:03:43.24,0:03:43.28,Title Card Sign,,0,0,0,TS,{\pos(1474.77,1021.77)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:43.28,0:03:43.32,Title Card Sign,,0,0,0,TS,{\pos(1474.76,1021.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:43.28,0:03:43.32,Title Card Sign,,0,0,0,TS,{\pos(1628.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.87}Episode
-Dialogue: 2,0:03:43.28,0:03:43.32,Title Card Sign,,0,0,0,TS,{\pos(1631.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.44}17
-Dialogue: 2,0:03:43.32,0:03:43.49,Title Card Sign,,0,0,0,TS,{\pos(1474.76,1021.8)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:43.32,0:03:43.36,Title Card Sign,,0,0,0,TS,{\pos(1628.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.6}Episode
-Dialogue: 2,0:03:43.32,0:03:43.36,Title Card Sign,,0,0,0,TS,{\pos(1631.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4}17
-Dialogue: 2,0:03:43.36,0:03:43.41,Title Card Sign,,0,0,0,TS,{\pos(1628.91,474.78)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.33}Episode
-Dialogue: 2,0:03:43.36,0:03:43.41,Title Card Sign,,0,0,0,TS,{\pos(1631.54,540.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.67}17
-Dialogue: 2,0:03:43.41,0:03:43.45,Title Card Sign,,0,0,0,TS,{\pos(1628.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.07}Episode
-Dialogue: 2,0:03:43.41,0:03:43.45,Title Card Sign,,0,0,0,TS,{\pos(1631.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.44}17
-Dialogue: 2,0:03:43.45,0:03:43.49,Title Card Sign,,0,0,0,TS,{\pos(1628.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.8}Episode
-Dialogue: 2,0:03:43.45,0:03:43.49,Title Card Sign,,0,0,0,TS,{\pos(1631.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2}17
-Dialogue: 2,0:03:43.49,0:03:44.28,Title Card Sign,,0,0,0,TS,{\pos(1474.76,1021.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:43.49,0:03:43.53,Title Card Sign,,0,0,0,TS,{\pos(1628.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.53}Episode
-Dialogue: 2,0:03:43.49,0:03:43.53,Title Card Sign,,0,0,0,TS,{\pos(1631.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.67}17
-Dialogue: 2,0:03:43.53,0:03:43.57,Title Card Sign,,0,0,0,TS,{\pos(1628.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.27}Episode
-Dialogue: 2,0:03:43.53,0:03:43.57,Title Card Sign,,0,0,0,TS,{\pos(1631.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.44}17
-Dialogue: 2,0:03:43.57,0:03:45.95,Title Card Sign,,0,0,0,TS,{\pos(1628.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}Episode
-Dialogue: 2,0:03:43.57,0:03:45.95,Title Card Sign,,0,0,0,TS,{\pos(1631.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}17
-Dialogue: 2,0:03:44.28,0:03:44.95,Title Card Sign,,0,0,0,TS,{\pos(1474.76,1021.8)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:44.95,0:03:45.16,Title Card Sign,,0,0,0,TS,{\pos(1474.77,1021.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:45.16,0:03:45.70,Title Card Sign,,0,0,0,TS,{\pos(1474.76,1021.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
-Dialogue: 2,0:03:45.70,0:03:45.95,Title Card Sign,,0,0,0,TS,{\pos(1474.77,1021.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:41.65,0:03:41.70,Title Card Sign,,0,0,0,,{\pos(1506.6,1039.83)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HF8&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:41.70,0:03:41.74,Title Card Sign,,0,0,0,,{\pos(1504.49,1038.63)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HF1&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:41.74,0:03:41.78,Title Card Sign,,0,0,0,,{\pos(1502.47,1037.5)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HEB&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:41.74,0:03:41.78,Title Card Sign,,0,0,0,,{\pos(1656.62,490.47)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HEB&\4a&HFF&\blur0.9\clip(m 1587 350 l 1580 413 1611 530 1417 552 1465 357)}Episode
+Dialogue: 2,0:03:41.78,0:03:41.82,Title Card Sign,,0,0,0,,{\pos(1500.49,1036.39)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HE2&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:41.78,0:03:41.82,Title Card Sign,,0,0,0,,{\pos(1654.64,489.36)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HE2&\4a&HFF&\blur0.9\clip(m 1583 347 l 1606 427 1630 528 1419 576 1281 346)}Episode
+Dialogue: 2,0:03:41.82,0:03:41.86,Title Card Sign,,0,0,0,,{\pos(1498.59,1035.32)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HDB&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:41.82,0:03:41.86,Title Card Sign,,0,0,0,,{\pos(1652.74,488.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HDB&\4a&HFF&\blur0.9\clip(m 1580 331 l 1593 390 1604 408 1604 440 1638 507 1372 560 1247 360)}Episode
+Dialogue: 2,0:03:41.82,0:03:41.86,Title Card Sign,,0,0,0,,{\pos(1655.46,553.8)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HDB&\4a&HFF&\blur1\clip(m 1617 454 l 1631 488 1651 524 1667 539 1713 531 1557 661 1495 464)}17
+Dialogue: 2,0:03:41.86,0:03:41.90,Title Card Sign,,0,0,0,,{\pos(1496.69,1034.33)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HD5&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:41.86,0:03:41.90,Title Card Sign,,0,0,0,,{\pos(1650.84,487.3)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HD5&\4a&HFF&\blur0.9\clip(m 1585 355 l 1601 410 1647 512 1403 560 1289 350)}Episode
+Dialogue: 2,0:03:41.86,0:03:41.90,Title Card Sign,,0,0,0,,{\pos(1653.46,552.81)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HD5&\4a&HFF&\blur1\clip(m 1609 426 l 1631 470 1635 499 1673 531 1525 595 1455 469)}17
+Dialogue: 2,0:03:41.90,0:03:41.95,Title Card Sign,,0,0,0,,{\pos(1494.36,1033.3)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HCE&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:41.90,0:03:41.95,Title Card Sign,,0,0,0,,{\pos(1648.51,486.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HCE&\4a&HFF&\blur0.9\clip(m 1579 350 l 1641 475 1412 562 1215 381)}Episode
+Dialogue: 2,0:03:41.90,0:03:41.95,Title Card Sign,,0,0,0,,{\pos(1651.14,551.79)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HCE&\4a&HFF&\blur1}17
+Dialogue: 2,0:03:41.95,0:03:41.99,Title Card Sign,,0,0,0,,{\pos(1492.54,1032.54)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC7&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:41.95,0:03:41.99,Title Card Sign,,0,0,0,,{\pos(1646.69,485.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC7&\4a&HFF&\blur0.9\clip(m 1567 331 l 1591 382 1620 426 1647 483 1449 528 1271 382)}Episode
+Dialogue: 2,0:03:41.95,0:03:41.99,Title Card Sign,,0,0,0,,{\pos(1650.41,551.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC7&\4a&HFF&\blur0.9}17
+Dialogue: 2,0:03:41.99,0:03:42.03,Title Card Sign,,0,0,0,,{\pos(1491.22,1031.54)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC0&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:41.99,0:03:42.03,Title Card Sign,,0,0,0,,{\pos(1645.37,484.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC0&\4a&HFF&\blur0.9\clip(m 1566 339 l 1628 443 1497 542 1335 421)}Episode
+Dialogue: 2,0:03:41.99,0:03:42.03,Title Card Sign,,0,0,0,,{\pos(1647.99,550.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC0&\4a&HFF&\blur0.9}17
+Dialogue: 2,0:03:42.03,0:03:42.07,Title Card Sign,,0,0,0,,{\pos(1489.69,1030.82)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB8&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.03,0:03:42.07,Title Card Sign,,0,0,0,,{\pos(1643.84,483.79)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB8&\4a&HFF&\blur1\clip(m 1567 349 l 1609 426 1703 482 1492 582 1281 458)}Episode
+Dialogue: 2,0:03:42.03,0:03:42.07,Title Card Sign,,0,0,0,,{\pos(1646.46,549.4)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB8&\4a&HFF&\blur0.9}17
+Dialogue: 2,0:03:42.07,0:03:42.11,Title Card Sign,,0,0,0,,{\pos(1488.76,1029.65)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB1&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.07,0:03:42.11,Title Card Sign,,0,0,0,,{\pos(1642.91,482.63)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB1&\4a&HFF&\blur1.5\clip(m 1567 362 l 1606 427 1659 490 1478 566 1470 406)}Episode
+Dialogue: 2,0:03:42.07,0:03:42.11,Title Card Sign,,0,0,0,,{\pos(1645.54,548.14)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB1&\4a&HFF&\blur1.6\clip(m 1599 504 l 1609 437 1635 480 1659 494 1596 574 1452 520)}17
+Dialogue: 2,0:03:42.11,0:03:42.16,Title Card Sign,,0,0,0,,{\pos(1487.72,1028.42)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HAA&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.11,0:03:42.16,Title Card Sign,,0,0,0,,{\pos(1641.87,481.4)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HAA&\4a&HFF&\blur1.5\clip(m 1572 376 l 1633 485 1471 566 1486 376)}Episode
+Dialogue: 2,0:03:42.11,0:03:42.16,Title Card Sign,,0,0,0,,{\pos(1644.49,546.91)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HAA&\4a&HFF&\blur1.5\clip(m 1606 454 l 1635 488 1659 515 1595 605 1511 550)}17
+Dialogue: 2,0:03:42.16,0:03:42.20,Title Card Sign,,0,0,0,,{\pos(1486.41,1027.6)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HA3&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.16,0:03:42.20,Title Card Sign,,0,0,0,,{\pos(1640.56,480.57)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HA3&\4a&HFF&\blur2\clip(m 1561 368 l 1638 507 1473 549 1383 421)}Episode
+Dialogue: 2,0:03:42.16,0:03:42.20,Title Card Sign,,0,0,0,,{\pos(1643.18,546.08)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HA4&\4a&HFF&\blur1.5\clip(m 1607 455 l 1655 514 1553 581 1489 504)}17
+Dialogue: 2,0:03:42.20,0:03:42.24,Title Card Sign,,0,0,0,,{\pos(1485.17,1026.54)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H9C&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.20,0:03:42.24,Title Card Sign,,0,0,0,,{\pos(1639.32,479.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H9C&\4a&HFF&\blur2\clip(m 1548 368 l 1625 483 1473 554 1353 432)}Episode
+Dialogue: 2,0:03:42.20,0:03:42.24,Title Card Sign,,0,0,0,,{\pos(1641.94,545.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H9C&\4a&HFF&\blur2\clip(m 1579 416 l 1625 491 1633 504 1656 595 1555 632 1483 507)}17
+Dialogue: 2,0:03:42.24,0:03:42.28,Title Card Sign,,0,0,0,,{\pos(1483.64,1026)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H96&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.24,0:03:42.28,Title Card Sign,,0,0,0,,{\pos(1637.79,478.97)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H96&\4a&HFF&\blur2\clip(m 1545 379 l 1603 472 1475 522 1487 392)}Episode
+Dialogue: 2,0:03:42.24,0:03:42.28,Title Card Sign,,0,0,0,,{\pos(1640.41,544.48)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H96&\4a&HFF&\blur2}17
+Dialogue: 2,0:03:42.28,0:03:42.32,Title Card Sign,,0,0,0,,{\pos(1482.48,1025.52)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H8D&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.28,0:03:42.32,Title Card Sign,,0,0,0,,{\pos(1636.63,478.49)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H8D&\4a&HFF&\blur2\clip(m 1518 310 l 1524 355 1543 397 1577 451 1447 469 1407 374)}Episode
+Dialogue: 2,0:03:42.28,0:03:42.32,Title Card Sign,,0,0,0,,{\pos(1640.25,544)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H8D&\4a&HFF&\blur4}17
+Dialogue: 2,0:03:42.32,0:03:42.36,Title Card Sign,,0,0,0,,{\pos(1481.14,1024.76)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H86&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.32,0:03:42.36,Title Card Sign,,0,0,0,,{\pos(1635.29,477.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H86&\4a&HFF&\blur3\clip(m 1539 410 l 1556 429 1606 438 1563 499)}Episode
+Dialogue: 2,0:03:42.32,0:03:42.36,Title Card Sign,,0,0,0,,{\pos(1637.91,543.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H86&\4a&HFF&\blur4}17
+Dialogue: 2,0:03:42.36,0:03:42.41,Title Card Sign,,0,0,0,,{\pos(1480.09,1024.16)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H80&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.36,0:03:42.41,Title Card Sign,,0,0,0,,{\pos(1634.24,477.14)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H80&\4a&HFF&\blur5\clip(m 1532 413 l 1593 424 1630 413 1657 421 1700 458 1723 566 1563 587)}Episode
+Dialogue: 2,0:03:42.36,0:03:42.41,Title Card Sign,,0,0,0,,{\pos(1636.86,542.65)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H80&\4a&HFF&\blur4}17
+Dialogue: 2,0:03:42.41,0:03:42.45,Title Card Sign,,0,0,0,,{\pos(1479.37,1024.16)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H79&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.45,0:03:42.49,Title Card Sign,,0,0,0,,{\pos(1478.71,1023.62)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H72&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.49,0:03:42.53,Title Card Sign,,0,0,0,,{\pos(1478.18,1023.22)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H6B&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.53,0:03:42.57,Title Card Sign,,0,0,0,,{\pos(1477.22,1022.89)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H63&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.57,0:03:42.61,Title Card Sign,,0,0,0,,{\pos(1476.64,1022.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H5C&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.61,0:03:42.66,Title Card Sign,,0,0,0,,{\pos(1476.18,1022.41)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H55&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.66,0:03:42.70,Title Card Sign,,0,0,0,,{\pos(1475.59,1022.27)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H4E&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.70,0:03:42.74,Title Card Sign,,0,0,0,,{\pos(1475.31,1022.11)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H47&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.74,0:03:42.78,Title Card Sign,,0,0,0,,{\pos(1474.97,1021.86)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H41&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.78,0:03:42.82,Title Card Sign,,0,0,0,,{\pos(1474.63,1021.78)\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H38&\4a&HFF&\blur0.9\fscx130\fscy107\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.78,0:03:42.82,Title Card Sign,,0,0,0,,{\pos(1628.78,474.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H38&\4a&HFF&\blur5\clip(m 1849 419 l 1764 403 1676 430 1627 464 1601 502 1681 549)}Episode
+Dialogue: 2,0:03:42.78,0:03:42.82,Title Card Sign,,0,0,0,,{\pos(1631.4,540.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H48&\4a&HFF&\blur6\clip(m 1679 426 l 1631 454 1601 486 1575 514 1623 656 1828 557)}17
+Dialogue: 2,0:03:42.82,0:03:42.86,Title Card Sign,,0,0,0,,{\pos(1474.48,1021.73)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H31&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.82,0:03:42.86,Title Card Sign,,0,0,0,,{\pos(1628.63,474.7)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H31&\4a&HFF&\blur6\clip(m 1772 365 l 1700 379 1647 403 1582 467 1572 515 1667 574)}Episode
+Dialogue: 2,0:03:42.82,0:03:42.86,Title Card Sign,,0,0,0,,{\pos(1631.25,540.21)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H41&\4a&HFF&\blur5}17
+Dialogue: 2,0:03:42.86,0:03:42.91,Title Card Sign,,0,0,0,,{\pos(1474.74,1021.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H2B&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.86,0:03:42.91,Title Card Sign,,0,0,0,,{\pos(1628.89,474.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H2B&\4a&HFF&\blur6\clip(m 1711 338 l 1663 354 1615 382 1596 402 1579 437 1558 469 1601 528 1714 582)}Episode
+Dialogue: 2,0:03:42.86,0:03:42.91,Title Card Sign,,0,0,0,,{\pos(1631.51,540.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H2B&\4a&HFF&\blur4}17
+Dialogue: 2,0:03:42.91,0:03:42.95,Title Card Sign,,0,0,0,,{\pos(1474.76,1021.8)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H24&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.91,0:03:42.95,Title Card Sign,,0,0,0,,{\pos(1628.91,474.78)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H24&\4a&HFF&\blur6\clip(m 1668 318 l 1595 368 1559 398 1534 467 1619 523 1676 525 1783 501)}Episode
+Dialogue: 2,0:03:42.91,0:03:42.95,Title Card Sign,,0,0,0,,{\pos(1631.54,540.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H24&\4a&HFF&\blur6}17
+Dialogue: 2,0:03:42.95,0:03:42.99,Title Card Sign,,0,0,0,,{\pos(1474.76,1021.8)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H1D&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.95,0:03:42.99,Title Card Sign,,0,0,0,,{\pos(1628.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H1D&\4a&HFF&\blur5}Episode
+Dialogue: 2,0:03:42.95,0:03:42.99,Title Card Sign,,0,0,0,,{\pos(1631.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H1D&\4a&HFF&\blur6}17
+Dialogue: 2,0:03:42.99,0:03:43.03,Title Card Sign,,0,0,0,,{\pos(1474.76,1021.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H16&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:42.99,0:03:43.03,Title Card Sign,,0,0,0,,{\pos(1628.91,474.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H16&\4a&HFF&\blur4.73}Episode
+Dialogue: 2,0:03:42.99,0:03:43.03,Title Card Sign,,0,0,0,,{\pos(1631.54,540.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H16&\4a&HFF&\blur5.67}17
+Dialogue: 2,0:03:43.03,0:03:43.07,Title Card Sign,,0,0,0,,{\pos(1474.76,1021.78)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H0E&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:43.03,0:03:43.07,Title Card Sign,,0,0,0,,{\pos(1628.91,474.75)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H0E&\4a&HFF&\blur4.47}Episode
+Dialogue: 2,0:03:43.03,0:03:43.07,Title Card Sign,,0,0,0,,{\pos(1631.54,540.26)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H0E&\4a&HFF&\blur5.44}17
+Dialogue: 2,0:03:43.07,0:03:43.11,Title Card Sign,,0,0,0,,{\pos(1474.77,1021.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H07&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:43.07,0:03:43.11,Title Card Sign,,0,0,0,,{\pos(1628.92,474.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H07&\4a&HFF&\blur4.2}Episode
+Dialogue: 2,0:03:43.07,0:03:43.11,Title Card Sign,,0,0,0,,{\pos(1631.54,540.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H07&\4a&HFF&\blur5}17
+Dialogue: 2,0:03:43.11,0:03:43.16,Title Card Sign,,0,0,0,,{\pos(1474.77,1021.76)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:43.11,0:03:43.16,Title Card Sign,,0,0,0,,{\pos(1628.92,474.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.93}Episode
+Dialogue: 2,0:03:43.11,0:03:43.16,Title Card Sign,,0,0,0,,{\pos(1631.54,540.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.67}17
+Dialogue: 2,0:03:43.16,0:03:43.20,Title Card Sign,,0,0,0,,{\pos(1474.77,1021.76)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:43.16,0:03:43.20,Title Card Sign,,0,0,0,,{\pos(1628.93,474.7)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.67}Episode
+Dialogue: 2,0:03:43.16,0:03:43.20,Title Card Sign,,0,0,0,,{\pos(1631.55,540.21)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.44}17
+Dialogue: 2,0:03:43.20,0:03:43.24,Title Card Sign,,0,0,0,,{\pos(1474.78,1021.7)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:43.20,0:03:43.24,Title Card Sign,,0,0,0,,{\pos(1628.93,474.68)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.4}Episode
+Dialogue: 2,0:03:43.20,0:03:43.24,Title Card Sign,,0,0,0,,{\pos(1631.55,540.19)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4}17
+Dialogue: 2,0:03:43.24,0:03:43.28,Title Card Sign,,0,0,0,,{\pos(1628.92,474.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.13}Episode
+Dialogue: 2,0:03:43.24,0:03:43.28,Title Card Sign,,0,0,0,,{\pos(1631.54,540.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.67}17
+Dialogue: 2,0:03:43.24,0:03:43.28,Title Card Sign,,0,0,0,,{\pos(1474.77,1021.77)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:43.28,0:03:43.32,Title Card Sign,,0,0,0,,{\pos(1474.76,1021.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:43.28,0:03:43.32,Title Card Sign,,0,0,0,,{\pos(1628.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.87}Episode
+Dialogue: 2,0:03:43.28,0:03:43.32,Title Card Sign,,0,0,0,,{\pos(1631.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.44}17
+Dialogue: 2,0:03:43.32,0:03:43.49,Title Card Sign,,0,0,0,,{\pos(1474.76,1021.8)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:43.32,0:03:43.36,Title Card Sign,,0,0,0,,{\pos(1628.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.6}Episode
+Dialogue: 2,0:03:43.32,0:03:43.36,Title Card Sign,,0,0,0,,{\pos(1631.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4}17
+Dialogue: 2,0:03:43.36,0:03:43.41,Title Card Sign,,0,0,0,,{\pos(1628.91,474.78)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.33}Episode
+Dialogue: 2,0:03:43.36,0:03:43.41,Title Card Sign,,0,0,0,,{\pos(1631.54,540.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.67}17
+Dialogue: 2,0:03:43.41,0:03:43.45,Title Card Sign,,0,0,0,,{\pos(1628.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.07}Episode
+Dialogue: 2,0:03:43.41,0:03:43.45,Title Card Sign,,0,0,0,,{\pos(1631.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.44}17
+Dialogue: 2,0:03:43.45,0:03:43.49,Title Card Sign,,0,0,0,,{\pos(1628.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.8}Episode
+Dialogue: 2,0:03:43.45,0:03:43.49,Title Card Sign,,0,0,0,,{\pos(1631.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2}17
+Dialogue: 2,0:03:43.49,0:03:44.28,Title Card Sign,,0,0,0,,{\pos(1474.76,1021.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:43.49,0:03:43.53,Title Card Sign,,0,0,0,,{\pos(1628.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.53}Episode
+Dialogue: 2,0:03:43.49,0:03:43.53,Title Card Sign,,0,0,0,,{\pos(1631.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.67}17
+Dialogue: 2,0:03:43.53,0:03:43.57,Title Card Sign,,0,0,0,,{\pos(1628.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.27}Episode
+Dialogue: 2,0:03:43.53,0:03:43.57,Title Card Sign,,0,0,0,,{\pos(1631.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.44}17
+Dialogue: 2,0:03:43.57,0:03:45.95,Title Card Sign,,0,0,0,,{\pos(1628.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}Episode
+Dialogue: 2,0:03:43.57,0:03:45.95,Title Card Sign,,0,0,0,,{\pos(1631.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}17
+Dialogue: 2,0:03:44.28,0:03:44.95,Title Card Sign,,0,0,0,,{\pos(1474.76,1021.8)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:44.95,0:03:45.16,Title Card Sign,,0,0,0,,{\pos(1474.77,1021.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:45.16,0:03:45.70,Title Card Sign,,0,0,0,,{\pos(1474.76,1021.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
+Dialogue: 2,0:03:45.70,0:03:45.95,Title Card Sign,,0,0,0,,{\pos(1474.77,1021.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}You Must Master a Single Thing
 Dialogue: 10,0:03:49.75,0:03:52.58,Default,,0,0,0,,That spider has a human face!
 Dialogue: 10,0:03:52.58,0:03:55.25,Default,,0,0,0,,What’s up with that? What’s up with that?
 Dialogue: 10,0:03:55.25,0:03:56.92,Default,,0,0,0,,Please be a dream!
 Dialogue: 10,0:03:56.92,0:03:58.71,Default,,0,0,0,,{\i1}Please{\i0} be a dream!
-Dialogue: 10,0:03:58.71,0:04:01.97,Default,,0,0,0,,If this can all just be a dream, \NI promise I’ll do my best!
+Dialogue: 10,0:03:58.71,0:04:01.97,Default,,0,0,0,,If this could all just be a dream, \NI promise I’ll do my best!
 Dialogue: 10,0:04:01.97,0:04:04.64,Default,,0,0,0,,If I wake up to find myself \Nresting my head on Nezuko’s lap,
 Dialogue: 10,0:04:04.64,0:04:06.72,Default,,0,0,0,,then I promise to give it all I have!
-Dialogue: 10,0:04:06.72,0:04:08.26,Default,,0,0,0,,I’ll even plow fields!
-Dialogue: 10,0:04:08.26,0:04:11.39,Default,,0,0,0,,I’ll be glad to plow a whole acre, no, even two acres!
+Dialogue: 10,0:04:06.72,0:04:08.26,Default,,0,0,0,,I’d even plow fields!
+Dialogue: 10,0:04:08.26,0:04:11.39,Default,,0,0,0,,I’ll plow as many acres as you want!
 Dialogue: 10,0:04:11.39,0:04:13.23,Default,,0,0,0,,So, please!
-Dialogue: 10,0:04:13.23,0:04:18.73,Default,,0,0,0,,Let me wake up from this nightmare!
+Dialogue: 10,0:04:13.23,0:04:18.73,Default,,0,0,0,,Wake me up from this nightmare!
 Dialogue: 10,0:04:31.20,0:04:34.08,Default,,0,0,0,,{\i1}What the heck is that?
 Dialogue: 10,0:04:34.08,0:04:37.71,Default,,0,0,0,,{\i1}Are those humans who got turned into spiders?
 Dialogue: 10,0:04:38.63,0:04:40.55,Default,,0,0,0,,{\i1}Is that house floating?
@@ -238,7 +236,7 @@ Dialogue: 10,0:05:37.56,0:05:39.48,Default,,0,0,0,,I don’t wanna hear it, so s
 Dialogue: 10,0:05:39.48,0:05:41.98,Default,,0,0,0,,I don’t like guys like you, all right?
 Dialogue: 10,0:05:42.44,0:05:45.99,Default,,0,0,0,,You already know how dire your situation is, don’t you?
 Dialogue: 10,0:05:46.32,0:05:47.61,Default,,0,0,0,,What are you talking about?
-Dialogue: 10,0:05:47.61,0:05:49.24,Default,,0,0,0,,Take a look at your hands.
+Dialogue: 10,0:05:47.61,0:05:49.24,Default,,0,0,0,,Take a look at your hand.
 Dialogue: 10,0:05:49.66,0:05:50.53,Default,,0,0,0,,My hands?
 Dialogue: 10,0:05:52.37,0:05:53.79,Default,,0,0,0,,What’s wrong with my ha—
 Dialogue: 10,0:05:56.46,0:05:58.04,Default,,0,0,0,,What’s this?
@@ -255,7 +253,7 @@ Dialogue: 10,0:06:30.20,0:06:33.58,Default,,0,0,0,,When it’s here, you’ll st
 Dialogue: 10,0:06:34.29,0:06:36.50,Default,,0,0,0,,Here, you’ll begin to experience intense pain.
 Dialogue: 10,0:06:36.50,0:06:38.83,Default,,0,0,0,,Your body will start to shrink, and you’ll black out!
 Dialogue: 10,0:06:39.62,0:06:41.88,Default,,0,0,0,,And by the time you wake up...
-Dialogue: 0,0:06:52.85,0:07:00.85,Title Card Sign,,0,0,0,TS,{\pos(1539.61,877.22)\fscx100.46\fscy100.46\fnBrushStroke 35\fs48\b0\c&H090415&\blur0.8}Demon Slayer
+Dialogue: 0,0:06:52.85,0:07:00.85,Title Card Sign,,0,0,0,,{\pos(1539.61,877.22)\fscx100.46\fscy100.46\fnBrushStroke 35\fs48\b0\c&H090415&\blur0.8}Demon Slayer
 Comment: 0,0:06:56.85,0:06:56.85,Default,,0,0,0,,---------------------------------------------- [ PART B ] ----------------------------------------------
 Dialogue: 10,0:07:18.41,0:07:19.37,Default,,0,0,0,,Running away...
 Dialogue: 10,0:07:19.37,0:07:20.21,Default,,0,0,0,,...is futile!
@@ -292,9 +290,9 @@ Dialogue: 10,0:08:49.80,0:08:53.34,Default,,0,0,0,,I do feel terrible about the 
 Dialogue: 10,0:08:53.34,0:08:55.84,Default,,0,0,0,,Just so you know, I’ve been training \Non my own in secret, too!
 Dialogue: 10,0:08:55.84,0:08:57.85,Default,,0,0,0,,I haven’t been getting any sleep!
 Dialogue: 10,0:08:57.85,0:09:00.39,Default,,0,0,0,,But I have absolutely nothing to show for it!
-Dialogue: 10,0:09:00.39,0:09:03.93,Default,,0,0,0,,For real, what does this mean?
+Dialogue: 10,0:09:00.39,0:09:03.93,Default,,0,0,0,,For real, what the hell is wrong with me?
 Dialogue: 10,0:09:03.93,0:09:05.85,Default,,0,0,0,,Calm down, Zenitsu!
-Dialogue: 10,0:09:05.85,0:09:07.86,Default,,0,0,0,,You do have the ability to...
+Dialogue: 10,0:09:05.85,0:09:07.86,Default,,0,0,0,,You have the potential!
 Dialogue: 10,0:09:07.86,0:09:09.86,Default,,0,0,0,,I’ve had enough!
 Dialogue: 10,0:09:13.36,0:09:16.07,Default,,0,0,0,,Zenitsu!
 Dialogue: 10,0:09:17.36,0:09:19.58,Default,,0,0,0,,{\i1}How tragic is my life anyway?
@@ -321,7 +319,7 @@ Dialogue: 10,0:10:44.08,0:10:46.16,Default,,0,0,0,,{\i1}What’s up with this gu
 Dialogue: 10,0:10:46.16,0:10:50.17,Default,,0,0,0,,{\i1}Isn’t he a demon hunter that \Ncame here to kill our family? {So just a comment here, he ays ichizoku rather than kazoku through this. Which is less a family in the sense of like closely knit buy more in the sense of one tribe, one clan, one blood, relatives, etc. Not sure if I’d change anything, but if you feel like you have a way to express him in less a "ahh, don’t come and kill my family"-way then use it. or just generally keep it in mind} {## I can’t really think of anything better than "clan". Not changing for now.}
 Dialogue: 10,0:10:50.58,0:10:52.25,Default,,0,0,0,,{\i1}Did he black out already?{Surprise only in the sense that it’s early.}{## how’s this?}
 Dialogue: 10,0:10:52.25,0:10:54.30,Default,,0,0,0,,{\i1}I can’t believe how spineless he is.
-Dialogue: 10,0:10:56.38,0:10:58.76,Default,,0,0,0,,{\i1}He’s gonna drop on his head and die.
+Dialogue: 10,0:10:56.38,0:10:58.76,Default,,0,0,0,,{\i1}He’s gonna land on his head and die.
 Dialogue: 10,0:10:59.13,0:11:00.84,Default,,0,0,0,,{\i1}The hell’s his problem?
 Dialogue: 10,0:11:08.31,0:11:09.77,Default,,0,0,0,,Thunder Breathing!
 Dialogue: 10,0:11:09.77,0:11:11.27,Default,,0,0,0,,First Form!
@@ -334,8 +332,8 @@ Dialogue: 10,0:11:40.38,0:11:42.38,Default,,0,0,0,,Hey, you guys! Pounce on him!
 Dialogue: 10,0:11:46.35,0:11:47.97,Default,,0,0,0,,Thunder Breathing!
 Dialogue: 10,0:11:47.97,0:11:49.18,Default,,0,0,0,,First Form!
 Dialogue: 10,0:11:54.02,0:11:57.61,Default,,0,0,0,,{\i1}He’s been assuming the same stance over and over.
-Dialogue: 10,0:11:59.44,0:12:02.40,Default,,0,0,0,,{\i1}No question about it. This guy...
-Dialogue: 10,0:12:03.36,0:12:06.33,Default,,0,0,0,,{\i1}He’s only capable of pulling off that one attack!
+Dialogue: 10,0:11:59.44,0:12:02.40,Default,,0,0,0,,{\i1}Oh, I get it. This guy....
+Dialogue: 10,0:12:03.36,0:12:06.33,Default,,0,0,0,,{\i1}He only has one move!
 Dialogue: 10,0:12:08.20,0:12:10.20,Default,,0,0,0,,{\i1}That’s all right, Zenitsu.
 Dialogue: 10,0:12:10.20,0:12:12.16,Default,,0,0,0,,{\i1}That’s good enough for you.
 Dialogue: 10,0:12:12.87,0:12:15.71,Default,,0,0,0,,If you can master even one, \Nthat’s a cause for celebration!
@@ -343,12 +341,12 @@ Dialogue: 10,0:12:17.17,0:12:21.67,Default,,0,0,0,,Take the one thing you can do
 Dialogue: 10,0:12:24.64,0:12:27.81,Default,,0,0,0,,Refine it! Polish it to its utmost limit! {Refine it, polish it all the way to the utmost limit!}
 Dialogue: 10,0:12:29.68,0:12:32.02,Default,,0,0,0,,{\i1}Hey, but Gramps...
 Dialogue: 10,0:12:32.02,0:12:34.31,Default,,0,0,0,,{\i1}Just a little while ago, you were fuming.
-Dialogue: 10,0:12:34.81,0:12:39.94,Default,,0,0,0,,{\i1}Since Thunder Breathing has six forms, \Nyet I can only perform one.{something up with tenses}
+Dialogue: 10,0:12:34.81,0:12:39.94,Default,,0,0,0,,{\i1}Since Thunder Breathing has six forms, \Nyet I’ve only ever been to pull of one. {something up with tenses}
 Dialogue: 10,0:12:41.44,0:12:44.20,Default,,0,0,0,,Do you know how a sword is forged? {Do you know how a sword is forged?}
 Dialogue: 10,0:12:47.12,0:12:48.53,Default,,0,0,0,,{\i1}I have no idea.
 Dialogue: 10,0:12:48.53,0:12:51.20,Default,,0,0,0,,{\i1}Are you going to keep hitting me? \NI think I’m about to cry.
 Dialogue: 10,0:12:52.83,0:12:54.42,Default,,0,0,0,,The thing about swords...
-Dialogue: 10,0:12:54.42,0:12:59.21,Default,,0,0,0,,You strike and strike and strike \Nto get rid of impurities and anything you don’t need,
+Dialogue: 10,0:12:54.42,0:12:59.21,Default,,0,0,0,,You strike it over and over to get rid of impurities,
 Dialogue: 10,0:12:59.21,0:13:03.92,Default,,0,0,0,,and to increase the purity of the blade, \Nso a strong sword can be forged.{strong/tough not durable}
 Dialogue: 10,0:13:04.88,0:13:08.35,Default,,0,0,0,,{\i1}So that’s why you keep clobbering me day in, day out?
 Dialogue: 10,0:13:10.14,0:13:12.60,Default,,0,0,0,,{\i1}But I’m not made of steel, am I?
@@ -360,21 +358,21 @@ Dialogue: 10,0:13:26.66,0:13:29.24,Default,,0,0,0,,{\i1}Zenitsu, perfect it!
 Dialogue: 10,0:13:29.45,0:13:30.95,Default,,0,0,0,,It’s all right to cry.
 Dialogue: 10,0:13:30.95,0:13:32.75,Default,,0,0,0,,It’s all right to run away!
 Dialogue: 10,0:13:33.41,0:13:35.58,Default,,0,0,0,,But don’t ever give up!
-Dialogue: 10,0:13:36.62,0:13:38.71,Default,,0,0,0,,Just believe.
+Dialogue: 10,0:13:36.62,0:13:38.71,Default,,0,0,0,,Believe in yourself.
 Dialogue: 10,0:13:38.71,0:13:42.38,Default,,0,0,0,,{\i1}You endured all that hellish training!
 Dialogue: 10,0:13:42.38,0:13:45.13,Default,,0,0,0,,{\i1}You’ll be rewarded for that without fail!
 Dialogue: 10,0:13:45.13,0:13:46.97,Default,,0,0,0,,{\i1}Hone it to the utmost limit!
 Dialogue: 10,0:13:47.38,0:13:50.60,Default,,0,0,0,,{\i1}Become the strongest blade of all!{same as before}{jet: was this "most durable" meant to be changed to "strongest" to match 305?}
-Dialogue: 10,0:13:51.72,0:13:53.97,Default,,0,0,0,,{\i1}Hone that one thing to perfection!
+Dialogue: 10,0:13:51.72,0:13:53.97,Default,,0,0,0,,{\i1}Hone that one move to perfection!
 Dialogue: 10,0:14:01.40,0:14:02.98,Default,,0,0,0,,{\i1}Get out of my sight.
 Dialogue: 10,0:14:08.11,0:14:11.53,Default,,0,0,0,,Don’t make me repeat myself. Get out of my sight.
-Dialogue: 10,0:14:12.74,0:14:14.04,Default,,0,0,0,,Don’t play dumb. {jet: "Don't play dumb."? Mostly for CPS purposes}
+Dialogue: 10,0:14:12.74,0:14:14.04,Default,,0,0,0,,Don’t play dumb. {jet: "Don’t play dumb."? Mostly for CPS purposes}
 Dialogue: 10,0:14:15.00,0:14:19.42,Default,,0,0,0,,Aren’t you ashamed of crying like a baby all day long?
 Dialogue: 10,0:14:22.42,0:14:23.80,Default,,0,0,0,,You laggard...
 Dialogue: 10,0:14:23.80,0:14:27.22,Default,,0,0,0,,Any time spent on you is wasted.
 Dialogue: 10,0:14:27.93,0:14:30.93,Default,,0,0,0,,Master is an extraordinary man. {## Tempted to keep this as "sensei". Thoughts?} {use master. our master}
 Dialogue: 10,0:14:30.93,0:14:32.51,Default,,0,0,0,,But Gramps said—
-Dialogue: 10,0:14:33.72,0:14:37.06,Default,,0,0,0,,“Gramps”? Don’t speak of him in such a familiar way!
+Dialogue: 10,0:14:33.72,0:14:37.06,Default,,0,0,0,,Just who do you think you are, calling him “Gramps”?
 Dialogue: 10,0:14:37.56,0:14:39.73,Default,,0,0,0,,Master is a former Hashira!
 Dialogue: 10,0:14:39.73,0:14:42.77,Default,,0,0,0,,Someone who earned \Nthe highest title in the Demon Slayers!
 Dialogue: 10,0:14:44.40,0:14:48.03,Default,,0,0,0,,Almost no one ever gets the chance \Nto be trained by a former Hashira!
@@ -382,8 +380,8 @@ Dialogue: 10,0:14:48.61,0:14:52.78,Default,,0,0,0,,The time Master spends traini
 Dialogue: 10,0:14:53.08,0:14:55.29,Default,,0,0,0,,You’re an eyesore, okay? Get out of my sight!
 Dialogue: 10,0:14:55.74,0:14:57.75,Default,,0,0,0,,Why are you still here?
 Dialogue: 10,0:14:57.75,0:15:00.29,Default,,0,0,0,,Why do you insist on dawdling here?
-Dialogue: 10,0:15:10.80,0:15:14.26,Default,,0,0,0,,{\i1}I have no parents, so no one has any hopes for me.
-Dialogue: 10,0:15:15.56,0:15:21.65,Default,,0,0,0,,{\i1}There’s no one who dreams that \NI’ll either grasp or accomplish something one day.
+Dialogue: 10,0:15:10.80,0:15:14.26,Default,,0,0,0,,{\i1}I have no parents, and no one expects anything of me.
+Dialogue: 10,0:15:15.56,0:15:21.65,Default,,0,0,0,,{\i1}There isn’t a single soul that has any hope for me.{There’s no one who dreams that \NI’ll either grasp or accomplish something one day.}
 Dialogue: 10,0:15:23.65,0:15:25.61,Default,,0,0,0,,{\i1}That I’ll prove myself useful to somebody.
 Dialogue: 10,0:15:25.61,0:15:27.61,Default,,0,0,0,,{\i1}That I’ll manage to protect somebody
 Dialogue: 10,0:15:27.61,0:15:30.36,Default,,0,0,0,,{\i1}and make that person happy, just once in my life.
@@ -398,7 +396,7 @@ Dialogue: 10,0:16:00.48,0:16:02.06,Default,,0,0,0,,{\i1}Time and time again...
 Dialogue: 10,0:16:03.48,0:16:04.98,Default,,0,0,0,,{\i1}He’d drag me right back.
 Dialogue: 10,0:16:08.28,0:16:11.11,Default,,0,0,0,,{\i1}Clearly, he did smack me around a bit too much.
 Dialogue: 10,0:16:12.57,0:16:14.87,Default,,0,0,0,,{\i1}But he never abandoned me!
-Dialogue: 10,0:16:16.41,0:16:19.24,Default,,0,0,0,,Pierce him! Inject him with more venom!
+Dialogue: 10,0:16:16.41,0:16:19.24,Default,,0,0,0,,Sting him! Inject him with more venom!
 Dialogue: 10,0:16:32.55,0:16:34.05,Default,,0,0,0,,That should do it for him!
 Dialogue: 10,0:16:40.02,0:16:40.89,Default,,0,0,0,,{\i1}What’s this?
 Dialogue: 10,0:16:41.64,0:16:43.56,Default,,0,0,0,,{\i1}The air is vibrating.
@@ -407,23 +405,22 @@ Dialogue: 10,0:16:47.36,0:16:48.94,Default,,0,0,0,,{\i1}First form!
 Dialogue: 10,0:16:49.57,0:16:51.24,Default,,0,0,0,,{\i1}Thunderclap and Flash!
 Dialogue: 10,0:16:54.03,0:16:55.07,Default,,0,0,0,,{\i1}Sixfold!
 Dialogue: 10,0:17:01.20,0:17:02.33,Default,,0,0,0,,He disappeared?
-Dialogue: 10,0:17:23.10,0:17:24.64,Default,,0,0,0,,{\i1}Did I get sliced?
-Dialogue: 10,0:17:24.64,0:17:25.94,Default,,0,0,0,,{\i1}Me?
-Dialogue: 10,0:17:25.94,0:17:27.27,Default,,0,0,0,,{\i1}Sliced?
-Dialogue: 10,0:17:27.98,0:17:29.40,Default,,0,0,0,,{\i1}By him?
-Dialogue: 10,0:17:30.32,0:17:31.82,Default,,0,0,0,,{\i1}By a guy like him?
+Dialogue: 10,0:17:23.10,0:17:24.64,Default,,0,0,0,,{\i1}Did he just cut off my head?
+Dialogue: 10,0:17:24.64,0:17:27.27,Default,,0,0,0,,{\i1}He sliced through my neck?
+Dialogue: 10,0:17:27.98,0:17:29.40,Default,,0,0,0,,{\i1}This guy?
+Dialogue: 10,0:17:30.32,0:17:31.82,Default,,0,0,0,,{\i1}A guy like this defeated me?
 Dialogue: 10,0:17:38.82,0:17:40.58,Default,,0,0,0,,But that’s absurd!
-Dialogue: 10,0:17:40.58,0:17:45.21,Default,,0,0,0,,By a guy who can barely move his arms and legs?!
-Dialogue: 10,0:17:53.80,0:17:55.55,Default,,0,0,0,,{\i1}I’m dreaming... {I’m dreaming}
-Dialogue: 10,0:17:56.93,0:17:59.47,Default,,0,0,0,,{\i1}It’s a happy dream.
-Dialogue: 10,0:17:59.47,0:18:01.26,Default,,0,0,0,,{\i1}I’m powerful.
-Dialogue: 10,0:18:01.26,0:18:03.27,Default,,0,0,0,,{\i1}More powerful than anyone else.
-Dialogue: 10,0:18:03.27,0:18:07.23,Default,,0,0,0,,{\i1}I can help the weak and anyone in trouble.
+Dialogue: 10,0:17:40.58,0:17:45.21,Default,,0,0,0,,Beaten by a guy who can barely move?!
+Dialogue: 10,0:17:53.80,0:17:55.55,Default,,0,0,0,,{\i1}Just dream... {I’m dreaming}
+Dialogue: 10,0:17:56.93,0:17:59.47,Default,,0,0,0,,{\i1}I want a happy dream.
+Dialogue: 10,0:17:59.47,0:18:01.26,Default,,0,0,0,,{\i1}One where I’m powerful.
+Dialogue: 10,0:18:01.26,0:18:03.27,Default,,0,0,0,,{\i1}Stronger than anyone else.
+Dialogue: 10,0:18:03.27,0:18:07.23,Default,,0,0,0,,{\i1}I could help the weak and anyone in trouble.
 Dialogue: 10,0:18:07.81,0:18:09.15,Default,,0,0,0,,{\i1}Anytime.
 Dialogue: 10,0:18:10.19,0:18:12.82,Default,,0,0,0,,{\i1}Everything that Gramps taught me,
 Dialogue: 10,0:18:12.82,0:18:14.65,Default,,0,0,0,,{\i1}all the time he spent on me...
 Dialogue: 10,0:18:14.90,0:18:16.32,Default,,0,0,0,,{\i1}It wasn’t for nothing!
-Dialogue: 10,0:18:17.61,0:18:20.70,Default,,0,0,0,,{\i1}A dream that, thanks to Gramps,
+Dialogue: 10,0:18:17.61,0:18:20.70,Default,,0,0,0,,{\i1}A dream where, thanks to Gramps,
 Dialogue: 10,0:18:20.70,0:18:25.04,Default,,0,0,0,,{\i1}I became powerful and helped out a lot of people.
 Dialogue: 10,0:18:26.91,0:18:30.00,Default,,0,0,0,,{\i1}But now, it’s all over!
 Dialogue: 10,0:18:35.76,0:18:38.22,Default,,0,0,0,,Chuntaro...
@@ -467,24 +464,24 @@ Dialogue: 10,0:21:10.58,0:21:11.70,Default,,0,0,0,,{\i1}Water Breathing!
 Dialogue: 10,0:21:11.70,0:21:12.83,Default,,0,0,0,,{\i1}Second Form!
 Dialogue: 10,0:21:12.83,0:21:14.71,Default,,0,0,0,,{\i1}Water Wheel!
 Comment: 0,0:22:59.85,0:22:59.85,Default,,0,0,0,,---------------------------------------------- [ OUTRO ] ----------------------------------------------
-Dialogue: 0,0:22:59.85,0:23:00.10,Title Card Sign,,0,0,0,TS,{\an3\pos(1127.48,494.42)\fscx100.46\fscy100.46\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.10,0:23:00.15,Title Card Sign,,0,0,0,TS,{\an3\pos(1127.48,494.42)\fscx100.46\fscy100.46\frz0.1\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.15,0:23:00.19,Title Card Sign,,0,0,0,TS,{\an3\pos(1127.48,494.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.19,0:23:00.23,Title Card Sign,,0,0,0,TS,{\an3\pos(1128.48,495.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.23,0:23:00.27,Title Card Sign,,0,0,0,TS,{\an3\pos(1129.48,496.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29272E&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.27,0:23:00.31,Title Card Sign,,0,0,0,TS,{\an3\pos(1131.48,496.42)\fscx100\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H2B2A2E&\blur1.1}Demon Slayer
-Dialogue: 0,0:23:00.31,0:23:00.35,Title Card Sign,,0,0,0,TS,{\an3\pos(1135.48,496.42)\fscx99\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.35,0:23:00.40,Title Card Sign,,0,0,0,TS,{\an3\pos(1147.48,494.42)\fscx95\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.40,0:23:00.44,Title Card Sign,,0,0,0,TS,{\an3\pos(1187.41,490.38)\fscx95\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.44,0:23:00.48,Title Card Sign,,0,0,0,TS,{\an3\pos(1237.98,480.1)\fscx95\fscy102\frz1.65\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.48,0:23:00.52,Title Card Sign,,0,0,0,TS,{\an3\pos(1309.41,478.38)\fscx95\fscy102\frz1.65\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.52,0:23:00.56,Title Card Sign,,0,0,0,TS,{\an3\pos(1383.41,478.96)\fscx95\fscy102\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.56,0:23:00.60,Title Card Sign,,0,0,0,TS,{\an3\pos(1478.55,471.53)\fscx90.31\fscy96.96\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.60,0:23:00.65,Title Card Sign,,0,0,0,TS,{\an3\pos(1573.12,474.38)\fscx83\fscy96\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.65,0:23:00.69,Title Card Sign,,0,0,0,TS,{\an3\pos(1662.84,466.67)\fscx73\fscy92\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.69,0:23:00.73,Title Card Sign,,0,0,0,TS,{\an3\pos(1731.98,461.53)\fscx63\fscy98\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.73,0:23:00.77,Title Card Sign,,0,0,0,TS,{\an3\pos(1805.12,458.1)\fscx45\fscy99\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.77,0:23:00.81,Title Card Sign,,0,0,0,TS,{\an3\pos(1872.27,456.1)\fscx28\fscy109\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:59.85,0:23:00.10,Title Card Sign,,0,0,0,,{\an3\pos(1127.48,494.42)\fscx100.46\fscy100.46\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.10,0:23:00.15,Title Card Sign,,0,0,0,,{\an3\pos(1127.48,494.42)\fscx100.46\fscy100.46\frz0.1\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.15,0:23:00.19,Title Card Sign,,0,0,0,,{\an3\pos(1127.48,494.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.19,0:23:00.23,Title Card Sign,,0,0,0,,{\an3\pos(1128.48,495.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.23,0:23:00.27,Title Card Sign,,0,0,0,,{\an3\pos(1129.48,496.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29272E&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.27,0:23:00.31,Title Card Sign,,0,0,0,,{\an3\pos(1131.48,496.42)\fscx100\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H2B2A2E&\blur1.1}Demon Slayer
+Dialogue: 0,0:23:00.31,0:23:00.35,Title Card Sign,,0,0,0,,{\an3\pos(1135.48,496.42)\fscx99\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.35,0:23:00.40,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx95\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.40,0:23:00.44,Title Card Sign,,0,0,0,,{\an3\pos(1187.41,490.38)\fscx95\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.44,0:23:00.48,Title Card Sign,,0,0,0,,{\an3\pos(1237.98,480.1)\fscx95\fscy102\frz1.65\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.48,0:23:00.52,Title Card Sign,,0,0,0,,{\an3\pos(1309.41,478.38)\fscx95\fscy102\frz1.65\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.52,0:23:00.56,Title Card Sign,,0,0,0,,{\an3\pos(1383.41,478.96)\fscx95\fscy102\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.56,0:23:00.60,Title Card Sign,,0,0,0,,{\an3\pos(1478.55,471.53)\fscx90.31\fscy96.96\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.60,0:23:00.65,Title Card Sign,,0,0,0,,{\an3\pos(1573.12,474.38)\fscx83\fscy96\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.65,0:23:00.69,Title Card Sign,,0,0,0,,{\an3\pos(1662.84,466.67)\fscx73\fscy92\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.69,0:23:00.73,Title Card Sign,,0,0,0,,{\an3\pos(1731.98,461.53)\fscx63\fscy98\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.73,0:23:00.77,Title Card Sign,,0,0,0,,{\an3\pos(1805.12,458.1)\fscx45\fscy99\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.77,0:23:00.81,Title Card Sign,,0,0,0,,{\an3\pos(1872.27,456.1)\fscx28\fscy109\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
 Dialogue: 0,0:23:01.35,0:23:01.40,Default,,0,0,0,,{\blur10\fnAlpha Dance\b1\shad0\fs80\an5\bord7\frz5.357\c&H000000&\fscx103\fscy106\pos(444.49,-15.333)}Tales of the
 Dialogue: 0,0:23:01.35,0:23:01.40,Default,,0,0,0,,{\blur10\fnAlpha Dance\b1\shad0\fs80\an5\bord7\frz5.357\c&H000000&\fscx103\fscy106\pos(444.49,-15.333)}Tales of the
 Dialogue: 1,0:23:01.35,0:23:01.40,Default,,0,0,0,,{\blur10\fnAlpha Dance\b1\shad0\c&H0511E6&\fs80\an5\bord0\frz5.357\4a&HFF&\fscx103\fscy106\pos(444.49,-15.333)}Tales of the
