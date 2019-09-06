@@ -22,8 +22,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
 Scroll Position: 297
-Active Line: 298
-Video Position: 18098
+Active Line: 319
+Video Position: 19838
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -364,7 +364,7 @@ Dialogue: 10,0:13:36.62,0:13:38.71,Default,,0,0,0,,Just believe.
 Dialogue: 10,0:13:38.71,0:13:42.38,Default,,0,0,0,,{\i1}You endured all that hellish training!
 Dialogue: 10,0:13:42.38,0:13:45.13,Default,,0,0,0,,{\i1}You’ll be rewarded for that without fail!
 Dialogue: 10,0:13:45.13,0:13:46.97,Default,,0,0,0,,{\i1}Hone it to the utmost limit!
-Dialogue: 10,0:13:47.38,0:13:50.60,Default,,0,0,0,,{\i1}Become the most strongest blade of all!{same as before}{jet: was this "most durable" meant to be changed to "strongest" to match 305?}
+Dialogue: 10,0:13:47.38,0:13:50.60,Default,,0,0,0,,{\i1}Become the strongest blade of all!{same as before}{jet: was this "most durable" meant to be changed to "strongest" to match 305?}
 Dialogue: 10,0:13:51.72,0:13:53.97,Default,,0,0,0,,{\i1}Hone that one thing to perfection!
 Dialogue: 10,0:14:01.40,0:14:02.98,Default,,0,0,0,,{\i1}Get out of my sight.
 Dialogue: 10,0:14:08.11,0:14:11.53,Default,,0,0,0,,Don’t make me repeat myself. Get out of my sight.
