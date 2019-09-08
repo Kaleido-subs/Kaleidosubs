@@ -16,15 +16,14 @@ ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
 Last Style Storage: Default (1080p)
-Audio File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba Vol.1-2 (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba - 02 (BD 1080p).mkv
-Video File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba Vol.1-2 (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba - 02 (BD 1080p).mkv
-Keyframes File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba Vol.1-2 (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba - 02 (BD 1080p)._keyframes.txt
+Audio File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Encoded/YaibaBD_02 (Premux).mkv
+Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Encoded/YaibaBD_02 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 212
-Active Line: 228
-Video Position: 27714
+Scroll Position: 255
+Active Line: 266
+Video Position: 33109
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -119,7 +118,8 @@ Dialogue: 10,0:05:22.88,0:05:24.17,Default,,0,0,0,,{\i1}It’s a man-eating demo
 Dialogue: 10,0:05:37.56,0:05:40.23,Default,,0,0,0,,You give off a strange vibe.
 Dialogue: 10,0:05:41.32,0:05:44.65,Default,,0,0,0,,Are the two of you humans?
 Dialogue: 10,0:06:00.13,0:06:03.05,Default,,0,0,0,,An axe, huh? Not bad.
-Dialogue: 10,0:06:03.05,0:06:07.38,Default,,0,0,0,,But a scratch like this will heal in no time.
+Dialogue: 10,0:06:03.05,0:06:04.92,Default,,0,0,0,,But a scratch like this...
+Dialogue: 10,0:06:05.30,0:06:07.38,Default,,0,0,0,,will heal in no time.
 Dialogue: 10,0:06:10.09,0:06:13.22,Default,,0,0,0,,See that? The bleeding’s stopped already.
 Dialogue: 10,0:06:30.62,0:06:34.16,Default,,0,0,0,,{\i1}He’s fast! And he’s got tremendous strength!
 Dialogue: 10,0:06:34.45,0:06:36.62,Default,,0,0,0,,The same trick won’t work twice.
@@ -188,7 +188,7 @@ Dialogue: 10,0:11:53.44,0:11:55.94,Default,,0,0,0,,I can’t go to you, so you c
 Dialogue: 10,0:11:55.94,0:11:59.28,Default,,0,0,0,,{\i1}I faltered too long.
 Dialogue: 10,0:11:59.28,0:12:00.78,Default,,0,0,0,,{\i1}The sun’s already rising.
 Dialogue: 10,0:11:56.48,0:11:58.07,Default,,0,0,0,,{\an8}Hey, are you listening, brat?
-Dialogue: 10,0:11:58.07,0:12:00.78,Default,,0,0,0,,{\an8}Hey, come here, you!
+Dialogue: 10,0:11:58.07,0:12:00.78,Default,,0,0,0,,{\an8}Hey! Come here, you!
 Dialogue: 10,0:12:00.78,0:12:02.45,Default,,0,0,0,,Are you listening, you brat?
 Dialogue: 10,0:12:15.33,0:12:18.38,Default,,0,0,0,,{\i1}He’s gone with that much sunlight?!
 Dialogue: 10,0:12:18.38,0:12:20.59,Default,,0,0,0,,{\i1}No wonder Nezuko shrinks away from it!
@@ -245,27 +245,27 @@ Dialogue: 10,0:16:28.17,0:16:31.13,Default,,0,0,0,,{\i1}My legs are starting to 
 Dialogue: 10,0:16:31.88,0:16:33.88,Default,,0,0,0,,{\i1}I’m feeling dizzy, too.
 Dialogue: 10,0:16:38.01,0:16:42.39,Default,,0,0,0,,Now find your way back to the house \Nat the bottom of the mountain.
 Dialogue: 10,0:16:42.73,0:16:45.02,Default,,0,0,0,,This time I’m not going to wait until daybreak.
-Dialogue: 10,0:16:50.32,0:16:51.82,Default,,0,0,0,,{\i1}Is that all?
+Dialogue: 10,0:16:50.32,0:16:51.82,Default,,0,0,0,,{\i1}Is that it?
 Dialogue: 10,0:16:54.15,0:16:55.78,Default,,0,0,0,,{\i1}I see.
 Dialogue: 10,0:16:55.78,0:16:59.03,Default,,0,0,0,,{\i1}He thinks I might get lost in this thick fog.
 Dialogue: 10,0:17:00.08,0:17:02.54,Default,,0,0,0,,{\i1}I just have to get back by dawn, right?
-Dialogue: 10,0:17:03.04,0:17:04.41,Default,,0,0,0,,{\i1}That’s a cakewalk!
+Dialogue: 10,0:17:03.04,0:17:04.41,Default,,0,0,0,,{\i1}That’s a piece of cake!
 Dialogue: 10,0:17:04.41,0:17:06.25,Default,,0,0,0,,{\i1}I’ve got a great sense of smell!
 Dialogue: 10,0:17:06.25,0:17:08.96,Default,,0,0,0,,{\i1}I’ve already memorized Urokodaki’s scent!
 Dialogue: 10,0:17:20.22,0:17:21.47,Default,,0,0,0,,{\i1}Rocks?!
 Dialogue: 10,0:17:33.32,0:17:34.74,Default,,0,0,0,,{\i1}A pitfall?
 Dialogue: 10,0:17:36.07,0:17:37.45,Default,,0,0,0,,{\i1}I see.
 Dialogue: 10,0:17:38.03,0:17:40.70,Default,,0,0,0,,{\i1}There are traps, huh.
-Dialogue: 10,0:17:41.20,0:17:42.95,Default,,0,0,0,,{\i1}I guess that’s the plan.
+Dialogue: 10,0:17:41.20,0:17:42.95,Default,,0,0,0,,{\i1}So that’s what this is about.
 Dialogue: 10,0:17:44.71,0:17:46.00,Default,,0,0,0,,{\i1}Shit!
 Dialogue: 10,0:17:51.88,0:17:53.67,Default,,0,0,0,,{\i1}Crap, crap, crap!
-Dialogue: 10,0:17:53.67,0:17:58.55,Default,,0,0,0,,{\i1}If I keep getting caught in traps, \NI won’t make it back by dawn!
+Dialogue: 10,0:17:53.84,0:17:58.55,Default,,0,0,0,,{\i1}If I keep getting caught in traps, \NI won’t make it back by dawn!
 Dialogue: 10,0:17:58.55,0:18:01.35,Default,,0,0,0,,{\i1}And besides, this mountain...
 Dialogue: 10,0:18:01.35,0:18:02.72,Default,,0,0,0,,{\i1}This mountain is...
 Dialogue: 10,0:18:03.64,0:18:06.02,Default,,0,0,0,,{\i1}The air’s really thin here!
 Dialogue: 10,0:18:06.02,0:18:09.31,Default,,0,0,0,,{\i1}It’s way thinner than on the mountain back home.
-Dialogue: 10,0:18:09.86,0:18:13.94,Default,,0,0,0,,{\i1}That explains why I’ve been \Ngasping for air and feel so light-headed.
-Dialogue: 10,0:18:14.94,0:18:16.90,Default,,0,0,0,,{\i1}Will I make it back?
+Dialogue: 10,0:18:09.86,0:18:13.94,Default,,0,0,0,,{\i1}So that’s why I’ve been gasping for air \Nand feel so light-headed.
+Dialogue: 10,0:18:14.94,0:18:16.90,Default,,0,0,0,,{\i1}Will I make it back on time?
 Dialogue: 10,0:18:16.90,0:18:18.41,Default,,0,0,0,,{\i1}I might pass out.
 Dialogue: 10,0:18:19.03,0:18:20.12,Default,,0,0,0,,{\i1}No!
 Dialogue: 10,0:18:20.45,0:18:22.03,Default,,0,0,0,,{\i1}I {\i0}will{\i1} make it back.

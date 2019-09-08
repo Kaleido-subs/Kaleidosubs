@@ -15,22 +15,22 @@ Original Timing: skiddiks
 ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
-Last Style Storage: Main_1080p
-Audio File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba/[Kaleido-Flax] Kimetsu no Yaiba - 03 (WEB 1080p) [D78D557A].mkv
-Video File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba/[Kaleido-Flax] Kimetsu no Yaiba - 03 (WEB 1080p) [D78D557A].mkv
+Last Style Storage: Default (1080p)
+Audio File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Encoded/YaibaBD_03 (Premux).mkv
+Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Encoded/YaibaBD_03 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 2982
-Active Line: 2983
-Video Position: 31832
+Video Zoom Percent: 0.500000
+Scroll Position: 190
+Active Line: 199
+Video Position: 19565
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,200,200,56,1
 Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,200,200,56,1
 Style: Sign,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,2,200,200,56,1
-Style: Title Card Sign,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,200,200,56,1
+Style: Title Card Sign,BrushStroke 35,74,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,200,200,56,1
 Style: Episode Preview Sign,DK Longreach,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,0,2,10,10,10,1
 Style: Episode Preview Sign 2,DeathRattle BB,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: To Be Continued Sign,FOT Manyo Gyosho Std Strp E,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
@@ -88,157 +88,50 @@ Dialogue: 1,0:00:12.32,0:00:14.32,Default,,0,0,0,,{\pos(947.094,173.103)\org(946
 Dialogue: 0,0:00:12.32,0:00:14.32,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H2A2D2F&\blur1\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 10,0:00:28.88,0:00:30.09,Default,,0,0,0,,Let’s go.
 Comment: 0,0:02:03.97,0:02:03.97,Default,,0,0,0,,---------------------------------------------- [ PART A ] ----------------------------------------------
-Dialogue: 2,0:03:20.30,0:03:20.34,Title Card Sign,,0,0,0,,{\pos(1472.6,979.68)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HF8&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.34,0:03:20.38,Title Card Sign,,0,0,0,,{\pos(1470.49,978.48)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HF1&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.38,0:03:20.43,Title Card Sign,,0,0,0,,{\pos(1468.47,977.35)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HEB&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.38,0:03:20.43,Title Card Sign,,0,0,0,,{\pos(1630.62,456.47)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HEB&\4a&HFF&\blur0.9\clip(m 1576 340 l 1569 403 1600 520 1406 542 1454 347)}Episode
-Dialogue: 2,0:03:20.43,0:03:20.47,Title Card Sign,,0,0,0,,{\pos(1466.49,976.24)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HE2&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.43,0:03:20.47,Title Card Sign,,0,0,0,,{\pos(1628.64,455.36)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HE2&\4a&HFF&\blur0.9\clip(m 1572 337 l 1595 417 1619 518 1408 566 1270 336)}Episode
-Dialogue: 2,0:03:20.47,0:03:20.51,Title Card Sign,,0,0,0,,{\pos(1464.59,975.17)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HDB&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.47,0:03:20.51,Title Card Sign,,0,0,0,,{\pos(1626.74,454.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HDB&\4a&HFF&\blur0.9\clip(m 1569 321 l 1582 380 1593 398 1593 430 1627 497 1361 550 1236 350)}Episode
-Dialogue: 2,0:03:20.47,0:03:20.51,Title Card Sign,,0,0,0,,{\pos(1629.36,519.8)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HDB&\4a&HFF&\blur1\clip(m 1606 443 l 1620 478 1630 513 1656 529 1702 521 1536 651 1484 454)}3
-Dialogue: 2,0:03:20.51,0:03:20.55,Title Card Sign,,0,0,0,,{\pos(1462.69,974.18)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HD5&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.51,0:03:20.55,Title Card Sign,,0,0,0,,{\pos(1624.84,453.3)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HD5&\4a&HFF&\blur0.9\clip(m 1574 345 l 1590 400 1636 502 1392 550 1278 340)}Episode
-Dialogue: 2,0:03:20.51,0:03:20.55,Title Card Sign,,0,0,0,,{\pos(1627.46,518.81)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HD5&\4a&HFF&\blur1\clip(m 1598 416 l 1620 460 1624 489 1662 521 1513 585 1433 459)}3
-Dialogue: 2,0:03:20.55,0:03:20.59,Title Card Sign,,0,0,0,,{\pos(1460.36,973.15)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HCE&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.55,0:03:20.59,Title Card Sign,,0,0,0,,{\pos(1622.51,452.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HCE&\4a&HFF&\blur0.9\clip(m 1568 340 l 1630 465 1401 552 1204 371)}Episode
-Dialogue: 2,0:03:20.55,0:03:20.59,Title Card Sign,,0,0,0,,{\pos(1625.13,517.79)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HCE&\4a&HFF&\blur1}3
-Dialogue: 2,0:03:20.59,0:03:20.63,Title Card Sign,,0,0,0,,{\pos(1458.54,972.39)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HC7&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.59,0:03:20.63,Title Card Sign,,0,0,0,,{\pos(1620.69,451.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HC7&\4a&HFF&\blur0.9\clip(m 1556 321 l 1580 372 1609 416 1636 473 1438 518 1260 372)}Episode
-Dialogue: 2,0:03:20.59,0:03:20.63,Title Card Sign,,0,0,0,,{\pos(1623.31,517.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HC7&\4a&HFF&\blur0.9}3
-Dialogue: 2,0:03:20.63,0:03:20.68,Title Card Sign,,0,0,0,,{\pos(1457.22,971.39)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HC0&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.63,0:03:20.68,Title Card Sign,,0,0,0,,{\pos(1619.37,450.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HC0&\4a&HFF&\blur0.9\clip(m 1555 329 l 1617 433 1486 532 1324 411)}Episode
-Dialogue: 2,0:03:20.63,0:03:20.68,Title Card Sign,,0,0,0,,{\pos(1621.99,516.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HC0&\4a&HFF&\blur0.9}3
-Dialogue: 2,0:03:20.68,0:03:20.72,Title Card Sign,,0,0,0,,{\pos(1455.69,970.67)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HB8&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.68,0:03:20.72,Title Card Sign,,0,0,0,,{\pos(1617.84,449.79)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HB8&\4a&HFF&\blur1\clip(m 1556 339 l 1598 416 1692 472 1481 572 1270 448)}Episode
-Dialogue: 2,0:03:20.68,0:03:20.72,Title Card Sign,,0,0,0,,{\pos(1620.46,515.3)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HB8&\4a&HFF&\blur0.9}3
-Dialogue: 2,0:03:20.72,0:03:20.76,Title Card Sign,,0,0,0,,{\pos(1454.76,969.5)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HB1&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.72,0:03:20.76,Title Card Sign,,0,0,0,,{\pos(1616.91,448.63)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HB1&\4a&HFF&\blur1.5\clip(m 1556 352 l 1595 417 1648 480 1467 556 1459 396)}Episode
-Dialogue: 2,0:03:20.72,0:03:20.76,Title Card Sign,,0,0,0,,{\pos(1619.53,514.14)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HB1&\4a&HFF&\blur1.6\clip(m 1588 393 l 1598 427 1623 470 1638 484 1585 563 1441 510)}3
-Dialogue: 2,0:03:20.76,0:03:20.80,Title Card Sign,,0,0,0,,{\pos(1453.72,968.27)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HAA&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.76,0:03:20.80,Title Card Sign,,0,0,0,,{\pos(1615.87,447.4)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HAA&\4a&HFF&\blur1.5\clip(m 1561 366 l 1622 475 1460 556 1475 366)}Episode
-Dialogue: 2,0:03:20.76,0:03:20.80,Title Card Sign,,0,0,0,,{\pos(1618.49,512.91)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HAA&\4a&HFF&\blur1.5\clip(m 1595 433 l 1624 478 1648 505 1584 595 1500 540)}3
-Dialogue: 2,0:03:20.80,0:03:20.84,Title Card Sign,,0,0,0,,{\pos(1452.41,967.45)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&HA3&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.80,0:03:20.84,Title Card Sign,,0,0,0,,{\pos(1614.56,446.57)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HA3&\4a&HFF&\blur2\clip(m 1550 358 l 1627 497 1462 539 1372 411)}Episode
-Dialogue: 2,0:03:20.80,0:03:20.84,Title Card Sign,,0,0,0,,{\pos(1617.18,512.08)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&HA3&\4a&HFF&\blur1.5\clip(m 1596 435 l 1633 504 1542 571 1478 494)}3
-Dialogue: 2,0:03:20.84,0:03:20.88,Title Card Sign,,0,0,0,,{\pos(1451.17,966.39)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H9C&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.84,0:03:20.88,Title Card Sign,,0,0,0,,{\pos(1613.32,445.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H9C&\4a&HFF&\blur2\clip(m 1537 358 l 1614 473 1462 544 1342 422)}Episode
-Dialogue: 2,0:03:20.84,0:03:20.88,Title Card Sign,,0,0,0,,{\pos(1615.94,511.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H9C&\4a&HFF&\blur2\clip(m 1568 406 l 1614 481 1622 494 1635 585 1534 622 1472 497)}3
-Dialogue: 2,0:03:20.88,0:03:20.93,Title Card Sign,,0,0,0,,{\pos(1449.64,965.85)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H96&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.88,0:03:20.93,Title Card Sign,,0,0,0,,{\pos(1611.79,444.97)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H96&\4a&HFF&\blur2\clip(m 1534 369 l 1592 462 1464 512 1476 382)}Episode
-Dialogue: 2,0:03:20.88,0:03:20.93,Title Card Sign,,0,0,0,,{\pos(1614.41,510.48)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H96&\4a&HFF&\blur2}3
-Dialogue: 2,0:03:20.93,0:03:20.97,Title Card Sign,,0,0,0,,{\pos(1448.48,965.37)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H8D&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.93,0:03:20.97,Title Card Sign,,0,0,0,,{\pos(1610.63,444.49)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H8D&\4a&HFF&\blur2\clip(m 1507 300 l 1513 345 1532 387 1566 441 1436 459 1396 364)}Episode
-Dialogue: 2,0:03:20.93,0:03:20.97,Title Card Sign,,0,0,0,,{\pos(1613.25,510)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H8D&\4a&HFF&\blur3}3
-Dialogue: 2,0:03:20.97,0:03:21.01,Title Card Sign,,0,0,0,,{\pos(1447.14,964.61)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H86&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:20.97,0:03:21.01,Title Card Sign,,0,0,0,,{\pos(1609.29,443.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H86&\4a&HFF&\blur3\clip(m 1528 400 l 1545 419 1595 428 1552 489)}Episode
-Dialogue: 2,0:03:20.97,0:03:21.01,Title Card Sign,,0,0,0,,{\pos(1611.91,509.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H86&\4a&HFF&\blur4}3
-Dialogue: 2,0:03:21.01,0:03:21.05,Title Card Sign,,0,0,0,,{\pos(1446.09,964.01)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H80&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.01,0:03:21.05,Title Card Sign,,0,0,0,,{\pos(1608.24,443.14)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H80&\4a&HFF&\blur5\clip(m 1521 403 l 1582 414 1619 403 1646 411 1689 448 1712 556 1552 577)}Episode
-Dialogue: 2,0:03:21.01,0:03:21.05,Title Card Sign,,0,0,0,,{\pos(1610.86,508.65)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H80&\4a&HFF&\blur4}3
-Dialogue: 2,0:03:21.05,0:03:21.09,Title Card Sign,,0,0,0,,{\pos(1445.37,964.01)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H79&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.09,0:03:21.13,Title Card Sign,,0,0,0,,{\pos(1444.71,963.47)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H72&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.13,0:03:21.18,Title Card Sign,,0,0,0,,{\pos(1444.18,963.07)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H6B&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.18,0:03:21.22,Title Card Sign,,0,0,0,,{\pos(1443.22,962.74)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H63&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.22,0:03:21.26,Title Card Sign,,0,0,0,,{\pos(1442.64,962.49)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H5C&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.26,0:03:21.30,Title Card Sign,,0,0,0,,{\pos(1442.18,962.26)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H55&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.30,0:03:21.34,Title Card Sign,,0,0,0,,{\pos(1441.59,962.12)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H4E&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.34,0:03:21.38,Title Card Sign,,0,0,0,,{\pos(1441.31,961.96)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H47&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.38,0:03:21.43,Title Card Sign,,0,0,0,,{\pos(1440.97,961.71)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H41&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.43,0:03:21.47,Title Card Sign,,0,0,0,,{\pos(1440.63,961.63)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H38&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.43,0:03:21.47,Title Card Sign,,0,0,0,,{\pos(1602.78,440.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H38&\4a&HFF&\blur5\clip(m 1838 409 l 1753 393 1665 420 1616 454 1590 492 1670 539)}Episode
-Dialogue: 2,0:03:21.43,0:03:21.47,Title Card Sign,,0,0,0,,{\pos(1605.4,506.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H38&\4a&HFF&\blur6\clip(m 1668 416 l 1620 443 1590 476 1564 504 1612 636 1817 537)}3
-Dialogue: 2,0:03:21.47,0:03:21.51,Title Card Sign,,0,0,0,,{\pos(1440.48,961.58)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H31&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.47,0:03:21.51,Title Card Sign,,0,0,0,,{\pos(1602.63,440.7)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H31&\4a&HFF&\blur6\clip(m 1761 355 l 1689 369 1636 393 1571 457 1561 505 1656 564)}Episode
-Dialogue: 2,0:03:21.47,0:03:21.51,Title Card Sign,,0,0,0,,{\pos(1605.25,506.21)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H31&\4a&HFF&\blur5}3
-Dialogue: 2,0:03:21.51,0:03:21.55,Title Card Sign,,0,0,0,,{\pos(1440.74,961.64)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H2B&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.51,0:03:21.55,Title Card Sign,,0,0,0,,{\pos(1602.89,440.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H2B&\4a&HFF&\blur6\clip(m 1700 328 l 1652 344 1604 372 1585 392 1568 427 1547 459 1590 518 1703 572)}Episode
-Dialogue: 2,0:03:21.51,0:03:21.55,Title Card Sign,,0,0,0,,{\pos(1605.51,506.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H2B&\4a&HFF&\blur4}3
-Dialogue: 2,0:03:21.55,0:03:21.59,Title Card Sign,,0,0,0,,{\pos(1440.76,961.65)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H24&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.55,0:03:21.59,Title Card Sign,,0,0,0,,{\pos(1602.91,440.78)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H24&\4a&HFF&\blur6\clip(m 1657 308 l 1584 358 1548 388 1523 457 1608 513 1665 515 1772 491)}Episode
-Dialogue: 2,0:03:21.55,0:03:21.59,Title Card Sign,,0,0,0,,{\pos(1605.53,506.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H24&\4a&HFF&\blur6}3
-Dialogue: 2,0:03:21.59,0:03:21.63,Title Card Sign,,0,0,0,,{\pos(1440.76,961.65)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H1D&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.59,0:03:21.63,Title Card Sign,,0,0,0,,{\pos(1602.91,440.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H1D&\4a&HFF&\blur5}Episode
-Dialogue: 2,0:03:21.59,0:03:21.63,Title Card Sign,,0,0,0,,{\pos(1605.53,506.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H1D&\4a&HFF&\blur6}3
-Dialogue: 2,0:03:21.63,0:03:21.68,Title Card Sign,,0,0,0,,{\pos(1440.76,961.64)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H16&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.63,0:03:21.68,Title Card Sign,,0,0,0,,{\pos(1602.91,440.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H16&\4a&HFF&\blur4.73}Episode
-Dialogue: 2,0:03:21.63,0:03:21.68,Title Card Sign,,0,0,0,,{\pos(1605.53,506.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H16&\4a&HFF&\blur5.67}3
-Dialogue: 2,0:03:21.68,0:03:21.72,Title Card Sign,,0,0,0,,{\pos(1440.76,961.63)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H0E&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.68,0:03:21.72,Title Card Sign,,0,0,0,,{\pos(1602.91,440.75)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H0E&\4a&HFF&\blur4.47}Episode
-Dialogue: 2,0:03:21.68,0:03:21.72,Title Card Sign,,0,0,0,,{\pos(1605.53,506.26)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H0E&\4a&HFF&\blur5.33}3
-Dialogue: 2,0:03:21.72,0:03:21.76,Title Card Sign,,0,0,0,,{\pos(1440.77,961.64)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\alpha&H07&\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.72,0:03:21.76,Title Card Sign,,0,0,0,,{\pos(1602.92,440.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H07&\4a&HFF&\blur4.2}Episode
-Dialogue: 2,0:03:21.72,0:03:21.76,Title Card Sign,,0,0,0,,{\pos(1605.54,506.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\alpha&H07&\4a&HFF&\blur5}3
-Dialogue: 2,0:03:21.76,0:03:21.80,Title Card Sign,,0,0,0,,{\pos(1440.77,961.61)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.76,0:03:21.80,Title Card Sign,,0,0,0,,{\pos(1602.92,440.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur3.93}Episode
-Dialogue: 2,0:03:21.76,0:03:21.80,Title Card Sign,,0,0,0,,{\pos(1605.54,506.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur4.67}3
-Dialogue: 2,0:03:21.80,0:03:21.89,Title Card Sign,,0,0,0,,{\pos(1440.78,961.58)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.80,0:03:21.84,Title Card Sign,,0,0,0,,{\pos(1602.93,440.7)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur3.67}Episode
-Dialogue: 2,0:03:21.80,0:03:21.84,Title Card Sign,,0,0,0,,{\pos(1605.55,506.21)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur4.33}3
-Dialogue: 2,0:03:21.84,0:03:21.88,Title Card Sign,,0,0,0,,{\pos(1602.93,440.68)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur3.4}Episode
-Dialogue: 2,0:03:21.84,0:03:21.88,Title Card Sign,,0,0,0,,{\pos(1605.55,506.19)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur4}3
-Dialogue: 2,0:03:21.88,0:03:21.93,Title Card Sign,,0,0,0,,{\pos(1602.92,440.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur3.13}Episode
-Dialogue: 2,0:03:21.88,0:03:21.93,Title Card Sign,,0,0,0,,{\pos(1605.54,506.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur3.67}3
-Dialogue: 2,0:03:21.89,0:03:22.93,Title Card Sign,,0,0,0,,{\pos(1440.77,961.62)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 2,0:03:21.93,0:03:21.97,Title Card Sign,,0,0,0,,{\pos(1602.91,440.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur2.87}Episode
-Dialogue: 2,0:03:21.93,0:03:21.97,Title Card Sign,,0,0,0,,{\pos(1605.53,506.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur3.33}3
-Dialogue: 2,0:03:21.97,0:03:22.01,Title Card Sign,,0,0,0,,{\pos(1602.91,440.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur2.6}Episode
-Dialogue: 2,0:03:21.97,0:03:22.01,Title Card Sign,,0,0,0,,{\pos(1605.53,506.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur3}3
-Dialogue: 2,0:03:22.01,0:03:22.05,Title Card Sign,,0,0,0,,{\pos(1602.91,440.78)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur2.33}Episode
-Dialogue: 2,0:03:22.01,0:03:22.05,Title Card Sign,,0,0,0,,{\pos(1605.53,506.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur2.67}3
-Dialogue: 2,0:03:22.05,0:03:22.09,Title Card Sign,,0,0,0,,{\pos(1602.91,440.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur2.07}Episode
-Dialogue: 2,0:03:22.05,0:03:22.09,Title Card Sign,,0,0,0,,{\pos(1605.53,506.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur2.33}3
-Dialogue: 2,0:03:22.09,0:03:22.14,Title Card Sign,,0,0,0,,{\pos(1602.91,440.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur1.8}Episode
-Dialogue: 2,0:03:22.09,0:03:22.14,Title Card Sign,,0,0,0,,{\pos(1605.53,506.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur2}3
-Dialogue: 2,0:03:22.14,0:03:22.18,Title Card Sign,,0,0,0,,{\pos(1602.91,440.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur1.53}Episode
-Dialogue: 2,0:03:22.14,0:03:22.18,Title Card Sign,,0,0,0,,{\pos(1605.53,506.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur1.67}3
-Dialogue: 2,0:03:22.18,0:03:22.22,Title Card Sign,,0,0,0,,{\pos(1602.91,440.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur1.27}Episode
-Dialogue: 2,0:03:22.18,0:03:22.22,Title Card Sign,,0,0,0,,{\pos(1605.53,506.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur1.33}3
-Dialogue: 2,0:03:22.22,0:03:24.55,Title Card Sign,,0,0,0,,{\pos(1602.91,440.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur1}Episode
-Dialogue: 2,0:03:22.22,0:03:24.55,Title Card Sign,,0,0,0,,{\pos(1605.53,506.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\4a&HFF&\blur1}3
-Dialogue: 2,0:03:22.93,0:03:24.55,Title Card Sign,,0,0,0,,{\pos(1440.76,961.65)\fscx137.57\fscy114.65\fnBrushStroke 35\b0\4a&HFF&\blur0.9}Sabito and Makomo
-Dialogue: 0,0:13:32.00,0:13:36.00,Title Card Sign,,0,0,0,,{\pos(1547.613,882.554)\fscx100.46\fscy100.46\fnBrushStroke 35\fs49\b0\c&H090616&\blur0.53}Demon Slayer
-Dialogue: 10,0:02:05.02,0:02:06.77,Default,,0,0,0,,The Demon Slayers. {Split this line. I want it split in part because Iwant the establish the stupid TLwe’re going for} {## done}
+Dialogue: 0,0:03:20.30,0:03:24.55,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,618.49)\fs104\blur8\t(0,1050,\fs100\blur1)}Sabito and Makomo
+Dialogue: 0,0:03:20.30,0:03:24.55,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,390)\fs94\blur8\t(0,1050,\fs88\blur1)}Episode
+Dialogue: 0,0:03:20.30,0:03:24.55,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,486)\fs148\blur8\t(0,1050,\fs140\blur1)}2
+Dialogue: 10,0:02:05.02,0:02:06.77,Default,,0,0,0,,The Demon Slayers.
 Dialogue: 10,0:02:06.77,0:02:09.85,Default,,0,0,0,,They number in the hundreds.
-Dialogue: 10,0:02:10.27,0:02:14.32,Default,,0,0,0,,It’s an organization unrecognized \Nby the government.
-Dialogue: 10,0:02:14.82,0:02:19.86,Default,,0,0,0,,Yet it has existed since ancient times, \Nand continues to hunt demons even to this day.
+Dialogue: 10,0:02:10.27,0:02:14.32,Default,,0,0,0,,It’s an organization unrecognized by the government,
+Dialogue: 10,0:02:14.82,0:02:19.86,Default,,0,0,0,,yet it has existed since ancient times, \Nand continues to hunt demons even to this day.
 Dialogue: 10,0:02:20.91,0:02:27.50,Default,,0,0,0,,However, their leader’s identity \Nremains shrouded in mystery.
 Dialogue: 10,0:02:28.29,0:02:29.50,Default,,0,0,0,,Demons.
 Dialogue: 10,0:02:30.00,0:02:32.42,Default,,0,0,0,,Their staple food are humans.
 Dialogue: 10,0:02:32.42,0:02:34.71,Default,,0,0,0,,They kill humans and feed on them.
 Dialogue: 10,0:02:35.21,0:02:38.63,Default,,0,0,0,,Their origin and first appearance are unknown.
-Dialogue: 10,0:02:38.63,0:02:43.43,Default,,0,0,0,,Their bodies carry immense strength,\N and their wounds mend in no time. {OG: Their bodies carry immense strength and heal wounds within no time.} {## Slightly reworded line.}
-Dialogue: 10,0:02:43.97,0:02:46.31,Default,,0,0,0,,Their mangled flesh regenerates, {OG: Flesh is restored after being hacked off,} {just make this less awkward} {## How’s this?}
+Dialogue: 10,0:02:38.63,0:02:43.43,Default,,0,0,0,,Their bodies carry immense strength,\N and their wounds mend in no time.
+Dialogue: 10,0:02:43.97,0:02:46.31,Default,,0,0,0,,Their mangled flesh regenerates,
 Dialogue: 10,0:02:46.31,0:02:49.69,Default,,0,0,0,,and their limbs can be regrown as well.
-Dialogue: 10,0:02:49.69,0:02:51.52,Default,,0,0,0,,Some demons have special powers.
-Dialogue: 10,0:02:51.52,0:02:53.98,Default,,0,0,0,,A few can even shape-shift. {## split?}
-Dialogue: 10,0:02:53.98,0:03:00.28,Default,,0,0,0,,The only ways to kill them is with sunlight \Nor by beheading them with a special sword.
-Dialogue: 10,0:03:00.82,0:03:05.33,Default,,0,0,0,,The Demon Slayers battle \Nthe demons with their own mortal bodies.
+Dialogue: 10,0:02:49.69,0:02:51.52,Default,,0,0,0,,Some demons have special abilities.
+Dialogue: 10,0:02:51.52,0:02:53.98,Default,,0,0,0,,A few can even shapeshift.
+Dialogue: 10,0:02:53.98,0:03:00.28,Default,,0,0,0,,The only way to kill them is with sunlight \Nor by beheading them with a special sword.
+Dialogue: 10,0:03:00.82,0:03:05.33,Default,,0,0,0,,The Demon Slayers battle \Nthe demons with their mortal bodies.
 Dialogue: 10,0:03:05.33,0:03:08.75,Default,,0,0,0,,Since they’re human,\N their wounds are slow to heal,
-Dialogue: 10,0:03:08.75,0:03:11.67,Default,,0,0,0,,and, once lost, their limbs don’t grow back. {yes he really says that}
-Dialogue: 10,0:03:12.08,0:03:14.46,Default,,0,0,0,,Yet, they continue to fight the demons...
+Dialogue: 10,0:03:08.75,0:03:11.67,Default,,0,0,0,,and, once lost, their limbs don’t grow back.
+Dialogue: 10,0:03:12.08,0:03:14.46,Default,,0,0,0,,Yet, they continue to fight the demons
 Dialogue: 10,0:03:15.00,0:03:17.38,Default,,0,0,0,,in order to protect their fellow humans.
 Dialogue: 10,0:03:31.06,0:03:33.10,Default,,0,0,0,,I’m a mentor.
-Dialogue: 10,0:03:33.69,0:03:36.32,Default,,0,0,0,,I {literally}teach people in swordsmanship. {## omit "literally"?}
+Dialogue: 10,0:03:33.69,0:03:36.32,Default,,0,0,0,,I teach people in swordsmanship.
 Dialogue: 10,0:03:36.82,0:03:38.99,Default,,0,0,0,,There are as many mentors \Nas there are stars in the sky,
 Dialogue: 10,0:03:38.99,0:03:44.12,Default,,0,0,0,,and each of them teaches their disciples \Nin their own respective place and style.
 Dialogue: 10,0:03:44.62,0:03:46.70,Default,,0,0,0,,To join the Demon Slayers,
-Dialogue: 10,0:03:46.70,0:03:52.87,Default,,0,0,0,,you must survive the Final Selection \Nprocess held on Mt. Fujikasane. {## Does "Final Selection" really need to be capitalized?}
+Dialogue: 10,0:03:46.70,0:03:52.87,Default,,0,0,0,,you must survive the Final Selection \Nprocess held on Mt. Fujikasane.
 Dialogue: 10,0:03:52.87,0:03:57.13,Default,,0,0,0,,Whether or not you may participate \Nin the Final Selection is up to me.
 Dialogue: 10,0:03:58.59,0:04:02.88,Default,,0,0,0,,{\i1}Starting today, I’m going to keep a journal for Nezuko.
 Dialogue: 10,0:04:03.55,0:04:05.64,Default,,0,0,0,,{\i1}I’m descending the mountain again today.
 Dialogue: 10,0:04:06.26,0:04:09.97,Default,,0,0,0,,{\i1}I’m going to train my hardest \Nso I won’t die during the Final Selection.
 Dialogue: 10,0:04:13.98,0:04:17.11,Default,,0,0,0,,{\i1}After descending the mountain day after day,
-Dialogue: 10,0:04:17.11,0:04:20.19,Default,,0,0,0,,{\i1}I’ve finally started to learn \Nhow to avoid most of the traps. {## Might flow better with this}
-Dialogue: 10,0:04:20.86,0:04:23.03,Default,,0,0,0,,{\i1}Thanks to my strength and \Nendurance training, {## alt: "My endurance and strength have vastly improved, and so has my sense of smell."}
-Dialogue: 10,0:04:23.03,0:04:28.28,Default,,0,0,0,,{\i1}as well as my sense of smell \Nvastly improving. {I sat at these two lines for 10 minutes help} {## God these two lines suck. Is this slightly better?}
+Dialogue: 10,0:04:17.11,0:04:20.19,Default,,0,0,0,,{\i1}I’ve finally started to learn \Nhow to avoid most of the traps.
+Dialogue: 10,0:04:20.86,0:04:23.03,Default,,0,0,0,,{\i1}Thanks to my strength and endurance training,
+Dialogue: 10,0:04:23.03,0:04:28.03,Default,,0,0,0,,{\i1}as well as my sense of smell vastly improving.
 Dialogue: 10,0:04:29.87,0:04:30.95,Default,,0,0,0,,{\i1}However...
-Dialogue: 10,0:04:33.25,0:04:35.79,Default,,0,0,0,,{\i1}The traps are getting more and more extreme.
-Dialogue: 10,0:04:36.96,0:04:39.25,Default,,0,0,0,,{\i1}I think he might actually be trying to kill me.
+Dialogue: 10,0:04:33.25,0:04:35.79,Default,,0,0,0,,{\i1}The traps keep getting more and more extreme.
+Dialogue: 10,0:04:36.96,0:04:39.25,Default,,0,0,0,,{\i1}At this point I’m convinced he’s trying to kill me.
 Dialogue: 10,0:04:51.68,0:04:54.60,Default,,0,0,0,,{\i1}Today I did the usual while carrying a sword.
 Dialogue: 10,0:04:55.02,0:04:56.98,Default,,0,0,0,,{\i1}It was a real pain!
 Dialogue: 10,0:05:00.78,0:05:04.78,Default,,0,0,0,,{\i1}No longer empty-handed, \NI kept getting caught in traps.
-Dialogue: 10,0:05:06.49,0:05:07.82,Default,,0,0,0,,Nine-hundred-ninety-one! {## Yeah, actually looks nicer to write it out here}
+Dialogue: 10,0:05:06.49,0:05:07.82,Default,,0,0,0,,Nine-hundred-ninety-one!
 Dialogue: 10,0:05:07.82,0:05:08.91,Default,,0,0,0,,{\an8}Nine-hundred-ninety-two!
 Dialogue: 10,0:05:08.91,0:05:10.08,Default,,0,0,0,,{\an8}Nine-hundred-ninety-three!
 Dialogue: 10,0:05:10.08,0:05:11.12,Default,,0,0,0,,{\an8}Nine-hundred-ninety-four!
@@ -251,29 +144,29 @@ Dialogue: 10,0:05:07.82,0:05:10.45,Default,,0,0,0,,{\i1}Today, I’m practicing 
 Dialogue: 10,0:05:10.45,0:05:14.33,Default,,0,0,0,,{\i1}Well, I say today, but I’ve been doing \Nthis pretty much every day recently.
 Dialogue: 10,0:05:14.33,0:05:17.96,Default,,0,0,0,,{\i1}After my daily routine, I practice swinging \Nmy sword until my arms nearly fall off.
 Dialogue: 10,0:05:17.96,0:05:19.21,Default,,0,0,0,,One thousand!
-Dialogue: 10,0:05:19.75,0:05:22.00,Default,,0,0,0,,Do five hundred more!
+Dialogue: 10,0:05:19.75,0:05:21.80,Default,,0,0,0,,Do five hundred more!
 Dialogue: 10,0:05:36.81,0:05:39.31,Default,,0,0,0,,Swords break easily.
 Dialogue: 10,0:05:39.73,0:05:42.32,Default,,0,0,0,,{\i1}That’s what he told me beforehand.
-Dialogue: 10,0:05:43.03,0:05:47.66,Default,,0,0,0,,{\i1}Vertically a sword is strong,\N but horizontally it’s fragile. {rephrase maybe} {## How’s this?}
+Dialogue: 10,0:05:43.03,0:05:47.66,Default,,0,0,0,,{\i1}Vertically a sword is strong,\N but horizontally it’s fragile.
 Dialogue: 10,0:05:49.07,0:05:52.83,Default,,0,0,0,,{\i1}You need to apply the force straight along the blade.
 Dialogue: 10,0:05:53.62,0:06:00.25,Default,,0,0,0,,{\i1}The blade’s direction and the direction \Nin which you apply the force need to be identical.
 Dialogue: 10,0:06:00.75,0:06:06.30,Default,,0,0,0,,{\i1}He also said that if the sword \Never breaks or gets damaged,
-Dialogue: 10,0:06:06.30,0:06:10.64,Default,,0,0,0,,{\i1}he’d snap my bones in half as well, \Nin a very intimidating voice.{OG: I’ll break your bones, as well" in a threatening tone of voice.} {## Slightly reworded. How’s this?}
+Dialogue: 10,0:06:06.30,0:06:10.64,Default,,0,0,0,,{\i1}my bones would soon follow, \Nin a very intimidating tone of voice.{\Nin a very intimidating voice.}
 Dialogue: 10,0:06:13.97,0:06:15.77,Default,,0,0,0,,Nezuko...
 Dialogue: 10,0:06:15.77,0:06:17.89,Default,,0,0,0,,I’ll keep working hard, okay?
 Dialogue: 10,0:06:33.87,0:06:36.12,Default,,0,0,0,,{\i1}Today, I did nothing but fall.
-Dialogue: 10,0:06:36.95,0:06:41.96,Default,,0,0,0,,{\i1}That is, I trained to fall properly \Nand get up quickly in all situations.
+Dialogue: 10,0:06:36.95,0:06:41.96,Default,,0,0,0,,{\i1}That is, I trained to break my fall properly \Nand get back up quickly in every situation.
 Dialogue: 10,0:06:42.79,0:06:44.09,Default,,0,0,0,,{\i1}I wield my sword,
 Dialogue: 10,0:06:44.71,0:06:47.34,Default,,0,0,0,,{\i1}and I charge at Master Urokodaki \Nwith full intent to kill.
 Dialogue: 10,0:06:47.67,0:06:48.59,Default,,0,0,0,,{\i1}In contrast,
 Dialogue: 10,0:06:49.09,0:06:51.76,Default,,0,0,0,,{\i1}Master Urokodaki waits bare-handed and unarmed.
-Dialogue: 10,0:06:54.51,0:06:56.85,Default,,0,0,0,,{\i1}But he’s ridiculously powerful!
-Dialogue: 10,0:06:57.31,0:07:01.35,Default,,0,0,0,,{\i1}Every time I get flung away,\N I struggle to break my fall.{OG: He flings me away every time and I roll on the ground.} {the latter half. Basically, ends up rolling on the ground from the fall, but I need better phrasing} {## When in doubt, slightly change it. How’s this?}
-Dialogue: 10,0:07:06.03,0:07:08.11,Default,,0,0,0,,I’m home, Nezuko.
-Dialogue: 10,0:07:18.04,0:07:22.12,Default,,0,0,0,,{\i1}Today, I learned \Nbreathing techniques and some stances.
+Dialogue: 10,0:06:54.51,0:06:56.85,Default,,0,0,0,,{\i1}But he’s ridiculously strong!
+Dialogue: 10,0:06:57.31,0:07:01.35,Default,,0,0,0,,{\i1}Every time I get flung away,\N I struggle to break my fall.
+Dialogue: 10,0:07:06.03,0:07:08.11,Default,,0,0,0,,I’m back, Nezuko.
+Dialogue: 10,0:07:18.04,0:07:22.12,Default,,0,0,0,,{\i1}Today I learned about breathing techniques \Nand a couple of stances.
 Dialogue: 10,0:07:22.54,0:07:25.38,Default,,0,0,0,,Total Concentration Breathing?
 Dialogue: 10,0:07:25.75,0:07:27.17,Default,,0,0,0,,That’s right.
-Dialogue: 10,0:07:27.17,0:07:31.88,Default,,0,0,0,,And I’m going to teach you all ten \Nof the Water Breathing forms.
+Dialogue: 10,0:07:27.17,0:07:31.88,Default,,0,0,0,,And I’m going to teach you \Nall ten of the Water Breathing forms.
 Dialogue: 10,0:07:32.89,0:07:39.14,Default,,0,0,0,,Take a deep, long breath and feel \Nthe oxygen flowing into every cell in your body.
 Dialogue: 10,0:07:39.14,0:07:41.60,Default,,0,0,0,,This will enhance your body’s natural healing power,
 Dialogue: 10,0:07:41.60,0:07:44.98,Default,,0,0,0,,as well as stabilize and energize your spirit.
@@ -281,7 +174,7 @@ Dialogue: 10,0:07:45.77,0:07:48.32,Default,,0,0,0,,Relax your upper body
 Dialogue: 11,0:07:48.86,0:07:51.32,Default,,0,0,0,,while bracing your lower half.
 Dialogue: 10,0:07:51.95,0:07:53.41,Default,,0,0,0,,All right, breathe!
 Dialogue: 10,0:07:58.49,0:08:00.29,Default,,0,0,0,,Wrong!
-Dialogue: 10,0:08:01.96,0:08:04.00,Default,,0,0,0,,Next! Get into your stance.
+Dialogue: 10,0:08:01.96,0:08:04.00,Default,,0,0,0,,Next! Take your stance.
 Dialogue: 10,0:08:04.33,0:08:06.00,Default,,0,0,0,,Right! Like this?
 Dialogue: 10,0:08:06.00,0:08:07.17,Default,,0,0,0,,Wrong!
 Dialogue: 10,0:08:07.17,0:08:08.21,Default,,0,0,0,,Like this?
@@ -293,7 +186,7 @@ Dialogue: 10,0:08:11.42,0:08:12.51,Default,,0,0,0,,Wrong!
 Dialogue: 10,0:08:12.51,0:08:15.55,Default,,0,0,0,,{\i1}I got yelled at for not bracing my stomach,
 Dialogue: 10,0:08:15.55,0:08:17.56,Default,,0,0,0,,{\i1}and kept getting punched in the gut.
 Dialogue: 10,0:08:18.56,0:08:23.02,Default,,0,0,0,,{\i1}Next, he told me to become one with the water.
-Dialogue: 10,0:08:23.02,0:08:24.85,Default,,0,0,0,,Get in there!
+Dialogue: 10,0:08:23.02,0:08:24.52,Default,,0,0,0,,Get in there!
 Dialogue: 10,0:08:30.23,0:08:34.53,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:08:38.83,0:08:44.54,Default,,0,0,0,,Nezuko! I am water!
 Dialogue: 10,0:08:46.21,0:08:51.09,Default,,0,0,0,,{\i1}Six months have passed since \NNezuko has entered her deep slumber.
@@ -308,13 +201,13 @@ Dialogue: 10,0:09:26.96,0:09:29.21,Default,,0,0,0,,{\i1}My descents keep getting
 Dialogue: 10,0:09:29.21,0:09:32.05,Default,,0,0,0,,{\i1}and the air’s even thinner where I train now.
 Dialogue: 10,0:09:38.55,0:09:41.85,Default,,0,0,0,,{\i1}Time and time again, I think I’m about to die.
 Dialogue: 10,0:09:58.95,0:10:01.66,Default,,0,0,0,,I have nothing more to teach you.
-Dialogue: 10,0:10:02.91,0:10:07.16,Default,,0,0,0,,{\i1}A year after I arrived at Mt. Sagiri, \Nhe suddenly told me something completely unexpected.
+Dialogue: 10,0:10:02.91,0:10:07.16,Default,,0,0,0,,{\i1}A year after I arrived at Mt. Sagiri, \Nwhat he told me came completely out of left field.
 Dialogue: 10,0:10:08.71,0:10:10.96,Default,,0,0,0,,The rest is up to you!
 Dialogue: 10,0:10:10.96,0:10:14.92,Default,,0,0,0,,Will you be able to gain a true understanding \Nof what I’ve taught you?
 Dialogue: 10,0:10:19.30,0:10:20.43,Default,,0,0,0,,Follow me.
 Dialogue: 10,0:10:38.78,0:10:40.99,Default,,0,0,0,,If you can slice through this boulder,
 Dialogue: 10,0:10:40.99,0:10:44.45,Default,,0,0,0,,I will allow you to enter the Final Selection.
-Dialogue: 10,0:10:49.04,0:10:50.46,Default,,0,0,0,,{\i1}Is a boulder...
+Dialogue: 10,0:10:49.04,0:10:50.46,Default,,0,0,0,,{\i1}Is a boulder
 Dialogue: 10,0:10:51.33,0:10:52.84,Default,,0,0,0,,{\i1}something you can slice?
 Dialogue: 10,0:10:53.50,0:10:55.46,Default,,0,0,0,,{\i1}Can a sword really slice through it?
 Dialogue: 10,0:10:56.42,0:10:58.05,Default,,0,0,0,,{\i1}I don’t think I can do it.
@@ -322,47 +215,49 @@ Dialogue: 10,0:10:58.55,0:11:00.47,Default,,0,0,0,,{\i1}My sword would snap in h
 Dialogue: 10,0:11:05.72,0:11:08.52,Default,,0,0,0,,Please wait!
 Dialogue: 10,0:11:08.52,0:11:10.23,Default,,0,0,0,,Master Urokodaki!
 Dialogue: 10,0:11:11.69,0:11:17.32,Default,,0,0,0,,{\i1}After that, Master Urokodaki \Nnever taught me anything again.
-Dialogue: 10,0:11:43.59,0:11:44.39,Default,,0,0,0,,{\i1}Every day,
-Dialogue: 10,0:11:44.68,0:11:48.10,Default,,0,0,0,,{\i1}I would practice what I’d learned \Nfrom Master Urokodaki over and over.
-Dialogue: 10,0:11:55.36,0:11:57.27,Default,,0,0,0,,{\i1}Basics like holding my breath and being flexible...
+Dialogue: 10,0:11:43.59,0:11:48.10,Default,,0,0,0,,{\i1}I would practice what I had learned from \NMaster Urokodaki over and over every single day.
+Dialogue: 10,0:11:55.36,0:11:57.27,Default,,0,0,0,,{\i1}Basics like holding my breath and being flexible.
 Dialogue: 10,0:11:57.27,0:12:01.15,Default,,0,0,0,,{\i1}I’m glad I had written those down in my journal.
 Dialogue: 10,0:12:11.04,0:12:12.50,Default,,0,0,0,,{\i1}However...
 Dialogue: 10,0:12:12.50,0:12:16.04,Default,,0,0,0,,{\i1}even after six months had passed,\N I still couldn’t slice through that boulder.
 Dialogue: 10,0:12:16.75,0:12:18.42,Default,,0,0,0,,{\i1}I felt frustrated.
 Dialogue: 10,0:12:18.42,0:12:19.67,Default,,0,0,0,,{\i1}Not enough!
 Dialogue: 10,0:12:19.67,0:12:21.42,Default,,0,0,0,,{\i1}I wasn’t training hard enough!
-Dialogue: 10,0:12:21.97,0:12:23.26,Default,,0,0,0,,{\i1}I’ve gotta train more!
+Dialogue: 10,0:12:21.97,0:12:23.26,Default,,0,0,0,,{\i1}I have to train more!
 Dialogue: 10,0:12:23.72,0:12:24.89,Default,,0,0,0,,{\i1}Even more!
-Dialogue: 10,0:12:32.85,0:12:35.69,Default,,0,0,0,,{\i1}Am I hopeless?
+Dialogue: 10,0:12:32.85,0:12:35.69,Default,,0,0,0,,{\i1}Am I a lost cause?
 Dialogue: 10,0:12:36.56,0:12:38.69,Default,,0,0,0,,{\i1}Is Nezuko never going to wake up again?
-Dialogue: 10,0:12:40.90,0:12:43.74,Default,,0,0,0,,{\i1}I can’t go on... I’m at my limit!{OG: I’ll almost give in! I’m breaking down!!} {## This might just be the worst line so far}
-Dialogue: 10,0:12:44.99,0:12:47.70,Default,,0,0,0,,Don’t give in, Tanjirou! You can do it!
+Dialogue: 10,0:12:40.90,0:12:43.74,Default,,0,0,0,,{\i1}I can’t go on! I’ve hit my limit!
+Dialogue: 10,0:12:44.99,0:12:47.70,Default,,0,0,0,,Don’t give up, Tanjirou! You can do it!
 Dialogue: 10,0:12:48.58,0:12:49.70,Default,,0,0,0,,Shut up!
-Dialogue: 10,0:12:55.62,0:12:58.63,Default,,0,0,0,,A man shouldn’t whine.\N It’s unseemly.
-Dialogue: 10,0:12:59.13,0:13:00.55,Default,,0,0,0,,{\i1}When did he show up?
-Dialogue: 10,0:13:00.55,0:13:03.47,Default,,0,0,0,,{\i1}I can’t pick up his scent. \NA fox mask?
-Dialogue: 10,0:13:03.97,0:13:06.97,Default,,0,0,0,,No matter what hardships you meet, \Nbear it in silence...
-Dialogue: 10,0:13:07.76,0:13:09.60,Default,,0,0,0,,just like a real man would.
-Dialogue: 10,0:13:11.52,0:13:13.81,Default,,0,0,0,,If you can even call yourself a man.
+Dialogue: 10,0:12:55.62,0:12:57.42,Default,,0,0,0,,A man shouldn’t whine.
+Dialogue: 10,0:12:57.42,0:12:58.63,Default,,0,0,0,,It’s unseemly.
+Dialogue: 10,0:12:59.13,0:13:00.55,Default,,0,0,0,,{\i1}Where did he come from?
+Dialogue: 10,0:13:00.55,0:13:01.88,Default,,0,0,0,,{\i1}I can’t pick up his scent!
+Dialogue: 10,0:13:01.88,0:13:03.47,Default,,0,0,0,,{\i1}Is that a fox mask?
+Dialogue: 10,0:13:03.97,0:13:06.97,Default,,0,0,0,,No matter what hardships you meet, bear it in silence.
+Dialogue: 10,0:13:07.76,0:13:09.60,Default,,0,0,0,,Like a real man would.
+Dialogue: 10,0:13:11.52,0:13:13.81,Default,,0,0,0,,If you can even call yourself a man!
 Dialogue: 10,0:13:22.36,0:13:23.32,Default,,0,0,0,,Too slow.
 Dialogue: 10,0:13:23.32,0:13:24.70,Default,,0,0,0,,Too weak.
 Dialogue: 10,0:13:24.70,0:13:26.16,Default,,0,0,0,,Too immature.
 Dialogue: 10,0:13:27.53,0:13:30.33,Default,,0,0,0,,That’s not what you call a man.
+Dialogue: 0,0:13:32.00,0:13:36.00,Title Card Sign,,0,0,0,,{\pos(1547.613,882.554)\fscx100.46\fscy100.46\fs49\c&H090616&\blur0.53}Demon Slayer
 Comment: 0,0:13:36.00,0:13:36.00,Default,,0,0,0,,---------------------------------------------- [ PART B ] ----------------------------------------------
-Dialogue: 0,0:13:36.00,0:13:40.00,Title Card Sign,,0,0,0,,{\pos(1539.613,877.22)\fscx100.46\fscy100.46\fnBrushStroke 35\fs48\b0\c&H090616&\blur0.56}Demon Slayer
+Dialogue: 0,0:13:36.00,0:13:40.00,Title Card Sign,,0,0,0,,{\fscx100.46\fscy100.46\fs47\c&H090616&\blur0.56\pos(1537.478,877.22)}Demon Slayer
 Dialogue: 10,0:13:42.09,0:13:43.92,Default,,0,0,0,,What are you doing?
 Dialogue: 10,0:13:44.47,0:13:47.43,Default,,0,0,0,,Do tell me, what do {\i1}you{\i0} think you’re doing?
 Dialogue: 10,0:13:47.72,0:13:49.14,Default,,0,0,0,,What do you mean?
 Dialogue: 10,0:13:49.14,0:13:50.64,Default,,0,0,0,,I’m training.
-Dialogue: 10,0:13:50.64,0:13:55.43,Default,,0,0,0,,How long does it take you to get your ass \Noff the ground and take a proper stance? {OG: How long do you plan to keep your butt on the ground without even taking a stance?} {## This better?}
+Dialogue: 10,0:13:50.64,0:13:55.43,Default,,0,0,0,,How long does it take you to get your ass \Noff the ground and take a proper stance?
 Dialogue: 10,0:13:59.40,0:14:01.94,Default,,0,0,0,,Now. Come at me.
 Dialogue: 10,0:14:02.44,0:14:06.32,Default,,0,0,0,,But you have a wooden sword, \Nand I have a real one.
 Dialogue: 10,0:14:21.29,0:14:23.17,Default,,0,0,0,,Would you look at that!
 Dialogue: 10,0:14:23.17,0:14:26.63,Default,,0,0,0,,Why, thank you for worrying about me.
 Dialogue: 10,0:14:26.63,0:14:30.72,Default,,0,0,0,,So you think you’re actually able to graze me?
-Dialogue: 10,0:14:33.26,0:14:35.81,Default,,0,0,0,,You have absolutely nothing to worry about!
-Dialogue: 10,0:14:35.81,0:14:38.02,Default,,0,0,0,,I’m stronger than you.
-Dialogue: 10,0:14:38.02,0:14:40.19,Default,,0,0,0,,After all, I’ve sliced through that boulder.
+Dialogue: 10,0:14:33.26,0:14:35.81,Default,,0,0,0,,You have absolutely nothing to be concerned about!
+Dialogue: 10,0:14:35.81,0:14:38.02,Default,,0,0,0,,I’m stronger than you!
+Dialogue: 10,0:14:38.02,0:14:40.19,Default,,0,0,0,,I’ve sliced through that boulder, after all!
 Dialogue: 10,0:14:40.65,0:14:42.19,Default,,0,0,0,,{\i1}He’s sliced through that boulder?
 Dialogue: 10,0:14:59.58,0:15:02.04,Default,,0,0,0,,You’ve learned nothing.
 Dialogue: 10,0:15:02.04,0:15:04.38,Default,,0,0,0,,You haven’t mastered a single thing!
@@ -371,17 +266,16 @@ Dialogue: 10,0:15:09.30,0:15:11.47,Default,,0,0,0,,Total Concentration Breathing
 Dialogue: 10,0:15:12.68,0:15:14.51,Default,,0,0,0,,{\i1}He knows Master Urokodaki?
 Dialogue: 10,0:15:15.26,0:15:16.64,Default,,0,0,0,,{\i1}And even the breathing technique?
 Dialogue: 10,0:15:17.02,0:15:20.44,Default,,0,0,0,,All you did was memorize it. \NYou learned it as knowledge.
-Dialogue: 10,0:15:21.19,0:15:23.65,Default,,0,0,0,,Yet your body still has no understanding of it.
+Dialogue: 10,0:15:21.19,0:15:23.65,Default,,0,0,0,,Your body still has no understanding of it.
 Dialogue: 10,0:15:25.11,0:15:28.57,Default,,0,0,0,,What the hell have you been doing \Nfor the past year and a half?
 Dialogue: 10,0:15:30.90,0:15:33.74,Default,,0,0,0,,Carve it into your flesh!
 Dialogue: 10,0:15:34.62,0:15:35.33,Default,,0,0,0,,More!
 Dialogue: 10,0:15:35.78,0:15:36.95,Default,,0,0,0,,More!
 Dialogue: 10,0:15:36.95,0:15:37.79,Default,,0,0,0,,Even more!
-Dialogue: 10,0:15:38.12,0:15:43.21,Default,,0,0,0,,To make sure you’ll never forget the secrets \NMaster Urokodaki taught you! {## This better?}
+Dialogue: 10,0:15:38.12,0:15:43.21,Default,,0,0,0,,Make sure you’ll never forget the secrets \NMaster Urokodaki taught you!
 Dialogue: 10,0:15:43.67,0:15:46.13,Default,,0,0,0,,Pound it into the marrow of your bones!
 Dialogue: 10,0:15:46.42,0:15:47.88,Default,,0,0,0,,I’m trying!
-Dialogue: 10,0:15:47.88,0:15:49.88,Default,,0,0,0,,I’ve been trying every single day!
-Dialogue: 10,0:15:49.88,0:15:50.80,Default,,0,0,0,,With everything I’ve got!
+Dialogue: 10,0:15:47.88,0:15:50.80,Default,,0,0,0,,I’ve been trying every single day, \Nwith everything I’ve got!
 Dialogue: 10,0:15:51.30,0:15:53.93,Default,,0,0,0,,But I’m not making any headway!
 Dialogue: 10,0:15:54.26,0:15:57.85,Default,,0,0,0,,I just can’t go any further!
 Dialogue: 10,0:15:57.85,0:15:59.10,Default,,0,0,0,,Go further!
@@ -391,13 +285,13 @@ Dialogue: 10,0:16:02.73,0:16:04.69,Default,,0,0,0,,There’s no other way but fo
 Dialogue: 10,0:16:05.06,0:16:06.48,Default,,0,0,0,,Bring it on!
 Dialogue: 10,0:16:06.48,0:16:09.03,Default,,0,0,0,,Show me what you’re truly capable of!
 Dialogue: 10,0:16:26.59,0:16:28.34,Default,,0,0,0,,I’m leaving the rest to you.
-Dialogue: 10,0:16:41.31,0:16:42.77,Default,,0,0,0,,Are you all right?
+Dialogue: 10,0:16:41.31,0:16:42.77,Default,,0,0,0,,Are you okay?
 Dialogue: 10,0:16:45.15,0:16:47.02,Default,,0,0,0,,Did you see that just now?
 Dialogue: 10,0:16:48.11,0:16:49.98,Default,,0,0,0,,That was an amazing strike!
 Dialogue: 10,0:16:49.98,0:16:52.40,Default,,0,0,0,,Not a single bit of wasted motion.
 Dialogue: 10,0:16:52.40,0:16:54.45,Default,,0,0,0,,It was really beautiful!
 Dialogue: 10,0:16:54.45,0:16:56.74,Default,,0,0,0,,I want to be just like him!
-Dialogue: 10,0:16:56.74,0:16:59.08,Default,,0,0,0,,You think I could become just as good as he is?{OG: I want to become like that! You think, I can become like him?} {he doesn’t actually ask her, but keeping that is fine, I’m just annoyed at the double become} {## how’s this?}
+Dialogue: 10,0:16:56.74,0:16:59.08,Default,,0,0,0,,You think I could become just as good as he is?
 Dialogue: 10,0:17:01.41,0:17:05.25,Default,,0,0,0,,I’m sure you can, since I’ll be looking after you.
 Dialogue: 10,0:17:09.96,0:17:11.59,Default,,0,0,0,,{\i1}She’s so cute.
 Dialogue: 10,0:17:12.63,0:17:14.63,Default,,0,0,0,,Who are you?
@@ -405,57 +299,56 @@ Dialogue: 10,0:17:16.51,0:17:19.64,Default,,0,0,0,,{\i1}That girl’s name was M
 Dialogue: 10,0:17:20.39,0:17:23.64,Default,,0,0,0,,{\i1}She told me the boy’s name was Sabito.
 Dialogue: 10,0:17:24.31,0:17:28.36,Default,,0,0,0,,{\i1}Makomo also started pointing out my shortcomings.
 Dialogue: 10,0:17:29.23,0:17:33.61,Default,,0,0,0,,{\i1}She corrected my unnecessary movements and bad habits.
-Dialogue: 10,0:17:34.82,0:17:37.07,Default,,0,0,0,,{\i1}But when I asked her why she was helping me,
-Dialogue: 10,0:17:37.07,0:17:40.33,Default,,0,0,0,,{\i1}or where she came from, \Nshe refused to give me an answer.
+Dialogue: 10,0:17:34.82,0:17:40.33,Default,,0,0,0,,{\i1}But when I asked her, she refused to tell me \Nwhy she was helping me or where she came from.
 Dialogue: 10,0:17:41.99,0:17:46.12,Default,,0,0,0,,Both of us love Master Urokodaki very much.
 Dialogue: 10,0:17:46.71,0:17:50.42,Default,,0,0,0,,{\i1}That was her pet phrase.
 Dialogue: 10,0:17:51.00,0:17:52.71,Default,,0,0,0,,{\i1}Sabito and Makomo weren’t siblings.
-Dialogue: 10,0:17:53.13,0:17:56.47,Default,,0,0,0,,{\i1}They had been orphans before \NMaster Urokodaki took them in and raised them.
+Dialogue: 10,0:17:53.13,0:17:56.59,Default,,0,0,0,,{\i1}They used to be orphans until Master Urokodaki \Ntook them in and cared for them.
 Dialogue: 10,0:17:57.26,0:18:01.05,Default,,0,0,0,,There are other children besides us.
 Dialogue: 10,0:18:01.05,0:18:03.39,Default,,0,0,0,,They’re always watching you, Tanjirou.
 Dialogue: 10,0:18:04.93,0:18:08.19,Default,,0,0,0,,{\i1}Makomo is a somewhat strange girl.
 Dialogue: 10,0:18:09.06,0:18:11.23,Default,,0,0,0,,{\i1}She speaks in such a fluffy, dreamy way.
 Dialogue: 10,0:18:12.48,0:18:14.99,Default,,0,0,0,,Total Concentration Breathing...
-Dialogue: 10,0:18:14.99,0:18:19.78,Default,,0,0,0,,It, like, accelerates your blood flow, \Nmaking your heart start racing.
+Dialogue: 10,0:18:14.99,0:18:19.78,Default,,0,0,0,,It, like, accelerates your blood flow, \Nwhich makes your heart start racing.
 Dialogue: 10,0:18:20.16,0:18:23.62,Default,,0,0,0,,Your body starts becoming very hot,
 Dialogue: 10,0:18:23.62,0:18:26.71,Default,,0,0,0,,and you become as strong as a demon.
 Dialogue: 10,0:18:27.66,0:18:30.88,Default,,0,0,0,,The important thing is to expand your lung capacity.
 Dialogue: 10,0:18:31.59,0:18:35.05,Default,,0,0,0,,When you bring lots and lots of air into your blood,
 Dialogue: 10,0:18:35.34,0:18:37.67,Default,,0,0,0,,your blood starts getting excited.
-Dialogue: 10,0:18:37.67,0:18:42.05,Default,,0,0,0,,This makes your bones and muscles, like, \Nbecome all hot and you become a lot stronger. {OG: your bones and muscles scurry to heat up and then they grow stronger.}
-Dialogue: 10,0:18:42.64,0:18:44.56,Default,,0,0,0,,{\i1}I don’t think I got any of that.
+Dialogue: 10,0:18:37.67,0:18:42.05,Default,,0,0,0,,This makes your bones and muscles, like, \Nbecome all hot and you become a lot stronger.
+Dialogue: 10,0:18:42.64,0:18:44.56,Default,,0,0,0,,{\i1}I don’t think I caught any of that.
 Dialogue: 10,0:18:45.47,0:18:47.60,Default,,0,0,0,,How can I do that?
 Dialogue: 10,0:18:50.85,0:18:52.98,Default,,0,0,0,,Train to death.
-Dialogue: 10,0:18:52.98,0:18:56.86,Default,,0,0,0,,At the end of the day, \NI don’t think there’s anything else you can do.
+Dialogue: 10,0:18:52.98,0:18:56.86,Default,,0,0,0,,At the end of the day, I don’t think \Nthere’s much else you can do.
 Dialogue: 10,0:19:00.16,0:19:03.53,Default,,0,0,0,,{\i1}Until my arms and legs were ready to fall off...
 Dialogue: 10,0:19:03.95,0:19:06.79,Default,,0,0,0,,{\i1}Until my lungs and heart were ready to burst...
 Dialogue: 10,0:19:07.45,0:19:08.87,Default,,0,0,0,,{\i1}I would swing my sword.
-Dialogue: 10,0:19:09.58,0:19:10.79,Default,,0,0,0,,{\i1}But even with that...
+Dialogue: 10,0:19:09.58,0:19:10.79,Default,,0,0,0,,{\i1}But even after all that...
 Dialogue: 10,0:19:11.88,0:19:13.88,Default,,0,0,0,,{\i1}I just couldn’t beat Sabito.
 Dialogue: 10,0:19:16.59,0:19:19.63,Default,,0,0,0,,{\i1}Not until six months later.
 Dialogue: 10,0:19:27.77,0:19:31.10,Default,,0,0,0,,{\i1}When I challenged him that day,
 Dialogue: 10,0:19:31.10,0:19:33.15,Default,,0,0,0,,{\i1}Sabito was wielding a real sword.
 Dialogue: 10,0:19:33.81,0:19:35.57,Default,,0,0,0,,After six whole months,
-Dialogue: 10,0:19:37.07,0:19:39.40,Default,,0,0,0,,you’ve finally started looking like a real man.
+Dialogue: 10,0:19:37.07,0:19:39.40,Default,,0,0,0,,you’ve finally started to look like a real man.
 Dialogue: 10,0:19:47.20,0:19:49.04,Default,,0,0,0,,Today’s the day I win!
 Dialogue: 10,0:19:56.46,0:19:58.96,Default,,0,0,0,,{\i1}Head-on battles are simple.
-Dialogue: 10,0:19:59.42,0:20:02.88,Default,,0,0,0,,{\i1}The stronger and faster one wins.
+Dialogue: 10,0:19:59.42,0:20:02.88,Default,,0,0,0,,{\i1}Whoever’s faster and stronger wins.
 Dialogue: 10,0:20:15.90,0:20:18.02,Default,,0,0,0,,{\i1}The battle was over in an instant.
 Dialogue: 10,0:20:19.65,0:20:22.61,Default,,0,0,0,,{\i1}It was this day. For the first time, \Nright at this very moment,
 Dialogue: 10,0:20:22.61,0:20:25.78,Default,,0,0,0,,{\i1}my blade reached Sabito first.
 Dialogue: 10,0:20:36.59,0:20:38.17,Default,,0,0,0,,{\i1}When I had finally beaten him
 Dialogue: 10,0:20:38.96,0:20:40.42,Default,,0,0,0,,{\i1}Sabito was smiling.
-Dialogue: 10,0:20:41.55,0:20:44.22,Default,,0,0,0,,{\i1}A smile that carried a hint \Nof both delight and melancholy.{OG: It seemed to carry both happiness and sadness.}{maybe glad?I like this moment so I want a good line here} {## nepsmug}
+Dialogue: 10,0:20:41.55,0:20:44.22,Default,,0,0,0,,{\i1}A smile that carried a hint of delight and melancholy.
 Dialogue: 10,0:20:44.93,0:20:47.05,Default,,0,0,0,,{\i1}An expression full of relief.
-Dialogue: 10,0:20:48.93,0:20:50.10,Default,,0,0,0,,Tanjirou...
+Dialogue: 10,0:20:48.93,0:20:50.10,Default,,0,0,0,,Tanjirou.
 Dialogue: 10,0:20:51.35,0:20:53.10,Default,,0,0,0,,You did great.
 Dialogue: 10,0:20:53.10,0:20:54.94,Default,,0,0,0,,Hold this memory close to your heart.
 Dialogue: 10,0:20:57.02,0:20:59.11,Default,,0,0,0,,Make sure you win, okay?
 Dialogue: 10,0:20:59.52,0:21:00.82,Default,,0,0,0,,Beat that guy, too.
-Dialogue: 10,0:21:07.70,0:21:08.95,Default,,0,0,0,,{\i1}Next thing I knew,
+Dialogue: 10,0:21:07.70,0:21:08.95,Default,,0,0,0,,{\i1}The next thing I knew,
 Dialogue: 10,0:21:08.95,0:21:10.87,Default,,0,0,0,,{\i1}Sabito was gone.
-Dialogue: 10,0:21:13.71,0:21:16.67,Default,,0,0,0,,{\i1}And my sword, which I was sure \Nhad slashed Sabito’s mask...
-Dialogue: 10,0:21:24.38,0:21:27.39,Default,,0,0,0,,{\i1}...had sliced through the boulder.
+Dialogue: 10,0:21:13.71,0:21:16.67,Default,,0,0,0,,{\i1}And my sword, which I was sure \Nhad slashed Sabito’s mask,
+Dialogue: 10,0:21:24.38,0:21:27.39,Default,,0,0,0,,{\i1}had sliced through the boulder.
 Comment: 0,0:22:59.94,0:22:59.94,Default,,0,0,0,,---------------------------------------------- [ OUTRO ] ----------------------------------------------
 Dialogue: 0,0:22:59.94,0:23:00.19,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx100.46\fscy100.46\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
 Dialogue: 0,0:23:00.19,0:23:00.23,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx100.46\fscy100.46\frz0.1\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
@@ -477,19 +370,19 @@ Dialogue: 0,0:23:00.81,0:23:00.85,Title Card Sign,,0,0,0,,{\an3\pos(1825.12,458.
 Dialogue: 0,0:23:00.85,0:23:00.90,Title Card Sign,,0,0,0,,{\an3\pos(1892.27,456.1)\fscx28\fscy109\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
 Dialogue: 0,0:23:00.90,0:23:00.94,Title Card Sign,,0,0,0,,{\an3\pos(2008.98,442.24)\fscx30\fscy79\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
 Dialogue: 0,0:23:01.02,0:23:01.06,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\c&HC6EBE0&\3c&HC3E2ED&\blur0.7\clip(m 1459 1 l 1496 94 1268 205 1155 71 1137 14)}PREVIEW
-Dialogue: 0,0:23:01.06,0:23:14.29,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\c&HC3E2ED&\3c&HC3E2ED&\blur0.7}PREVIEW
+Dialogue: 0,0:23:01.06,0:23:14.28,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\c&HC3E2ED&\3c&HC3E2ED&\blur0.7}PREVIEW
 Dialogue: 0,0:23:25.80,0:23:37.06,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\c&HC6EBE0&\3c&HC3E2ED&\blur0.7}PREVIEW
 Dialogue: 1,0:23:01.02,0:23:01.06,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\bord0\c&H385B51&\4a&HFF&\blur1\clip(m 1459 1 l 1496 94 1268 205 1155 71 1137 14)}PREVIEW
-Dialogue: 1,0:23:01.06,0:23:14.29,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\bord0\c&H385B51&\4a&HFF&\blur1}PREVIEW
+Dialogue: 1,0:23:01.06,0:23:14.28,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\bord0\c&H385B51&\4a&HFF&\blur1}PREVIEW
 Dialogue: 1,0:23:25.80,0:23:37.06,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\bord0\c&H385B51&\4a&HFF&\blur1}PREVIEW
-Dialogue: 0,0:23:02.32,0:23:02.57,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6\clip(m 891 123 l 949 119 975 150 931 164 930 150 926 149 925 152 926 159 925 168 919 173 914 174 908 176 904 175 896 164 894 162 890 151 888 160 877 156 870 154 878 146 891 142 897 142 900 141 897 138 890 136 881 136)}Rustle
-Dialogue: 0,0:23:02.32,0:23:02.57,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5\clip(m 891 123 l 949 119 975 150 931 164 930 150 926 149 925 152 926 159 925 168 919 173 914 174 908 176 904 175 896 164 894 162 890 151 888 160 877 156 870 154 878 146 891 142 897 142 900 141 897 138 890 136 881 136)}Rustle
-Dialogue: 0,0:23:02.57,0:23:14.29,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6}Rustle
-Dialogue: 0,0:23:02.57,0:23:14.29,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5}Rustle
-Dialogue: 0,0:23:00.90,0:23:14.29,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6}Rustle
-Dialogue: 0,0:23:00.90,0:23:14.29,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5}Rustle
-Dialogue: 0,0:23:00.86,0:23:00.90,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6\clip(m 700 152 l 718 220 620 251 607 147)}Rustle
-Dialogue: 0,0:23:00.86,0:23:00.90,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5\clip(m 700 152 l 718 220 620 251 607 147)}Rustle
+Dialogue: 0,0:23:02.31,0:23:02.56,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6\clip(m 891 123 l 949 119 975 150 931 164 930 150 926 149 925 152 926 159 925 168 919 173 914 174 908 176 904 175 896 164 894 162 890 151 888 160 877 156 870 154 878 146 891 142 897 142 900 141 897 138 890 136 881 136)}Rustle
+Dialogue: 0,0:23:02.31,0:23:02.56,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5\clip(m 891 123 l 949 119 975 150 931 164 930 150 926 149 925 152 926 159 925 168 919 173 914 174 908 176 904 175 896 164 894 162 890 151 888 160 877 156 870 154 878 146 891 142 897 142 900 141 897 138 890 136 881 136)}Rustle
+Dialogue: 0,0:23:02.56,0:23:14.28,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6}Rustle
+Dialogue: 0,0:23:02.56,0:23:14.28,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5}Rustle
+Dialogue: 0,0:23:00.90,0:23:14.28,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6}Rustle
+Dialogue: 0,0:23:00.90,0:23:14.28,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5}Rustle
+Dialogue: 0,0:23:00.85,0:23:00.90,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6\clip(m 700 152 l 718 220 620 251 607 147)}Rustle
+Dialogue: 0,0:23:00.85,0:23:00.90,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5\clip(m 700 152 l 718 220 620 251 607 147)}Rustle
 Dialogue: 0,0:23:25.80,0:23:37.06,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6}Rustle
 Dialogue: 0,0:23:25.80,0:23:37.06,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5}Rustle
 Dialogue: 0,0:23:25.80,0:23:37.06,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6}Rustle
@@ -543,14 +436,14 @@ Dialogue: 1,0:23:37.56,0:23:39.98,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973
 Dialogue: 2,0:23:37.56,0:23:39.98,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
 Dialogue: 3,0:23:37.56,0:23:39.98,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\4a&HFF&\blur1}To Be Continued
 Dialogue: 10,0:23:04.61,0:23:06.74,Default,,0,0,0,,Yeah, I was shocked too!
-Dialogue: 10,0:23:06.74,0:23:08.82,Default,,0,0,0,,I can’t believe I cut through a boulder! {I could never have imagined that I’d be able to cut a boulder like that.}{shortened for length}
+Dialogue: 10,0:23:06.74,0:23:08.82,Default,,0,0,0,,I can’t believe I cut through a boulder!
 Dialogue: 10,0:23:08.82,0:23:11.07,Default,,0,0,0,,I couldn’t have done it without Sabito and Makomo.
 Dialogue: 10,0:23:11.07,0:23:12.95,Default,,0,0,0,,I can’t thank them enough.
 Dialogue: 10,0:23:14.28,0:23:17.58,Default,,0,0,0,,Now, it’s time for a Taisho secret!
 Dialogue: 10,0:23:17.58,0:23:20.29,Default,,0,0,0,,Why does Master Urokodaki wear a mask?
 Dialogue: 10,0:23:20.29,0:23:25.80,Default,,0,0,0,,I heard that’s because demons used to \Nmake fun of his face for looking too kind.
 Dialogue: 10,0:23:26.09,0:23:29.38,Default,,0,0,0,,Sabito, Makomo, and Master Urokodaki!
-Dialogue: 10,0:23:29.38,0:23:33.09,Default,,0,0,0,,I’ll keep doing my best to turn \NNezuko back into a human!
+Dialogue: 10,0:23:29.38,0:23:33.09,Default,,0,0,0,,I’ll continue doing my best \Nto turn Nezuko back into a human!
 Dialogue: 10,0:23:34.35,0:23:37.06,Default,,0,0,0,,Next, Episode 4, “Final Selection”!
 Comment: 0,0:00:34.01,0:00:34.01,Default,,0,0,0,,---------------------------------------------- [     OP    ] ----------------------------------------------
 Comment: 0,0:00:35.05,0:00:41.47,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}tsuyoku nareru riyuu wo shitta
