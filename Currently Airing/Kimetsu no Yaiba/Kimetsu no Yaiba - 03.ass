@@ -16,14 +16,11 @@ ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
 Last Style Storage: Default (1080p)
-Audio File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Encoded/YaibaBD_03 (Premux).mkv
-Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Encoded/YaibaBD_03 (Premux).mkv
+Audio File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Premux/YaibaBD_03 (Premux).mkv
+Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Premux/YaibaBD_03 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 190
-Active Line: 199
-Video Position: 19565
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,82 +44,40 @@ Style: ED1 - ENG,Planewalker,70,&H00FDF8FF,&H000000FF,&H002B39F9,&HA0000000,-1,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Aniplex / Ringo (OP, ED) \ TLC: Ringo \ Editing: LightArrowsEXE \ Timing: skiddiks \ TS: Shuuka  \ QC: bthen13 }
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
-Dialogue: 1,0:00:10.32,0:00:11.86,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H070C18&\blur0.5}Journal{\b1}
-Dialogue: 1,0:00:10.32,0:00:11.86,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H070C18&\blur0.5}Tanjirou Kamado{\b1}
-Dialogue: 0,0:00:10.32,0:00:11.86,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H5D7896&\blur1\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:00:11.86,0:00:11.90,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H090B19&\blur0.5}Journal{\b1}
-Dialogue: 1,0:00:11.86,0:00:11.90,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H090B19&\blur0.5}Tanjirou Kamado{\b1}
-Dialogue: 0,0:00:11.86,0:00:11.90,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H576D87&\blur1\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:00:11.90,0:00:11.95,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H090B15&\blur0.5}Journal{\b1}
-Dialogue: 1,0:00:11.90,0:00:11.95,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H090B15&\blur0.5}Tanjirou Kamado{\b1}
-Dialogue: 0,0:00:11.90,0:00:11.95,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H53667E&\blur1\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:00:11.95,0:00:11.99,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H0E0F1F&\blur0.5}Journal{\b1}
-Dialogue: 1,0:00:11.95,0:00:11.99,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H0E0F1F&\blur0.5}Tanjirou Kamado{\b1}
-Dialogue: 0,0:00:11.95,0:00:11.99,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H4D5F73&\blur1\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:00:11.99,0:00:12.03,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H080A13&\blur0.5}Journal{\b1}
-Dialogue: 1,0:00:11.99,0:00:12.03,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H080A13&\blur0.5}Tanjirou Kamado{\b1}
-Dialogue: 0,0:00:11.99,0:00:12.03,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H495A6C&\blur1\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:00:12.03,0:00:12.07,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H0B0E18&\blur0.5}Journal{\b1}
-Dialogue: 1,0:00:12.03,0:00:12.07,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H0B0E18&\blur0.5}Tanjirou Kamado{\b1}
-Dialogue: 0,0:00:12.03,0:00:12.07,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H445363&\blur1\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:00:12.07,0:00:12.11,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H0C0B15&\blur0.5}Journal{\b1}
-Dialogue: 1,0:00:12.07,0:00:12.11,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H0C0B15&\blur0.5}Tanjirou Kamado{\b1}
-Dialogue: 0,0:00:12.07,0:00:12.11,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H414C5A&\blur1\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:00:12.11,0:00:12.15,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H0B0D16&\blur0.5}Journal{\b1}
-Dialogue: 1,0:00:12.11,0:00:12.15,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H0B0D16&\blur0.5}Tanjirou Kamado{\b1}
-Dialogue: 0,0:00:12.11,0:00:12.15,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H3D4753&\blur1\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:00:12.15,0:00:12.20,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H0A0C15&\blur0.5}Journal{\b1}
-Dialogue: 1,0:00:12.15,0:00:12.20,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H0A0C15&\blur0.5}Tanjirou Kamado{\b1}
-Dialogue: 0,0:00:12.15,0:00:12.20,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H39414C&\blur1\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:00:12.20,0:00:12.24,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H090B12&\blur0.5}Journal{\b1}
-Dialogue: 1,0:00:12.20,0:00:12.24,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H090B12&\blur0.5}Tanjirou Kamado{\b1}
-Dialogue: 0,0:00:12.20,0:00:12.24,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H363C44&\blur1\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:00:12.24,0:00:12.28,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H0D0A0F&\blur0.5}Journal{\b1}
-Dialogue: 1,0:00:12.24,0:00:12.28,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H0D0A0F&\blur0.5}Tanjirou Kamado{\b1}
-Dialogue: 0,0:00:12.24,0:00:12.28,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H31353C&\blur1\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:00:12.28,0:00:12.32,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H0B0A0F&\blur0.5}Journal{\b1}
-Dialogue: 1,0:00:12.28,0:00:12.32,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H0B0A0F&\blur0.5}Tanjirou Kamado{\b1}
-Dialogue: 0,0:00:12.28,0:00:12.32,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H2E3136&\blur1\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:00:12.32,0:00:14.32,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H0A0B0E&\blur0.5}Journal{\b1}
-Dialogue: 1,0:00:12.32,0:00:14.32,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H0A0B0E&\blur0.5}Tanjirou Kamado{\b1}
-Dialogue: 0,0:00:12.32,0:00:14.32,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H2A2D2F&\blur1\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 10,0:00:28.88,0:00:30.09,Default,,0,0,0,,Let’s go.
 Comment: 0,0:02:03.97,0:02:03.97,Default,,0,0,0,,---------------------------------------------- [ PART A ] ----------------------------------------------
-Dialogue: 0,0:03:20.30,0:03:24.55,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,618.49)\fs104\blur8\t(0,1050,\fs100\blur1)}Sabito and Makomo
-Dialogue: 0,0:03:20.30,0:03:24.55,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,390)\fs94\blur8\t(0,1050,\fs88\blur1)}Episode
-Dialogue: 0,0:03:20.30,0:03:24.55,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,486)\fs148\blur8\t(0,1050,\fs140\blur1)}2
 Dialogue: 10,0:02:05.02,0:02:06.77,Default,,0,0,0,,The Demon Slayers.
 Dialogue: 10,0:02:06.77,0:02:09.85,Default,,0,0,0,,They number in the hundreds.
 Dialogue: 10,0:02:10.27,0:02:14.32,Default,,0,0,0,,It’s an organization unrecognized by the government,
-Dialogue: 10,0:02:14.82,0:02:19.86,Default,,0,0,0,,yet it has existed since ancient times, \Nand continues to hunt demons even to this day.
-Dialogue: 10,0:02:20.91,0:02:27.50,Default,,0,0,0,,However, their leader’s identity \Nremains shrouded in mystery.
+Dialogue: 10,0:02:14.82,0:02:19.86,Default,,0,0,0,,{\q2}yet it has existed since ancient times, \Nand continues to hunt demons even to this day.
+Dialogue: 10,0:02:20.91,0:02:27.50,Default,,0,0,0,,{\q2}However, their leader’s identity \Nremains shrouded in mystery.
 Dialogue: 10,0:02:28.29,0:02:29.50,Default,,0,0,0,,Demons.
 Dialogue: 10,0:02:30.00,0:02:32.42,Default,,0,0,0,,Their staple food are humans.
 Dialogue: 10,0:02:32.42,0:02:34.71,Default,,0,0,0,,They kill humans and feed on them.
 Dialogue: 10,0:02:35.21,0:02:38.63,Default,,0,0,0,,Their origin and first appearance are unknown.
-Dialogue: 10,0:02:38.63,0:02:43.43,Default,,0,0,0,,Their bodies carry immense strength,\N and their wounds mend in no time.
+Dialogue: 10,0:02:38.63,0:02:43.43,Default,,0,0,0,,{\q2}Their bodies carry immense strength,\N and their wounds mend in no time.
 Dialogue: 10,0:02:43.97,0:02:46.31,Default,,0,0,0,,Their mangled flesh regenerates,
 Dialogue: 10,0:02:46.31,0:02:49.69,Default,,0,0,0,,and their limbs can be regrown as well.
 Dialogue: 10,0:02:49.69,0:02:51.52,Default,,0,0,0,,Some demons have special abilities.
 Dialogue: 10,0:02:51.52,0:02:53.98,Default,,0,0,0,,A few can even shapeshift.
-Dialogue: 10,0:02:53.98,0:03:00.28,Default,,0,0,0,,The only way to kill them is with sunlight \Nor by beheading them with a special sword.
-Dialogue: 10,0:03:00.82,0:03:05.33,Default,,0,0,0,,The Demon Slayers battle \Nthe demons with their mortal bodies.
-Dialogue: 10,0:03:05.33,0:03:08.75,Default,,0,0,0,,Since they’re human,\N their wounds are slow to heal,
+Dialogue: 10,0:02:53.98,0:03:00.28,Default,,0,0,0,,{\q2}The only way to kill them is with sunlight \Nor by beheading them with a special sword.
+Dialogue: 10,0:03:00.82,0:03:05.33,Default,,0,0,0,,{\q2}The Demon Slayers battle the demons \Nwith their mortal bodies.
+Dialogue: 10,0:03:05.33,0:03:08.75,Default,,0,0,0,,{\q2}Since they’re human, \Ntheir wounds are slow to heal,
 Dialogue: 10,0:03:08.75,0:03:11.67,Default,,0,0,0,,and, once lost, their limbs don’t grow back.
 Dialogue: 10,0:03:12.08,0:03:14.46,Default,,0,0,0,,Yet, they continue to fight the demons
 Dialogue: 10,0:03:15.00,0:03:17.38,Default,,0,0,0,,in order to protect their fellow humans.
 Dialogue: 10,0:03:31.06,0:03:33.10,Default,,0,0,0,,I’m a mentor.
 Dialogue: 10,0:03:33.69,0:03:36.32,Default,,0,0,0,,I teach people in swordsmanship.
-Dialogue: 10,0:03:36.82,0:03:38.99,Default,,0,0,0,,There are as many mentors \Nas there are stars in the sky,
-Dialogue: 10,0:03:38.99,0:03:44.12,Default,,0,0,0,,and each of them teaches their disciples \Nin their own respective place and style.
+Dialogue: 10,0:03:36.82,0:03:38.99,Default,,0,0,0,,{\q2}There are as many mentors \Nas there are stars in the sky,
+Dialogue: 10,0:03:38.99,0:03:44.12,Default,,0,0,0,,{\q2}and each of them teaches their disciples \Nin their own respective place and style.
 Dialogue: 10,0:03:44.62,0:03:46.70,Default,,0,0,0,,To join the Demon Slayers,
-Dialogue: 10,0:03:46.70,0:03:52.87,Default,,0,0,0,,you must survive the Final Selection \Nprocess held on Mt. Fujikasane.
-Dialogue: 10,0:03:52.87,0:03:57.13,Default,,0,0,0,,Whether or not you may participate \Nin the Final Selection is up to me.
+Dialogue: 10,0:03:46.70,0:03:52.87,Default,,0,0,0,,{\q2}you must survive the Final Selection \Nprocess held on Mt. Fujikasane.
+Dialogue: 10,0:03:52.87,0:03:57.13,Default,,0,0,0,,{\q2}Whether or not you may participate \Nin the Final Selection is up to me.
 Dialogue: 10,0:03:58.59,0:04:02.88,Default,,0,0,0,,{\i1}Starting today, I’m going to keep a journal for Nezuko.
 Dialogue: 10,0:04:03.55,0:04:05.64,Default,,0,0,0,,{\i1}I’m descending the mountain again today.
-Dialogue: 10,0:04:06.26,0:04:09.97,Default,,0,0,0,,{\i1}I’m going to train my hardest \Nso I won’t die during the Final Selection.
+Dialogue: 10,0:04:06.26,0:04:09.97,Default,,0,0,0,,{\i1\q2}I’m going to train my hardest \Nso I won’t die during the Final Selection.
 Dialogue: 10,0:04:13.98,0:04:17.11,Default,,0,0,0,,{\i1}After descending the mountain day after day,
-Dialogue: 10,0:04:17.11,0:04:20.19,Default,,0,0,0,,{\i1}I’ve finally started to learn \Nhow to avoid most of the traps.
+Dialogue: 10,0:04:17.11,0:04:20.19,Default,,0,0,0,,{\i1\q2}I’ve finally started to learn \Nhow to avoid most of the traps.
 Dialogue: 10,0:04:20.86,0:04:23.03,Default,,0,0,0,,{\i1}Thanks to my strength and endurance training,
 Dialogue: 10,0:04:23.03,0:04:28.03,Default,,0,0,0,,{\i1}as well as my sense of smell vastly improving.
 Dialogue: 10,0:04:29.87,0:04:30.95,Default,,0,0,0,,{\i1}However...
@@ -130,7 +85,7 @@ Dialogue: 10,0:04:33.25,0:04:35.79,Default,,0,0,0,,{\i1}The traps keep getting m
 Dialogue: 10,0:04:36.96,0:04:39.25,Default,,0,0,0,,{\i1}At this point I’m convinced he’s trying to kill me.
 Dialogue: 10,0:04:51.68,0:04:54.60,Default,,0,0,0,,{\i1}Today I did the usual while carrying a sword.
 Dialogue: 10,0:04:55.02,0:04:56.98,Default,,0,0,0,,{\i1}It was a real pain!
-Dialogue: 10,0:05:00.78,0:05:04.78,Default,,0,0,0,,{\i1}No longer empty-handed, \NI kept getting caught in traps.
+Dialogue: 10,0:05:00.78,0:05:04.78,Default,,0,0,0,,{\i1\q2}No longer empty-handed, \NI kept getting caught in traps.
 Dialogue: 10,0:05:06.49,0:05:07.82,Default,,0,0,0,,Nine-hundred-ninety-one!
 Dialogue: 10,0:05:07.82,0:05:08.91,Default,,0,0,0,,{\an8}Nine-hundred-ninety-two!
 Dialogue: 10,0:05:08.91,0:05:10.08,Default,,0,0,0,,{\an8}Nine-hundred-ninety-three!
@@ -141,33 +96,33 @@ Dialogue: 10,0:05:13.29,0:05:14.54,Default,,0,0,0,,{\an8}Nine-hundred-ninety-sev
 Dialogue: 10,0:05:14.54,0:05:15.79,Default,,0,0,0,,{\an8}Nine-hundred-ninety-eight!
 Dialogue: 10,0:05:15.79,0:05:17.96,Default,,0,0,0,,{\an8}Nine-hundred-ninety-nine!
 Dialogue: 10,0:05:07.82,0:05:10.45,Default,,0,0,0,,{\i1}Today, I’m practicing sword swings.
-Dialogue: 10,0:05:10.45,0:05:14.33,Default,,0,0,0,,{\i1}Well, I say today, but I’ve been doing \Nthis pretty much every day recently.
-Dialogue: 10,0:05:14.33,0:05:17.96,Default,,0,0,0,,{\i1}After my daily routine, I practice swinging \Nmy sword until my arms nearly fall off.
+Dialogue: 10,0:05:10.45,0:05:14.33,Default,,0,0,0,,{\i1\q2}Well, I say today, but I’ve been doing \Nthis pretty much every day recently.
+Dialogue: 10,0:05:14.33,0:05:17.96,Default,,0,0,0,,{\i1\q2}After my daily routine, I practice swinging \Nmy sword until my arms nearly fall off.
 Dialogue: 10,0:05:17.96,0:05:19.21,Default,,0,0,0,,One thousand!
 Dialogue: 10,0:05:19.75,0:05:21.80,Default,,0,0,0,,Do five hundred more!
 Dialogue: 10,0:05:36.81,0:05:39.31,Default,,0,0,0,,Swords break easily.
 Dialogue: 10,0:05:39.73,0:05:42.32,Default,,0,0,0,,{\i1}That’s what he told me beforehand.
-Dialogue: 10,0:05:43.03,0:05:47.66,Default,,0,0,0,,{\i1}Vertically a sword is strong,\N but horizontally it’s fragile.
+Dialogue: 10,0:05:43.03,0:05:47.66,Default,,0,0,0,,{\i1\q2}Vertically a sword is strong,\N but horizontally it’s fragile.
 Dialogue: 10,0:05:49.07,0:05:52.83,Default,,0,0,0,,{\i1}You need to apply the force straight along the blade.
-Dialogue: 10,0:05:53.62,0:06:00.25,Default,,0,0,0,,{\i1}The blade’s direction and the direction \Nin which you apply the force need to be identical.
-Dialogue: 10,0:06:00.75,0:06:06.30,Default,,0,0,0,,{\i1}He also said that if the sword \Never breaks or gets damaged,
-Dialogue: 10,0:06:06.30,0:06:10.64,Default,,0,0,0,,{\i1}my bones would soon follow, \Nin a very intimidating tone of voice.{\Nin a very intimidating voice.}
+Dialogue: 10,0:05:53.62,0:06:00.25,Default,,0,0,0,,{\i1\q2}The blade’s direction and the direction \Nin which you apply the force need to be identical.
+Dialogue: 10,0:06:00.75,0:06:06.30,Default,,0,0,0,,{\i1\q2}He also said that if the sword \Never breaks or gets damaged,
+Dialogue: 10,0:06:06.30,0:06:10.64,Default,,0,0,0,,{\i1\q2}my bones would soon follow, \Nin a very intimidating tone of voice.
 Dialogue: 10,0:06:13.97,0:06:15.77,Default,,0,0,0,,Nezuko...
 Dialogue: 10,0:06:15.77,0:06:17.89,Default,,0,0,0,,I’ll keep working hard, okay?
 Dialogue: 10,0:06:33.87,0:06:36.12,Default,,0,0,0,,{\i1}Today, I did nothing but fall.
-Dialogue: 10,0:06:36.95,0:06:41.96,Default,,0,0,0,,{\i1}That is, I trained to break my fall properly \Nand get back up quickly in every situation.
+Dialogue: 10,0:06:36.95,0:06:41.96,Default,,0,0,0,,{\i1\q2}That is, I trained to break my fall properly \Nand get back up quickly no matter the situation.
 Dialogue: 10,0:06:42.79,0:06:44.09,Default,,0,0,0,,{\i1}I wield my sword,
-Dialogue: 10,0:06:44.71,0:06:47.34,Default,,0,0,0,,{\i1}and I charge at Master Urokodaki \Nwith full intent to kill.
+Dialogue: 10,0:06:44.71,0:06:47.34,Default,,0,0,0,,{\i1}and charge at Master Urokodaki with full intent to kill.
 Dialogue: 10,0:06:47.67,0:06:48.59,Default,,0,0,0,,{\i1}In contrast,
 Dialogue: 10,0:06:49.09,0:06:51.76,Default,,0,0,0,,{\i1}Master Urokodaki waits bare-handed and unarmed.
 Dialogue: 10,0:06:54.51,0:06:56.85,Default,,0,0,0,,{\i1}But he’s ridiculously strong!
-Dialogue: 10,0:06:57.31,0:07:01.35,Default,,0,0,0,,{\i1}Every time I get flung away,\N I struggle to break my fall.
+Dialogue: 10,0:06:57.31,0:07:01.35,Default,,0,0,0,,{\i1\q2}Every time I get flung away,\N I struggle to break my fall.
 Dialogue: 10,0:07:06.03,0:07:08.11,Default,,0,0,0,,I’m back, Nezuko.
-Dialogue: 10,0:07:18.04,0:07:22.12,Default,,0,0,0,,{\i1}Today I learned about breathing techniques \Nand a couple of stances.
+Dialogue: 10,0:07:18.04,0:07:22.12,Default,,0,0,0,,{\i1\q2}Today I learned about breathing techniques \Nand a couple of stances.
 Dialogue: 10,0:07:22.54,0:07:25.38,Default,,0,0,0,,Total Concentration Breathing?
 Dialogue: 10,0:07:25.75,0:07:27.17,Default,,0,0,0,,That’s right.
-Dialogue: 10,0:07:27.17,0:07:31.88,Default,,0,0,0,,And I’m going to teach you \Nall ten of the Water Breathing forms.
-Dialogue: 10,0:07:32.89,0:07:39.14,Default,,0,0,0,,Take a deep, long breath and feel \Nthe oxygen flowing into every cell in your body.
+Dialogue: 10,0:07:27.17,0:07:31.88,Default,,0,0,0,,{\q2}And I’m going to teach you \Nall ten of the Water Breathing forms.
+Dialogue: 10,0:07:32.89,0:07:39.14,Default,,0,0,0,,{\q2}Take a deep, long breath and feel \Nthe oxygen flowing into every cell in your body.
 Dialogue: 10,0:07:39.14,0:07:41.60,Default,,0,0,0,,This will enhance your body’s natural healing power,
 Dialogue: 10,0:07:41.60,0:07:44.98,Default,,0,0,0,,as well as stabilize and energize your spirit.
 Dialogue: 10,0:07:45.77,0:07:48.32,Default,,0,0,0,,Relax your upper body
@@ -189,8 +144,8 @@ Dialogue: 10,0:08:18.56,0:08:23.02,Default,,0,0,0,,{\i1}Next, he told me to beco
 Dialogue: 10,0:08:23.02,0:08:24.52,Default,,0,0,0,,Get in there!
 Dialogue: 10,0:08:30.23,0:08:34.53,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:08:38.83,0:08:44.54,Default,,0,0,0,,Nezuko! I am water!
-Dialogue: 10,0:08:46.21,0:08:51.09,Default,,0,0,0,,{\i1}Six months have passed since \NNezuko has entered her deep slumber.
-Dialogue: 10,0:08:52.26,0:08:55.80,Default,,0,0,0,,{\i1}Master Urokodaki summoned a doctor \Nright away and had her examined,
+Dialogue: 10,0:08:46.21,0:08:51.09,Default,,0,0,0,,{\i1\q2}Six months have passed since \NNezuko has entered her deep slumber.
+Dialogue: 10,0:08:52.26,0:08:55.80,Default,,0,0,0,,{\i1\q2}Master Urokodaki summoned a doctor \Nright away and had her examined,
 Dialogue: 10,0:08:55.80,0:08:57.22,Default,,0,0,0,,{\i1}but he couldn’t find anything wrong.
 Dialogue: 10,0:08:58.35,0:09:01.77,Default,,0,0,0,,{\i1}It’s not normal for her to stay asleep for so long.
 Dialogue: 10,0:09:06.65,0:09:08.11,Default,,0,0,0,,{\i1}I was scared.
@@ -201,25 +156,25 @@ Dialogue: 10,0:09:26.96,0:09:29.21,Default,,0,0,0,,{\i1}My descents keep getting
 Dialogue: 10,0:09:29.21,0:09:32.05,Default,,0,0,0,,{\i1}and the air’s even thinner where I train now.
 Dialogue: 10,0:09:38.55,0:09:41.85,Default,,0,0,0,,{\i1}Time and time again, I think I’m about to die.
 Dialogue: 10,0:09:58.95,0:10:01.66,Default,,0,0,0,,I have nothing more to teach you.
-Dialogue: 10,0:10:02.91,0:10:07.16,Default,,0,0,0,,{\i1}A year after I arrived at Mt. Sagiri, \Nwhat he told me came completely out of left field.
+Dialogue: 10,0:10:02.91,0:10:07.16,Default,,0,0,0,,{\i1\q2}A year after I arrived at Mt. Sagiri, \Nwhat he told me came completely out of left field.
 Dialogue: 10,0:10:08.71,0:10:10.96,Default,,0,0,0,,The rest is up to you!
-Dialogue: 10,0:10:10.96,0:10:14.92,Default,,0,0,0,,Will you be able to gain a true understanding \Nof what I’ve taught you?
+Dialogue: 10,0:10:10.96,0:10:14.92,Default,,0,0,0,,{\q2}Will you be able to gain a true understanding \Nof what I’ve taught you?
 Dialogue: 10,0:10:19.30,0:10:20.43,Default,,0,0,0,,Follow me.
 Dialogue: 10,0:10:38.78,0:10:40.99,Default,,0,0,0,,If you can slice through this boulder,
 Dialogue: 10,0:10:40.99,0:10:44.45,Default,,0,0,0,,I will allow you to enter the Final Selection.
 Dialogue: 10,0:10:49.04,0:10:50.46,Default,,0,0,0,,{\i1}Is a boulder
 Dialogue: 10,0:10:51.33,0:10:52.84,Default,,0,0,0,,{\i1}something you can slice?
-Dialogue: 10,0:10:53.50,0:10:55.46,Default,,0,0,0,,{\i1}Can a sword really slice through it?
+Dialogue: 10,0:10:53.50,0:10:55.46,Default,,0,0,0,,{\i1}Can a sword really cut through it?
 Dialogue: 10,0:10:56.42,0:10:58.05,Default,,0,0,0,,{\i1}I don’t think I can do it.
 Dialogue: 10,0:10:58.55,0:11:00.47,Default,,0,0,0,,{\i1}My sword would snap in half!
 Dialogue: 10,0:11:05.72,0:11:08.52,Default,,0,0,0,,Please wait!
 Dialogue: 10,0:11:08.52,0:11:10.23,Default,,0,0,0,,Master Urokodaki!
-Dialogue: 10,0:11:11.69,0:11:17.32,Default,,0,0,0,,{\i1}After that, Master Urokodaki \Nnever taught me anything again.
-Dialogue: 10,0:11:43.59,0:11:48.10,Default,,0,0,0,,{\i1}I would practice what I had learned from \NMaster Urokodaki over and over every single day.
-Dialogue: 10,0:11:55.36,0:11:57.27,Default,,0,0,0,,{\i1}Basics like holding my breath and being flexible.
+Dialogue: 10,0:11:11.69,0:11:17.32,Default,,0,0,0,,{\i1\q2}After that, Master Urokodaki \Nnever taught me anything again.
+Dialogue: 10,0:11:43.59,0:11:48.10,Default,,0,0,0,,{\i1\q2}I would practice what I had learned from \NMaster Urokodaki over and over every single day.
+Dialogue: 10,0:11:55.36,0:11:57.27,Default,,0,0,0,,{\i1}Basics like holding my breath and flexibility.
 Dialogue: 10,0:11:57.27,0:12:01.15,Default,,0,0,0,,{\i1}I’m glad I had written those down in my journal.
 Dialogue: 10,0:12:11.04,0:12:12.50,Default,,0,0,0,,{\i1}However...
-Dialogue: 10,0:12:12.50,0:12:16.04,Default,,0,0,0,,{\i1}even after six months had passed,\N I still couldn’t slice through that boulder.
+Dialogue: 10,0:12:12.50,0:12:16.04,Default,,0,0,0,,{\i1\q2}Even after six months had passed,\N I still couldn’t cut through that boulder.
 Dialogue: 10,0:12:16.75,0:12:18.42,Default,,0,0,0,,{\i1}I felt frustrated.
 Dialogue: 10,0:12:18.42,0:12:19.67,Default,,0,0,0,,{\i1}Not enough!
 Dialogue: 10,0:12:19.67,0:12:21.42,Default,,0,0,0,,{\i1}I wasn’t training hard enough!
@@ -236,53 +191,51 @@ Dialogue: 10,0:12:59.13,0:13:00.55,Default,,0,0,0,,{\i1}Where did he come from?
 Dialogue: 10,0:13:00.55,0:13:01.88,Default,,0,0,0,,{\i1}I can’t pick up his scent!
 Dialogue: 10,0:13:01.88,0:13:03.47,Default,,0,0,0,,{\i1}Is that a fox mask?
 Dialogue: 10,0:13:03.97,0:13:06.97,Default,,0,0,0,,No matter what hardships you meet, bear it in silence.
-Dialogue: 10,0:13:07.76,0:13:09.60,Default,,0,0,0,,Like a real man would.
+Dialogue: 10,0:13:07.76,0:13:09.60,Default,,0,0,0,,Like a real man.
 Dialogue: 10,0:13:11.52,0:13:13.81,Default,,0,0,0,,If you can even call yourself a man!
 Dialogue: 10,0:13:22.36,0:13:23.32,Default,,0,0,0,,Too slow.
 Dialogue: 10,0:13:23.32,0:13:24.70,Default,,0,0,0,,Too weak.
 Dialogue: 10,0:13:24.70,0:13:26.16,Default,,0,0,0,,Too immature.
-Dialogue: 10,0:13:27.53,0:13:30.33,Default,,0,0,0,,That’s not what you call a man.
-Dialogue: 0,0:13:32.00,0:13:36.00,Title Card Sign,,0,0,0,,{\pos(1547.613,882.554)\fscx100.46\fscy100.46\fs49\c&H090616&\blur0.53}Demon Slayer
+Dialogue: 10,0:13:27.53,0:13:30.33,Default,,0,0,0,,This isn’t what you’d call a man.
 Comment: 0,0:13:36.00,0:13:36.00,Default,,0,0,0,,---------------------------------------------- [ PART B ] ----------------------------------------------
-Dialogue: 0,0:13:36.00,0:13:40.00,Title Card Sign,,0,0,0,,{\fscx100.46\fscy100.46\fs47\c&H090616&\blur0.56\pos(1537.478,877.22)}Demon Slayer
 Dialogue: 10,0:13:42.09,0:13:43.92,Default,,0,0,0,,What are you doing?
 Dialogue: 10,0:13:44.47,0:13:47.43,Default,,0,0,0,,Do tell me, what do {\i1}you{\i0} think you’re doing?
 Dialogue: 10,0:13:47.72,0:13:49.14,Default,,0,0,0,,What do you mean?
 Dialogue: 10,0:13:49.14,0:13:50.64,Default,,0,0,0,,I’m training.
-Dialogue: 10,0:13:50.64,0:13:55.43,Default,,0,0,0,,How long does it take you to get your ass \Noff the ground and take a proper stance?
+Dialogue: 10,0:13:50.64,0:13:55.43,Default,,0,0,0,,{\q2}How long does it take you to get your ass \Noff the ground and take a proper stance?
 Dialogue: 10,0:13:59.40,0:14:01.94,Default,,0,0,0,,Now. Come at me.
-Dialogue: 10,0:14:02.44,0:14:06.32,Default,,0,0,0,,But you have a wooden sword, \Nand I have a real one.
+Dialogue: 10,0:14:02.44,0:14:06.32,Default,,0,0,0,,{\q2}But you have a wooden sword, \Nand I have a real one.
 Dialogue: 10,0:14:21.29,0:14:23.17,Default,,0,0,0,,Would you look at that!
 Dialogue: 10,0:14:23.17,0:14:26.63,Default,,0,0,0,,Why, thank you for worrying about me.
-Dialogue: 10,0:14:26.63,0:14:30.72,Default,,0,0,0,,So you think you’re actually able to graze me?
+Dialogue: 10,0:14:26.63,0:14:30.72,Default,,0,0,0,,So you think you can actually graze me?
 Dialogue: 10,0:14:33.26,0:14:35.81,Default,,0,0,0,,You have absolutely nothing to be concerned about!
 Dialogue: 10,0:14:35.81,0:14:38.02,Default,,0,0,0,,I’m stronger than you!
-Dialogue: 10,0:14:38.02,0:14:40.19,Default,,0,0,0,,I’ve sliced through that boulder, after all!
-Dialogue: 10,0:14:40.65,0:14:42.19,Default,,0,0,0,,{\i1}He’s sliced through that boulder?
+Dialogue: 10,0:14:38.02,0:14:40.19,Default,,0,0,0,,I’ve cut through that boulder, after all!
+Dialogue: 10,0:14:40.65,0:14:42.19,Default,,0,0,0,,{\i1}He’s cut through that boulder?
 Dialogue: 10,0:14:59.58,0:15:02.04,Default,,0,0,0,,You’ve learned nothing.
 Dialogue: 10,0:15:02.04,0:15:04.38,Default,,0,0,0,,You haven’t mastered a single thing!
-Dialogue: 10,0:15:05.46,0:15:08.84,Default,,0,0,0,,The breathing technique Master Urokodaki \Ntaught you in particular...
+Dialogue: 10,0:15:05.46,0:15:08.84,Default,,0,0,0,,{\q2}Not even the breathing technique \NMaster Urokodaki taught you...
 Dialogue: 10,0:15:09.30,0:15:11.47,Default,,0,0,0,,Total Concentration Breathing.
 Dialogue: 10,0:15:12.68,0:15:14.51,Default,,0,0,0,,{\i1}He knows Master Urokodaki?
 Dialogue: 10,0:15:15.26,0:15:16.64,Default,,0,0,0,,{\i1}And even the breathing technique?
-Dialogue: 10,0:15:17.02,0:15:20.44,Default,,0,0,0,,All you did was memorize it. \NYou learned it as knowledge.
-Dialogue: 10,0:15:21.19,0:15:23.65,Default,,0,0,0,,Your body still has no understanding of it.
-Dialogue: 10,0:15:25.11,0:15:28.57,Default,,0,0,0,,What the hell have you been doing \Nfor the past year and a half?
+Dialogue: 10,0:15:17.02,0:15:20.44,Default,,0,0,0,,{\q2}All you did was memorize it. \NYou learned it as knowledge.
+Dialogue: 10,0:15:21.19,0:15:23.65,Default,,0,0,0,,Your body has yet to understand it.
+Dialogue: 10,0:15:25.11,0:15:28.57,Default,,0,0,0,,{\q2}What the hell have you been doing \Nfor the past year and a half?
 Dialogue: 10,0:15:30.90,0:15:33.74,Default,,0,0,0,,Carve it into your flesh!
 Dialogue: 10,0:15:34.62,0:15:35.33,Default,,0,0,0,,More!
 Dialogue: 10,0:15:35.78,0:15:36.95,Default,,0,0,0,,More!
 Dialogue: 10,0:15:36.95,0:15:37.79,Default,,0,0,0,,Even more!
-Dialogue: 10,0:15:38.12,0:15:43.21,Default,,0,0,0,,Make sure you’ll never forget the secrets \NMaster Urokodaki taught you!
+Dialogue: 10,0:15:38.12,0:15:43.21,Default,,0,0,0,,{\q2}Make sure you’ll never forget the secrets \NMaster Urokodaki taught you!
 Dialogue: 10,0:15:43.67,0:15:46.13,Default,,0,0,0,,Pound it into the marrow of your bones!
 Dialogue: 10,0:15:46.42,0:15:47.88,Default,,0,0,0,,I’m trying!
-Dialogue: 10,0:15:47.88,0:15:50.80,Default,,0,0,0,,I’ve been trying every single day, \Nwith everything I’ve got!
+Dialogue: 10,0:15:47.88,0:15:50.80,Default,,0,0,0,,I’ve been trying my best every single day!
 Dialogue: 10,0:15:51.30,0:15:53.93,Default,,0,0,0,,But I’m not making any headway!
-Dialogue: 10,0:15:54.26,0:15:57.85,Default,,0,0,0,,I just can’t go any further!
-Dialogue: 10,0:15:57.85,0:15:59.10,Default,,0,0,0,,Go further!
+Dialogue: 10,0:15:54.26,0:15:57.85,Default,,0,0,0,,I just can’t advance!
+Dialogue: 10,0:15:57.85,0:15:59.10,Default,,0,0,0,,Advance!
 Dialogue: 10,0:15:59.10,0:16:00.06,Default,,0,0,0,,If you’re a man!
 Dialogue: 10,0:16:00.48,0:16:02.19,Default,,0,0,0,,If you call yourself a man!
-Dialogue: 10,0:16:02.73,0:16:04.69,Default,,0,0,0,,There’s no other way but forward!
-Dialogue: 10,0:16:05.06,0:16:06.48,Default,,0,0,0,,Bring it on!
+Dialogue: 10,0:16:02.73,0:16:04.69,Default,,0,0,0,,The only choice you have is to advance!
+Dialogue: 10,0:16:05.06,0:16:06.48,Default,,0,0,0,,Come at me!
 Dialogue: 10,0:16:06.48,0:16:09.03,Default,,0,0,0,,Show me what you’re truly capable of!
 Dialogue: 10,0:16:26.59,0:16:28.34,Default,,0,0,0,,I’m leaving the rest to you.
 Dialogue: 10,0:16:41.31,0:16:42.77,Default,,0,0,0,,Are you okay?
@@ -297,29 +250,29 @@ Dialogue: 10,0:17:09.96,0:17:11.59,Default,,0,0,0,,{\i1}She’s so cute.
 Dialogue: 10,0:17:12.63,0:17:14.63,Default,,0,0,0,,Who are you?
 Dialogue: 10,0:17:16.51,0:17:19.64,Default,,0,0,0,,{\i1}That girl’s name was Makomo.
 Dialogue: 10,0:17:20.39,0:17:23.64,Default,,0,0,0,,{\i1}She told me the boy’s name was Sabito.
-Dialogue: 10,0:17:24.31,0:17:28.36,Default,,0,0,0,,{\i1}Makomo also started pointing out my shortcomings.
-Dialogue: 10,0:17:29.23,0:17:33.61,Default,,0,0,0,,{\i1}She corrected my unnecessary movements and bad habits.
-Dialogue: 10,0:17:34.82,0:17:40.33,Default,,0,0,0,,{\i1}But when I asked her, she refused to tell me \Nwhy she was helping me or where she came from.
-Dialogue: 10,0:17:41.99,0:17:46.12,Default,,0,0,0,,Both of us love Master Urokodaki very much.
+Dialogue: 10,0:17:24.31,0:17:28.36,Default,,0,0,0,,{\i1}Makomo started pointing out my shortcomings.
+Dialogue: 10,0:17:29.23,0:17:33.61,Default,,0,0,0,,{\i1\q2}She also corrected any unnecessary movements \Nand bad habits I’ve picked up over time.
+Dialogue: 10,0:17:34.82,0:17:40.33,Default,,0,0,0,,{\i1\q2}But when asked, she refused to tell me why \Nshe was helping me or where she came from.
+Dialogue: 10,0:17:41.99,0:17:46.12,Default,,0,0,0,,We both love Master Urokodaki a lot.
 Dialogue: 10,0:17:46.71,0:17:50.42,Default,,0,0,0,,{\i1}That was her pet phrase.
 Dialogue: 10,0:17:51.00,0:17:52.71,Default,,0,0,0,,{\i1}Sabito and Makomo weren’t siblings.
-Dialogue: 10,0:17:53.13,0:17:56.59,Default,,0,0,0,,{\i1}They used to be orphans until Master Urokodaki \Ntook them in and cared for them.
+Dialogue: 10,0:17:53.13,0:17:56.59,Default,,0,0,0,,{\i1\q2}They used to be orphans until Master Urokodaki \Ntook them in and cared for them.
 Dialogue: 10,0:17:57.26,0:18:01.05,Default,,0,0,0,,There are other children besides us.
 Dialogue: 10,0:18:01.05,0:18:03.39,Default,,0,0,0,,They’re always watching you, Tanjirou.
 Dialogue: 10,0:18:04.93,0:18:08.19,Default,,0,0,0,,{\i1}Makomo is a somewhat strange girl.
 Dialogue: 10,0:18:09.06,0:18:11.23,Default,,0,0,0,,{\i1}She speaks in such a fluffy, dreamy way.
 Dialogue: 10,0:18:12.48,0:18:14.99,Default,,0,0,0,,Total Concentration Breathing...
-Dialogue: 10,0:18:14.99,0:18:19.78,Default,,0,0,0,,It, like, accelerates your blood flow, \Nwhich makes your heart start racing.
+Dialogue: 10,0:18:14.99,0:18:19.78,Default,,0,0,0,,{\q2}It accelerates your blood flow, \Nwhich in turn makes your heart start racing.
 Dialogue: 10,0:18:20.16,0:18:23.62,Default,,0,0,0,,Your body starts becoming very hot,
 Dialogue: 10,0:18:23.62,0:18:26.71,Default,,0,0,0,,and you become as strong as a demon.
 Dialogue: 10,0:18:27.66,0:18:30.88,Default,,0,0,0,,The important thing is to expand your lung capacity.
 Dialogue: 10,0:18:31.59,0:18:35.05,Default,,0,0,0,,When you bring lots and lots of air into your blood,
 Dialogue: 10,0:18:35.34,0:18:37.67,Default,,0,0,0,,your blood starts getting excited.
-Dialogue: 10,0:18:37.67,0:18:42.05,Default,,0,0,0,,This makes your bones and muscles, like, \Nbecome all hot and you become a lot stronger.
+Dialogue: 10,0:18:37.67,0:18:42.05,Default,,0,0,0,,{\q2}This makes your bones and muscles, like, \Nbecome all hot and you become a lot stronger.
 Dialogue: 10,0:18:42.64,0:18:44.56,Default,,0,0,0,,{\i1}I don’t think I caught any of that.
 Dialogue: 10,0:18:45.47,0:18:47.60,Default,,0,0,0,,How can I do that?
 Dialogue: 10,0:18:50.85,0:18:52.98,Default,,0,0,0,,Train to death.
-Dialogue: 10,0:18:52.98,0:18:56.86,Default,,0,0,0,,At the end of the day, I don’t think \Nthere’s much else you can do.
+Dialogue: 10,0:18:52.98,0:18:56.86,Default,,0,0,0,,{\q2}At the end of the day, I don’t think \Nthere’s much else you can do.
 Dialogue: 10,0:19:00.16,0:19:03.53,Default,,0,0,0,,{\i1}Until my arms and legs were ready to fall off...
 Dialogue: 10,0:19:03.95,0:19:06.79,Default,,0,0,0,,{\i1}Until my lungs and heart were ready to burst...
 Dialogue: 10,0:19:07.45,0:19:08.87,Default,,0,0,0,,{\i1}I would swing my sword.
@@ -334,7 +287,7 @@ Dialogue: 10,0:19:47.20,0:19:49.04,Default,,0,0,0,,Today’s the day I win!
 Dialogue: 10,0:19:56.46,0:19:58.96,Default,,0,0,0,,{\i1}Head-on battles are simple.
 Dialogue: 10,0:19:59.42,0:20:02.88,Default,,0,0,0,,{\i1}Whoever’s faster and stronger wins.
 Dialogue: 10,0:20:15.90,0:20:18.02,Default,,0,0,0,,{\i1}The battle was over in an instant.
-Dialogue: 10,0:20:19.65,0:20:22.61,Default,,0,0,0,,{\i1}It was this day. For the first time, \Nright at this very moment,
+Dialogue: 10,0:20:19.65,0:20:22.61,Default,,0,0,0,,{\i1\q2}It was this day. For the first time, \Nright at this very moment,
 Dialogue: 10,0:20:22.61,0:20:25.78,Default,,0,0,0,,{\i1}my blade reached Sabito first.
 Dialogue: 10,0:20:36.59,0:20:38.17,Default,,0,0,0,,{\i1}When I had finally beaten him
 Dialogue: 10,0:20:38.96,0:20:40.42,Default,,0,0,0,,{\i1}Sabito was smiling.
@@ -347,103 +300,18 @@ Dialogue: 10,0:20:57.02,0:20:59.11,Default,,0,0,0,,Make sure you win, okay?
 Dialogue: 10,0:20:59.52,0:21:00.82,Default,,0,0,0,,Beat that guy, too.
 Dialogue: 10,0:21:07.70,0:21:08.95,Default,,0,0,0,,{\i1}The next thing I knew,
 Dialogue: 10,0:21:08.95,0:21:10.87,Default,,0,0,0,,{\i1}Sabito was gone.
-Dialogue: 10,0:21:13.71,0:21:16.67,Default,,0,0,0,,{\i1}And my sword, which I was sure \Nhad slashed Sabito’s mask,
-Dialogue: 10,0:21:24.38,0:21:27.39,Default,,0,0,0,,{\i1}had sliced through the boulder.
+Dialogue: 10,0:21:13.71,0:21:16.67,Default,,0,0,0,,{\i1\q2}And my sword, which I was sure \Nhad slashed Sabito’s mask,
+Dialogue: 10,0:21:24.38,0:21:27.39,Default,,0,0,0,,{\i1}had cut through the boulder.
 Comment: 0,0:22:59.94,0:22:59.94,Default,,0,0,0,,---------------------------------------------- [ OUTRO ] ----------------------------------------------
-Dialogue: 0,0:22:59.94,0:23:00.19,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx100.46\fscy100.46\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.19,0:23:00.23,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx100.46\fscy100.46\frz0.1\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.23,0:23:00.27,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx99.99\frz0.15\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.27,0:23:00.31,Title Card Sign,,0,0,0,,{\an3\pos(1148.48,495.42)\fscx99.99\frz0.15\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.31,0:23:00.35,Title Card Sign,,0,0,0,,{\an3\pos(1149.48,496.42)\fscx99.99\frz0.15\fnBrushStroke 35\fs82\b0\c&H29272E&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.35,0:23:00.40,Title Card Sign,,0,0,0,,{\an3\pos(1151.48,496.42)\frz0.15\fnBrushStroke 35\fs82\b0\c&H2B2A2E&\blur1.1}Demon Slayer
-Dialogue: 0,0:23:00.40,0:23:00.44,Title Card Sign,,0,0,0,,{\an3\pos(1155.48,496.42)\fscx99\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.44,0:23:00.48,Title Card Sign,,0,0,0,,{\an3\pos(1167.48,494.42)\fscx95\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.48,0:23:00.52,Title Card Sign,,0,0,0,,{\an3\pos(1207.41,490.38)\fscx95\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.52,0:23:00.56,Title Card Sign,,0,0,0,,{\an3\pos(1257.98,480.1)\fscx95\fscy102\frz1.65\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.56,0:23:00.60,Title Card Sign,,0,0,0,,{\an3\pos(1329.41,478.38)\fscx95\fscy102\frz1.65\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.60,0:23:00.65,Title Card Sign,,0,0,0,,{\an3\pos(1403.41,478.96)\fscx95\fscy102\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.65,0:23:00.69,Title Card Sign,,0,0,0,,{\an3\pos(1498.55,471.53)\fscx90.31\fscy96.96\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.69,0:23:00.73,Title Card Sign,,0,0,0,,{\an3\pos(1593.12,474.38)\fscx83\fscy96\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.73,0:23:00.77,Title Card Sign,,0,0,0,,{\an3\pos(1682.84,466.67)\fscx73\fscy92\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.77,0:23:00.81,Title Card Sign,,0,0,0,,{\an3\pos(1751.98,461.53)\fscx63\fscy98\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.81,0:23:00.85,Title Card Sign,,0,0,0,,{\an3\pos(1825.12,458.1)\fscx45\fscy99\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.85,0:23:00.90,Title Card Sign,,0,0,0,,{\an3\pos(1892.27,456.1)\fscx28\fscy109\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.90,0:23:00.94,Title Card Sign,,0,0,0,,{\an3\pos(2008.98,442.24)\fscx30\fscy79\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:01.02,0:23:01.06,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\c&HC6EBE0&\3c&HC3E2ED&\blur0.7\clip(m 1459 1 l 1496 94 1268 205 1155 71 1137 14)}PREVIEW
-Dialogue: 0,0:23:01.06,0:23:14.28,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\c&HC3E2ED&\3c&HC3E2ED&\blur0.7}PREVIEW
-Dialogue: 0,0:23:25.80,0:23:37.06,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\c&HC6EBE0&\3c&HC3E2ED&\blur0.7}PREVIEW
-Dialogue: 1,0:23:01.02,0:23:01.06,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\bord0\c&H385B51&\4a&HFF&\blur1\clip(m 1459 1 l 1496 94 1268 205 1155 71 1137 14)}PREVIEW
-Dialogue: 1,0:23:01.06,0:23:14.28,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\bord0\c&H385B51&\4a&HFF&\blur1}PREVIEW
-Dialogue: 1,0:23:25.80,0:23:37.06,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\bord0\c&H385B51&\4a&HFF&\blur1}PREVIEW
-Dialogue: 0,0:23:02.31,0:23:02.56,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6\clip(m 891 123 l 949 119 975 150 931 164 930 150 926 149 925 152 926 159 925 168 919 173 914 174 908 176 904 175 896 164 894 162 890 151 888 160 877 156 870 154 878 146 891 142 897 142 900 141 897 138 890 136 881 136)}Rustle
-Dialogue: 0,0:23:02.31,0:23:02.56,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5\clip(m 891 123 l 949 119 975 150 931 164 930 150 926 149 925 152 926 159 925 168 919 173 914 174 908 176 904 175 896 164 894 162 890 151 888 160 877 156 870 154 878 146 891 142 897 142 900 141 897 138 890 136 881 136)}Rustle
-Dialogue: 0,0:23:02.56,0:23:14.28,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6}Rustle
-Dialogue: 0,0:23:02.56,0:23:14.28,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5}Rustle
-Dialogue: 0,0:23:00.90,0:23:14.28,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6}Rustle
-Dialogue: 0,0:23:00.90,0:23:14.28,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5}Rustle
-Dialogue: 0,0:23:00.85,0:23:00.90,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6\clip(m 700 152 l 718 220 620 251 607 147)}Rustle
-Dialogue: 0,0:23:00.85,0:23:00.90,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5\clip(m 700 152 l 718 220 620 251 607 147)}Rustle
-Dialogue: 0,0:23:25.80,0:23:37.06,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6}Rustle
-Dialogue: 0,0:23:25.80,0:23:37.06,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5}Rustle
-Dialogue: 0,0:23:25.80,0:23:37.06,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6}Rustle
-Dialogue: 0,0:23:25.80,0:23:37.06,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5}Rustle
-Dialogue: 0,0:23:37.10,0:23:37.14,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord23\c&H000000&\3c&H080118&\1a&HFF&\blur6}To Be Continued
-Dialogue: 1,0:23:37.10,0:23:37.14,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur6}To Be Continued
-Dialogue: 2,0:23:37.10,0:23:37.14,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur6}To Be Continued
-Dialogue: 3,0:23:37.10,0:23:37.14,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\blur6}To Be Continued
-Dialogue: 0,0:23:37.14,0:23:37.18,To Be Continued Sign,,0,0,0,,{\pos(1056.77,943.08)\fs130\bord23\c&H000000&\3c&H080118&\1a&HFF&\blur3}To Be Continued
-Dialogue: 1,0:23:37.14,0:23:37.18,To Be Continued Sign,,0,0,0,,{\pos(1056.77,943.08)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur3}To Be Continued
-Dialogue: 2,0:23:37.14,0:23:37.18,To Be Continued Sign,,0,0,0,,{\pos(1056.77,943.08)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur3}To Be Continued
-Dialogue: 3,0:23:37.14,0:23:37.18,To Be Continued Sign,,0,0,0,,{\pos(1056.77,943.08)\fs130\blur3}To Be Continued
-Dialogue: 0,0:23:37.18,0:23:37.23,To Be Continued Sign,,0,0,0,,{\pos(1088.66,992.66)\fs130\bord23\c&H000000&\3c&H080118&\blur2.5}To Be Continued
-Dialogue: 1,0:23:37.18,0:23:37.23,To Be Continued Sign,,0,0,0,,{\pos(1088.66,992.66)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur2.5}To Be Continued
-Dialogue: 2,0:23:37.18,0:23:37.23,To Be Continued Sign,,0,0,0,,{\pos(1088.66,992.66)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur2.5}To Be Continued
-Dialogue: 3,0:23:37.18,0:23:37.23,To Be Continued Sign,,0,0,0,,{\pos(1088.66,992.66)\fs130\4a&HFF&\blur2.5}To Be Continued
-Dialogue: 0,0:23:37.23,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1063.05,971.58)\fs130\bord23\c&H000000&\3c&H080118&\blur2}To Be Continued
-Dialogue: 1,0:23:37.23,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1063.05,971.58)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur2}To Be Continued
-Dialogue: 2,0:23:37.23,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1063.05,971.58)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur2}To Be Continued
-Dialogue: 3,0:23:37.23,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1063.05,971.58)\fs130\4a&HFF&\blur2}To Be Continued
-Dialogue: 0,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1080.77,988.57)\fs130\bord23\c&H000000&\3c&H080118&\blur1}To Be Continued
-Dialogue: 1,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1080.77,988.57)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1080.77,988.57)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1080.77,988.57)\fs130\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{\pos(1073.07,975.02)\fs130\bord23\c&H000000&\3c&H080118&\blur1}To Be Continued
-Dialogue: 1,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{\pos(1073.07,975.02)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{\pos(1073.07,975.02)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{\pos(1073.07,975.02)\fs130\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{\pos(1074.12,992.65)\fs130\bord23\c&H000000&\3c&H080118&\blur1}To Be Continued
-Dialogue: 1,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{\pos(1074.12,992.65)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{\pos(1074.12,992.65)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{\pos(1074.12,992.65)\fs130\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{\pos(1076.94,978.19)\fs130\bord23\c&H000000&\3c&H080118&\blur1}To Be Continued
-Dialogue: 1,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{\pos(1076.94,978.19)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{\pos(1076.94,978.19)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{\pos(1076.94,978.19)\fs130\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.43,0:23:37.48,To Be Continued Sign,,0,0,0,,{\pos(1079.25,983.91)\fs130\bord23\c&H000000&\3c&H080118&\blur1}To Be Continued
-Dialogue: 1,0:23:37.43,0:23:37.48,To Be Continued Sign,,0,0,0,,{\pos(1079.25,983.91)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.43,0:23:37.48,To Be Continued Sign,,0,0,0,,{\pos(1079.25,983.91)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.43,0:23:37.48,To Be Continued Sign,,0,0,0,,{\pos(1079.25,983.91)\fs130\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.48,0:23:37.52,To Be Continued Sign,,0,0,0,,{\pos(1072.06,973.44)\fs130\bord23\c&H000000&\3c&H080118&\blur1}To Be Continued
-Dialogue: 1,0:23:37.48,0:23:37.52,To Be Continued Sign,,0,0,0,,{\pos(1072.06,973.44)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.48,0:23:37.52,To Be Continued Sign,,0,0,0,,{\pos(1072.06,973.44)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.48,0:23:37.52,To Be Continued Sign,,0,0,0,,{\pos(1072.06,973.44)\fs130\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{\pos(1077.08,981.86)\fs130\bord23\c&H000000&\3c&H080118&\blur1}To Be Continued
-Dialogue: 1,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{\pos(1077.08,981.86)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{\pos(1077.08,981.86)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{\pos(1077.08,981.86)\fs130\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.56,0:23:39.98,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\bord23\c&H000000&\3c&H080118&\blur1}To Be Continued
-Dialogue: 1,0:23:37.56,0:23:39.98,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.56,0:23:39.98,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.56,0:23:39.98,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\4a&HFF&\blur1}To Be Continued
 Dialogue: 10,0:23:04.61,0:23:06.74,Default,,0,0,0,,Yeah, I was shocked too!
 Dialogue: 10,0:23:06.74,0:23:08.82,Default,,0,0,0,,I can’t believe I cut through a boulder!
 Dialogue: 10,0:23:08.82,0:23:11.07,Default,,0,0,0,,I couldn’t have done it without Sabito and Makomo.
 Dialogue: 10,0:23:11.07,0:23:12.95,Default,,0,0,0,,I can’t thank them enough.
 Dialogue: 10,0:23:14.28,0:23:17.58,Default,,0,0,0,,Now, it’s time for a Taisho secret!
 Dialogue: 10,0:23:17.58,0:23:20.29,Default,,0,0,0,,Why does Master Urokodaki wear a mask?
-Dialogue: 10,0:23:20.29,0:23:25.80,Default,,0,0,0,,I heard that’s because demons used to \Nmake fun of his face for looking too kind.
+Dialogue: 10,0:23:20.29,0:23:25.80,Default,,0,0,0,,{\q2}I heard that’s because demons used to \Nmake fun of his face for looking too kind.
 Dialogue: 10,0:23:26.09,0:23:29.38,Default,,0,0,0,,Sabito, Makomo, and Master Urokodaki!
-Dialogue: 10,0:23:29.38,0:23:33.09,Default,,0,0,0,,I’ll continue doing my best \Nto turn Nezuko back into a human!
+Dialogue: 10,0:23:29.38,0:23:33.09,Default,,0,0,0,,{\q2}I’ll continue doing my best \Nto turn Nezuko back into a human!
 Dialogue: 10,0:23:34.35,0:23:37.06,Default,,0,0,0,,Next, Episode 4, “Final Selection”!
 Comment: 0,0:00:34.01,0:00:34.01,Default,,0,0,0,,---------------------------------------------- [     OP    ] ----------------------------------------------
 Comment: 0,0:00:35.05,0:00:41.47,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}tsuyoku nareru riyuu wo shitta
@@ -2922,3 +2790,134 @@ Dialogue: 0,0:22:06.59,0:22:06.68,ED1 - ROM,,0,0,0,,{\pos(1390,109.16)\fscx74\fs
 Dialogue: 0,0:22:06.63,0:22:06.72,ED1 - ROM,,0,0,0,,{\pos(1490,104.16)\fscx78\fscy78\frz83\bord6\c&H2B39F9&\3c&HFE8856&\4c&H454545&\1a&H3C&\2a&H3C&\3a&H3C&\4a&H3C&\blur12\fad(840,840)\q2\p1}m 0 0 l 5 1 9 6 16 9 21 4 25 -1 29 4 31 9 34 6 40 -3 42 -8 44 -13 44 -9 45 -7 40 -3 34 7 35 10 29 4 25 -1 24 7 16 9 9 10 4 4 0 2
 Dialogue: 0,0:22:06.68,0:22:06.76,ED1 - ROM,,0,0,0,,{\pos(1636,141.16)\fscx84\fscy84\frz195\bord6\c&H2B39F9&\3c&HFE8856&\4c&H454545&\1a&H3C&\2a&H3C&\3a&H3C&\4a&H3C&\blur12\fad(840,840)\q2\p1}m 0 0 l 4 -2 7 0 14 -17 16 -15 21 -14 28 -28 32 -33 34 -36 40 -25 42 -30 46 -34 46 -34 44 -25 40 -24 34 -36 37 -37 28 -24 21 -14 21 -16 14 -16 7 0 1 3 0 0
 Dialogue: 0,0:22:06.72,0:22:06.80,ED1 - ROM,,0,0,0,,{\pos(531,100.16)\fscx70\fscy70\frz290\bord6\c&H2B39F9&\3c&HFE8856&\4c&H454545&\1a&H3C&\2a&H3C&\3a&H3C&\4a&H3C&\blur12\fad(840,840)\q2\p1}m 0 0 l 2 -1 7 -5 15 -21 19 -20 23 -21 28 -14 33 -18 37 -15 41 0 46 -4 49 -2 49 -2 44 -9 41 0 37 -13 34 -17 28 -14 23 -21 22 -17 15 -21 7 -5 4 -2 0 0
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [     TS    ] ----------------------------------------------
+Dialogue: 1,0:00:10.32,0:00:11.86,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H070C18&\blur0.5}Journal{\b1}
+Dialogue: 1,0:00:10.32,0:00:11.86,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H070C18&\blur0.5}Tanjirou Kamado{\b1}
+Dialogue: 0,0:00:10.32,0:00:11.86,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H5D7896&\blur1\p1}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:00:11.86,0:00:11.90,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H090B19&\blur0.5}Journal{\b1}
+Dialogue: 1,0:00:11.86,0:00:11.90,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H090B19&\blur0.5}Tanjirou Kamado{\b1}
+Dialogue: 0,0:00:11.86,0:00:11.90,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H576D87&\blur1\p1}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:00:11.90,0:00:11.95,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H090B15&\blur0.5}Journal{\b1}
+Dialogue: 1,0:00:11.90,0:00:11.95,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H090B15&\blur0.5}Tanjirou Kamado{\b1}
+Dialogue: 0,0:00:11.90,0:00:11.95,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H53667E&\blur1\p1}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:00:11.95,0:00:11.99,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H0E0F1F&\blur0.5}Journal{\b1}
+Dialogue: 1,0:00:11.95,0:00:11.99,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H0E0F1F&\blur0.5}Tanjirou Kamado{\b1}
+Dialogue: 0,0:00:11.95,0:00:11.99,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H4D5F73&\blur1\p1}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:00:11.99,0:00:12.03,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H080A13&\blur0.5}Journal{\b1}
+Dialogue: 1,0:00:11.99,0:00:12.03,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H080A13&\blur0.5}Tanjirou Kamado{\b1}
+Dialogue: 0,0:00:11.99,0:00:12.03,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H495A6C&\blur1\p1}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:00:12.03,0:00:12.07,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H0B0E18&\blur0.5}Journal{\b1}
+Dialogue: 1,0:00:12.03,0:00:12.07,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H0B0E18&\blur0.5}Tanjirou Kamado{\b1}
+Dialogue: 0,0:00:12.03,0:00:12.07,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H445363&\blur1\p1}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:00:12.07,0:00:12.11,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H0C0B15&\blur0.5}Journal{\b1}
+Dialogue: 1,0:00:12.07,0:00:12.11,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H0C0B15&\blur0.5}Tanjirou Kamado{\b1}
+Dialogue: 0,0:00:12.07,0:00:12.11,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H414C5A&\blur1\p1}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:00:12.11,0:00:12.15,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H0B0D16&\blur0.5}Journal{\b1}
+Dialogue: 1,0:00:12.11,0:00:12.15,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H0B0D16&\blur0.5}Tanjirou Kamado{\b1}
+Dialogue: 0,0:00:12.11,0:00:12.15,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H3D4753&\blur1\p1}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:00:12.15,0:00:12.20,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H0A0C15&\blur0.5}Journal{\b1}
+Dialogue: 1,0:00:12.15,0:00:12.20,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H0A0C15&\blur0.5}Tanjirou Kamado{\b1}
+Dialogue: 0,0:00:12.15,0:00:12.20,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H39414C&\blur1\p1}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:00:12.20,0:00:12.24,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H090B12&\blur0.5}Journal{\b1}
+Dialogue: 1,0:00:12.20,0:00:12.24,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H090B12&\blur0.5}Tanjirou Kamado{\b1}
+Dialogue: 0,0:00:12.20,0:00:12.24,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H363C44&\blur1\p1}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:00:12.24,0:00:12.28,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H0D0A0F&\blur0.5}Journal{\b1}
+Dialogue: 1,0:00:12.24,0:00:12.28,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H0D0A0F&\blur0.5}Tanjirou Kamado{\b1}
+Dialogue: 0,0:00:12.24,0:00:12.28,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H31353C&\blur1\p1}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:00:12.28,0:00:12.32,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H0B0A0F&\blur0.5}Journal{\b1}
+Dialogue: 1,0:00:12.28,0:00:12.32,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H0B0A0F&\blur0.5}Tanjirou Kamado{\b1}
+Dialogue: 0,0:00:12.28,0:00:12.32,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H2E3136&\blur1\p1}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:00:12.32,0:00:14.32,Default,,0,0,0,,{\pos(914.762,-121.459)\org(1000,730)\frx10.88\fax0.04\fnFOT Manyo Gyosho Std Strp E\fs130\bord0\shad0\c&H0A0B0E&\blur0.5}Journal{\b1}
+Dialogue: 1,0:00:12.32,0:00:14.32,Default,,0,0,0,,{\pos(947.094,173.103)\org(946,343)\frz0.07\fry1.57\frx14.06\fnArturo Trial\fs25\b0\bord0\shad0\c&H0A0B0E&\blur0.5}Tanjirou Kamado{\b1}
+Dialogue: 0,0:00:12.32,0:00:14.32,Default,,0,0,0,,{\an5\pos(953.6,101.6)\org(924,431)\fscx400\frz-0.3\frx12.18\bord0\shad0\c&H2A2D2F&\blur1\p1}m 0 0 l 100 0 100 100 0 100
+Dialogue: 0,0:03:20.30,0:03:24.55,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,618.49)\fs104\blur8\t(0,1050,\fs100\blur1)}Sabito and Makomo
+Dialogue: 0,0:03:20.30,0:03:24.55,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,390)\fs94\blur8\t(0,1050,\fs88\blur1)}Episode
+Dialogue: 0,0:03:20.30,0:03:24.55,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,486)\fs148\blur8\t(0,1050,\fs140\blur1)}3
+Dialogue: 0,0:13:32.00,0:13:36.00,Title Card Sign,,0,0,0,,{\pos(1547.613,882.554)\fscx100.46\fscy100.46\fs49\c&H090616&\blur0.53}Demon Slayer
+Dialogue: 0,0:13:36.00,0:13:40.00,Title Card Sign,,0,0,0,,{\fscx100.46\fscy100.46\fs47\c&H090616&\blur0.56\pos(1537.478,877.22)}Demon Slayer
+Dialogue: 0,0:22:59.94,0:23:00.19,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx100.46\fscy100.46\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.19,0:23:00.23,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx100.46\fscy100.46\frz0.1\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.23,0:23:00.27,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx99.99\frz0.15\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.27,0:23:00.31,Title Card Sign,,0,0,0,,{\an3\pos(1148.48,495.42)\fscx99.99\frz0.15\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.31,0:23:00.35,Title Card Sign,,0,0,0,,{\an3\pos(1149.48,496.42)\fscx99.99\frz0.15\fnBrushStroke 35\fs82\b0\c&H29272E&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.35,0:23:00.40,Title Card Sign,,0,0,0,,{\an3\pos(1151.48,496.42)\frz0.15\fnBrushStroke 35\fs82\b0\c&H2B2A2E&\blur1.1}Demon Slayer
+Dialogue: 0,0:23:00.40,0:23:00.44,Title Card Sign,,0,0,0,,{\an3\pos(1155.48,496.42)\fscx99\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.44,0:23:00.48,Title Card Sign,,0,0,0,,{\an3\pos(1167.48,494.42)\fscx95\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.48,0:23:00.52,Title Card Sign,,0,0,0,,{\an3\pos(1207.41,490.38)\fscx95\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.52,0:23:00.56,Title Card Sign,,0,0,0,,{\an3\pos(1257.98,480.1)\fscx95\fscy102\frz1.65\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.56,0:23:00.60,Title Card Sign,,0,0,0,,{\an3\pos(1329.41,478.38)\fscx95\fscy102\frz1.65\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.60,0:23:00.65,Title Card Sign,,0,0,0,,{\an3\pos(1403.41,478.96)\fscx95\fscy102\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.65,0:23:00.69,Title Card Sign,,0,0,0,,{\an3\pos(1498.55,471.53)\fscx90.31\fscy96.96\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.69,0:23:00.73,Title Card Sign,,0,0,0,,{\an3\pos(1593.12,474.38)\fscx83\fscy96\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.73,0:23:00.77,Title Card Sign,,0,0,0,,{\an3\pos(1682.84,466.67)\fscx73\fscy92\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.77,0:23:00.81,Title Card Sign,,0,0,0,,{\an3\pos(1751.98,461.53)\fscx63\fscy98\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.81,0:23:00.85,Title Card Sign,,0,0,0,,{\an3\pos(1825.12,458.1)\fscx45\fscy99\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.85,0:23:00.90,Title Card Sign,,0,0,0,,{\an3\pos(1892.27,456.1)\fscx28\fscy109\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.90,0:23:00.94,Title Card Sign,,0,0,0,,{\an3\pos(2008.98,442.24)\fscx30\fscy79\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:01.02,0:23:01.06,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\c&HC6EBE0&\3c&HC3E2ED&\blur0.7\clip(m 1459 1 l 1496 94 1268 205 1155 71 1137 14)}PREVIEW
+Dialogue: 0,0:23:01.06,0:23:14.28,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\c&HC3E2ED&\3c&HC3E2ED&\blur0.7}PREVIEW
+Dialogue: 0,0:23:25.80,0:23:37.06,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\c&HC6EBE0&\3c&HC3E2ED&\blur0.7}PREVIEW
+Dialogue: 1,0:23:01.02,0:23:01.06,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\bord0\c&H385B51&\4a&HFF&\blur1\clip(m 1459 1 l 1496 94 1268 205 1155 71 1137 14)}PREVIEW
+Dialogue: 1,0:23:01.06,0:23:14.28,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\bord0\c&H385B51&\4a&HFF&\blur1}PREVIEW
+Dialogue: 1,0:23:25.80,0:23:37.06,Episode Preview Sign,,0,0,0,,{\pos(1484.8,95.6)\frz3.24\fs100\fsp5\bord0\c&H385B51&\4a&HFF&\blur1}PREVIEW
+Dialogue: 0,0:23:02.31,0:23:02.56,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6\clip(m 891 123 l 949 119 975 150 931 164 930 150 926 149 925 152 926 159 925 168 919 173 914 174 908 176 904 175 896 164 894 162 890 151 888 160 877 156 870 154 878 146 891 142 897 142 900 141 897 138 890 136 881 136)}Rustle
+Dialogue: 0,0:23:02.31,0:23:02.56,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5\clip(m 891 123 l 949 119 975 150 931 164 930 150 926 149 925 152 926 159 925 168 919 173 914 174 908 176 904 175 896 164 894 162 890 151 888 160 877 156 870 154 878 146 891 142 897 142 900 141 897 138 890 136 881 136)}Rustle
+Dialogue: 0,0:23:02.56,0:23:14.28,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6}Rustle
+Dialogue: 0,0:23:02.56,0:23:14.28,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5}Rustle
+Dialogue: 0,0:23:00.90,0:23:14.28,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6}Rustle
+Dialogue: 0,0:23:00.90,0:23:14.28,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5}Rustle
+Dialogue: 0,0:23:00.85,0:23:00.90,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6\clip(m 700 152 l 718 220 620 251 607 147)}Rustle
+Dialogue: 0,0:23:00.85,0:23:00.90,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5\clip(m 700 152 l 718 220 620 251 607 147)}Rustle
+Dialogue: 0,0:23:25.80,0:23:37.06,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6}Rustle
+Dialogue: 0,0:23:25.80,0:23:37.06,Episode Preview Sign 2,,0,0,0,,{\pos(912,169.33)\fscx90\fscy90\frz16.92\fs40\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5}Rustle
+Dialogue: 0,0:23:25.80,0:23:37.06,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\bord3\c&H4B4C4C&\3c&H3C5755&\3a&H15&\blur0.6}Rustle
+Dialogue: 0,0:23:25.80,0:23:37.06,Episode Preview Sign 2,,0,0,0,,{\pos(701.594,200.663)\fscx90\fscy90\frz19.46\fs42\c&HB8E2E7&\3a&H15&\4a&HFF&\blur0.5}Rustle
+Dialogue: 0,0:23:37.10,0:23:37.14,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord23\c&H000000&\3c&H080118&\1a&HFF&\blur6}To Be Continued
+Dialogue: 1,0:23:37.10,0:23:37.14,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur6}To Be Continued
+Dialogue: 2,0:23:37.10,0:23:37.14,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur6}To Be Continued
+Dialogue: 3,0:23:37.10,0:23:37.14,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\blur6}To Be Continued
+Dialogue: 0,0:23:37.14,0:23:37.18,To Be Continued Sign,,0,0,0,,{\pos(1056.77,943.08)\fs130\bord23\c&H000000&\3c&H080118&\1a&HFF&\blur3}To Be Continued
+Dialogue: 1,0:23:37.14,0:23:37.18,To Be Continued Sign,,0,0,0,,{\pos(1056.77,943.08)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur3}To Be Continued
+Dialogue: 2,0:23:37.14,0:23:37.18,To Be Continued Sign,,0,0,0,,{\pos(1056.77,943.08)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur3}To Be Continued
+Dialogue: 3,0:23:37.14,0:23:37.18,To Be Continued Sign,,0,0,0,,{\pos(1056.77,943.08)\fs130\blur3}To Be Continued
+Dialogue: 0,0:23:37.18,0:23:37.23,To Be Continued Sign,,0,0,0,,{\pos(1088.66,992.66)\fs130\bord23\c&H000000&\3c&H080118&\blur2.5}To Be Continued
+Dialogue: 1,0:23:37.18,0:23:37.23,To Be Continued Sign,,0,0,0,,{\pos(1088.66,992.66)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur2.5}To Be Continued
+Dialogue: 2,0:23:37.18,0:23:37.23,To Be Continued Sign,,0,0,0,,{\pos(1088.66,992.66)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur2.5}To Be Continued
+Dialogue: 3,0:23:37.18,0:23:37.23,To Be Continued Sign,,0,0,0,,{\pos(1088.66,992.66)\fs130\4a&HFF&\blur2.5}To Be Continued
+Dialogue: 0,0:23:37.23,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1063.05,971.58)\fs130\bord23\c&H000000&\3c&H080118&\blur2}To Be Continued
+Dialogue: 1,0:23:37.23,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1063.05,971.58)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur2}To Be Continued
+Dialogue: 2,0:23:37.23,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1063.05,971.58)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur2}To Be Continued
+Dialogue: 3,0:23:37.23,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1063.05,971.58)\fs130\4a&HFF&\blur2}To Be Continued
+Dialogue: 0,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1080.77,988.57)\fs130\bord23\c&H000000&\3c&H080118&\blur1}To Be Continued
+Dialogue: 1,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1080.77,988.57)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1080.77,988.57)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1080.77,988.57)\fs130\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{\pos(1073.07,975.02)\fs130\bord23\c&H000000&\3c&H080118&\blur1}To Be Continued
+Dialogue: 1,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{\pos(1073.07,975.02)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{\pos(1073.07,975.02)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{\pos(1073.07,975.02)\fs130\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{\pos(1074.12,992.65)\fs130\bord23\c&H000000&\3c&H080118&\blur1}To Be Continued
+Dialogue: 1,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{\pos(1074.12,992.65)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{\pos(1074.12,992.65)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{\pos(1074.12,992.65)\fs130\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{\pos(1076.94,978.19)\fs130\bord23\c&H000000&\3c&H080118&\blur1}To Be Continued
+Dialogue: 1,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{\pos(1076.94,978.19)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{\pos(1076.94,978.19)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{\pos(1076.94,978.19)\fs130\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.43,0:23:37.48,To Be Continued Sign,,0,0,0,,{\pos(1079.25,983.91)\fs130\bord23\c&H000000&\3c&H080118&\blur1}To Be Continued
+Dialogue: 1,0:23:37.43,0:23:37.48,To Be Continued Sign,,0,0,0,,{\pos(1079.25,983.91)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.43,0:23:37.48,To Be Continued Sign,,0,0,0,,{\pos(1079.25,983.91)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.43,0:23:37.48,To Be Continued Sign,,0,0,0,,{\pos(1079.25,983.91)\fs130\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.48,0:23:37.52,To Be Continued Sign,,0,0,0,,{\pos(1072.06,973.44)\fs130\bord23\c&H000000&\3c&H080118&\blur1}To Be Continued
+Dialogue: 1,0:23:37.48,0:23:37.52,To Be Continued Sign,,0,0,0,,{\pos(1072.06,973.44)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.48,0:23:37.52,To Be Continued Sign,,0,0,0,,{\pos(1072.06,973.44)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.48,0:23:37.52,To Be Continued Sign,,0,0,0,,{\pos(1072.06,973.44)\fs130\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{\pos(1077.08,981.86)\fs130\bord23\c&H000000&\3c&H080118&\blur1}To Be Continued
+Dialogue: 1,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{\pos(1077.08,981.86)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{\pos(1077.08,981.86)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{\pos(1077.08,981.86)\fs130\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.56,0:23:39.98,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\bord23\c&H000000&\3c&H080118&\blur1}To Be Continued
+Dialogue: 1,0:23:37.56,0:23:39.98,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.56,0:23:39.98,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.56,0:23:39.98,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\4a&HFF&\blur1}To Be Continued
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [    FIN   ] ----------------------------------------------
