@@ -218,7 +218,7 @@ Dialogue: 10,0:05:59.38,0:06:01.38,Default,,0,0,0,,{\i1}the fastest thrusting te
 Dialogue: 10,0:06:01.88,0:06:03.38,Default,,0,0,0,,{\i1}Total Concentration!
 Dialogue: 10,0:06:03.38,0:06:04.88,Default,,0,0,0,,{\i1}Water Breathing!
 Dialogue: 10,0:06:05.17,0:06:06.13,Default,,0,0,0,,{\i1}Seventh Form!
-Dialogue: 10,0:06:06.63,0:06:09.39,Default,,0,0,0,,{\i1}Droplet Ripple Thrust-curve!{Maybe droplet ripple? Makes it clearer it's a drop of something not a dropping}
+Dialogue: 10,0:06:06.63,0:06:09.39,Default,,0,0,0,,{\i1}Droplet Ripple Thrust-curve!{Maybe droplet ripple? Makes it clearer it’s a drop of something not a dropping}
 Dialogue: 10,0:06:12.43,0:06:17.85,Default,,0,0,0,,{\i1}Oh, so you thrust at the curve diagonally \Nto soften the temari’s blow.
 Dialogue: 10,0:06:18.89,0:06:19.90,Default,,0,0,0,,{\i1}However...
 Dialogue: 10,0:06:25.03,0:06:27.40,Default,,0,0,0,,{\i1}How can that temari move around like that?
@@ -326,7 +326,7 @@ Dialogue: 10,0:13:30.33,0:13:33.16,Default,,0,0,0,,If those two really are from 
 Dialogue: 10,0:13:33.16,0:13:37.92,Default,,0,0,0,,then they’re undeniably more formidable \Nthan any other demon you’ve slain up to this point!
 Dialogue: 10,0:13:37.92,0:13:38.88,Default,,0,0,0,,Right!
 Dialogue: 10,0:13:38.88,0:13:40.34,Default,,0,0,0,,Understood!
-Dialogue: 10,0:13:40.34,0:13:44.51,Default,,0,0,0,,Watch my back, don’t let my guard down for a second, undeniably... {this is weird, cause it sounds like he's telling him to watch his back. This is actually, "While paying close attention, without letting my guard down even a little bit, first I'll defea-"}{he's listing things Yushirou said and saying them out loud so he processes it or w/e}
+Dialogue: 10,0:13:40.34,0:13:44.51,Default,,0,0,0,,Watch my back, don’t let my guard down for a second, undeniably... {this is weird, cause it sounds like he’s telling him to watch his back. This is actually, "While paying close attention, without letting my guard down even a little bit, first I’ll defea-"}{he’s listing things Yushirou said and saying them out loud so he processes it or w/e}
 Dialogue: 10,0:13:44.51,0:13:45.42,Default,,0,0,0,,until now...
 Dialogue: 10,0:13:46.09,0:13:48.01,Default,,0,0,0,,Right! I’ll do my best!
 Dialogue: 10,0:13:48.68,0:13:49.85,Default,,0,0,0,,Lady Tamayo!
@@ -412,7 +412,7 @@ Dialogue: 10,0:20:21.53,0:20:24.03,Default,,0,0,0,,{\i1}Then use the footwork of
 Dialogue: 10,0:20:25.24,0:20:26.74,Default,,0,0,0,,{\i1}to close in on him!
 Dialogue: 10,0:20:31.71,0:20:32.87,Default,,0,0,0,,{\i1}Twist!
 Dialogue: 10,0:20:32.87,0:20:34.21,Default,,0,0,0,,{\i1}Envelope!
-Dialogue: 10,0:20:36.75,0:20:40.21,Default,,0,0,0,,{\i1}Flowing Maelstrom Spin! {Twisting Whirlpool-Flowing Water!} {## Alternative fun attack names: "Maelstrom Twist", "Rotating Maelstrom", "Maelstrom Spiral", "Water Coil", pick something.}{He says the flowing from before in additon to hwat you wrote here so I'd use it here. Also I think we had the attack before}
+Dialogue: 10,0:20:36.75,0:20:40.21,Default,,0,0,0,,{\i1}Flowing Maelstrom Spin! {Twisting Whirlpool-Flowing Water!} {## Alternative fun attack names: "Maelstrom Twist", "Rotating Maelstrom", "Maelstrom Spiral", "Water Coil", pick something.}{He says the flowing from before in additon to hwat you wrote here so I’d use it here. Also I think we had the attack before}
 Dialogue: 10,0:20:45.72,0:20:47.80,Default,,0,0,0,,{\i1}My sword feels so heavy!
 Dialogue: 10,0:20:48.81,0:20:50.60,Default,,0,0,0,,{\i1}But even so!
 Dialogue: 10,0:20:50.60,0:20:52.98,Default,,0,0,0,,{\i1}Modified Second Form!
@@ -460,7 +460,7 @@ Dialogue: 10,0:22:50.43,0:22:52.39,Default,,0,0,0,,Are you okay, Nezuko?
 Dialogue: 10,0:22:53.89,0:22:57.89,Default,,0,0,0,,Today’s Taisho secret is about those two demons!{, I have a Taisho secret for you about those demons!}
 Dialogue: 10,0:22:57.89,0:23:01.02,Default,,0,0,0,,Yahaba and Susamaru, those two demons, \Nmet for the first time today.
 Dialogue: 10,0:23:01.02,0:23:05.19,Default,,0,0,0,,I hear that they became friends \Nwhile chatting on their way here.
-Dialogue: 10,0:23:05.69,0:23:09.32,Default,,0,0,0,,I can't believe how much in sync \Nthey are when they only just met!{I can’t believe they’re already perfectly in sync \Nafter meeting each other so soon!}{how much in sync they are when they only just met!}
+Dialogue: 10,0:23:05.69,0:23:09.32,Default,,0,0,0,,I can’t believe how much in sync \Nthey are when they only just met!{I can’t believe they’re already perfectly in sync \Nafter meeting each other so soon!}{how much in sync they are when they only just met!}
 Dialogue: 10,0:23:09.32,0:23:11.36,Default,,0,0,0,,We can’t let them beat us!
 Dialogue: 10,0:23:11.36,0:23:13.87,Default,,0,0,0,,Nezuko, let’s practice our teamwork!
 Dialogue: 10,0:23:15.66,0:23:16.87,Default,,0,0,0,,First Form!

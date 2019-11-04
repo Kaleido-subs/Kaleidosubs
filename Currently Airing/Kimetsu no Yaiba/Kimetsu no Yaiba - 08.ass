@@ -21,8 +21,8 @@ Video File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 2734
-Active Line: 2999
+Scroll Position: 311
+Active Line: 337
 Video Position: 31810
 
 [V4+ Styles]
@@ -382,7 +382,7 @@ Dialogue: 10,0:15:04.25,0:15:06.12,Default,,0,0,0,,{\i1}I see.
 Dialogue: 10,0:15:06.12,0:15:10.92,Default,,0,0,0,,{\i1}So that’s why they don’t have \Nthe distinct smell of demons.{So, that’s why I’m not picking up that strange scent unique to demons from these two.}{The word he says to refer to the smell does seems to carry a negative connotation but I think it still works like this}
 Dialogue: 10,0:15:10.92,0:15:13.76,Default,,0,0,0,,{\i1}But they {\i0}do{\i1} need human blood after all.
 Dialogue: 10,0:15:14.59,0:15:17.27,Default,,0,0,0,,{\i1}If blood is all they need, then Nezuko...
-Dialogue: 10,0:15:17.85,0:15:21.40,Default,,0,0,0,,Yushiro can get by with even less blood.
+Dialogue: 10,0:15:17.85,0:15:21.40,Default,,0,0,0,,Yushirou can get by with even less blood.
 Dialogue: 10,0:15:21.40,0:15:24.02,Default,,0,0,0,,I’m the one who turned him into a demon.
 Dialogue: 10,0:15:25.06,0:15:26.65,Default,,0,0,0,,You did that?
 Dialogue: 10,0:15:26.65,0:15:27.65,Default,,0,0,0,,But...
@@ -390,13 +390,13 @@ Dialogue: 10,0:15:29.36,0:15:30.73,Default,,0,0,0,,You’re right.
 Dialogue: 10,0:15:31.29,0:15:35.99,Default,,0,0,0,,It is said that no one but Kibutsuji \Nholds the power to produce demons.{It’s generally held that no one but Kibutsuji can reproduce demons.}
 Dialogue: 10,0:15:35.99,0:15:38.08,Default,,0,0,0,,That’s basically correct.{That’s more or less accurate.}
 Dialogue: 10,0:15:39.13,0:15:41.21,Default,,0,0,0,,After more than 200 years,
-Dialogue: 10,0:15:41.21,0:15:45.00,Default,,0,0,0,,Yushiro is still the only one \NI was able to transform into a demon.{I was only able to transform Yushiro into a demon after all.}
+Dialogue: 10,0:15:41.21,0:15:45.00,Default,,0,0,0,,Yushirou is still the only one \NI was able to transform into a demon.{I was only able to transform Yushiro into a demon after all.}
 Dialogue: 10,0:15:47.46,0:15:48.30,Default,,0,0,0,,Two...
 Dialogue: 10,0:15:50.17,0:15:52.05,Default,,0,0,0,,Two hundred years...
-Dialogue: 10,0:15:52.05,0:15:57.36,Default,,0,0,0,,After more than two hundred years, \NYushiro’s the only one you were able to transform?{You were only able to transform Yushiro after more than 200 years?}
+Dialogue: 10,0:15:52.05,0:15:57.36,Default,,0,0,0,,After more than two hundred years, \NYushirou’s the only one you were able to transform?{You were only able to transform Yushiro after more than 200 years?}
 Dialogue: 10,0:15:57.36,0:15:59.18,Default,,0,0,0,,Just how old are you exactly, Miss Tamayo?{Exactly how old are you, Miss Tamayo?}
 Dialogue: 10,0:16:00.39,0:16:04.31,Default,,0,0,0,,Don’t ask a lady her age, you ill-mannered scoundrel!
-Dialogue: 10,0:16:04.31,0:16:05.57,Default,,0,0,0,,Yushiro!
+Dialogue: 10,0:16:04.31,0:16:05.57,Default,,0,0,0,,Yushirou!
 Dialogue: 10,0:16:05.57,0:16:08.32,Default,,0,0,0,,The next time you hit that boy, I’ll make you regret it!
 Dialogue: 10,0:16:09.15,0:16:10.32,Default,,0,0,0,,Yes, ma’am!
 Dialogue: 10,0:16:11.27,0:16:13.82,Default,,0,0,0,,{\i1}She’s beautiful even when she’s angry!
