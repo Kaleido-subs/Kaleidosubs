@@ -16,14 +16,13 @@ ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
 Last Style Storage: Default (1080p)
-Audio File: ../../../../Encoding Projects/[Kaleido-subs]/Currently Airing/Kimetsu no Yaiba/12/Yaiba12p (Premux).mkv
-Video File: ../../../../Encoding Projects/[Kaleido-subs]/Currently Airing/Kimetsu no Yaiba/12/Yaiba12p (Premux).mkv
+Audio File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Premux/YaibaBD_12 (Premux).mkv
+Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Premux/YaibaBD_12 (Premux).mkv
+Keyframes File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Premux/YaibaBD_12 (Premux)._keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 3153
-Active Line: 3154
-Video Position: 32060
+Active Line: 1
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,7 +37,7 @@ Style: OP1 - ENG C,WILD1 Toxia,56,&H00F9F8FB,&H00F9F8FB,&H00080619,&HA0000000,0,
 Style: OP1 - ENG D,WILD1 Toxia,56,&H001B2ABA,&H001B2ABA,&H00080619,&HA0000000,0,0,0,0,100,100,0.5,0,1,3,1.5,2,200,200,50,1
 Style: ED1 - ROM,Planewalker,70,&H00FDF8FF,&H000000FF,&H002B39F9,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,200,200,47,1
 Style: ED1 - ENG,Planewalker,70,&H00FDF8FF,&H000000FF,&H002B39F9,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1.5,2,30,30,47,1
-Style: Title Card Sign,Gandhi Sans,74,&H0002018D,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,200,200,56,1
+Style: Title Card Sign,BrushStroke 35,74,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,200,200,56,1
 Style: Episode Preview Sign,DK Longreach,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,0,2,10,10,10,1
 Style: Episode Preview Sign 2,DeathRattle BB,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: To Be Continued Sign,FOT Manyo Gyosho Std Strp E,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
@@ -48,175 +47,28 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Aniplex / Ringo (OP, ED) \ TLC: Ringo \ Editing: LightArrowsEXE \ Timing: skiddiks \ TS: bthen13  \ QC: torn }
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
 Dialogue: 10,0:00:01.68,0:00:03.39,Default,,0,0,0,,Here goes...
-Dialogue: 10,0:00:03.39,0:00:04.40,Default,,0,0,0,,Comin’...
-Dialogue: 10,0:00:04.85,0:00:06.40,Default,,0,0,0,,through!
+Dialogue: 10,0:00:03.39,0:00:06.40,Default,,0,0,0,,I’m comin’ through!
 Dialogue: 10,0:00:07.61,0:00:10.07,Default,,0,0,0,,Infuriating!
 Dialogue: 10,0:00:15.99,0:00:16.87,Default,,0,0,0,,Teruko!
 Dialogue: 10,0:00:16.87,0:00:18.28,Default,,0,0,0,,Hold onto the furniture!
 Dialogue: 10,0:00:20.20,0:00:22.04,Default,,0,0,0,,That’s a demon with supernatural abilities!
 Dialogue: 10,0:00:22.04,0:00:24.33,Default,,0,0,0,,Stop launching those reckless assaults!
 Comment: 0,0:01:57.01,0:01:57.01,Default,,0,0,0,,---------------------------------------------- [ PART A ] ----------------------------------------------
-Dialogue: 2,0:01:58.76,0:01:58.80,Title Card Sign,,0,0,0,,{\pos(1506.6,994.83)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HF8&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:58.76,0:01:58.80,Title Card Sign,,0,0,0,,{\pos(1506.6,1053.68)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HF8&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:58.80,0:01:58.84,Title Card Sign,,0,0,0,,{\pos(1504.49,993.63)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HF1&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:58.80,0:01:58.84,Title Card Sign,,0,0,0,,{\pos(1504.49,1052.48)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HF1&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:58.84,0:01:58.89,Title Card Sign,,0,0,0,,{\pos(1502.47,992.5)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HEB&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:58.84,0:01:58.89,Title Card Sign,,0,0,0,,{\pos(1502.47,1051.35)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HEB&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:58.89,0:01:58.93,Title Card Sign,,0,0,0,,{\pos(1500.49,991.39)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HE2&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:58.89,0:01:58.93,Title Card Sign,,0,0,0,,{\pos(1500.49,1050.24)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HE2&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:58.89,0:01:58.93,Title Card Sign,,0,0,0,,{\pos(1674.64,489.36)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HE2&\4a&HFF&\blur0.9\clip(m 1583 347 l 1606 427 1630 528 1419 576 1281 346)}Episode
-Dialogue: 2,0:01:58.93,0:01:58.97,Title Card Sign,,0,0,0,,{\pos(1498.59,990.32)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HDB&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:58.93,0:01:58.97,Title Card Sign,,0,0,0,,{\pos(1498.59,1049.17)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HDB&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:58.93,0:01:58.97,Title Card Sign,,0,0,0,,{\pos(1672.74,488.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HDB&\4a&HFF&\blur0.9\clip(m 1580 331 l 1593 390 1604 408 1604 440 1638 507 1372 560 1247 360)}Episode
-Dialogue: 2,0:01:58.93,0:01:58.97,Title Card Sign,,0,0,0,,{\pos(1675.46,553.8)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HDB&\4a&HFF&\blur1\clip(m 1617 454 l 1631 488 1651 524 1667 539 1713 531 1557 661 1495 464)}12
-Dialogue: 2,0:01:58.97,0:01:59.01,Title Card Sign,,0,0,0,,{\pos(1496.69,989.33)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HD5&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:58.97,0:01:59.01,Title Card Sign,,0,0,0,,{\pos(1496.69,1048.18)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HD5&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:58.97,0:01:59.01,Title Card Sign,,0,0,0,,{\pos(1670.84,487.3)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HD5&\4a&HFF&\blur0.9\clip(m 1585 355 l 1601 410 1647 512 1403 560 1289 350)}Episode
-Dialogue: 2,0:01:58.97,0:01:59.01,Title Card Sign,,0,0,0,,{\pos(1673.46,552.81)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HD5&\4a&HFF&\blur1\clip(m 1609 426 l 1631 470 1635 499 1673 531 1525 595 1455 469)}12
-Dialogue: 2,0:01:59.01,0:01:59.05,Title Card Sign,,0,0,0,,{\pos(1494.36,988.3)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HCE&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.01,0:01:59.05,Title Card Sign,,0,0,0,,{\pos(1494.36,1047.15)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HCE&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.01,0:01:59.05,Title Card Sign,,0,0,0,,{\pos(1668.51,486.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HCE&\4a&HFF&\blur0.9\clip(m 1579 350 l 1641 475 1412 562 1215 381)}Episode
-Dialogue: 2,0:01:59.01,0:01:59.05,Title Card Sign,,0,0,0,,{\pos(1671.14,551.79)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HCE&\4a&HFF&\blur1}12
-Dialogue: 2,0:01:59.05,0:01:59.09,Title Card Sign,,0,0,0,,{\pos(1492.54,987.54)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC7&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.05,0:01:59.09,Title Card Sign,,0,0,0,,{\pos(1492.54,1046.39)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC7&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.05,0:01:59.09,Title Card Sign,,0,0,0,,{\pos(1666.69,485.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC7&\4a&HFF&\blur0.9\clip(m 1567 331 l 1591 382 1620 426 1647 483 1449 528 1271 382)}Episode
-Dialogue: 2,0:01:59.05,0:01:59.09,Title Card Sign,,0,0,0,,{\pos(1670.41,551.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC7&\4a&HFF&\blur0.9}12
-Dialogue: 2,0:01:59.09,0:01:59.14,Title Card Sign,,0,0,0,,{\pos(1491.22,986.54)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC0&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.09,0:01:59.14,Title Card Sign,,0,0,0,,{\pos(1491.22,1045.39)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC0&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.09,0:01:59.14,Title Card Sign,,0,0,0,,{\pos(1665.37,484.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC0&\4a&HFF&\blur0.9\clip(m 1566 339 l 1628 443 1497 542 1335 421)}Episode
-Dialogue: 2,0:01:59.09,0:01:59.14,Title Card Sign,,0,0,0,,{\pos(1667.99,550.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HC0&\4a&HFF&\blur0.9}12
-Dialogue: 2,0:01:59.14,0:01:59.18,Title Card Sign,,0,0,0,,{\pos(1489.69,985.82)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB8&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.14,0:01:59.18,Title Card Sign,,0,0,0,,{\pos(1489.69,1044.67)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB8&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.14,0:01:59.18,Title Card Sign,,0,0,0,,{\pos(1663.84,483.79)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB8&\4a&HFF&\blur1\clip(m 1567 349 l 1609 426 1703 482 1492 582 1281 458)}Episode
-Dialogue: 2,0:01:59.14,0:01:59.18,Title Card Sign,,0,0,0,,{\pos(1666.46,549.4)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB8&\4a&HFF&\blur0.9}12
-Dialogue: 2,0:01:59.18,0:01:59.22,Title Card Sign,,0,0,0,,{\pos(1488.76,984.65)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB1&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.18,0:01:59.22,Title Card Sign,,0,0,0,,{\pos(1488.76,1043.5)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB1&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.18,0:01:59.22,Title Card Sign,,0,0,0,,{\pos(1662.91,482.63)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB1&\4a&HFF&\blur1.5\clip(m 1567 362 l 1606 427 1659 490 1478 566 1470 406)}Episode
-Dialogue: 2,0:01:59.18,0:01:59.22,Title Card Sign,,0,0,0,,{\pos(1665.54,548.14)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HB1&\4a&HFF&\blur1.6\clip(m 1599 504 l 1609 437 1635 480 1659 494 1596 574 1452 520)}12
-Dialogue: 2,0:01:59.22,0:01:59.26,Title Card Sign,,0,0,0,,{\pos(1487.72,983.42)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HAA&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.22,0:01:59.26,Title Card Sign,,0,0,0,,{\pos(1487.72,1042.27)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HAA&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.22,0:01:59.26,Title Card Sign,,0,0,0,,{\pos(1661.87,481.4)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HAA&\4a&HFF&\blur1.5\clip(m 1572 376 l 1633 485 1471 566 1486 376)}Episode
-Dialogue: 2,0:01:59.22,0:01:59.26,Title Card Sign,,0,0,0,,{\pos(1664.49,546.91)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HAA&\4a&HFF&\blur1.5\clip(m 1606 454 l 1635 488 1659 515 1595 605 1511 550)}12
-Dialogue: 2,0:01:59.26,0:01:59.30,Title Card Sign,,0,0,0,,{\pos(1486.41,982.6)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HA3&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.26,0:01:59.30,Title Card Sign,,0,0,0,,{\pos(1486.41,1041.45)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HA3&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.26,0:01:59.30,Title Card Sign,,0,0,0,,{\pos(1660.56,480.57)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HA3&\4a&HFF&\blur2\clip(m 1561 368 l 1638 507 1473 549 1383 421)}Episode
-Dialogue: 2,0:01:59.26,0:01:59.30,Title Card Sign,,0,0,0,,{\pos(1663.18,546.08)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&HA4&\4a&HFF&\blur1.5\clip(m 1607 455 l 1655 514 1553 581 1489 504)}12
-Dialogue: 2,0:01:59.30,0:01:59.34,Title Card Sign,,0,0,0,,{\pos(1485.17,981.54)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H9C&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.30,0:01:59.34,Title Card Sign,,0,0,0,,{\pos(1485.17,1040.39)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H9C&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.30,0:01:59.34,Title Card Sign,,0,0,0,,{\pos(1659.32,479.51)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H9C&\4a&HFF&\blur2\clip(m 1548 368 l 1625 483 1473 554 1353 432)}Episode
-Dialogue: 2,0:01:59.30,0:01:59.34,Title Card Sign,,0,0,0,,{\pos(1661.94,545.02)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H9C&\4a&HFF&\blur2\clip(m 1579 416 l 1625 491 1633 504 1656 595 1555 632 1483 507)}12
-Dialogue: 2,0:01:59.34,0:01:59.39,Title Card Sign,,0,0,0,,{\pos(1483.64,981)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H96&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.34,0:01:59.39,Title Card Sign,,0,0,0,,{\pos(1483.64,1039.85)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H96&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.34,0:01:59.39,Title Card Sign,,0,0,0,,{\pos(1657.79,478.97)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H96&\4a&HFF&\blur2\clip(m 1545 379 l 1603 472 1475 522 1487 392)}Episode
-Dialogue: 2,0:01:59.34,0:01:59.39,Title Card Sign,,0,0,0,,{\pos(1660.41,544.48)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H96&\4a&HFF&\blur2}12
-Dialogue: 2,0:01:59.39,0:01:59.43,Title Card Sign,,0,0,0,,{\pos(1482.48,980.52)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H8D&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.39,0:01:59.43,Title Card Sign,,0,0,0,,{\pos(1482.48,1039.37)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H8D&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.39,0:01:59.43,Title Card Sign,,0,0,0,,{\pos(1656.63,478.49)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H8D&\4a&HFF&\blur2\clip(m 1518 310 l 1524 355 1543 397 1577 451 1447 469 1407 374)}Episode
-Dialogue: 2,0:01:59.39,0:01:59.43,Title Card Sign,,0,0,0,,{\pos(1660.25,544)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H8D&\4a&HFF&\blur4}12
-Dialogue: 2,0:01:59.43,0:01:59.47,Title Card Sign,,0,0,0,,{\pos(1481.14,979.76)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H86&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.43,0:01:59.47,Title Card Sign,,0,0,0,,{\pos(1481.14,1038.61)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H86&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.43,0:01:59.47,Title Card Sign,,0,0,0,,{\pos(1655.29,477.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H86&\4a&HFF&\blur3\clip(m 1539 410 l 1556 429 1606 438 1563 499)}Episode
-Dialogue: 2,0:01:59.43,0:01:59.47,Title Card Sign,,0,0,0,,{\pos(1657.91,543.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H86&\4a&HFF&\blur4}12
-Dialogue: 2,0:01:59.47,0:01:59.51,Title Card Sign,,0,0,0,,{\pos(1480.09,979.16)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H80&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.47,0:01:59.51,Title Card Sign,,0,0,0,,{\pos(1480.09,1038.01)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H80&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.47,0:01:59.51,Title Card Sign,,0,0,0,,{\pos(1654.24,477.14)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H80&\4a&HFF&\blur5\clip(m 1532 413 l 1593 424 1630 413 1657 421 1700 458 1723 566 1563 587)}Episode
-Dialogue: 2,0:01:59.47,0:01:59.51,Title Card Sign,,0,0,0,,{\pos(1656.86,542.65)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H80&\4a&HFF&\blur4}12
-Dialogue: 2,0:01:59.51,0:01:59.55,Title Card Sign,,0,0,0,,{\pos(1479.37,979.16)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H79&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.51,0:01:59.55,Title Card Sign,,0,0,0,,{\pos(1479.37,1038.01)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H79&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.55,0:01:59.59,Title Card Sign,,0,0,0,,{\pos(1478.71,978.62)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H72&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.55,0:01:59.59,Title Card Sign,,0,0,0,,{\pos(1478.71,1037.47)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H72&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.59,0:01:59.64,Title Card Sign,,0,0,0,,{\pos(1478.18,978.22)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H6B&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.59,0:01:59.64,Title Card Sign,,0,0,0,,{\pos(1478.18,1037.07)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H6B&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.64,0:01:59.68,Title Card Sign,,0,0,0,,{\pos(1477.22,977.89)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H63&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.64,0:01:59.68,Title Card Sign,,0,0,0,,{\pos(1477.22,1036.74)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H63&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.68,0:01:59.72,Title Card Sign,,0,0,0,,{\pos(1476.64,977.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H5C&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.68,0:01:59.72,Title Card Sign,,0,0,0,,{\pos(1476.64,1036.49)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H5C&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.72,0:01:59.76,Title Card Sign,,0,0,0,,{\pos(1476.18,977.41)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H55&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.72,0:01:59.76,Title Card Sign,,0,0,0,,{\pos(1476.18,1036.26)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H55&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.76,0:01:59.80,Title Card Sign,,0,0,0,,{\pos(1475.59,977.27)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H4E&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.76,0:01:59.80,Title Card Sign,,0,0,0,,{\pos(1475.59,1036.12)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H4E&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.80,0:01:59.84,Title Card Sign,,0,0,0,,{\pos(1475.31,977.11)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H47&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.80,0:01:59.84,Title Card Sign,,0,0,0,,{\pos(1475.31,1035.96)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H47&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.84,0:01:59.89,Title Card Sign,,0,0,0,,{\pos(1474.97,976.86)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H41&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.84,0:01:59.89,Title Card Sign,,0,0,0,,{\pos(1474.97,1035.71)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H41&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.89,0:01:59.93,Title Card Sign,,0,0,0,,{\pos(1474.63,976.78)\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H38&\4a&HFF&\blur0.9\fscx130\fscy107\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.89,0:01:59.93,Title Card Sign,,0,0,0,,{\pos(1474.63,1035.63)\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H38&\4a&HFF&\blur0.9\fscx130\fscy107\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.89,0:01:59.93,Title Card Sign,,0,0,0,,{\pos(1648.78,474.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H38&\4a&HFF&\blur5\clip(m 1849 419 l 1764 403 1676 430 1627 464 1601 502 1681 549)}Episode
-Dialogue: 2,0:01:59.89,0:01:59.93,Title Card Sign,,0,0,0,,{\pos(1651.4,540.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H48&\4a&HFF&\blur6}12
-Dialogue: 2,0:01:59.93,0:01:59.97,Title Card Sign,,0,0,0,,{\pos(1474.48,976.73)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H31&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.93,0:01:59.97,Title Card Sign,,0,0,0,,{\pos(1474.48,1035.58)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H31&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.93,0:01:59.97,Title Card Sign,,0,0,0,,{\pos(1648.63,474.7)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H31&\4a&HFF&\blur6\clip(m 1772 365 l 1700 379 1647 403 1582 467 1572 515 1667 574)}Episode
-Dialogue: 2,0:01:59.93,0:01:59.97,Title Card Sign,,0,0,0,,{\pos(1651.25,540.21)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H41&\4a&HFF&\blur5}12
-Dialogue: 2,0:01:59.97,0:02:00.01,Title Card Sign,,0,0,0,,{\pos(1474.74,976.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H2B&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:01:59.97,0:02:00.01,Title Card Sign,,0,0,0,,{\pos(1474.74,1035.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H2B&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:01:59.97,0:02:00.01,Title Card Sign,,0,0,0,,{\pos(1648.89,474.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H2B&\4a&HFF&\blur6\clip(m 1711 338 l 1663 354 1615 382 1596 402 1579 437 1558 469 1601 528 1714 582)}Episode
-Dialogue: 2,0:01:59.97,0:02:00.01,Title Card Sign,,0,0,0,,{\pos(1651.51,540.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H2B&\4a&HFF&\blur4}12
-Dialogue: 2,0:02:00.01,0:02:00.05,Title Card Sign,,0,0,0,,{\pos(1474.76,976.8)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H24&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:02:00.01,0:02:00.05,Title Card Sign,,0,0,0,,{\pos(1474.76,1035.65)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H24&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:02:00.01,0:02:00.05,Title Card Sign,,0,0,0,,{\pos(1648.91,474.78)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H24&\4a&HFF&\blur6}Episode
-Dialogue: 2,0:02:00.01,0:02:00.05,Title Card Sign,,0,0,0,,{\pos(1651.54,540.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H24&\4a&HFF&\blur6}12
-Dialogue: 2,0:02:00.05,0:02:00.09,Title Card Sign,,0,0,0,,{\pos(1474.76,976.8)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H1D&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:02:00.05,0:02:00.09,Title Card Sign,,0,0,0,,{\pos(1474.76,1035.65)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H1D&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:02:00.05,0:02:00.09,Title Card Sign,,0,0,0,,{\pos(1648.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H1D&\4a&HFF&\blur5}Episode
-Dialogue: 2,0:02:00.05,0:02:00.09,Title Card Sign,,0,0,0,,{\pos(1651.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H1D&\4a&HFF&\blur6}12
-Dialogue: 2,0:02:00.09,0:02:00.14,Title Card Sign,,0,0,0,,{\pos(1474.76,976.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H16&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:02:00.09,0:02:00.14,Title Card Sign,,0,0,0,,{\pos(1474.76,1035.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H16&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:02:00.09,0:02:00.14,Title Card Sign,,0,0,0,,{\pos(1648.91,474.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H16&\4a&HFF&\blur4.73}Episode
-Dialogue: 2,0:02:00.09,0:02:00.14,Title Card Sign,,0,0,0,,{\pos(1651.54,540.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H16&\4a&HFF&\blur5.67}12
-Dialogue: 2,0:02:00.14,0:02:00.18,Title Card Sign,,0,0,0,,{\pos(1474.76,976.78)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H0E&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:02:00.14,0:02:00.18,Title Card Sign,,0,0,0,,{\pos(1474.76,1035.63)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H0E&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:02:00.14,0:02:00.18,Title Card Sign,,0,0,0,,{\pos(1648.91,474.75)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H0E&\4a&HFF&\blur4.47}Episode
-Dialogue: 2,0:02:00.14,0:02:00.18,Title Card Sign,,0,0,0,,{\pos(1651.54,540.26)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H0E&\4a&HFF&\blur5.44}12
-Dialogue: 2,0:02:00.18,0:02:00.22,Title Card Sign,,0,0,0,,{\pos(1474.77,976.79)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H07&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:02:00.18,0:02:00.22,Title Card Sign,,0,0,0,,{\pos(1474.77,1035.64)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H07&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:02:00.18,0:02:00.22,Title Card Sign,,0,0,0,,{\pos(1648.92,474.76)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H07&\4a&HFF&\blur4.2}Episode
-Dialogue: 2,0:02:00.18,0:02:00.22,Title Card Sign,,0,0,0,,{\pos(1651.54,540.27)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H07&\4a&HFF&\blur5}12
-Dialogue: 2,0:02:00.22,0:02:00.30,Title Card Sign,,0,0,0,,{\pos(1474.77,976.76)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:02:00.22,0:02:00.30,Title Card Sign,,0,0,0,,{\pos(1474.77,1035.61)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:02:00.22,0:02:00.26,Title Card Sign,,0,0,0,,{\pos(1648.92,474.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.93}Episode
-Dialogue: 2,0:02:00.22,0:02:00.26,Title Card Sign,,0,0,0,,{\pos(1651.54,540.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.67}12
-Dialogue: 2,0:02:00.26,0:02:00.30,Title Card Sign,,0,0,0,,{\pos(1648.93,474.7)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.67}Episode
-Dialogue: 2,0:02:00.26,0:02:00.30,Title Card Sign,,0,0,0,,{\pos(1651.55,540.21)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.44}12
-Dialogue: 2,0:02:00.30,0:02:00.35,Title Card Sign,,0,0,0,,{\pos(1474.78,976.7)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:02:00.30,0:02:00.35,Title Card Sign,,0,0,0,,{\pos(1474.78,1035.55)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:02:00.30,0:02:00.35,Title Card Sign,,0,0,0,,{\pos(1648.93,474.68)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.4}Episode
-Dialogue: 2,0:02:00.30,0:02:00.35,Title Card Sign,,0,0,0,,{\pos(1651.55,540.19)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4}12
-Dialogue: 2,0:02:00.35,0:02:00.39,Title Card Sign,,0,0,0,,{\pos(1648.92,474.74)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur3.13}Episode
-Dialogue: 2,0:02:00.35,0:02:00.39,Title Card Sign,,0,0,0,,{\pos(1651.54,540.25)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.67}12
-Dialogue: 2,0:02:00.35,0:02:01.39,Title Card Sign,,0,0,0,,{\pos(1474.77,976.77)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:02:00.35,0:02:01.39,Title Card Sign,,0,0,0,,{\pos(1474.77,1035.62)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
-Dialogue: 2,0:02:00.39,0:02:00.47,Title Card Sign,,0,0,0,,{\pos(1648.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.87}Episode
-Dialogue: 2,0:02:00.39,0:02:00.43,Title Card Sign,,0,0,0,,{\pos(1651.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4.44}12
-Dialogue: 2,0:02:00.43,0:02:00.47,Title Card Sign,,0,0,0,,{\pos(1651.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur4}12
-Dialogue: 2,0:02:00.47,0:02:00.51,Title Card Sign,,0,0,0,,{\pos(1648.91,474.78)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.33}Episode
-Dialogue: 2,0:02:00.47,0:02:00.51,Title Card Sign,,0,0,0,,{\pos(1651.54,540.29)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.67}12
-Dialogue: 2,0:02:00.51,0:02:00.55,Title Card Sign,,0,0,0,,{\pos(1648.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.07}Episode
-Dialogue: 2,0:02:00.51,0:02:00.55,Title Card Sign,,0,0,0,,{\pos(1651.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2.44}12
-Dialogue: 2,0:02:00.55,0:02:00.60,Title Card Sign,,0,0,0,,{\pos(1648.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.8}Episode
-Dialogue: 2,0:02:00.55,0:02:00.60,Title Card Sign,,0,0,0,,{\pos(1651.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2}12
-Dialogue: 2,0:02:00.60,0:02:00.64,Title Card Sign,,0,0,0,,{\pos(1648.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.53}Episode
-Dialogue: 2,0:02:00.60,0:02:00.64,Title Card Sign,,0,0,0,,{\pos(1651.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.67}12
-Dialogue: 2,0:02:00.64,0:02:00.68,Title Card Sign,,0,0,0,,{\pos(1648.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.27}Episode
-Dialogue: 2,0:02:00.64,0:02:00.68,Title Card Sign,,0,0,0,,{\pos(1651.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.44}12
-Dialogue: 2,0:02:00.68,0:02:03.01,Title Card Sign,,0,0,0,,{\pos(1648.91,474.77)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}Episode
-Dialogue: 2,0:02:00.68,0:02:03.01,Title Card Sign,,0,0,0,,{\pos(1651.54,540.28)\fscx91.72\fscy91.72\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}12
-Dialogue: 2,0:02:01.39,0:02:03.01,Title Card Sign,,0,0,0,,{\pos(1474.76,976.8)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55} The Boar Bares Its Fangs,
-Dialogue: 2,0:02:01.39,0:02:03.01,Title Card Sign,,0,0,0,,{\pos(1474.76,1035.65)\fscx130\fscy107\fnBrushStroke 35\b0\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur0.9\fs55}Zenitsu Sleeps
 Dialogue: 10,0:02:07.73,0:02:09.48,Default,,0,0,0,,Infuriating!
 Dialogue: 10,0:02:09.48,0:02:12.61,Default,,0,0,0,,You damn insects running amok in my house!
 Dialogue: 10,0:02:26.75,0:02:28.71,Default,,0,0,0,,The room freakin’ spun around!
-Dialogue: 10,0:02:28.71,0:02:32.21,Default,,0,0,0,,This is fun! This is fun!
+Dialogue: 10,0:02:28.71,0:02:32.21,Default,,0,0,0,,This is fun! I’m havin’ a blast!
 Dialogue: 10,0:02:35.21,0:02:37.72,Default,,0,0,0,,Don’t stomp all over her!
 Dialogue: 10,0:02:40.89,0:02:42.89,Default,,0,0,0,,Who the hell are you?
-Dialogue: 10,0:02:43.64,0:02:46.89,Default,,0,0,0,,What do you think you’re doing, \Nstepping on a little kid like that?
+Dialogue: 10,0:02:43.64,0:02:46.89,Default,,0,0,0,,{\q2}What do you think you’re doing, \Nstepping on a little kid like that?
 Dialogue: 10,0:02:49.44,0:02:51.40,Default,,0,0,0,,I like it!
 Dialogue: 10,0:02:51.40,0:02:55.27,Default,,0,0,0,,No human’s ever sent me flying like that before!
 Dialogue: 10,0:02:57.11,0:02:58.99,Default,,0,0,0,,{\i1}Why is he coming after me?
 Dialogue: 10,0:02:58.99,0:03:00.74,Default,,0,0,0,,{\i1}Isn’t he a Demon Slayer?
 Dialogue: 10,0:03:01.24,0:03:03.87,Default,,0,0,0,,My swords will hurt you.
-Dialogue: 10,0:03:03.87,0:03:07.45,Default,,0,0,0,,Because they’re not the kind of swords \Nyou little gentlemen use!
-Dialogue: 10,0:03:08.16,0:03:12.13,Default,,0,0,0,,The way they shred through flesh... \NI pride myself on that!
-Dialogue: 10,0:03:12.13,0:03:14.88,Default,,0,0,0,,Knock it off! There’s a demon right there, you know!
+Dialogue: 10,0:03:03.87,0:03:07.45,Default,,0,0,0,,{\q2}Because they’re not the kind of swords \Nyou little gentlemen use!
+Dialogue: 10,0:03:08.16,0:03:12.13,Default,,0,0,0,,{\q2}The way they shred through flesh... \NI pride myself on that!
+Dialogue: 10,0:03:12.13,0:03:14.88,Default,,0,0,0,,{\q2}Knock it off! There’s a demon \Nright there, you know!
 Dialogue: 10,0:03:15.17,0:03:16.80,Default,,0,0,0,,Like I care!
 Dialogue: 10,0:03:17.84,0:03:19.13,Default,,0,0,0,,Damn insects!
 Dialogue: 10,0:03:19.13,0:03:22.14,Default,,0,0,0,,Get out of my sight! Die!
@@ -231,11 +83,11 @@ Dialogue: 10,0:03:51.71,0:03:53.58,Default,,0,0,0,,{\i1}I’m starting to get th
 Dialogue: 10,0:03:59.88,0:04:01.63,Default,,0,0,0,,{\i1}We’re in yet another room?
 Dialogue: 10,0:04:02.30,0:04:04.30,Default,,0,0,0,,{\i1}But what does this mean?
 Dialogue: 10,0:04:04.30,0:04:07.18,Default,,0,0,0,,{\i1}That demon didn’t strike his drum just now.
-Dialogue: 10,0:04:07.93,0:04:11.18,Default,,0,0,0,,{\i1}I’m picking up the scent of multiple demons in this house.
+Dialogue: 10,0:04:07.93,0:04:11.18,Default,,0,0,0,,{\q2\i1}I’m picking up the scent of \Nmultiple demons in this house.
 Dialogue: 10,0:04:11.68,0:04:13.98,Default,,0,0,0,,{\i1}Is there another demon with a drum?
 Dialogue: 10,0:04:14.90,0:04:16.36,Default,,0,0,0,,{\i1}Is that why...
 Dialogue: 10,0:04:19.40,0:04:20.86,Default,,0,0,0,,{\i1}I can smell blood.
-Dialogue: 10,0:04:22.57,0:04:23.86,Default,,0,0,0,,Everything’s gonna be all right, okay?
+Dialogue: 10,0:04:22.57,0:04:23.86,Default,,0,0,0,,You’ll be fine, okay?
 Dialogue: 10,0:04:24.53,0:04:26.20,Default,,0,0,0,,Just stay behind me.
 Dialogue: 10,0:04:27.12,0:04:28.20,Default,,0,0,0,,Okay.
 Dialogue: 10,0:04:35.96,0:04:38.96,Default,,0,0,0,,{\i1}Another human ripped to shreds and devoured!
@@ -249,40 +101,39 @@ Dialogue: 10,0:04:58.65,0:05:02.19,Default,,0,0,0,,{\i1}A unique scent of blood 
 Dialogue: 10,0:05:03.03,0:05:05.15,Default,,0,0,0,,{\i1}Looks like there wasn’t that much bleeding.
 Dialogue: 10,0:05:35.94,0:05:38.23,Default,,0,0,0,,Excuse me, Zenitsu.
 Dialogue: 10,0:05:45.28,0:05:50.03,Default,,0,0,0,,G-G-G-Give me a signal first!
-Dialogue: 10,0:05:50.03,0:05:52.66,Default,,0,0,0,,If you have something to say, \Ndon’t do it out loud all of a sudden!
+Dialogue: 10,0:05:50.03,0:05:52.66,Default,,0,0,0,,{\q2}If you have something to say, \Ndon’t do it out loud suddenly!
 Dialogue: 10,0:05:52.66,0:05:56.50,Default,,0,0,0,,It feels like my heart missed a beat!
 Dialogue: 10,0:05:57.42,0:05:59.13,Default,,0,0,0,,I’m sorry.
-Dialogue: 10,0:05:59.13,0:06:03.67,Default,,0,0,0,,If that had come to pass, \Nthat would’ve made you a murderer for sure!
+Dialogue: 10,0:05:59.13,0:06:03.67,Default,,0,0,0,,{\q2}If that had come to pass, \Nyou would’ve become a murderer for sure!
 Dialogue: 10,0:06:03.67,0:06:04.55,Default,,0,0,0,,You get it?
 Dialogue: 10,0:06:05.05,0:06:07.05,Default,,0,0,0,,It’s just that... Well, you see...
-Dialogue: 10,0:06:07.05,0:06:10.14,Default,,0,0,0,,You’ve been sweating, gasping, \Nand shivering so horribly.
+Dialogue: 10,0:06:07.05,0:06:10.14,Default,,0,0,0,,{\q2}You’ve been sweating, gasping, \Nand shivering so horribly.
 Dialogue: 10,0:06:10.14,0:06:14.31,Default,,0,0,0,,What about it? Aren’t I doing the best I can here?
 Dialogue: 10,0:06:14.31,0:06:17.27,Default,,0,0,0,,Well, forgive me for saying so,
 Dialogue: 10,0:06:17.27,0:06:19.56,Default,,0,0,0,,but you’re making me nervous, too, so...
-Dialogue: 10,0:06:19.56,0:06:21.56,Default,,0,0,0,,Oh no! Sorry about that!
+Dialogue: 10,0:06:19.56,0:06:21.56,Default,,0,0,0,,Oh, no! Sorry about that!
 Dialogue: 10,0:06:22.27,0:06:24.11,Default,,0,0,0,,But even so!
 Dialogue: 10,0:06:24.11,0:06:27.82,Default,,0,0,0,,If we talk too much, those demons and all will...
 Dialogue: 10,0:06:27.82,0:06:29.45,Default,,0,0,0,,They might find us, right?
 Dialogue: 10,0:06:29.45,0:06:30.32,Default,,0,0,0,,That’s why...
-Dialogue: 10,0:06:30.62,0:06:34.87,Default,,0,0,0,,I think it would be best \Nto be as quiet as possible! Right?
+Dialogue: 10,0:06:30.62,0:06:34.87,Default,,0,0,0,,{\q2}I think it would be best \Nto be as quiet as possible! Right?
 Dialogue: 10,0:06:43.13,0:06:44.63,Default,,0,0,0,,A couple of kids.
 Dialogue: 10,0:06:44.63,0:06:47.09,Default,,0,0,0,,Probably most agreeable to the tongue.
 Dialogue: 10,0:06:47.88,0:06:49.68,Default,,0,0,0,,What did I tell you?
-Dialogue: 10,0:06:49.68,0:06:52.97,Default,,0,0,0,,A demon showed up! You got it? \NA demon showed up!
-Dialogue: 0,0:06:52.97,0:07:00.98,Title Card Sign,,0,0,0,,{\pos(1539.61,877.22)\fscx100.46\fscy100.46\fnBrushStroke 35\fs48\b0\c&H090415&\blur0.56}Demon Slayer
+Dialogue: 10,0:06:49.68,0:06:52.97,Default,,0,0,0,,{\q2}A demon showed up! You got it? \NA demon showed up!
 Comment: 0,0:06:56.97,0:06:56.97,Default,,0,0,0,,---------------------------------------------- [ PART B ] ----------------------------------------------
-Dialogue: 10,0:07:03.52,0:07:05.98,Default,,0,0,0,,Stay away! Stay away from us!
+Dialogue: 10,0:07:03.52,0:07:05.98,Default,,0,0,0,,Go away! Stay away from us!
 Dialogue: 10,0:07:05.98,0:07:08.40,Default,,0,0,0,,Stop that!
-Dialogue: 10,0:07:10.99,0:07:14.74,Default,,0,0,0,,W-W-We don’t taste good! I’m sure I taste awful!
+Dialogue: 10,0:07:11.07,0:07:14.74,Default,,0,0,0,,W-W-We don’t taste good! I’m sure I taste awful!
 Dialogue: 10,0:07:14.74,0:07:17.37,Default,,0,0,0,,I’m serious, okay? This kid’s all skin and bones,
 Dialogue: 10,0:07:17.37,0:07:20.33,Default,,0,0,0,,so he’s all dry and tastes ghastly!
 Dialogue: 10,0:07:22.12,0:07:25.17,Default,,0,0,0,,How will I know until I have a taste?
-Dialogue: 10,0:07:25.17,0:07:26.92,Default,,0,0,0,,Nooooo!
+Dialogue: 10,0:07:25.17,0:07:26.92,Default,,0,0,0,,No!
 Dialogue: 10,0:07:28.30,0:07:30.26,Default,,0,0,0,,What was that? He’s quick-tongued!
-Dialogue: 10,0:07:30.26,0:07:31.80,Default,,0,0,0,,Splitting a vase in two!
-Dialogue: 10,0:07:34.01,0:07:35.97,Default,,0,0,0,,That’s just not possible!
+Dialogue: 10,0:07:30.26,0:07:31.80,Default,,0,0,0,,Even able to split a vase in two!
+Dialogue: 10,0:07:34.01,0:07:35.97,Default,,0,0,0,,This can’t be real!
 Dialogue: 10,0:07:40.02,0:07:42.27,Default,,0,0,0,,Zenitsu! Get up!
-Dialogue: 10,0:07:43.06,0:07:46.65,Default,,0,0,0,,It’s in my knees now! \NEighty percent of my fear is in my knees!
+Dialogue: 10,0:07:43.06,0:07:46.65,Default,,0,0,0,,{\q2}It’s in my knees now! \NEighty percent of my fear is in my knees!
 Dialogue: 10,0:07:46.65,0:07:49.28,Default,,0,0,0,,This isn’t the time to whine!
 Dialogue: 10,0:07:50.65,0:07:52.57,Default,,0,0,0,,Just leave me behind, okay?
 Dialogue: 10,0:07:52.57,0:07:54.20,Default,,0,0,0,,Make a run for it!
@@ -291,7 +142,7 @@ Dialogue: 10,0:07:57.70,0:07:59.87,Default,,0,0,0,,{\i1}He’s such a good kid!
 Dialogue: 10,0:07:59.87,0:08:02.50,Default,,0,0,0,,{\i1}Staying here even though all I do is whimper!
 Dialogue: 10,0:08:03.29,0:08:05.29,Default,,0,0,0,,{\i1}I’ve got to find a way somehow!
 Dialogue: 10,0:08:05.75,0:08:08.92,Default,,0,0,0,,{\i1}If I don’t protect him, what will become of him?
-Dialogue: 10,0:08:08.92,0:08:11.80,Default,,0,0,0,,{\i1}Dying before he reaches double digits \Nwould be way too tragic!
+Dialogue: 10,0:08:08.92,0:08:11.80,Default,,0,0,0,,{\q2\i1}Dying before he reaches double digits \Nwould be way too tragic!
 Dialogue: 10,0:08:12.13,0:08:14.05,Default,,0,0,0,,{\i1}But I’m so horribly weak!
 Dialogue: 10,0:08:14.05,0:08:14.97,Default,,0,0,0,,Get up!
 Dialogue: 10,0:08:14.97,0:08:18.06,Default,,0,0,0,,{\i1}I don’t have the ability to protect him!
@@ -313,12 +164,12 @@ Dialogue: 10,0:09:53.78,0:09:55.44,Default,,0,0,0,,Thunderclap and Flash!
 Dialogue: 10,0:10:15.76,0:10:17.30,Default,,0,0,0,,He’s dead!
 Dialogue: 10,0:10:17.30,0:10:19.47,Default,,0,0,0,,He died all of a sudden!
 Dialogue: 10,0:10:19.47,0:10:21.97,Default,,0,0,0,,What the hell? I can’t take this anymore!
-Dialogue: 10,0:10:21.97,0:10:24.22,Default,,0,0,0,,What is this? What is this? Yuck!
+Dialogue: 10,0:10:21.97,0:10:24.22,Default,,0,0,0,,What is this? What the? Yuck!
 Dialogue: 10,0:10:27.98,0:10:30.15,Default,,0,0,0,,Shouichi...
 Dialogue: 10,0:10:30.15,0:10:31.73,Default,,0,0,0,,Don’t tell me...
 Dialogue: 10,0:10:32.77,0:10:35.48,Default,,0,0,0,,Thank you! You saved my life!
 Dialogue: 10,0:10:35.48,0:10:38.11,Default,,0,0,0,,I shall be eternally grateful to you for this!
-Dialogue: 10,0:10:38.11,0:10:42.32,Default,,0,0,0,,Why didn’t you tell me sooner \Nthat you were so powerful?
+Dialogue: 10,0:10:38.11,0:10:42.32,Default,,0,0,0,,{\q2}Why didn’t you tell me sooner \Nthat you were so powerful?
 Dialogue: 10,0:10:44.58,0:10:46.33,Default,,0,0,0,,What are you going on about?
 Dialogue: 10,0:10:47.62,0:10:48.83,Default,,0,0,0,,Did you say something?
 Dialogue: 10,0:10:50.33,0:10:51.33,Default,,0,0,0,,No.
@@ -329,189 +180,46 @@ Dialogue: 10,0:11:00.43,0:11:02.76,Default,,0,0,0,,Damn! He sent me flying again
 Dialogue: 10,0:11:03.18,0:11:06.77,Default,,0,0,0,,It’s been like this for the last three days, dammit!
 Dialogue: 10,0:11:06.77,0:11:10.52,Default,,0,0,0,,Making my way through a cramped building like this...
 Dialogue: 10,0:11:10.52,0:11:13.52,Default,,0,0,0,,It’s just not my thing for crying out loud!
-Dialogue: 10,0:11:21.20,0:11:22.41,Default,,0,0,0,,You dodged me.
+Dialogue: 10,0:11:21.20,0:11:22.41,Default,,0,0,0,,You dodged me, huh?
 Dialogue: 10,0:11:22.99,0:11:26.41,Default,,0,0,0,,You seem to be a pretty fresh human.
 Dialogue: 10,0:11:27.24,0:11:31.25,Default,,0,0,0,,Your flesh will be well worth gouging out!
 Dialogue: 10,0:11:36.30,0:11:39.01,Default,,0,0,0,,Self-taught! Beast Breathing!
 Dialogue: 10,0:11:39.55,0:11:43.34,Default,,0,0,0,,It’s gonna be so worth it to shred such a huge target!
 Dialogue: 10,0:11:44.64,0:11:48.27,Default,,0,0,0,,You’ve got guts to charge me head-on like that!
+Dialogue: 10,0:11:50.94,0:11:53.69,Default,,0,0,0,,Owie!
 Dialogue: 10,0:11:53.98,0:11:55.69,Default,,0,0,0,,Flaunt your corpse
 Dialogue: 10,0:11:55.69,0:11:57.82,Default,,0,0,0,,and serve as my springboard!
 Dialogue: 10,0:11:58.65,0:11:59.90,Default,,0,0,0,,Third Fang!
 Dialogue: 10,0:11:59.90,0:12:01.49,Default,,0,0,0,,Tear and Gorge!
-Dialogue: 10,0:12:09.08,0:12:12.29,Default,,0,0,0,,Comin’ through! Comin’ through!
+Dialogue: 10,0:12:09.08,0:12:12.29,Default,,0,0,0,,Comin’ through!
 Dialogue: 10,0:12:16.79,0:12:20.05,Default,,0,0,0,,Rareblood...
 Dialogue: 10,0:12:20.05,0:12:21.76,Default,,0,0,0,,If I can just consume some...
 Dialogue: 10,0:12:22.76,0:12:24.68,Default,,0,0,0,,Fifty...
-Dialogue: 10,0:12:24.68,0:12:26.72,Default,,0,0,0,,No, a hundred humans’ worth...
-Dialogue: 10,0:12:28.26,0:12:32.31,Default,,0,0,0,,I have to find more rareblood humans and consume them.
+Dialogue: 10,0:12:24.68,0:12:26.72,Default,,0,0,0,,No—A hundred humans’ worth...
+Dialogue: 10,0:12:28.26,0:12:32.31,Default,,0,0,0,,{\q2}I have to find more rareblood humans \Nand consume them.
 Dialogue: 10,0:12:32.31,0:12:33.81,Default,,0,0,0,,That way...
-Dialogue: 10,0:12:34.52,0:12:38.15,Default,,0,0,0,,I can reclaim my place among the Twelve Blood Moons!
-Dialogue: 0,0:12:34.14,0:12:34.27,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(963.11,487.78)\blur0.6\iclip(m 920 469 l 965 505 924 528 979 515 982 512 974 507 1029 468 1028 463 969 502 923 464)}Waning Six
-Dialogue: 0,0:12:34.27,0:12:34.35,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(978.11,482.37)\blur0.6\iclip(m 935 463.59 l 980 499.59 939 522.59 994 509.59 997 506.59 989 501.59 1044 462.59 1043 457.59 984 496.59 938 458.59)}Waning Six
-Dialogue: 0,0:12:34.35,0:12:34.40,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(978.01,482.37)\blur0.6\iclip(m 934.9 463.59 l 979.9 499.59 938.9 522.59 993.9 509.59 996.9 506.59 988.9 501.59 1043.9 462.59 1042.9 457.59 983.9 496.59 937.9 458.59)}Waning Six
-Dialogue: 0,0:12:34.40,0:12:34.44,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(973.53,476.35)\blur0.6\iclip(m 930.42 457.58 l 975.42 493.58 934.42 516.58 989.42 503.58 992.42 500.58 984.42 495.58 1039.42 456.58 1038.42 451.58 979.42 490.58 933.42 452.58)}Waning Six
-Dialogue: 0,0:12:34.44,0:12:34.48,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(973.43,476.38)\blur0.6\iclip(m 930.32 457.61 l 975.32 493.61 934.32 516.61 989.32 503.61 992.32 500.61 984.32 495.61 1039.32 456.61 1038.32 451.61 979.32 490.61 933.32 452.61)}Waning Six
-Dialogue: 0,0:12:34.48,0:12:34.52,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(973.33,476.41)\blur0.6\iclip(m 930.22 457.64 l 975.22 493.64 934.22 516.64 989.22 503.64 992.22 500.64 984.22 495.64 1039.22 456.64 1038.22 451.64 979.22 490.64 933.22 452.64)}Waning Six
-Dialogue: 0,0:12:34.52,0:12:34.56,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.86,471.85)\blur0.6\iclip(m 931 453 l 969 489 962 494 983 499 986 496 978 491 1038 455 1040 447 973 486 928 443)}Waning Six
-Dialogue: 0,0:12:34.56,0:12:34.60,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.77,471.86)\blur0.6\iclip(m 930.91 453.01 l 968.91 489.01 961.91 494.01 982.91 499.01 985.91 496.01 977.91 491.01 1037.91 455.01 1039.91 447.01 972.91 486.01 927.91 443.01)}Waning Six
-Dialogue: 0,0:12:34.60,0:12:34.65,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.67,471.87)\blur0.6\iclip(m 930.81 453.02 l 968.81 489.02 961.81 494.02 982.81 499.02 985.81 496.02 977.81 491.02 1037.81 455.02 1039.81 447.02 972.81 486.02 927.81 443.02)}Waning Six
-Dialogue: 0,0:12:34.65,0:12:34.69,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.58,471.88)\blur0.6\iclip(m 930.72 453.03 l 968.72 489.03 961.72 494.03 982.72 499.03 985.72 496.03 977.72 491.03 1037.72 455.03 1039.72 447.03 972.72 486.03 927.72 443.03)}Waning Six
-Dialogue: 0,0:12:34.69,0:12:34.73,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.49,471.91)\blur0.6\iclip(m 930.63 453.06 l 968.63 489.06 961.63 494.06 982.63 499.06 985.63 496.06 977.63 491.06 1037.63 455.06 1039.63 447.06 972.63 486.06 927.63 443.06)}Waning Six
-Dialogue: 0,0:12:34.73,0:12:34.77,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.42,472)\blur0.6\iclip(m 930.56 453.15 l 968.56 489.15 961.56 494.15 982.56 499.15 985.56 496.15 977.56 491.15 1037.56 455.15 1039.56 447.15 972.56 486.15 927.56 443.15)}Waning Six
-Dialogue: 0,0:12:34.77,0:12:34.81,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.36,472.13)\blur0.6\iclip(m 930.5 453.28 l 968.5 489.28 961.5 494.28 982.5 499.28 985.5 496.28 977.5 491.28 1037.5 455.28 1039.5 447.28 972.5 486.28 927.5 443.28)}Waning Six
-Dialogue: 0,0:12:34.81,0:12:34.85,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.27,472.22)\blur0.6\iclip(m 930.41 453.37 l 968.41 489.37 961.41 494.37 982.41 499.37 985.41 496.37 977.41 491.37 1037.41 455.37 1039.41 447.37 972.41 486.37 927.41 443.37)}Waning Six
-Dialogue: 0,0:12:34.85,0:12:34.90,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.26,472.44)\blur0.6\iclip(m 930.4 453.59 l 968.4 489.59 961.4 494.59 982.4 499.59 985.4 496.59 977.4 491.59 1037.4 455.59 1039.4 447.59 972.4 486.59 927.4 443.59)}Waning Six
-Dialogue: 0,0:12:34.90,0:12:34.94,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.26,472.69)\blur0.6\iclip(m 930.4 453.84 l 968.4 489.84 961.4 494.84 982.4 499.84 985.4 496.84 977.4 491.84 1037.4 455.84 1039.4 447.84 972.4 486.84 927.4 443.84)}Waning Six
-Dialogue: 0,0:12:34.94,0:12:34.98,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.26,472.95)\blur0.6\iclip(m 930.4 454.1 l 968.4 490.1 961.4 495.1 982.4 500.1 985.4 497.1 977.4 492.1 1037.4 456.1 1039.4 448.1 972.4 487.1 927.4 444.1)}Waning Six
-Dialogue: 0,0:12:34.98,0:12:35.02,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.26,473.2)\blur0.6\iclip(m 930.4 454.35 l 968.4 490.35 961.4 495.35 982.4 500.35 985.4 497.35 977.4 492.35 1037.4 456.35 1039.4 448.35 972.4 487.35 927.4 444.35)}Waning Six
-Dialogue: 0,0:12:35.02,0:12:35.06,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.41,473.59)\blur0.6\iclip(m 930.55 454.74 l 968.55 490.74 961.55 495.74 982.55 500.74 985.55 497.74 977.55 492.74 1037.55 456.74 1039.55 448.74 972.55 487.74 927.55 444.74)}Waning Six
-Dialogue: 0,0:12:35.06,0:12:35.10,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.49,473.95)\blur0.6\iclip(m 930.63 455.1 l 968.63 491.1 961.63 496.1 982.63 501.1 985.63 498.1 977.63 493.1 1037.63 457.1 1039.63 449.1 972.63 488.1 927.63 445.1)}Waning Six
-Dialogue: 0,0:12:35.10,0:12:35.15,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.73,474.44)\blur0.6\iclip(m 930.87 455.59 l 968.87 491.59 961.87 496.59 982.87 501.59 985.87 498.59 977.87 493.59 1037.87 457.59 1039.87 449.59 972.87 488.59 927.87 445.59)}Waning Six
-Dialogue: 0,0:12:35.15,0:12:35.19,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.98,474.95)\blur0.6\iclip(m 931.12 456.1 l 969.12 492.1 962.12 497.1 983.12 502.1 986.12 499.1 978.12 494.1 1038.12 458.1 1040.12 450.1 973.12 489.1 928.12 446.1)}Waning Six
-Dialogue: 0,0:12:35.19,0:12:35.23,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.25,475.47)\blur0.6\iclip(m 931.39 456.62 l 969.39 492.62 962.39 497.62 983.39 502.62 986.39 499.62 978.39 494.62 1038.39 458.62 1040.39 450.62 973.39 489.62 928.39 446.62)}Waning Six
-Dialogue: 0,0:12:35.23,0:12:35.27,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.58,475.95)\blur0.6\iclip(m 931.72 457.1 l 969.72 493.1 962.72 498.1 983.72 503.1 986.72 500.1 978.72 495.1 1038.72 459.1 1040.72 451.1 973.72 490.1 928.72 447.1)}Waning Six
-Dialogue: 0,0:12:35.27,0:12:35.31,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.67,476.3)\blur0.6\iclip(m 931.81 457.45 l 969.81 493.45 962.81 498.45 983.81 503.45 986.81 500.45 978.81 495.45 1038.81 459.45 1040.81 451.45 973.81 490.45 928.81 447.45)}Waning Six
-Dialogue: 0,0:12:35.31,0:12:35.35,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.86,476.69)\blur0.6\iclip(m 932 457.84 l 970 493.84 963 498.84 984 503.84 987 500.84 979 495.84 1039 459.84 1041 451.84 974 490.84 929 447.84)}Waning Six
-Dialogue: 0,0:12:35.35,0:12:35.40,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.9,476.89)\blur0.6\iclip(m 932.04 458.04 l 970.04 494.04 963.04 499.04 984.04 504.04 987.04 501.04 979.04 496.04 1039.04 460.04 1041.04 452.04 974.04 491.04 929.04 448.04)}Waning Six
-Dialogue: 0,0:12:35.40,0:12:35.44,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.95,477.04)\blur0.6\iclip(m 932.09 458.18 l 970.09 494.18 963.09 499.18 984.09 504.18 987.09 501.18 979.09 496.18 1039.09 460.18 1041.09 452.18 974.09 491.18 929.09 448.18)}Waning Six
-Dialogue: 0,0:12:35.44,0:12:35.48,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.89,477.12)\blur0.6\iclip(m 932.03 458.27 l 970.03 494.27 963.03 499.27 984.03 504.27 987.03 501.27 979.03 496.27 1039.03 460.27 1041.03 452.27 974.03 491.27 929.03 448.27)}Waning Six
-Dialogue: 0,0:12:35.48,0:12:35.52,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.83,477.13)\blur0.6\iclip(m 931.96 458.28 l 969.96 494.28 962.96 499.28 983.96 504.28 986.96 501.28 978.96 496.28 1038.96 460.28 1040.96 452.28 973.96 491.28 928.96 448.28)}Waning Six
-Dialogue: 0,0:12:35.52,0:12:35.56,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.72,477.1)\blur0.6\iclip(m 931.86 458.25 l 969.86 494.25 962.86 499.25 983.86 504.25 986.86 501.25 978.86 496.25 1038.86 460.25 1040.86 452.25 973.86 491.25 928.86 448.25)}Waning Six
-Dialogue: 0,0:12:35.56,0:12:35.60,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.55,477)\blur0.6\iclip(m 931.69 458.15 l 969.69 494.15 962.69 499.15 983.69 504.15 986.69 501.15 978.69 496.15 1038.69 460.15 1040.69 452.15 973.69 491.15 928.69 448.15)}Waning Six
-Dialogue: 0,0:12:35.60,0:12:35.65,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.4,476.93)\blur0.6\iclip(m 931.54 458.08 l 969.54 494.08 962.54 499.08 983.54 504.08 986.54 501.08 978.54 496.08 1038.54 460.08 1040.54 452.08 973.54 491.08 928.54 448.08)}Waning Six
-Dialogue: 0,0:12:35.65,0:12:35.69,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.22,476.72)\blur0.6\iclip(m 931.36 457.87 l 969.36 493.87 962.36 498.87 983.36 503.87 986.36 500.87 978.36 495.87 1038.36 459.87 1040.36 451.87 973.36 490.87 928.36 447.87)}Waning Six
-Dialogue: 0,0:12:35.69,0:12:35.73,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.04,476.57)\blur0.6\iclip(m 931.18 457.72 l 969.18 493.72 962.18 498.72 983.18 503.72 986.18 500.72 978.18 495.72 1038.18 459.72 1040.18 451.72 973.18 490.72 928.18 447.72)}Waning Six
-Dialogue: 0,0:12:35.73,0:12:35.77,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.82,476.31)\blur0.6\iclip(m 930.96 457.46 l 968.96 493.46 961.96 498.46 982.96 503.46 985.96 500.46 977.96 495.46 1037.96 459.46 1039.96 451.46 972.96 490.46 927.96 447.46)}Waning Six
-Dialogue: 0,0:12:35.77,0:12:35.81,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.62,476.06)\blur0.6\iclip(m 930.76 457.21 l 968.76 493.21 961.76 498.21 982.76 503.21 985.76 500.21 977.76 495.21 1037.75 459.21 1039.76 451.21 972.76 490.21 927.76 447.21)}Waning Six
-Dialogue: 0,0:12:35.81,0:12:35.85,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.41,475.78)\blur0.6\iclip(m 930.55 456.93 l 968.55 492.93 961.55 497.93 982.55 502.93 985.55 499.93 977.55 494.93 1037.55 458.93 1039.55 450.93 972.55 489.93 927.55 446.93)}Waning Six
-Dialogue: 0,0:12:35.85,0:12:35.90,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.2,475.51)\blur0.6\iclip(m 930.34 456.66 l 968.34 492.66 961.34 497.66 982.34 502.66 985.34 499.66 977.34 494.66 1037.34 458.66 1039.34 450.66 972.34 489.66 927.34 446.66)}Waning Six
-Dialogue: 0,0:12:35.90,0:12:35.94,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.01,475.24)\blur0.6\iclip(m 930.15 456.39 l 968.15 492.39 961.15 497.39 982.15 502.39 985.15 499.39 977.15 494.39 1037.15 458.39 1039.15 450.39 972.15 489.39 927.15 446.39)}Waning Six
-Dialogue: 0,0:12:35.94,0:12:35.98,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.8,474.95)\blur0.6\iclip(m 929.94 456.1 l 967.94 492.1 960.94 497.1 981.94 502.1 984.94 499.1 976.94 494.1 1036.94 458.1 1038.94 450.1 971.94 489.1 926.94 446.1)}Waning Six
-Dialogue: 0,0:12:35.98,0:12:36.02,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.66,474.7)\blur0.6\iclip(m 929.8 455.85 l 967.8 491.85 960.8 496.85 981.8 501.85 984.8 498.85 976.8 493.85 1036.8 457.85 1038.8 449.85 971.8 488.85 926.8 445.85)}Waning Six
-Dialogue: 0,0:12:36.02,0:12:36.06,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.5,474.44)\blur0.6\iclip(m 929.64 455.59 l 967.64 491.59 960.64 496.59 981.64 501.59 984.64 498.59 976.64 493.59 1036.64 457.59 1038.64 449.59 971.64 488.59 926.64 445.59)}Waning Six
-Dialogue: 0,0:12:36.06,0:12:36.11,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.42,474.25)\blur0.6\iclip(m 929.56 455.4 l 967.56 491.4 960.56 496.4 981.56 501.4 984.56 498.4 976.56 493.4 1036.56 457.4 1038.56 449.4 971.56 488.4 926.56 445.4)}Waning Six
-Dialogue: 0,0:12:36.11,0:12:36.15,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.24,473.99)\blur0.6\iclip(m 929.38 455.14 l 967.38 491.14 960.38 496.14 981.38 501.14 984.38 498.14 976.38 493.14 1036.38 457.14 1038.38 449.14 971.38 488.14 926.38 445.14)}Waning Six
-Dialogue: 0,0:12:36.15,0:12:36.19,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.19,473.83)\blur0.6\iclip(m 929.33 454.98 l 967.33 490.98 960.33 495.98 981.33 500.98 984.33 497.98 976.33 492.98 1036.33 456.98 1038.33 448.98 971.33 487.98 926.33 444.98)}Waning Six
-Dialogue: 0,0:12:36.19,0:12:36.23,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.17,473.66)\blur0.6\iclip(m 929.31 454.81 l 967.31 490.81 960.31 495.81 981.31 500.81 984.31 497.81 976.31 492.81 1036.31 456.81 1038.31 448.81 971.31 487.81 926.31 444.81)}Waning Six
-Dialogue: 0,0:12:36.23,0:12:36.27,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.18,473.58)\blur0.6\iclip(m 929.32 454.73 l 967.32 490.73 960.32 495.73 981.32 500.73 984.32 497.73 976.32 492.73 1036.32 456.73 1038.32 448.73 971.32 487.73 926.32 444.73)}Waning Six
-Dialogue: 0,0:12:36.27,0:12:36.31,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.2,473.55)\blur0.6\iclip(m 929.34 454.7 l 967.34 490.7 960.34 495.7 981.34 500.7 984.34 497.7 976.34 492.7 1036.34 456.7 1038.34 448.7 971.34 487.7 926.34 444.7)}Waning Six
-Dialogue: 0,0:12:36.31,0:12:36.36,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.28,473.55)\blur0.6\iclip(m 929.42 454.7 l 967.42 490.7 960.42 495.7 981.42 500.7 984.42 497.7 976.42 492.7 1036.42 456.7 1038.42 448.7 971.42 487.7 926.42 444.7)}Waning Six
-Dialogue: 0,0:12:36.36,0:12:36.40,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.41,473.59)\blur0.6\iclip(m 929.55 454.74 l 967.55 490.74 960.55 495.74 981.55 500.74 984.55 497.74 976.55 492.74 1036.55 456.74 1038.55 448.74 971.55 487.74 926.55 444.74)}Waning Six
-Dialogue: 0,0:12:36.40,0:12:36.44,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.55,473.69)\blur0.6\iclip(m 929.69 454.84 l 967.69 490.84 960.69 495.84 981.69 500.84 984.69 497.84 976.69 492.84 1036.69 456.84 1038.69 448.84 971.69 487.84 926.69 444.84)}Waning Six
-Dialogue: 0,0:12:36.44,0:12:36.48,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.8,473.93)\blur0.6\iclip(m 929.94 455.08 l 967.94 491.08 960.94 496.08 981.94 501.08 984.94 498.08 976.94 493.08 1036.94 457.08 1038.94 449.08 971.94 488.08 926.94 445.08)}Waning Six
-Dialogue: 0,0:12:36.48,0:12:36.52,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.06,474.18)\blur0.6\iclip(m 930.2 455.33 l 968.2 491.33 961.2 496.33 982.2 501.33 985.2 498.33 977.2 493.33 1037.2 457.33 1039.2 449.33 972.2 488.33 927.2 445.33)}Waning Six
-Dialogue: 0,0:12:36.52,0:12:36.56,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.42,474.51)\blur0.6\iclip(m 930.56 455.66 l 968.56 491.66 961.56 496.66 982.56 501.66 985.56 498.66 977.56 493.66 1037.56 457.66 1039.56 449.66 972.56 488.66 927.56 445.66)}Waning Six
-Dialogue: 0,0:12:36.56,0:12:36.61,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.79,474.93)\blur0.6\iclip(m 930.93 456.08 l 968.93 492.08 961.93 497.08 982.93 502.08 985.93 499.08 977.93 494.08 1037.93 458.08 1039.93 450.08 972.93 489.08 927.93 446.08)}Waning Six
-Dialogue: 0,0:12:36.61,0:12:36.65,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.21,475.5)\blur0.6\iclip(m 931.35 456.65 l 969.35 492.65 962.35 497.65 983.35 502.65 986.35 499.65 978.35 494.65 1038.35 458.65 1040.35 450.65 973.35 489.65 928.35 446.65)}Waning Six
-Dialogue: 0,0:12:36.65,0:12:36.69,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.62,476.07)\blur0.6\iclip(m 931.76 457.22 l 969.76 493.22 962.76 498.22 983.76 503.22 986.76 500.22 978.76 495.22 1038.75 459.22 1040.76 451.22 973.76 490.22 928.76 447.22)}Waning Six
-Dialogue: 0,0:12:36.69,0:12:36.73,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.88,476.67)\blur0.6\iclip(m 932.02 457.82 l 970.02 493.82 963.02 498.82 984.02 503.82 987.02 500.82 979.02 495.82 1039.02 459.82 1041.02 451.82 974.02 490.82 929.02 447.82)}Waning Six
-Dialogue: 0,0:12:36.73,0:12:36.77,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(969.1,477.18)\blur0.6\iclip(m 932.24 458.33 l 970.24 494.33 963.24 499.33 984.24 504.33 987.24 501.33 979.24 496.33 1039.24 460.33 1041.24 452.33 974.24 491.33 929.24 448.33)}Waning Six
-Dialogue: 0,0:12:36.77,0:12:36.81,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(969.2,477.74)\blur0.6\iclip(m 932.34 458.89 l 970.34 494.89 963.34 499.89 984.34 504.89 987.34 501.89 979.34 496.89 1039.34 460.89 1041.34 452.89 974.34 491.89 929.34 448.89)}Waning Six
-Dialogue: 0,0:12:36.81,0:12:36.86,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(969.21,478.24)\blur0.6\iclip(m 932.35 459.39 l 970.35 495.39 963.35 500.39 984.35 505.39 987.35 502.39 979.35 497.39 1039.35 461.39 1041.35 453.39 974.35 492.39 929.35 449.39)}Waning Six
-Dialogue: 0,0:12:36.86,0:12:36.90,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(969.21,478.73)\blur0.6\iclip(m 932.34 459.88 l 970.34 495.88 963.34 500.88 984.34 505.88 987.34 502.88 979.34 497.88 1039.34 461.88 1041.34 453.88 974.34 492.88 929.34 449.88)}Waning Six
-Dialogue: 0,0:12:36.90,0:12:36.94,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(969.07,479.18)\blur0.6\iclip(m 932.21 460.33 l 970.21 496.33 963.21 501.33 984.21 506.33 987.21 503.33 979.21 498.33 1039.21 462.33 1041.21 454.33 974.21 493.33 929.21 450.33)}Waning Six
-Dialogue: 0,0:12:36.94,0:12:36.98,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.9,479.62)\blur0.6\iclip(m 932.04 460.77 l 970.04 496.77 963.04 501.77 984.04 506.77 987.04 503.77 979.04 498.77 1039.04 462.77 1041.04 454.77 974.04 493.77 929.04 450.77)}Waning Six
-Dialogue: 0,0:12:36.98,0:12:37.02,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.67,480.02)\blur0.6\iclip(m 931.81 461.17 l 969.81 497.17 962.81 502.17 983.81 507.17 986.81 504.17 978.81 499.17 1038.81 463.17 1040.81 455.17 973.81 494.17 928.81 451.17)}Waning Six
-Dialogue: 0,0:12:37.02,0:12:37.06,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.42,480.45)\blur0.6\iclip(m 931.56 461.6 l 969.56 497.6 962.56 502.6 983.56 507.6 986.56 504.6 978.56 499.6 1038.56 463.6 1040.56 455.6 973.56 494.6 928.56 451.6)}Waning Six
-Dialogue: 0,0:12:37.06,0:12:37.11,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.14,480.74)\blur0.6\iclip(m 931.28 461.89 l 969.28 497.89 962.28 502.89 983.28 507.89 986.28 504.89 978.28 499.89 1038.28 463.89 1040.28 455.89 973.28 494.89 928.28 451.89)}Waning Six
-Dialogue: 0,0:12:37.11,0:12:37.15,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.86,481.03)\blur0.6\iclip(m 931 462.18 l 969 498.18 962 503.18 983 508.18 986 505.18 978 500.18 1038 464.18 1040 456.18 973 495.18 928 452.18)}Waning Six
-Dialogue: 0,0:12:37.15,0:12:37.19,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.5,481.33)\blur0.6\iclip(m 930.64 462.48 l 968.64 498.48 961.64 503.48 982.64 508.48 985.64 505.48 977.64 500.48 1037.64 464.48 1039.64 456.48 972.64 495.48 927.64 452.48)}Waning Six
-Dialogue: 0,0:12:37.19,0:12:37.23,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.16,481.61)\blur0.6\iclip(m 930.3 462.76 l 968.3 498.76 961.3 503.76 982.3 508.76 985.3 505.76 977.3 500.76 1037.3 464.76 1039.3 456.76 972.3 495.76 927.3 452.76)}Waning Six
-Dialogue: 0,0:12:37.23,0:12:37.27,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.8,481.76)\blur0.6\iclip(m 929.94 462.91 l 967.94 498.91 960.94 503.91 981.94 508.91 984.94 505.91 976.94 500.91 1036.94 464.91 1038.94 456.91 971.94 495.91 926.94 452.91)}Waning Six
-Dialogue: 0,0:12:37.27,0:12:37.31,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.43,481.96)\blur0.6\iclip(m 929.57 463.11 l 967.57 499.11 960.57 504.11 981.57 509.11 984.57 506.11 976.57 501.11 1036.57 465.11 1038.57 457.11 971.57 496.11 926.57 453.11)}Waning Six
-Dialogue: 0,0:12:37.31,0:12:37.36,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.1,482.06)\blur0.6\iclip(m 929.24 463.21 l 967.24 499.21 960.24 504.21 981.24 509.21 984.24 506.21 976.24 501.21 1036.24 465.21 1038.24 457.21 971.24 496.21 926.24 453.21)}Waning Six
-Dialogue: 0,0:12:37.36,0:12:37.40,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(965.72,482.19)\blur0.6\iclip(m 928.86 463.34 l 966.86 499.34 959.86 504.34 980.86 509.34 983.86 506.34 975.86 501.34 1035.86 465.34 1037.86 457.34 970.86 496.34 925.86 453.34)}Waning Six
-Dialogue: 0,0:12:37.40,0:12:37.44,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(965.41,482.28)\blur0.6\iclip(m 928.55 463.43 l 966.55 499.43 959.55 504.43 980.55 509.43 983.55 506.43 975.55 501.43 1035.55 465.43 1037.55 457.43 970.55 496.43 925.55 453.43)}Waning Six
-Dialogue: 0,0:12:37.44,0:12:37.48,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(965.13,482.35)\blur0.6\iclip(m 928.27 463.5 l 966.27 499.5 959.27 504.5 980.27 509.5 983.27 506.5 975.27 501.5 1035.27 465.5 1037.27 457.5 970.27 496.5 925.27 453.5)}Waning Six
-Dialogue: 0,0:12:37.48,0:12:37.52,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.88,482.36)\blur0.6\iclip(m 928.02 463.51 l 966.02 499.51 959.02 504.51 980.02 509.51 983.02 506.51 975.02 501.51 1035.02 465.51 1037.02 457.51 970.02 496.51 925.02 453.51)}Waning Six
-Dialogue: 0,0:12:37.52,0:12:37.56,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.62,482.39)\blur0.6\iclip(m 927.76 463.54 l 965.76 499.54 958.76 504.54 979.76 509.54 982.76 506.54 974.76 501.54 1034.76 465.54 1036.76 457.54 969.76 496.54 924.76 453.54)}Waning Six
-Dialogue: 0,0:12:37.56,0:12:37.61,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.43,482.41)\blur0.6\iclip(m 927.57 463.56 l 965.57 499.56 958.57 504.56 979.57 509.56 982.57 506.56 974.57 501.56 1034.57 465.56 1036.57 457.56 969.57 496.56 924.57 453.56)}Waning Six
-Dialogue: 0,0:12:37.61,0:12:37.65,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.26,482.42)\blur0.6\iclip(m 927.4 463.57 l 965.4 499.57 958.4 504.57 979.4 509.57 982.4 506.57 974.4 501.57 1034.4 465.57 1036.4 457.57 969.4 496.57 924.4 453.57)}Waning Six
-Dialogue: 0,0:12:37.65,0:12:37.69,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.17,482.41)\blur0.6\iclip(m 927.31 463.56 l 965.31 499.56 958.31 504.56 979.31 509.56 982.31 506.56 974.31 501.56 1034.31 465.56 1036.31 457.56 969.31 496.56 924.31 453.56)}Waning Six
-Dialogue: 0,0:12:37.69,0:12:37.73,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.09,482.39)\blur0.6\iclip(m 927.23 463.54 l 965.23 499.54 958.23 504.54 979.23 509.54 982.23 506.54 974.23 501.54 1034.23 465.54 1036.23 457.54 969.23 496.54 924.23 453.54)}Waning Six
-Dialogue: 0,0:12:37.73,0:12:37.77,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.12,482.39)\blur0.6\iclip(m 927.26 463.54 l 965.26 499.54 958.26 504.54 979.26 509.54 982.26 506.54 974.26 501.54 1034.26 465.54 1036.26 457.54 969.26 496.54 924.26 453.54)}Waning Six
-Dialogue: 0,0:12:37.77,0:12:37.82,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.23,482.41)\blur0.6\iclip(m 927.37 463.56 l 965.37 499.56 958.37 504.56 979.37 509.56 982.37 506.56 974.37 501.56 1034.37 465.56 1036.37 457.56 969.37 496.56 924.37 453.56)}Waning Six
-Dialogue: 0,0:12:37.82,0:12:37.86,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.31,482.41)\blur0.6\iclip(m 927.45 463.56 l 965.45 499.56 958.45 504.56 979.45 509.56 982.45 506.56 974.45 501.56 1034.45 465.56 1036.45 457.56 969.45 496.56 924.45 453.56)}Waning Six
-Dialogue: 0,0:12:37.86,0:12:37.90,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.51,482.43)\blur0.6\iclip(m 927.65 463.58 l 965.65 499.58 958.65 504.58 979.65 509.58 982.65 506.58 974.65 501.58 1034.65 465.58 1036.65 457.58 969.65 496.58 924.65 453.58)}Waning Six
-Dialogue: 0,0:12:37.90,0:12:37.94,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.83,482.54)\blur0.6\iclip(m 927.97 463.69 l 965.97 499.69 958.97 504.69 979.97 509.69 982.97 506.69 974.97 501.69 1034.97 465.69 1036.97 457.69 969.97 496.69 924.97 453.69)}Waning Six
-Dialogue: 0,0:12:37.94,0:12:37.98,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(965.16,482.63)\blur0.6\iclip(m 928.3 463.78 l 966.3 499.78 959.3 504.78 980.3 509.78 983.3 506.78 975.3 501.78 1035.29 465.78 1037.3 457.78 970.3 496.78 925.3 453.78)}Waning Six
-Dialogue: 0,0:12:37.98,0:12:38.02,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(965.64,482.79)\blur0.6\iclip(m 928.78 463.94 l 966.78 499.94 959.78 504.94 980.78 509.94 983.78 506.94 975.78 501.94 1035.78 465.94 1037.78 457.94 970.78 496.94 925.78 453.94)}Waning Six
-Dialogue: 0,0:12:38.02,0:12:38.07,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.15,482.98)\blur0.6\iclip(m 929.29 464.13 l 967.29 500.13 960.29 505.13 981.29 510.13 984.29 507.13 976.29 502.13 1036.29 466.13 1038.29 458.13 971.29 497.13 926.29 454.13)}Waning Six
-Dialogue: 0,0:12:38.07,0:12:38.11,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.75,483.19)\blur0.6\iclip(m 929.89 464.34 l 967.89 500.34 960.89 505.34 981.89 510.34 984.89 507.34 976.89 502.34 1036.89 466.34 1038.89 458.34 971.89 497.34 926.89 454.34)}Waning Six
-Dialogue: 0,0:12:38.11,0:12:38.15,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.31,483.4)\blur0.6\iclip(m 930.45 464.55 l 968.45 500.55 961.45 505.55 982.45 510.55 985.45 507.55 977.45 502.55 1037.45 466.55 1039.45 458.55 972.45 497.55 927.45 454.55)}Waning Six
-Dialogue: 0,0:12:38.15,0:12:38.19,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.83,483.63)\blur0.6\iclip(m 930.97 464.78 l 968.97 500.78 961.97 505.78 982.97 510.78 985.97 507.78 977.97 502.78 1037.97 466.78 1039.97 458.78 972.97 497.78 927.97 454.78)}Waning Six
-Dialogue: 0,0:12:38.19,0:12:38.23,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.36,483.82)\blur0.6\iclip(m 931.5 464.97 l 969.5 500.97 962.5 505.97 983.5 510.97 986.5 507.97 978.5 502.97 1038.5 466.97 1040.5 458.97 973.5 497.97 928.5 454.97)}Waning Six
-Dialogue: 0,0:12:38.23,0:12:38.27,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.86,483.97)\blur0.6\iclip(m 932 465.12 l 970 501.12 963 506.12 984 511.12 987 508.12 979 503.12 1039 467.12 1041 459.12 974 498.12 929 455.12)}Waning Six
-Dialogue: 0,0:12:38.27,0:12:38.32,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(969.35,484.11)\blur0.6\iclip(m 932.49 465.26 l 970.49 501.26 963.49 506.26 984.49 511.26 987.49 508.26 979.49 503.26 1039.48 467.26 1041.49 459.26 974.49 498.26 929.49 455.26)}Waning Six
-Dialogue: 0,0:12:38.32,0:12:38.36,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(969.77,484.2)\blur0.6\iclip(m 932.91 465.35 l 970.91 501.35 963.91 506.35 984.91 511.35 987.91 508.35 979.91 503.35 1039.91 467.35 1041.91 459.35 974.91 498.35 929.91 455.35)}Waning Six
-Dialogue: 0,0:12:38.36,0:12:38.40,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(970.19,484.27)\blur0.6\iclip(m 933.33 465.42 l 971.33 501.42 964.33 506.42 985.33 511.42 988.33 508.42 980.33 503.42 1040.33 467.42 1042.33 459.42 975.33 498.42 930.33 455.42)}Waning Six
-Dialogue: 0,0:12:38.40,0:12:38.44,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(970.59,484.3)\blur0.6\iclip(m 933.73 465.45 l 971.73 501.45 964.73 506.45 985.73 511.45 988.73 508.45 980.73 503.45 1040.73 467.45 1042.73 459.45 975.73 498.45 930.73 455.45)}Waning Six
-Dialogue: 0,0:12:38.44,0:12:38.48,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(970.94,484.31)\blur0.6\iclip(m 934.08 465.46 l 972.08 501.46 965.08 506.46 986.08 511.46 989.08 508.46 981.08 503.46 1041.08 467.46 1043.08 459.46 976.08 498.46 931.08 455.46)}Waning Six
-Dialogue: 0,0:12:38.48,0:12:38.52,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(971.27,484.3)\blur0.6\iclip(m 934.41 465.45 l 972.41 501.45 965.41 506.45 986.41 511.45 989.41 508.45 981.41 503.45 1041.41 467.45 1043.41 459.45 976.41 498.45 931.41 455.45)}Waning Six
-Dialogue: 0,0:12:38.52,0:12:38.57,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(971.6,484.29)\blur0.6\iclip(m 934.74 465.44 l 972.74 501.44 965.74 506.44 986.74 511.44 989.74 508.44 981.74 503.44 1041.74 467.44 1043.74 459.44 976.74 498.44 931.74 455.44)}Waning Six
-Dialogue: 0,0:12:38.57,0:12:38.61,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(971.85,484.22)\blur0.6\iclip(m 934.99 465.37 l 972.99 501.37 965.99 506.37 986.99 511.37 989.99 508.37 981.99 503.37 1041.99 467.37 1043.99 459.37 976.99 498.37 931.99 455.37)}Waning Six
-Dialogue: 0,0:12:38.61,0:12:38.65,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(972.09,484.12)\blur0.6\iclip(m 935.23 465.27 l 973.23 501.27 966.23 506.27 987.23 511.27 990.23 508.27 982.23 503.27 1042.23 467.27 1044.23 459.27 977.23 498.27 932.23 455.27)}Waning Six
-Dialogue: 0,0:12:38.65,0:12:38.69,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(972.32,484)\blur0.6\iclip(m 935.46 465.15 l 973.46 501.15 966.46 506.15 987.46 511.15 990.46 508.15 982.46 503.15 1042.46 467.15 1044.46 459.15 977.46 498.15 932.46 455.15)}Waning Six
-Dialogue: 0,0:12:38.69,0:12:38.73,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(972.56,483.87)\blur0.6\iclip(m 935.7 465.02 l 973.7 501.02 966.7 506.02 987.7 511.02 990.7 508.02 982.7 503.02 1042.7 467.02 1044.7 459.02 977.7 498.02 932.7 455.02)}Waning Six
-Dialogue: 0,0:12:38.73,0:12:38.77,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(972.67,483.87)\blur0.6\iclip(m 935.81 465.02 l 973.81 501.02 966.81 506.02 987.81 511.02 990.81 508.02 982.81 503.02 1042.81 467.02 1044.81 459.02 977.81 498.02 932.81 455.02)}Waning Six
-Dialogue: 0,0:12:38.77,0:12:38.82,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(972.82,483.87)\blur0.6\iclip(m 935.96 465.02 l 973.96 501.02 966.96 506.02 987.96 511.02 990.96 508.02 982.96 503.02 1042.96 467.02 1044.96 459.02 977.96 498.02 932.96 455.02)}Waning Six
+Dialogue: 10,0:12:34.52,0:12:38.15,Default,,0,0,0,,{\q2}I can reclaim my place among \Nthe Twelve Blood Moons!
 Dialogue: 10,0:12:48.53,0:12:50.04,Default,,0,0,0,,Kyougai.
 Dialogue: 10,0:12:52.33,0:12:54.62,Default,,0,0,0,,You can’t eat any more?
 Dialogue: 10,0:12:55.00,0:12:57.13,Default,,0,0,0,,Is that all you’ve got?
 Dialogue: 10,0:12:57.13,0:12:58.71,Default,,0,0,0,,No.
 Dialogue: 10,0:12:58.71,0:13:00.05,Default,,0,0,0,,No, I’m not done!
-Dialogue: 0,0:13:00.05,0:13:00.09,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(950.42,511.07)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.09,0:13:00.13,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(949.9,511.09)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.13,0:13:00.17,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(949.63,511.47)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.17,0:13:00.21,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(941.13,512.72)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.21,0:13:00.25,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(941.64,513.63)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.25,0:13:00.30,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(950.53,513.94)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.30,0:13:00.34,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(950.97,514.21)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.34,0:13:00.38,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(951.21,514.18)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.38,0:13:00.42,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(942.85,514.59)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.42,0:13:00.46,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(943.21,514.27)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.46,0:13:00.50,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(951.86,513.38)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.50,0:13:00.55,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(943.33,513.57)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.55,0:13:00.59,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(943.57,513.09)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.59,0:13:00.63,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(952.33,512.31)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.63,0:13:00.67,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(952.48,511.99)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.67,0:13:00.71,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(944.1,512.48)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.71,0:13:00.75,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(944.42,512.47)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.75,0:13:00.80,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(944.85,512.76)\fscx68\fscy55}Waning Six
-Dialogue: 0,0:13:00.80,0:13:00.84,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(953.78,513.05)\fscx68\fscy55\iclip(m 949 497 l 918 538 904 559 909 560 956 502 1004 541 1003 535 962 498 994 467 985 470 957 493 896 452 893 455)}Waning Six
-Dialogue: 0,0:13:00.84,0:13:00.88,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(954.33,513.91)\fscx68\fscy55\iclip(m 952 500 l 923 533 930 536 958 503 987 528 992 525 963 498 1020 448 1013 448 959 494 882 444 888 450)}Waning Six
-Dialogue: 0,0:13:00.88,0:13:00.92,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(954.76,514.54)\fscx68\fscy55\iclip(m 952 499 l 920 541 924 542 957 505 997 537 998 529 965 500 997 469 991 467 959 496 911 461 906 463)}Waning Six
-Dialogue: 0,0:13:00.92,0:13:00.96,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(955.05,514.78)\fscx68\fscy55\iclip(m 949 500 l 913 543 919 544 957 507 1005 544 1007 538 965 502 1002 464 997 460 959 492 888 447 885 453)}Waning Six
-Dialogue: 0,0:13:00.96,0:13:01.01,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(955.32,514.76)\fscx68\fscy55\iclip(m 950 501 l 904 554 908 556 959 506 1011 550 1013 545 965 500 992 472 986 469 960 493 887 446 885 451 925 480)}Waning Six
-Dialogue: 0,0:13:01.01,0:13:01.05,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(955.56,514.53)\fscx68\fscy55\iclip(m 950 499 l 920 536 928 533 959 506 1006 544 1000 533 966 499 996 466 990 466 958 495 895 454)}Waning Six
-Dialogue: 0,0:13:01.05,0:13:01.09,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(955.76,514.19)\fscx68\fscy55\iclip(m 949 500 l 904 553 919 546 958 504 1004 541 1005 535 967 499 1003 463 995 464 960 493 891 450)}Waning Six
-Dialogue: 0,0:13:01.09,0:13:01.13,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(955.93,512.71)\fscx68\fscy55\iclip(m 952 497 l 907 547 917 544 959 504 1017 552 1005 533 965 497 1019 448 958 492 877 442)}Waning Six
-Dialogue: 0,0:13:01.13,0:13:01.17,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(955.72,505.9)\fscx68\fscy55\iclip(m 949 490 l 910 522 924 525 957 495 1003 534 1004 519 965 488 980 468 1024 439 1018 427 978 462 954 485 921 457 888 416 889 429 882 442)}Waning Six
-Dialogue: 0,0:13:01.17,0:13:01.21,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(956.45,502.94)\fscx68\fscy55\iclip(m 950 486 l 907 517 928 528 961 491 1010 539 1021 519 968 485 1020 448 1003 435 962 480 940 462 915 430 902 455)}Waning Six
-Dialogue: 0,0:13:01.21,0:13:01.26,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(958.01,508.75)\fscx68\fscy55\iclip(m 954 490 l 897 537 914 556 961 497 1005 546 1020 523 964 490)}Waning Six
-Dialogue: 0,0:13:01.26,0:13:01.30,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(959.76,512.94)\fscx68\fscy55\iclip(m 954 494 l 905 539 927 550 963 502 1018 561 1020 530 969 496)}Waning Six
-Dialogue: 0,0:13:01.30,0:13:01.34,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(960.89,509.79)\fscx68\fscy55\iclip(m 953 490 l 927 512 913 522 915 527 929 538 966 500 981 520 998 535 1044 531 973 490)}Waning Six
-Dialogue: 0,0:13:01.34,0:13:01.38,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(961.84,506.82)\fscx68\fscy55\iclip(m 953 487 l 913 518 915 525 928 542 963 499 1000 528 1008 541 1035 521 975 488)}Waning Six
-Dialogue: 0,0:13:01.38,0:13:01.42,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(962.22,504.78)\fscx68\fscy55\iclip(m 954 484 l 909 519 910 527 924 545 963 497 1010 542 1031 515 978 484)}Waning Six
-Dialogue: 0,0:13:01.42,0:13:01.46,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(961.84,507.39)\fscx68\fscy55\iclip(m 952 485 l 907 521 907 529 876 558 905 577 963 496 1019 558 1034 522 976 485)}Waning Six
-Dialogue: 0,0:13:01.46,0:13:01.51,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(961.5,510.39)\fscx68\fscy55\iclip(m 952 494 l 885 539 916 562 964 498 1024 562 1045 528 976 488)}Waning Six
 Dialogue: 10,0:13:04.68,0:13:07.01,Default,,0,0,0,,P-Please give me more time!
 Dialogue: 10,0:13:07.01,0:13:08.76,Default,,0,0,0,,J-Just a little!
 Dialogue: 10,0:13:08.76,0:13:09.97,Default,,0,0,0,,I’ve had enough.
 Dialogue: 10,0:13:10.39,0:13:13.14,Default,,0,0,0,,I’m stripping you of your number.
 Dialogue: 10,0:13:13.14,0:13:16.48,Default,,0,0,0,,That’s your limit, and you’ve reached it.
-Dialogue: 10,0:13:17.69,0:13:21.07,Default,,0,0,0,,{\i1}The more humans you consume, \Nthe stronger you can become.
+Dialogue: 10,0:13:17.69,0:13:21.07,Default,,0,0,0,,{\q2\i1}The more humans you consume, \Nthe stronger you can become.
 Dialogue: 10,0:13:21.07,0:13:23.78,Default,,0,0,0,,{\i1}And once he saw my potential,
 Dialogue: 10,0:13:23.78,0:13:26.86,Default,,0,0,0,,{\i1}Lord Kibutsuji was willing to share his blood with me.
 Dialogue: 10,0:13:28.07,0:13:32.12,Default,,0,0,0,,{\i1}The power of that man’s blood was mind-boggling.
-Dialogue: 10,0:13:32.12,0:13:36.46,Default,,0,0,0,,{\i1}I was sure that I’d grow infinitely stronger than ever before,
+Dialogue: 10,0:13:32.12,0:13:36.46,Default,,0,0,0,,{\q2\i1}I was sure that I’d grow \Ninfinitely stronger than ever before,
 Dialogue: 10,0:13:36.92,0:13:40.13,Default,,0,0,0,,{\i1}be welcomed into the ranks of the Twelve Blood Moons,
 Dialogue: 10,0:13:40.13,0:13:42.59,Default,,0,0,0,,{\i1}continue to gorge myself on humans,
 Dialogue: 10,0:13:42.59,0:13:46.97,Default,,0,0,0,,{\i1}and become even more powerful! Or so I believed!
 Dialogue: 10,0:13:48.14,0:13:50.14,Default,,0,0,0,,{\i1}Or so I believed.
 Dialogue: 10,0:13:51.51,0:13:53.06,Default,,0,0,0,,Kiyoshi!
-Dialogue: 10,0:13:55.60,0:13:58.06,Default,,0,0,0,,Kiyoshi! Kiyoshi!
+Dialogue: 10,0:13:55.60,0:13:58.06,Default,,0,0,0,,Kiyoshi!
 Dialogue: 10,0:13:59.10,0:14:00.56,Default,,0,0,0,,Teruko!
 Dialogue: 10,0:14:02.36,0:14:04.07,Default,,0,0,0,,Wh-Who’s he?
 Dialogue: 10,0:14:04.82,0:14:06.61,Default,,0,0,0,,I’m Kamado Tanjirou.
@@ -525,7 +233,7 @@ Dialogue: 10,0:14:31.72,0:14:35.02,Default,,0,0,0,,My master always wears a teng
 Dialogue: 10,0:14:35.02,0:14:36.43,Default,,0,0,0,,Tengu?
 Dialogue: 10,0:14:36.43,0:14:37.48,Default,,0,0,0,,Really?
 Dialogue: 10,0:14:37.48,0:14:38.94,Default,,0,0,0,,Yes, it’s true.
-Dialogue: 10,0:14:38.94,0:14:43.36,Default,,0,0,0,,My master’s ointment is so amazing, \Nit works in mere seconds.
+Dialogue: 10,0:14:38.94,0:14:43.36,Default,,0,0,0,,{\q2}My master’s ointment is so amazing, \Nit kicks in within mere seconds.
 Dialogue: 10,0:14:44.86,0:14:46.24,Default,,0,0,0,,Okay, you’re all set!
 Dialogue: 10,0:14:47.24,0:14:49.53,Default,,0,0,0,,Well? The pain’s gone, isn’t it?
 Dialogue: 10,0:14:49.99,0:14:51.28,Default,,0,0,0,,Yes!
@@ -548,17 +256,17 @@ Dialogue: 10,0:15:43.42,0:15:44.67,Default,,0,0,0,,So that was him?
 Dialogue: 10,0:15:45.46,0:15:49.76,Default,,0,0,0,,He mentioned “rareblood” or something like that.
 Dialogue: 10,0:15:50.63,0:15:52.63,Default,,0,0,0,,That’s right!
 Dialogue: 10,0:15:52.63,0:15:54.89,Default,,0,0,0,,He kept calling me “rareblood”!
-Dialogue: 10,0:15:56.93,0:15:58.47,Default,,0,0,0,,Rareblood!
-Dialogue: 10,0:15:58.47,0:16:01.64,Default,,0,0,0,,That’s what they call those who carry delicate blood!
+Dialogue: 10,0:15:56.93,0:15:58.39,Default,,0,0,0,,Rareblood!
+Dialogue: 10,0:15:58.39,0:16:01.64,Default,,0,0,0,,That’s what they call those who carry delicate blood!
 Dialogue: 10,0:16:05.11,0:16:06.57,Default,,0,0,0,,You little brats!
 Dialogue: 10,0:16:06.57,0:16:08.36,Default,,0,0,0,,I’m going to peck you now.
 Dialogue: 10,0:16:08.36,0:16:09.82,Default,,0,0,0,,Cut it out!
 Dialogue: 10,0:16:10.44,0:16:13.45,Default,,0,0,0,,What do you mean by “delicate blood”?
-Dialogue: 10,0:16:13.45,0:16:17.58,Default,,0,0,0,,The blood of all living species \Ncan be categorized into types, idiot!
+Dialogue: 10,0:16:13.45,0:16:17.58,Default,,0,0,0,,{\q2}The blood of all living species \Ncan be categorized into types, moron!
 Dialogue: 10,0:16:17.87,0:16:19.54,Default,,0,0,0,,And the ultimate rareblood...
 Dialogue: 10,0:16:19.54,0:16:24.42,Default,,0,0,0,,The less common the blood is...
 Dialogue: 10,0:16:24.42,0:16:25.50,Default,,0,0,0,,For a demon!
-Dialogue: 10,0:16:25.50,0:16:28.42,Default,,0,0,0,,A single rareblood human has \Nthe same nutritional value as eating fifty!
+Dialogue: 10,0:16:25.50,0:16:28.42,Default,,0,0,0,,{\q2}A single rareblood human has \Nthe same nutritional value as eating fifty!
 Dialogue: 10,0:16:28.42,0:16:29.63,Default,,0,0,0,,One hundred humans!
 Dialogue: 10,0:16:29.63,0:16:33.26,Default,,0,0,0,,For demons, rarebloods are a feast!
 Dialogue: 10,0:16:34.26,0:16:39.01,Default,,0,0,0,,Rareblood is their favorite food!
@@ -570,9 +278,9 @@ Dialogue: 10,0:16:59.58,0:17:01.58,Default,,0,0,0,,I’m just going to take down
 Dialogue: 10,0:17:03.08,0:17:04.54,Default,,0,0,0,,Listen to me, Teruko.
 Dialogue: 10,0:17:05.83,0:17:08.25,Default,,0,0,0,,Your brother is terribly exhausted right now.
 Dialogue: 10,0:17:08.25,0:17:10.17,Default,,0,0,0,,Make sure to look after him, okay?
-Dialogue: 10,0:17:11.96,0:17:15.47,Default,,0,0,0,,As soon as I leave the room, \Nstrike that drum and move out.
+Dialogue: 10,0:17:11.96,0:17:15.47,Default,,0,0,0,,{\q2}As soon as I leave the room, \Nstrike that drum and move out.
 Dialogue: 10,0:17:16.01,0:17:18.35,Default,,0,0,0,,Just like Kiyoshi’s been doing until now,
-Dialogue: 10,0:17:18.35,0:17:21.77,Default,,0,0,0,,whenever someone tries to open the door \Nor you hear something,
+Dialogue: 10,0:17:18.35,0:17:21.77,Default,,0,0,0,,{\q2}whenever someone tries to open \Nthe door or you hear something,
 Dialogue: 10,0:17:21.77,0:17:24.52,Default,,0,0,0,,strike that drum right away and make a run for it.
 Dialogue: 10,0:17:25.23,0:17:27.19,Default,,0,0,0,,I promise to come pick you up.
 Dialogue: 10,0:17:27.73,0:17:29.56,Default,,0,0,0,,I’ll follow your scent.
@@ -585,145 +293,67 @@ Dialogue: 10,0:17:48.33,0:17:49.50,Default,,0,0,0,,I’m heading out.
 Dialogue: 10,0:17:58.09,0:17:59.01,Default,,0,0,0,,Strike it!
 Dialogue: 10,0:18:01.51,0:18:03.68,Default,,0,0,0,,Damn insects!
 Dialogue: 10,0:18:03.68,0:18:05.35,Default,,0,0,0,,So infuriating!
-Dialogue: 10,0:18:22.24,0:18:24.70,Default,,0,0,0,,{\i1}The drum on his right shoulder \Nflips the room to the right!
+Dialogue: 10,0:18:22.24,0:18:24.70,Default,,0,0,0,,{\q2\i1}The drum on his right shoulder \Nflips the room to the right!
 Dialogue: 10,0:18:26.46,0:18:28.17,Default,,0,0,0,,{\i1}The left one flips it to the left!
 Dialogue: 10,0:18:29.21,0:18:31.00,Default,,0,0,0,,{\i1}Right leg, forward spin!
 Dialogue: 10,0:18:31.42,0:18:33.80,Default,,0,0,0,,{\i1}Left leg, backward spin!
-Dialogue: 10,0:18:35.46,0:18:37.97,Default,,0,0,0,,{\i1}The drum on his belly launches that claw attack!
+Dialogue: 10,0:18:35.46,0:18:37.97,Default,,0,0,0,,{\i1}And the drum on his belly launches that claw attack!
 Dialogue: 10,0:18:54.23,0:18:55.28,Default,,0,0,0,,{\i1}So fast!
 Dialogue: 10,0:18:55.28,0:18:58.57,Default,,0,0,0,,{\i1}The speed of the rotations and attacks is devastating!
 Dialogue: 10,0:18:59.28,0:19:01.99,Default,,0,0,0,,{\i1}Miss Tamayo may have treated my wounds,
 Dialogue: 10,0:19:01.99,0:19:03.95,Default,,0,0,0,,{\i1}but I haven’t fully recovered from my injuries yet!
 Dialogue: 10,0:19:05.49,0:19:08.33,Default,,0,0,0,,{\i1}Can I beat him?
-Dialogue: 10,0:19:08.75,0:19:12.92,Default,,0,0,0,,{\i1}These injuries hurt so badly \Nthat I can hardly stand it!
+Dialogue: 10,0:19:08.75,0:19:12.92,Default,,0,0,0,,{\q2\i1}These injuries hurt so badly \Nthat I can hardly stand it!
 Dialogue: 10,0:19:14.59,0:19:18.13,Default,,0,0,0,,{\i1}All this time, I’ve just been enduring it!
 Dialogue: 10,0:19:18.13,0:19:21.39,Default,,0,0,0,,{\i1}When I pulled Zenitsu off that girl,
-Dialogue: 10,0:19:21.89,0:19:25.93,Default,,0,0,0,,{\i1}when I shouted out, I was enduring this horrendous pain!
+Dialogue: 10,0:19:21.89,0:19:25.93,Default,,0,0,0,,{\q2\i1}when I shouted out, I was enduring \Nthis horrendous pain!
 Dialogue: 10,0:19:26.43,0:19:29.02,Default,,0,0,0,,{\i1}I was able to withstand it because I’m the eldest son!
 Dialogue: 10,0:19:29.52,0:19:31.77,Default,,0,0,0,,{\i1}But I couldn’t have if I were the second!
 Dialogue: 10,0:19:33.81,0:19:37.40,Default,,0,0,0,,{\i1}Whenever I dig in, the broken parts creak,
 Dialogue: 10,0:19:37.40,0:19:39.28,Default,,0,0,0,,{\i1}and I can’t muster any strength.
-Dialogue: 10,0:19:41.41,0:19:45.45,Default,,0,0,0,,{\i1}That demon’s attack is leaving scars \Nthat look like claw marks.
+Dialogue: 10,0:19:41.41,0:19:45.45,Default,,0,0,0,,{\q2\i1}That demon’s attack is leaving scars \Nthat look like claw marks.
 Dialogue: 10,0:19:46.33,0:19:48.75,Default,,0,0,0,,{\i1}It scares me so much that I can’t move in closer!
 Dialogue: 10,0:19:50.29,0:19:52.17,Default,,0,0,0,,{\i1}Since I’m not at full strength,
 Dialogue: 10,0:19:52.17,0:19:55.04,Default,,0,0,0,,{\i1}if I charge forward to get within striking distance,
 Dialogue: 10,0:19:55.34,0:19:57.75,Default,,0,0,0,,{\i1}a flash of pain makes me stumble!
 Dialogue: 10,0:20:00.80,0:20:02.13,Default,,0,0,0,,{\i1}I’ll get sliced into rings!
-Dialogue: 10,0:20:04.85,0:20:08.27,Default,,0,0,0,,{\i1}My injuries are making me imagine the most awful things!
+Dialogue: 10,0:20:04.85,0:20:08.27,Default,,0,0,0,,{\q2\i1}My injuries are making me \Nimagine the most awful things!
 Dialogue: 10,0:20:08.72,0:20:10.31,Default,,0,0,0,,{\i1}Master Urokodaki!
 Dialogue: 10,0:20:11.98,0:20:14.86,Default,,0,0,0,,Water can change into any form.
 Dialogue: 10,0:20:16.02,0:20:18.69,Default,,0,0,0,,Pour it into a container, and it’s a square.
 Dialogue: 10,0:20:18.69,0:20:20.86,Default,,0,0,0,,Pour it into a bottle, and it’s round.
-Dialogue: 10,0:20:20.86,0:20:25.28,Default,,0,0,0,,Sometimes, it can even smash boulders \Nand flow away as far as the eye can see.
-Dialogue: 10,0:20:25.70,0:20:28.41,Default,,0,0,0,,{\i1}That’s right! That’s right!
+Dialogue: 10,0:20:20.86,0:20:25.20,Default,,0,0,0,,{\q2}Sometimes, it can even smash boulders \Nand flow away as far as the eye can see.
+Dialogue: 10,0:20:25.70,0:20:28.41,Default,,0,0,0,,{\i1}That’s right! That’s it!
 Dialogue: 10,0:20:28.41,0:20:31.54,Default,,0,0,0,,{\i1}There are ten Water Breathing forms!
-Dialogue: 10,0:20:32.08,0:20:33.96,Default,,0,0,0,,{\i1}So, I can battle any kind of opponent!
-Dialogue: 10,0:20:34.67,0:20:38.88,Default,,0,0,0,,{\i1}If you’re hurt, then make a move that will compensate for it!
+Dialogue: 10,0:20:32.08,0:20:33.96,Default,,0,0,0,,{\i1}I can battle any kind of opponent!
+Dialogue: 10,0:20:34.67,0:20:38.88,Default,,0,0,0,,{\q2\i1}If you’re hurt, use a move \Nthat will compensate for that!
 Dialogue: 10,0:20:38.88,0:20:40.84,Default,,0,0,0,,{\i1}I can take on any form!
 Dialogue: 10,0:20:41.30,0:20:43.80,Default,,0,0,0,,{\i1}And this flow will never be stopped!
-Dialogue: 10,0:20:46.51,0:20:50.06,Default,,0,0,0,,{\i1}Right now, it’s not just my bones! \NMy heart’s also been broken!
+Dialogue: 10,0:20:46.51,0:20:50.06,Default,,0,0,0,,{\q2\i1}Right now, it’s not just my bones! \NMy heart’s also been broken!
 Dialogue: 10,0:20:51.56,0:20:54.81,Default,,0,0,0,,A broken Tanjirou’s not gonna do any good!
 Dialogue: 10,0:20:54.81,0:20:57.40,Default,,0,0,0,,All right! If you could please quiet down!
 Dialogue: 10,0:20:58.06,0:21:00.57,Default,,0,0,0,,{\i1}Look straight ahead!
 Dialogue: 10,0:21:00.57,0:21:02.90,Default,,0,0,0,,{\i1}Fire yourself up!
 Dialogue: 10,0:21:03.61,0:21:05.53,Default,,0,0,0,,{\i1}Give it all you’ve got, Tanjirou!
-Dialogue: 10,0:21:06.41,0:21:07.74,Default,,0,0,0,,{\i1}Give it all you’ve got!
-Dialogue: 10,0:21:11.75,0:21:13.96,Default,,0,0,0,,I’ve been doing a good job so far!
+Dialogue: 10,0:21:06.41,0:21:07.74,Default,,0,0,0,,{\i1}You’ve got this!
+Dialogue: 10,0:21:11.75,0:21:13.96,Default,,0,0,0,,I’ve been doing great so far!
 Dialogue: 10,0:21:14.41,0:21:16.12,Default,,0,0,0,,I have what it takes!
-Dialogue: 10,0:21:16.63,0:21:18.34,Default,,0,0,0,,And not today...
-Dialogue: 10,0:21:18.75,0:21:20.42,Default,,0,0,0,,or any time in the future!
+Dialogue: 10,0:21:16.63,0:21:18.34,Default,,0,0,0,,And neither today
+Dialogue: 10,0:21:18.75,0:21:20.42,Default,,0,0,0,,nor any other time in the future!
 Dialogue: 10,0:21:20.42,0:21:22.34,Default,,0,0,0,,Even if I’m broken...
-Dialogue: 10,0:21:24.67,0:21:28.68,Default,,0,0,0,,I’ll never give up no matter what!
+Dialogue: 10,0:21:24.67,0:21:28.68,Default,,0,0,0,,I won’t {\i1}ever{\i0} give up, no matter what!
 Comment: 0,0:22:59.98,0:22:59.98,Default,,0,0,0,,---------------------------------------------- [ OUTRO ] ----------------------------------------------
-Dialogue: 0,0:22:59.98,0:23:00.23,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx100.46\fscy100.46\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.23,0:23:00.27,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx100.46\fscy100.46\frz0.1\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.27,0:23:00.31,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.31,0:23:00.35,Title Card Sign,,0,0,0,,{\an3\pos(1148.48,495.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.35,0:23:00.40,Title Card Sign,,0,0,0,,{\an3\pos(1149.48,496.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29272E&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.40,0:23:00.44,Title Card Sign,,0,0,0,,{\an3\pos(1151.48,496.42)\fscx100\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H2B2A2E&\blur1.1}Demon Slayer
-Dialogue: 0,0:23:00.44,0:23:00.48,Title Card Sign,,0,0,0,,{\an3\pos(1155.48,496.42)\fscx99\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.48,0:23:00.52,Title Card Sign,,0,0,0,,{\an3\pos(1167.48,494.42)\fscx95\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.52,0:23:00.56,Title Card Sign,,0,0,0,,{\an3\pos(1207.41,490.38)\fscx95\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.56,0:23:00.60,Title Card Sign,,0,0,0,,{\an3\pos(1257.98,480.1)\fscx95\fscy102\frz1.65\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.60,0:23:00.65,Title Card Sign,,0,0,0,,{\an3\pos(1329.41,478.38)\fscx95\fscy102\frz1.65\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.65,0:23:00.69,Title Card Sign,,0,0,0,,{\an3\pos(1403.41,478.96)\fscx95\fscy102\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.69,0:23:00.73,Title Card Sign,,0,0,0,,{\an3\pos(1498.55,471.53)\fscx90.31\fscy96.96\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.73,0:23:00.77,Title Card Sign,,0,0,0,,{\an3\pos(1593.12,474.38)\fscx83\fscy96\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.77,0:23:00.81,Title Card Sign,,0,0,0,,{\an3\pos(1682.84,466.67)\fscx73\fscy92\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.81,0:23:00.85,Title Card Sign,,0,0,0,,{\an3\pos(1751.98,461.53)\fscx63\fscy98\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.85,0:23:00.90,Title Card Sign,,0,0,0,,{\an3\pos(1825.12,458.1)\fscx45\fscy99\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.90,0:23:00.94,Episode Preview Sign 2,,0,0,0,,{\iclip(m 746 331 l 692 127 852 105 845 407)\blur0.6\fscx90\fscy90\frz16.92\fs40\bord3\3c&H3E5954&\c&H3E5954&\2c&H666667&\pos(695.057,209.727)}Rustle
-Dialogue: 1,0:23:00.90,0:23:00.94,Episode Preview Sign 2,,0,0,0,,{\iclip(m 746 331 l 692 127 852 105 845 407)\blur0.6\fscx90\fscy90\frz16.92\fs40\bord0\c&HBAE1EA&\2c&H666667&\4a&HFF&\pos(695.057,209.727)}Rustle
-Dialogue: 0,0:23:00.94,0:23:37.14,Episode Preview Sign 2,,0,0,0,,{\blur0.6\fscx90\fscy90\frz16.92\fs40\bord3\3c&H3E5954&\c&H3E5954&\2c&H666667&\pos(695.057,209.727)}Rustle
-Dialogue: 1,0:23:00.94,0:23:37.14,Episode Preview Sign 2,,0,0,0,,{\blur0.6\fscx90\fscy90\frz16.92\fs40\bord0\c&HBAE1EA&\2c&H666667&\4a&HFF&\pos(695.057,209.727)}Rustle
-Dialogue: 0,0:23:02.36,0:23:02.61,Episode Preview Sign 2,,0,0,0,,{\iclip(m 821 185 l 840 184 857 183 868 184 873 184 879 180 882 177 886 176 889 173 891 171 888 178 883 189 879 196 878 198 849 243)\blur0.6\fscx90\fscy90\frz16.92\fs40\bord3\3c&H3E5954&\c&H3E5954&\2c&H666667&\pos(887.057,195.327)}Rustle
-Dialogue: 1,0:23:02.36,0:23:02.61,Episode Preview Sign 2,,0,0,0,,{\iclip(m 821 185 l 840 184 857 183 868 184 873 184 879 180 882 177 886 176 889 173 891 171 888 178 883 189 879 196 878 198 849 243)\blur0.6\fscx90\fscy90\frz16.92\fs40\bord0\c&HBAE1EA&\2c&H666667&\4a&HFF&\pos(887.057,195.327)}Rustle
-Dialogue: 0,0:23:02.61,0:23:37.14,Episode Preview Sign 2,,0,0,0,,{\blur0.6\fscx90\fscy90\frz16.92\fs40\bord3\3c&H3E5954&\c&H3E5954&\2c&H666667&\pos(887.057,195.327)}Rustle
-Dialogue: 1,0:23:02.61,0:23:37.14,Episode Preview Sign 2,,0,0,0,,{\blur0.6\fscx90\fscy90\frz16.92\fs40\bord0\c&HBAE1EA&\2c&H666667&\4a&HFF&\pos(887.057,195.327)}Rustle
-Dialogue: 0,0:23:01.06,0:23:01.10,Episode Preview Sign,,0,0,0,,{\blur0.6\pos(1464.8,115.6)\frz3.24\fs100\fsp5\3c&HC1E6EC&\c&HC1E6EC&\bord5\clip(m 1466 21 l 1509 125 1221 123 1242 27)}PREVIEW
-Dialogue: 1,0:23:01.06,0:23:01.10,Episode Preview Sign,,0,0,0,,{\blur0.6\pos(1464.8,115.6)\frz3.24\fs100\fsp5\c&H445D55&\bord0\clip(m 1466 21 l 1509 125 1221 123 1242 27)\4a&HFF&}PREVIEW
-Dialogue: 0,0:23:01.10,0:23:37.14,Episode Preview Sign,,0,0,0,,{\blur0.6\pos(1464.8,115.6)\frz3.24\fs100\fsp5\3c&HC1E6EC&\c&HC1E6EC&\bord5}PREVIEW
-Dialogue: 1,0:23:01.10,0:23:37.14,Episode Preview Sign,,0,0,0,,{\blur0.6\pos(1464.8,115.6)\frz3.24\fs100\fsp5\c&H445D55&\bord0\4a&HFF&}PREVIEW
-Dialogue: 0,0:23:00.90,0:23:00.94,Title Card Sign,,0,0,0,,{\an3\pos(1892.27,456.1)\fscx28\fscy109\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 10,0:23:03.23,0:23:05.57,Default,,0,0,0,,Give it all you’ve got, Tanjirou! Give it all you’ve got!
+Dialogue: 10,0:23:03.23,0:23:05.57,Default,,0,0,0,,{\q2}Give it all you’ve got, Tanjirou! \NYou’ve got this!
 Dialogue: 10,0:23:06.28,0:23:09.15,Default,,0,0,0,,I’m the eldest son, so I can endure it!
-Dialogue: 10,0:23:09.15,0:23:11.24,Default,,0,0,0,,You will be cheering me on too, right?
+Dialogue: 10,0:23:09.15,0:23:11.24,Default,,0,0,0,,You’ll be cheering me on too, right?
 Dialogue: 10,0:23:11.24,0:23:12.62,Default,,0,0,0,,Thanks, Nezuko!
-Dialogue: 10,0:23:13.20,0:23:15.87,Default,,0,0,0,,Okay, to show my gratitude, \NI’m gonna cheer you on, too!
-Dialogue: 10,0:23:15.87,0:23:18.04,Default,,0,0,0,,Give it all you’ve got, Nezuko! Give it all you’ve got!
-Dialogue: 10,0:23:18.71,0:23:21.75,Default,,0,0,0,,You’ll never give up no matter what!
-Dialogue: 10,0:23:22.21,0:23:25.42,Default,,0,0,0,,You’re the eldest daughter, but if anything bad happens to you, don’t endure it.
+Dialogue: 10,0:23:13.20,0:23:15.87,Default,,0,0,0,,{\q2}Okay, to show you my gratitude, \NI’m gonna cheer you on, too!
+Dialogue: 10,0:23:15.87,0:23:18.04,Default,,0,0,0,,{\q2}Give it all you’ve got, Nezuko! \NYou’ve got this!
+Dialogue: 10,0:23:18.71,0:23:21.75,Default,,0,0,0,,You won’t {\i1}ever{\i0} give up, no matter what!
+Dialogue: 10,0:23:22.21,0:23:25.42,Default,,0,0,0,,{\q2}You’re the eldest daughter, but if anything \Nbad happens to you, don’t endure it.
 Dialogue: 10,0:23:25.42,0:23:27.13,Default,,0,0,0,,Just tell me, okay?
-Dialogue: 10,0:23:28.34,0:23:31.84,Default,,0,0,0,,Next, Episode 13, \N“Something More Important Than Life”!
+Dialogue: 10,0:23:28.34,0:23:31.84,Default,,0,0,0,,{\q2}Next, Episode 13, \N“Something More Important Than Life”!
 Dialogue: 10,0:23:32.34,0:23:35.89,Default,,0,0,0,,Looks like we’ve run out of time for the Taisho secret!
-Dialogue: 0,0:23:37.22,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord23\c&H000000&\3c&H080118&\alpha&H00&\1a&HFF&\blur9}To Be Continued
-Dialogue: 1,0:23:37.22,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur9}To Be Continued
-Dialogue: 2,0:23:37.22,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur9}To Be Continued
-Dialogue: 3,0:23:37.22,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord0\shad0\c&HFFFFFF&\blur9}To Be Continued
-Dialogue: 0,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur3}To Be Continued
-Dialogue: 1,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur3}To Be Continued
-Dialogue: 2,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur3}To Be Continued
-Dialogue: 3,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2}To Be Continued
-Dialogue: 0,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{\pos(1094.43,1012.19)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
-Dialogue: 1,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{\pos(1094.43,1012.19)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
-Dialogue: 2,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{\pos(1094.43,1012.19)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
-Dialogue: 3,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{\pos(1094.43,1012.19)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2}To Be Continued
-Dialogue: 0,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{\pos(1077.84,998.9)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
-Dialogue: 1,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{\pos(1077.84,998.9)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
-Dialogue: 2,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{\pos(1077.84,998.9)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
-Dialogue: 3,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{\pos(1077.84,998.9)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.5}To Be Continued
-Dialogue: 0,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{\pos(1089.16,1009.04)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
-Dialogue: 1,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{\pos(1089.16,1009.04)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
-Dialogue: 2,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{\pos(1089.16,1009.04)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
-Dialogue: 3,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{\pos(1089.16,1009.04)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.5}To Be Continued
-Dialogue: 0,0:23:37.43,0:23:37.47,To Be Continued Sign,,0,0,0,,{\pos(1084.29,996.27)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
-Dialogue: 1,0:23:37.43,0:23:37.47,To Be Continued Sign,,0,0,0,,{\pos(1084.29,996.27)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
-Dialogue: 2,0:23:37.43,0:23:37.47,To Be Continued Sign,,0,0,0,,{\pos(1084.29,996.27)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
-Dialogue: 3,0:23:37.43,0:23:37.47,To Be Continued Sign,,0,0,0,,{\pos(1084.29,996.27)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.5}To Be Continued
-Dialogue: 0,0:23:37.47,0:23:37.52,To Be Continued Sign,,0,0,0,,{\pos(1085.12,1011.76)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
-Dialogue: 1,0:23:37.47,0:23:37.52,To Be Continued Sign,,0,0,0,,{\pos(1085.12,1011.76)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
-Dialogue: 2,0:23:37.47,0:23:37.52,To Be Continued Sign,,0,0,0,,{\pos(1085.12,1011.76)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
-Dialogue: 3,0:23:37.47,0:23:37.52,To Be Continued Sign,,0,0,0,,{\pos(1085.12,1011.76)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{\pos(1090.47,1000.41)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
-Dialogue: 1,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{\pos(1090.47,1000.41)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{\pos(1090.47,1000.41)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{\pos(1090.47,1000.41)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,,{\pos(1089.42,1005.3)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
-Dialogue: 1,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,,{\pos(1089.42,1005.3)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,,{\pos(1089.42,1005.3)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,,{\pos(1089.42,1005.3)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.60,0:23:37.64,To Be Continued Sign,,0,0,0,,{\pos(1082.12,1000.78)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
-Dialogue: 1,0:23:37.60,0:23:37.64,To Be Continued Sign,,0,0,0,,{\pos(1082.12,1000.78)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.60,0:23:37.64,To Be Continued Sign,,0,0,0,,{\pos(1082.12,1000.78)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.60,0:23:37.64,To Be Continued Sign,,0,0,0,,{\pos(1082.12,1000.78)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.64,0:23:37.68,To Be Continued Sign,,0,0,0,,{\pos(1079.01,1008.57)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
-Dialogue: 1,0:23:37.64,0:23:37.68,To Be Continued Sign,,0,0,0,,{\pos(1079.01,1008.57)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.64,0:23:37.68,To Be Continued Sign,,0,0,0,,{\pos(1079.01,1008.57)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.64,0:23:37.68,To Be Continued Sign,,0,0,0,,{\pos(1079.01,1008.57)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.68,0:23:40.23,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
-Dialogue: 1,0:23:37.68,0:23:40.23,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.68,0:23:40.23,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.68,0:23:40.23,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
 Comment: 0,0:00:27.04,0:00:27.04,Default,,0,0,0,,---------------------------------------------- [     OP    ] ----------------------------------------------
 Comment: 0,0:00:28.09,0:00:34.51,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}tsuyoku nareru riyuu wo shitta
 Comment: 1,0:00:28.25,0:00:34.34,OP1 - ROM A,,0,0,0,,{\fsp0.5\blur1\q2\c&HF9F8FB&}tsuyoku nareru riyuu wo shitta
@@ -3200,3 +2830,231 @@ Dialogue: 0,0:22:06.63,0:22:06.72,ED1 - ROM,,0,0,0,,{\pos(1390,109.16)\fscx74\fs
 Dialogue: 0,0:22:06.68,0:22:06.76,ED1 - ROM,,0,0,0,,{\pos(1490,104.16)\fscx78\fscy78\frz83\bord6\c&H2B39F9&\3c&HFE8856&\4c&H454545&\1a&H3C&\2a&H3C&\3a&H3C&\4a&H3C&\blur12\fad(840,840)\q2\p1}m 0 0 l 5 1 9 6 16 9 21 4 25 -1 29 4 31 9 34 6 40 -3 42 -8 44 -13 44 -9 45 -7 40 -3 34 7 35 10 29 4 25 -1 24 7 16 9 9 10 4 4 0 2
 Dialogue: 0,0:22:06.72,0:22:06.80,ED1 - ROM,,0,0,0,,{\pos(1636,141.16)\fscx84\fscy84\frz195\bord6\c&H2B39F9&\3c&HFE8856&\4c&H454545&\1a&H3C&\2a&H3C&\3a&H3C&\4a&H3C&\blur12\fad(840,840)\q2\p1}m 0 0 l 4 -2 7 0 14 -17 16 -15 21 -14 28 -28 32 -33 34 -36 40 -25 42 -30 46 -34 46 -34 44 -25 40 -24 34 -36 37 -37 28 -24 21 -14 21 -16 14 -16 7 0 1 3 0 0
 Dialogue: 0,0:22:06.76,0:22:06.84,ED1 - ROM,,0,0,0,,{\pos(531,100.16)\fscx70\fscy70\frz290\bord6\c&H2B39F9&\3c&HFE8856&\4c&H454545&\1a&H3C&\2a&H3C&\3a&H3C&\4a&H3C&\blur12\fad(840,840)\q2\p1}m 0 0 l 2 -1 7 -5 15 -21 19 -20 23 -21 28 -14 33 -18 37 -15 41 0 46 -4 49 -2 49 -2 44 -9 41 0 37 -13 34 -17 28 -14 23 -21 22 -17 15 -21 7 -5 4 -2 0 0
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [     TS    ] ----------------------------------------------
+Dialogue: 0,0:01:58.76,0:02:03.01,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,679.823)\fs104\blur8\t(0,1050,\fs100\blur1)\c&HFFFFFF&}The Boar Bares Its Fangs, \NZenitsu Sleeps
+Dialogue: 0,0:01:58.76,0:02:03.01,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,390)\fs94\blur8\t(0,1050,\fs88\blur1)\c&HFFFFFF&}Episode
+Dialogue: 0,0:01:58.76,0:02:03.01,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,486)\fs148\blur8\t(0,1050,\fs140\blur1)\c&HFFFFFF&}12
+Dialogue: 0,0:06:52.97,0:07:00.98,Title Card Sign,,0,0,0,,{\pos(1539.61,877.22)\fscx100.46\fscy100.46\fnBrushStroke 35\fs48\b0\c&H090415&\blur0.56}Demon Slayer
+Dialogue: 0,0:12:34.14,0:12:34.27,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(963.11,487.78)\blur0.6\iclip(m 920 469 l 965 505 924 528 979 515 982 512 974 507 1029 468 1028 463 969 502 923 464)}Waning Six
+Dialogue: 0,0:12:34.27,0:12:34.35,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(978.11,482.37)\blur0.6\iclip(m 935 463.59 l 980 499.59 939 522.59 994 509.59 997 506.59 989 501.59 1044 462.59 1043 457.59 984 496.59 938 458.59)}Waning Six
+Dialogue: 0,0:12:34.35,0:12:34.40,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(978.01,482.37)\blur0.6\iclip(m 934.9 463.59 l 979.9 499.59 938.9 522.59 993.9 509.59 996.9 506.59 988.9 501.59 1043.9 462.59 1042.9 457.59 983.9 496.59 937.9 458.59)}Waning Six
+Dialogue: 0,0:12:34.40,0:12:34.44,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(973.53,476.35)\blur0.6\iclip(m 930.42 457.58 l 975.42 493.58 934.42 516.58 989.42 503.58 992.42 500.58 984.42 495.58 1039.42 456.58 1038.42 451.58 979.42 490.58 933.42 452.58)}Waning Six
+Dialogue: 0,0:12:34.44,0:12:34.48,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(973.43,476.38)\blur0.6\iclip(m 930.32 457.61 l 975.32 493.61 934.32 516.61 989.32 503.61 992.32 500.61 984.32 495.61 1039.32 456.61 1038.32 451.61 979.32 490.61 933.32 452.61)}Waning Six
+Dialogue: 0,0:12:34.48,0:12:34.52,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(973.33,476.41)\blur0.6\iclip(m 930.22 457.64 l 975.22 493.64 934.22 516.64 989.22 503.64 992.22 500.64 984.22 495.64 1039.22 456.64 1038.22 451.64 979.22 490.64 933.22 452.64)}Waning Six
+Dialogue: 0,0:12:34.52,0:12:34.56,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.86,471.85)\blur0.6\iclip(m 931 453 l 969 489 962 494 983 499 986 496 978 491 1038 455 1040 447 973 486 928 443)}Waning Six
+Dialogue: 0,0:12:34.56,0:12:34.60,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.77,471.86)\blur0.6\iclip(m 930.91 453.01 l 968.91 489.01 961.91 494.01 982.91 499.01 985.91 496.01 977.91 491.01 1037.91 455.01 1039.91 447.01 972.91 486.01 927.91 443.01)}Waning Six
+Dialogue: 0,0:12:34.60,0:12:34.65,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.67,471.87)\blur0.6\iclip(m 930.81 453.02 l 968.81 489.02 961.81 494.02 982.81 499.02 985.81 496.02 977.81 491.02 1037.81 455.02 1039.81 447.02 972.81 486.02 927.81 443.02)}Waning Six
+Dialogue: 0,0:12:34.65,0:12:34.69,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.58,471.88)\blur0.6\iclip(m 930.72 453.03 l 968.72 489.03 961.72 494.03 982.72 499.03 985.72 496.03 977.72 491.03 1037.72 455.03 1039.72 447.03 972.72 486.03 927.72 443.03)}Waning Six
+Dialogue: 0,0:12:34.69,0:12:34.73,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.49,471.91)\blur0.6\iclip(m 930.63 453.06 l 968.63 489.06 961.63 494.06 982.63 499.06 985.63 496.06 977.63 491.06 1037.63 455.06 1039.63 447.06 972.63 486.06 927.63 443.06)}Waning Six
+Dialogue: 0,0:12:34.73,0:12:34.77,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.42,472)\blur0.6\iclip(m 930.56 453.15 l 968.56 489.15 961.56 494.15 982.56 499.15 985.56 496.15 977.56 491.15 1037.56 455.15 1039.56 447.15 972.56 486.15 927.56 443.15)}Waning Six
+Dialogue: 0,0:12:34.77,0:12:34.81,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.36,472.13)\blur0.6\iclip(m 930.5 453.28 l 968.5 489.28 961.5 494.28 982.5 499.28 985.5 496.28 977.5 491.28 1037.5 455.28 1039.5 447.28 972.5 486.28 927.5 443.28)}Waning Six
+Dialogue: 0,0:12:34.81,0:12:34.85,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.27,472.22)\blur0.6\iclip(m 930.41 453.37 l 968.41 489.37 961.41 494.37 982.41 499.37 985.41 496.37 977.41 491.37 1037.41 455.37 1039.41 447.37 972.41 486.37 927.41 443.37)}Waning Six
+Dialogue: 0,0:12:34.85,0:12:34.90,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.26,472.44)\blur0.6\iclip(m 930.4 453.59 l 968.4 489.59 961.4 494.59 982.4 499.59 985.4 496.59 977.4 491.59 1037.4 455.59 1039.4 447.59 972.4 486.59 927.4 443.59)}Waning Six
+Dialogue: 0,0:12:34.90,0:12:34.94,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.26,472.69)\blur0.6\iclip(m 930.4 453.84 l 968.4 489.84 961.4 494.84 982.4 499.84 985.4 496.84 977.4 491.84 1037.4 455.84 1039.4 447.84 972.4 486.84 927.4 443.84)}Waning Six
+Dialogue: 0,0:12:34.94,0:12:34.98,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.26,472.95)\blur0.6\iclip(m 930.4 454.1 l 968.4 490.1 961.4 495.1 982.4 500.1 985.4 497.1 977.4 492.1 1037.4 456.1 1039.4 448.1 972.4 487.1 927.4 444.1)}Waning Six
+Dialogue: 0,0:12:34.98,0:12:35.02,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.26,473.2)\blur0.6\iclip(m 930.4 454.35 l 968.4 490.35 961.4 495.35 982.4 500.35 985.4 497.35 977.4 492.35 1037.4 456.35 1039.4 448.35 972.4 487.35 927.4 444.35)}Waning Six
+Dialogue: 0,0:12:35.02,0:12:35.06,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.41,473.59)\blur0.6\iclip(m 930.55 454.74 l 968.55 490.74 961.55 495.74 982.55 500.74 985.55 497.74 977.55 492.74 1037.55 456.74 1039.55 448.74 972.55 487.74 927.55 444.74)}Waning Six
+Dialogue: 0,0:12:35.06,0:12:35.10,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.49,473.95)\blur0.6\iclip(m 930.63 455.1 l 968.63 491.1 961.63 496.1 982.63 501.1 985.63 498.1 977.63 493.1 1037.63 457.1 1039.63 449.1 972.63 488.1 927.63 445.1)}Waning Six
+Dialogue: 0,0:12:35.10,0:12:35.15,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.73,474.44)\blur0.6\iclip(m 930.87 455.59 l 968.87 491.59 961.87 496.59 982.87 501.59 985.87 498.59 977.87 493.59 1037.87 457.59 1039.87 449.59 972.87 488.59 927.87 445.59)}Waning Six
+Dialogue: 0,0:12:35.15,0:12:35.19,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.98,474.95)\blur0.6\iclip(m 931.12 456.1 l 969.12 492.1 962.12 497.1 983.12 502.1 986.12 499.1 978.12 494.1 1038.12 458.1 1040.12 450.1 973.12 489.1 928.12 446.1)}Waning Six
+Dialogue: 0,0:12:35.19,0:12:35.23,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.25,475.47)\blur0.6\iclip(m 931.39 456.62 l 969.39 492.62 962.39 497.62 983.39 502.62 986.39 499.62 978.39 494.62 1038.39 458.62 1040.39 450.62 973.39 489.62 928.39 446.62)}Waning Six
+Dialogue: 0,0:12:35.23,0:12:35.27,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.58,475.95)\blur0.6\iclip(m 931.72 457.1 l 969.72 493.1 962.72 498.1 983.72 503.1 986.72 500.1 978.72 495.1 1038.72 459.1 1040.72 451.1 973.72 490.1 928.72 447.1)}Waning Six
+Dialogue: 0,0:12:35.27,0:12:35.31,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.67,476.3)\blur0.6\iclip(m 931.81 457.45 l 969.81 493.45 962.81 498.45 983.81 503.45 986.81 500.45 978.81 495.45 1038.81 459.45 1040.81 451.45 973.81 490.45 928.81 447.45)}Waning Six
+Dialogue: 0,0:12:35.31,0:12:35.35,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.86,476.69)\blur0.6\iclip(m 932 457.84 l 970 493.84 963 498.84 984 503.84 987 500.84 979 495.84 1039 459.84 1041 451.84 974 490.84 929 447.84)}Waning Six
+Dialogue: 0,0:12:35.35,0:12:35.40,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.9,476.89)\blur0.6\iclip(m 932.04 458.04 l 970.04 494.04 963.04 499.04 984.04 504.04 987.04 501.04 979.04 496.04 1039.04 460.04 1041.04 452.04 974.04 491.04 929.04 448.04)}Waning Six
+Dialogue: 0,0:12:35.40,0:12:35.44,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.95,477.04)\blur0.6\iclip(m 932.09 458.18 l 970.09 494.18 963.09 499.18 984.09 504.18 987.09 501.18 979.09 496.18 1039.09 460.18 1041.09 452.18 974.09 491.18 929.09 448.18)}Waning Six
+Dialogue: 0,0:12:35.44,0:12:35.48,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.89,477.12)\blur0.6\iclip(m 932.03 458.27 l 970.03 494.27 963.03 499.27 984.03 504.27 987.03 501.27 979.03 496.27 1039.03 460.27 1041.03 452.27 974.03 491.27 929.03 448.27)}Waning Six
+Dialogue: 0,0:12:35.48,0:12:35.52,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.83,477.13)\blur0.6\iclip(m 931.96 458.28 l 969.96 494.28 962.96 499.28 983.96 504.28 986.96 501.28 978.96 496.28 1038.96 460.28 1040.96 452.28 973.96 491.28 928.96 448.28)}Waning Six
+Dialogue: 0,0:12:35.52,0:12:35.56,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.72,477.1)\blur0.6\iclip(m 931.86 458.25 l 969.86 494.25 962.86 499.25 983.86 504.25 986.86 501.25 978.86 496.25 1038.86 460.25 1040.86 452.25 973.86 491.25 928.86 448.25)}Waning Six
+Dialogue: 0,0:12:35.56,0:12:35.60,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.55,477)\blur0.6\iclip(m 931.69 458.15 l 969.69 494.15 962.69 499.15 983.69 504.15 986.69 501.15 978.69 496.15 1038.69 460.15 1040.69 452.15 973.69 491.15 928.69 448.15)}Waning Six
+Dialogue: 0,0:12:35.60,0:12:35.65,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.4,476.93)\blur0.6\iclip(m 931.54 458.08 l 969.54 494.08 962.54 499.08 983.54 504.08 986.54 501.08 978.54 496.08 1038.54 460.08 1040.54 452.08 973.54 491.08 928.54 448.08)}Waning Six
+Dialogue: 0,0:12:35.65,0:12:35.69,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.22,476.72)\blur0.6\iclip(m 931.36 457.87 l 969.36 493.87 962.36 498.87 983.36 503.87 986.36 500.87 978.36 495.87 1038.36 459.87 1040.36 451.87 973.36 490.87 928.36 447.87)}Waning Six
+Dialogue: 0,0:12:35.69,0:12:35.73,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.04,476.57)\blur0.6\iclip(m 931.18 457.72 l 969.18 493.72 962.18 498.72 983.18 503.72 986.18 500.72 978.18 495.72 1038.18 459.72 1040.18 451.72 973.18 490.72 928.18 447.72)}Waning Six
+Dialogue: 0,0:12:35.73,0:12:35.77,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.82,476.31)\blur0.6\iclip(m 930.96 457.46 l 968.96 493.46 961.96 498.46 982.96 503.46 985.96 500.46 977.96 495.46 1037.96 459.46 1039.96 451.46 972.96 490.46 927.96 447.46)}Waning Six
+Dialogue: 0,0:12:35.77,0:12:35.81,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.62,476.06)\blur0.6\iclip(m 930.76 457.21 l 968.76 493.21 961.76 498.21 982.76 503.21 985.76 500.21 977.76 495.21 1037.75 459.21 1039.76 451.21 972.76 490.21 927.76 447.21)}Waning Six
+Dialogue: 0,0:12:35.81,0:12:35.85,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.41,475.78)\blur0.6\iclip(m 930.55 456.93 l 968.55 492.93 961.55 497.93 982.55 502.93 985.55 499.93 977.55 494.93 1037.55 458.93 1039.55 450.93 972.55 489.93 927.55 446.93)}Waning Six
+Dialogue: 0,0:12:35.85,0:12:35.90,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.2,475.51)\blur0.6\iclip(m 930.34 456.66 l 968.34 492.66 961.34 497.66 982.34 502.66 985.34 499.66 977.34 494.66 1037.34 458.66 1039.34 450.66 972.34 489.66 927.34 446.66)}Waning Six
+Dialogue: 0,0:12:35.90,0:12:35.94,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.01,475.24)\blur0.6\iclip(m 930.15 456.39 l 968.15 492.39 961.15 497.39 982.15 502.39 985.15 499.39 977.15 494.39 1037.15 458.39 1039.15 450.39 972.15 489.39 927.15 446.39)}Waning Six
+Dialogue: 0,0:12:35.94,0:12:35.98,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.8,474.95)\blur0.6\iclip(m 929.94 456.1 l 967.94 492.1 960.94 497.1 981.94 502.1 984.94 499.1 976.94 494.1 1036.94 458.1 1038.94 450.1 971.94 489.1 926.94 446.1)}Waning Six
+Dialogue: 0,0:12:35.98,0:12:36.02,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.66,474.7)\blur0.6\iclip(m 929.8 455.85 l 967.8 491.85 960.8 496.85 981.8 501.85 984.8 498.85 976.8 493.85 1036.8 457.85 1038.8 449.85 971.8 488.85 926.8 445.85)}Waning Six
+Dialogue: 0,0:12:36.02,0:12:36.06,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.5,474.44)\blur0.6\iclip(m 929.64 455.59 l 967.64 491.59 960.64 496.59 981.64 501.59 984.64 498.59 976.64 493.59 1036.64 457.59 1038.64 449.59 971.64 488.59 926.64 445.59)}Waning Six
+Dialogue: 0,0:12:36.06,0:12:36.11,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.42,474.25)\blur0.6\iclip(m 929.56 455.4 l 967.56 491.4 960.56 496.4 981.56 501.4 984.56 498.4 976.56 493.4 1036.56 457.4 1038.56 449.4 971.56 488.4 926.56 445.4)}Waning Six
+Dialogue: 0,0:12:36.11,0:12:36.15,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.24,473.99)\blur0.6\iclip(m 929.38 455.14 l 967.38 491.14 960.38 496.14 981.38 501.14 984.38 498.14 976.38 493.14 1036.38 457.14 1038.38 449.14 971.38 488.14 926.38 445.14)}Waning Six
+Dialogue: 0,0:12:36.15,0:12:36.19,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.19,473.83)\blur0.6\iclip(m 929.33 454.98 l 967.33 490.98 960.33 495.98 981.33 500.98 984.33 497.98 976.33 492.98 1036.33 456.98 1038.33 448.98 971.33 487.98 926.33 444.98)}Waning Six
+Dialogue: 0,0:12:36.19,0:12:36.23,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.17,473.66)\blur0.6\iclip(m 929.31 454.81 l 967.31 490.81 960.31 495.81 981.31 500.81 984.31 497.81 976.31 492.81 1036.31 456.81 1038.31 448.81 971.31 487.81 926.31 444.81)}Waning Six
+Dialogue: 0,0:12:36.23,0:12:36.27,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.18,473.58)\blur0.6\iclip(m 929.32 454.73 l 967.32 490.73 960.32 495.73 981.32 500.73 984.32 497.73 976.32 492.73 1036.32 456.73 1038.32 448.73 971.32 487.73 926.32 444.73)}Waning Six
+Dialogue: 0,0:12:36.27,0:12:36.31,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.2,473.55)\blur0.6\iclip(m 929.34 454.7 l 967.34 490.7 960.34 495.7 981.34 500.7 984.34 497.7 976.34 492.7 1036.34 456.7 1038.34 448.7 971.34 487.7 926.34 444.7)}Waning Six
+Dialogue: 0,0:12:36.31,0:12:36.36,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.28,473.55)\blur0.6\iclip(m 929.42 454.7 l 967.42 490.7 960.42 495.7 981.42 500.7 984.42 497.7 976.42 492.7 1036.42 456.7 1038.42 448.7 971.42 487.7 926.42 444.7)}Waning Six
+Dialogue: 0,0:12:36.36,0:12:36.40,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.41,473.59)\blur0.6\iclip(m 929.55 454.74 l 967.55 490.74 960.55 495.74 981.55 500.74 984.55 497.74 976.55 492.74 1036.55 456.74 1038.55 448.74 971.55 487.74 926.55 444.74)}Waning Six
+Dialogue: 0,0:12:36.40,0:12:36.44,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.55,473.69)\blur0.6\iclip(m 929.69 454.84 l 967.69 490.84 960.69 495.84 981.69 500.84 984.69 497.84 976.69 492.84 1036.69 456.84 1038.69 448.84 971.69 487.84 926.69 444.84)}Waning Six
+Dialogue: 0,0:12:36.44,0:12:36.48,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.8,473.93)\blur0.6\iclip(m 929.94 455.08 l 967.94 491.08 960.94 496.08 981.94 501.08 984.94 498.08 976.94 493.08 1036.94 457.08 1038.94 449.08 971.94 488.08 926.94 445.08)}Waning Six
+Dialogue: 0,0:12:36.48,0:12:36.52,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.06,474.18)\blur0.6\iclip(m 930.2 455.33 l 968.2 491.33 961.2 496.33 982.2 501.33 985.2 498.33 977.2 493.33 1037.2 457.33 1039.2 449.33 972.2 488.33 927.2 445.33)}Waning Six
+Dialogue: 0,0:12:36.52,0:12:36.56,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.42,474.51)\blur0.6\iclip(m 930.56 455.66 l 968.56 491.66 961.56 496.66 982.56 501.66 985.56 498.66 977.56 493.66 1037.56 457.66 1039.56 449.66 972.56 488.66 927.56 445.66)}Waning Six
+Dialogue: 0,0:12:36.56,0:12:36.61,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.79,474.93)\blur0.6\iclip(m 930.93 456.08 l 968.93 492.08 961.93 497.08 982.93 502.08 985.93 499.08 977.93 494.08 1037.93 458.08 1039.93 450.08 972.93 489.08 927.93 446.08)}Waning Six
+Dialogue: 0,0:12:36.61,0:12:36.65,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.21,475.5)\blur0.6\iclip(m 931.35 456.65 l 969.35 492.65 962.35 497.65 983.35 502.65 986.35 499.65 978.35 494.65 1038.35 458.65 1040.35 450.65 973.35 489.65 928.35 446.65)}Waning Six
+Dialogue: 0,0:12:36.65,0:12:36.69,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.62,476.07)\blur0.6\iclip(m 931.76 457.22 l 969.76 493.22 962.76 498.22 983.76 503.22 986.76 500.22 978.76 495.22 1038.75 459.22 1040.76 451.22 973.76 490.22 928.76 447.22)}Waning Six
+Dialogue: 0,0:12:36.69,0:12:36.73,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.88,476.67)\blur0.6\iclip(m 932.02 457.82 l 970.02 493.82 963.02 498.82 984.02 503.82 987.02 500.82 979.02 495.82 1039.02 459.82 1041.02 451.82 974.02 490.82 929.02 447.82)}Waning Six
+Dialogue: 0,0:12:36.73,0:12:36.77,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(969.1,477.18)\blur0.6\iclip(m 932.24 458.33 l 970.24 494.33 963.24 499.33 984.24 504.33 987.24 501.33 979.24 496.33 1039.24 460.33 1041.24 452.33 974.24 491.33 929.24 448.33)}Waning Six
+Dialogue: 0,0:12:36.77,0:12:36.81,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(969.2,477.74)\blur0.6\iclip(m 932.34 458.89 l 970.34 494.89 963.34 499.89 984.34 504.89 987.34 501.89 979.34 496.89 1039.34 460.89 1041.34 452.89 974.34 491.89 929.34 448.89)}Waning Six
+Dialogue: 0,0:12:36.81,0:12:36.86,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(969.21,478.24)\blur0.6\iclip(m 932.35 459.39 l 970.35 495.39 963.35 500.39 984.35 505.39 987.35 502.39 979.35 497.39 1039.35 461.39 1041.35 453.39 974.35 492.39 929.35 449.39)}Waning Six
+Dialogue: 0,0:12:36.86,0:12:36.90,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(969.21,478.73)\blur0.6\iclip(m 932.34 459.88 l 970.34 495.88 963.34 500.88 984.34 505.88 987.34 502.88 979.34 497.88 1039.34 461.88 1041.34 453.88 974.34 492.88 929.34 449.88)}Waning Six
+Dialogue: 0,0:12:36.90,0:12:36.94,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(969.07,479.18)\blur0.6\iclip(m 932.21 460.33 l 970.21 496.33 963.21 501.33 984.21 506.33 987.21 503.33 979.21 498.33 1039.21 462.33 1041.21 454.33 974.21 493.33 929.21 450.33)}Waning Six
+Dialogue: 0,0:12:36.94,0:12:36.98,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.9,479.62)\blur0.6\iclip(m 932.04 460.77 l 970.04 496.77 963.04 501.77 984.04 506.77 987.04 503.77 979.04 498.77 1039.04 462.77 1041.04 454.77 974.04 493.77 929.04 450.77)}Waning Six
+Dialogue: 0,0:12:36.98,0:12:37.02,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.67,480.02)\blur0.6\iclip(m 931.81 461.17 l 969.81 497.17 962.81 502.17 983.81 507.17 986.81 504.17 978.81 499.17 1038.81 463.17 1040.81 455.17 973.81 494.17 928.81 451.17)}Waning Six
+Dialogue: 0,0:12:37.02,0:12:37.06,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.42,480.45)\blur0.6\iclip(m 931.56 461.6 l 969.56 497.6 962.56 502.6 983.56 507.6 986.56 504.6 978.56 499.6 1038.56 463.6 1040.56 455.6 973.56 494.6 928.56 451.6)}Waning Six
+Dialogue: 0,0:12:37.06,0:12:37.11,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.14,480.74)\blur0.6\iclip(m 931.28 461.89 l 969.28 497.89 962.28 502.89 983.28 507.89 986.28 504.89 978.28 499.89 1038.28 463.89 1040.28 455.89 973.28 494.89 928.28 451.89)}Waning Six
+Dialogue: 0,0:12:37.11,0:12:37.15,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.86,481.03)\blur0.6\iclip(m 931 462.18 l 969 498.18 962 503.18 983 508.18 986 505.18 978 500.18 1038 464.18 1040 456.18 973 495.18 928 452.18)}Waning Six
+Dialogue: 0,0:12:37.15,0:12:37.19,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.5,481.33)\blur0.6\iclip(m 930.64 462.48 l 968.64 498.48 961.64 503.48 982.64 508.48 985.64 505.48 977.64 500.48 1037.64 464.48 1039.64 456.48 972.64 495.48 927.64 452.48)}Waning Six
+Dialogue: 0,0:12:37.19,0:12:37.23,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.16,481.61)\blur0.6\iclip(m 930.3 462.76 l 968.3 498.76 961.3 503.76 982.3 508.76 985.3 505.76 977.3 500.76 1037.3 464.76 1039.3 456.76 972.3 495.76 927.3 452.76)}Waning Six
+Dialogue: 0,0:12:37.23,0:12:37.27,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.8,481.76)\blur0.6\iclip(m 929.94 462.91 l 967.94 498.91 960.94 503.91 981.94 508.91 984.94 505.91 976.94 500.91 1036.94 464.91 1038.94 456.91 971.94 495.91 926.94 452.91)}Waning Six
+Dialogue: 0,0:12:37.27,0:12:37.31,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.43,481.96)\blur0.6\iclip(m 929.57 463.11 l 967.57 499.11 960.57 504.11 981.57 509.11 984.57 506.11 976.57 501.11 1036.57 465.11 1038.57 457.11 971.57 496.11 926.57 453.11)}Waning Six
+Dialogue: 0,0:12:37.31,0:12:37.36,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.1,482.06)\blur0.6\iclip(m 929.24 463.21 l 967.24 499.21 960.24 504.21 981.24 509.21 984.24 506.21 976.24 501.21 1036.24 465.21 1038.24 457.21 971.24 496.21 926.24 453.21)}Waning Six
+Dialogue: 0,0:12:37.36,0:12:37.40,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(965.72,482.19)\blur0.6\iclip(m 928.86 463.34 l 966.86 499.34 959.86 504.34 980.86 509.34 983.86 506.34 975.86 501.34 1035.86 465.34 1037.86 457.34 970.86 496.34 925.86 453.34)}Waning Six
+Dialogue: 0,0:12:37.40,0:12:37.44,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(965.41,482.28)\blur0.6\iclip(m 928.55 463.43 l 966.55 499.43 959.55 504.43 980.55 509.43 983.55 506.43 975.55 501.43 1035.55 465.43 1037.55 457.43 970.55 496.43 925.55 453.43)}Waning Six
+Dialogue: 0,0:12:37.44,0:12:37.48,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(965.13,482.35)\blur0.6\iclip(m 928.27 463.5 l 966.27 499.5 959.27 504.5 980.27 509.5 983.27 506.5 975.27 501.5 1035.27 465.5 1037.27 457.5 970.27 496.5 925.27 453.5)}Waning Six
+Dialogue: 0,0:12:37.48,0:12:37.52,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.88,482.36)\blur0.6\iclip(m 928.02 463.51 l 966.02 499.51 959.02 504.51 980.02 509.51 983.02 506.51 975.02 501.51 1035.02 465.51 1037.02 457.51 970.02 496.51 925.02 453.51)}Waning Six
+Dialogue: 0,0:12:37.52,0:12:37.56,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.62,482.39)\blur0.6\iclip(m 927.76 463.54 l 965.76 499.54 958.76 504.54 979.76 509.54 982.76 506.54 974.76 501.54 1034.76 465.54 1036.76 457.54 969.76 496.54 924.76 453.54)}Waning Six
+Dialogue: 0,0:12:37.56,0:12:37.61,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.43,482.41)\blur0.6\iclip(m 927.57 463.56 l 965.57 499.56 958.57 504.56 979.57 509.56 982.57 506.56 974.57 501.56 1034.57 465.56 1036.57 457.56 969.57 496.56 924.57 453.56)}Waning Six
+Dialogue: 0,0:12:37.61,0:12:37.65,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.26,482.42)\blur0.6\iclip(m 927.4 463.57 l 965.4 499.57 958.4 504.57 979.4 509.57 982.4 506.57 974.4 501.57 1034.4 465.57 1036.4 457.57 969.4 496.57 924.4 453.57)}Waning Six
+Dialogue: 0,0:12:37.65,0:12:37.69,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.17,482.41)\blur0.6\iclip(m 927.31 463.56 l 965.31 499.56 958.31 504.56 979.31 509.56 982.31 506.56 974.31 501.56 1034.31 465.56 1036.31 457.56 969.31 496.56 924.31 453.56)}Waning Six
+Dialogue: 0,0:12:37.69,0:12:37.73,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.09,482.39)\blur0.6\iclip(m 927.23 463.54 l 965.23 499.54 958.23 504.54 979.23 509.54 982.23 506.54 974.23 501.54 1034.23 465.54 1036.23 457.54 969.23 496.54 924.23 453.54)}Waning Six
+Dialogue: 0,0:12:37.73,0:12:37.77,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.12,482.39)\blur0.6\iclip(m 927.26 463.54 l 965.26 499.54 958.26 504.54 979.26 509.54 982.26 506.54 974.26 501.54 1034.26 465.54 1036.26 457.54 969.26 496.54 924.26 453.54)}Waning Six
+Dialogue: 0,0:12:37.77,0:12:37.82,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.23,482.41)\blur0.6\iclip(m 927.37 463.56 l 965.37 499.56 958.37 504.56 979.37 509.56 982.37 506.56 974.37 501.56 1034.37 465.56 1036.37 457.56 969.37 496.56 924.37 453.56)}Waning Six
+Dialogue: 0,0:12:37.82,0:12:37.86,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.31,482.41)\blur0.6\iclip(m 927.45 463.56 l 965.45 499.56 958.45 504.56 979.45 509.56 982.45 506.56 974.45 501.56 1034.45 465.56 1036.45 457.56 969.45 496.56 924.45 453.56)}Waning Six
+Dialogue: 0,0:12:37.86,0:12:37.90,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.51,482.43)\blur0.6\iclip(m 927.65 463.58 l 965.65 499.58 958.65 504.58 979.65 509.58 982.65 506.58 974.65 501.58 1034.65 465.58 1036.65 457.58 969.65 496.58 924.65 453.58)}Waning Six
+Dialogue: 0,0:12:37.90,0:12:37.94,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(964.83,482.54)\blur0.6\iclip(m 927.97 463.69 l 965.97 499.69 958.97 504.69 979.97 509.69 982.97 506.69 974.97 501.69 1034.97 465.69 1036.97 457.69 969.97 496.69 924.97 453.69)}Waning Six
+Dialogue: 0,0:12:37.94,0:12:37.98,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(965.16,482.63)\blur0.6\iclip(m 928.3 463.78 l 966.3 499.78 959.3 504.78 980.3 509.78 983.3 506.78 975.3 501.78 1035.29 465.78 1037.3 457.78 970.3 496.78 925.3 453.78)}Waning Six
+Dialogue: 0,0:12:37.98,0:12:38.02,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(965.64,482.79)\blur0.6\iclip(m 928.78 463.94 l 966.78 499.94 959.78 504.94 980.78 509.94 983.78 506.94 975.78 501.94 1035.78 465.94 1037.78 457.94 970.78 496.94 925.78 453.94)}Waning Six
+Dialogue: 0,0:12:38.02,0:12:38.07,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.15,482.98)\blur0.6\iclip(m 929.29 464.13 l 967.29 500.13 960.29 505.13 981.29 510.13 984.29 507.13 976.29 502.13 1036.29 466.13 1038.29 458.13 971.29 497.13 926.29 454.13)}Waning Six
+Dialogue: 0,0:12:38.07,0:12:38.11,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(966.75,483.19)\blur0.6\iclip(m 929.89 464.34 l 967.89 500.34 960.89 505.34 981.89 510.34 984.89 507.34 976.89 502.34 1036.89 466.34 1038.89 458.34 971.89 497.34 926.89 454.34)}Waning Six
+Dialogue: 0,0:12:38.11,0:12:38.15,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.31,483.4)\blur0.6\iclip(m 930.45 464.55 l 968.45 500.55 961.45 505.55 982.45 510.55 985.45 507.55 977.45 502.55 1037.45 466.55 1039.45 458.55 972.45 497.55 927.45 454.55)}Waning Six
+Dialogue: 0,0:12:38.15,0:12:38.19,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(967.83,483.63)\blur0.6\iclip(m 930.97 464.78 l 968.97 500.78 961.97 505.78 982.97 510.78 985.97 507.78 977.97 502.78 1037.97 466.78 1039.97 458.78 972.97 497.78 927.97 454.78)}Waning Six
+Dialogue: 0,0:12:38.19,0:12:38.23,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.36,483.82)\blur0.6\iclip(m 931.5 464.97 l 969.5 500.97 962.5 505.97 983.5 510.97 986.5 507.97 978.5 502.97 1038.5 466.97 1040.5 458.97 973.5 497.97 928.5 454.97)}Waning Six
+Dialogue: 0,0:12:38.23,0:12:38.27,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(968.86,483.97)\blur0.6\iclip(m 932 465.12 l 970 501.12 963 506.12 984 511.12 987 508.12 979 503.12 1039 467.12 1041 459.12 974 498.12 929 455.12)}Waning Six
+Dialogue: 0,0:12:38.27,0:12:38.32,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(969.35,484.11)\blur0.6\iclip(m 932.49 465.26 l 970.49 501.26 963.49 506.26 984.49 511.26 987.49 508.26 979.49 503.26 1039.48 467.26 1041.49 459.26 974.49 498.26 929.49 455.26)}Waning Six
+Dialogue: 0,0:12:38.32,0:12:38.36,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(969.77,484.2)\blur0.6\iclip(m 932.91 465.35 l 970.91 501.35 963.91 506.35 984.91 511.35 987.91 508.35 979.91 503.35 1039.91 467.35 1041.91 459.35 974.91 498.35 929.91 455.35)}Waning Six
+Dialogue: 0,0:12:38.36,0:12:38.40,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(970.19,484.27)\blur0.6\iclip(m 933.33 465.42 l 971.33 501.42 964.33 506.42 985.33 511.42 988.33 508.42 980.33 503.42 1040.33 467.42 1042.33 459.42 975.33 498.42 930.33 455.42)}Waning Six
+Dialogue: 0,0:12:38.40,0:12:38.44,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(970.59,484.3)\blur0.6\iclip(m 933.73 465.45 l 971.73 501.45 964.73 506.45 985.73 511.45 988.73 508.45 980.73 503.45 1040.73 467.45 1042.73 459.45 975.73 498.45 930.73 455.45)}Waning Six
+Dialogue: 0,0:12:38.44,0:12:38.48,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(970.94,484.31)\blur0.6\iclip(m 934.08 465.46 l 972.08 501.46 965.08 506.46 986.08 511.46 989.08 508.46 981.08 503.46 1041.08 467.46 1043.08 459.46 976.08 498.46 931.08 455.46)}Waning Six
+Dialogue: 0,0:12:38.48,0:12:38.52,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(971.27,484.3)\blur0.6\iclip(m 934.41 465.45 l 972.41 501.45 965.41 506.45 986.41 511.45 989.41 508.45 981.41 503.45 1041.41 467.45 1043.41 459.45 976.41 498.45 931.41 455.45)}Waning Six
+Dialogue: 0,0:12:38.52,0:12:38.57,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(971.6,484.29)\blur0.6\iclip(m 934.74 465.44 l 972.74 501.44 965.74 506.44 986.74 511.44 989.74 508.44 981.74 503.44 1041.74 467.44 1043.74 459.44 976.74 498.44 931.74 455.44)}Waning Six
+Dialogue: 0,0:12:38.57,0:12:38.61,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(971.85,484.22)\blur0.6\iclip(m 934.99 465.37 l 972.99 501.37 965.99 506.37 986.99 511.37 989.99 508.37 981.99 503.37 1041.99 467.37 1043.99 459.37 976.99 498.37 931.99 455.37)}Waning Six
+Dialogue: 0,0:12:38.61,0:12:38.65,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(972.09,484.12)\blur0.6\iclip(m 935.23 465.27 l 973.23 501.27 966.23 506.27 987.23 511.27 990.23 508.27 982.23 503.27 1042.23 467.27 1044.23 459.27 977.23 498.27 932.23 455.27)}Waning Six
+Dialogue: 0,0:12:38.65,0:12:38.69,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(972.32,484)\blur0.6\iclip(m 935.46 465.15 l 973.46 501.15 966.46 506.15 987.46 511.15 990.46 508.15 982.46 503.15 1042.46 467.15 1044.46 459.15 977.46 498.15 932.46 455.15)}Waning Six
+Dialogue: 0,0:12:38.69,0:12:38.73,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(972.56,483.87)\blur0.6\iclip(m 935.7 465.02 l 973.7 501.02 966.7 506.02 987.7 511.02 990.7 508.02 982.7 503.02 1042.7 467.02 1044.7 459.02 977.7 498.02 932.7 455.02)}Waning Six
+Dialogue: 0,0:12:38.73,0:12:38.77,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(972.67,483.87)\blur0.6\iclip(m 935.81 465.02 l 973.81 501.02 966.81 506.02 987.81 511.02 990.81 508.02 982.81 503.02 1042.81 467.02 1044.81 459.02 977.81 498.02 932.81 455.02)}Waning Six
+Dialogue: 0,0:12:38.77,0:12:38.82,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H0B0506&\fs100\b1\an5\shad0\fscx41\fscy33\pos(972.82,483.87)\blur0.6\iclip(m 935.96 465.02 l 973.96 501.02 966.96 506.02 987.96 511.02 990.96 508.02 982.96 503.02 1042.96 467.02 1044.96 459.02 977.96 498.02 932.96 455.02)}Waning Six
+Dialogue: 0,0:13:00.05,0:13:00.09,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(950.42,511.07)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.09,0:13:00.13,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(949.9,511.09)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.13,0:13:00.17,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(949.63,511.47)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.17,0:13:00.21,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(941.13,512.72)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.21,0:13:00.25,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(941.64,513.63)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.25,0:13:00.30,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(950.53,513.94)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.30,0:13:00.34,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(950.97,514.21)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.34,0:13:00.38,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(951.21,514.18)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.38,0:13:00.42,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(942.85,514.59)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.42,0:13:00.46,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(943.21,514.27)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.46,0:13:00.50,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(951.86,513.38)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.50,0:13:00.55,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(943.33,513.57)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.55,0:13:00.59,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(943.57,513.09)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.59,0:13:00.63,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(952.33,512.31)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.63,0:13:00.67,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(952.48,511.99)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.67,0:13:00.71,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(944.1,512.48)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.71,0:13:00.75,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(944.42,512.47)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.75,0:13:00.80,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(944.85,512.76)\fscx68\fscy55}Waning Six
+Dialogue: 0,0:13:00.80,0:13:00.84,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(953.78,513.05)\fscx68\fscy55\iclip(m 949 497 l 918 538 904 559 909 560 956 502 1004 541 1003 535 962 498 994 467 985 470 957 493 896 452 893 455)}Waning Six
+Dialogue: 0,0:13:00.84,0:13:00.88,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(954.33,513.91)\fscx68\fscy55\iclip(m 952 500 l 923 533 930 536 958 503 987 528 992 525 963 498 1020 448 1013 448 959 494 882 444 888 450)}Waning Six
+Dialogue: 0,0:13:00.88,0:13:00.92,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(954.76,514.54)\fscx68\fscy55\iclip(m 952 499 l 920 541 924 542 957 505 997 537 998 529 965 500 997 469 991 467 959 496 911 461 906 463)}Waning Six
+Dialogue: 0,0:13:00.92,0:13:00.96,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(955.05,514.78)\fscx68\fscy55\iclip(m 949 500 l 913 543 919 544 957 507 1005 544 1007 538 965 502 1002 464 997 460 959 492 888 447 885 453)}Waning Six
+Dialogue: 0,0:13:00.96,0:13:01.01,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(955.32,514.76)\fscx68\fscy55\iclip(m 950 501 l 904 554 908 556 959 506 1011 550 1013 545 965 500 992 472 986 469 960 493 887 446 885 451 925 480)}Waning Six
+Dialogue: 0,0:13:01.01,0:13:01.05,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(955.56,514.53)\fscx68\fscy55\iclip(m 950 499 l 920 536 928 533 959 506 1006 544 1000 533 966 499 996 466 990 466 958 495 895 454)}Waning Six
+Dialogue: 0,0:13:01.05,0:13:01.09,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(955.76,514.19)\fscx68\fscy55\iclip(m 949 500 l 904 553 919 546 958 504 1004 541 1005 535 967 499 1003 463 995 464 960 493 891 450)}Waning Six
+Dialogue: 0,0:13:01.09,0:13:01.13,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(955.93,512.71)\fscx68\fscy55\iclip(m 952 497 l 907 547 917 544 959 504 1017 552 1005 533 965 497 1019 448 958 492 877 442)}Waning Six
+Dialogue: 0,0:13:01.13,0:13:01.17,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(955.72,505.9)\fscx68\fscy55\iclip(m 949 490 l 910 522 924 525 957 495 1003 534 1004 519 965 488 980 468 1024 439 1018 427 978 462 954 485 921 457 888 416 889 429 882 442)}Waning Six
+Dialogue: 0,0:13:01.17,0:13:01.21,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(956.45,502.94)\fscx68\fscy55\iclip(m 950 486 l 907 517 928 528 961 491 1010 539 1021 519 968 485 1020 448 1003 435 962 480 940 462 915 430 902 455)}Waning Six
+Dialogue: 0,0:13:01.21,0:13:01.26,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(958.01,508.75)\fscx68\fscy55\iclip(m 954 490 l 897 537 914 556 961 497 1005 546 1020 523 964 490)}Waning Six
+Dialogue: 0,0:13:01.26,0:13:01.30,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(959.76,512.94)\fscx68\fscy55\iclip(m 954 494 l 905 539 927 550 963 502 1018 561 1020 530 969 496)}Waning Six
+Dialogue: 0,0:13:01.30,0:13:01.34,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(960.89,509.79)\fscx68\fscy55\iclip(m 953 490 l 927 512 913 522 915 527 929 538 966 500 981 520 998 535 1044 531 973 490)}Waning Six
+Dialogue: 0,0:13:01.34,0:13:01.38,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(961.84,506.82)\fscx68\fscy55\iclip(m 953 487 l 913 518 915 525 928 542 963 499 1000 528 1008 541 1035 521 975 488)}Waning Six
+Dialogue: 0,0:13:01.38,0:13:01.42,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(962.22,504.78)\fscx68\fscy55\iclip(m 954 484 l 909 519 910 527 924 545 963 497 1010 542 1031 515 978 484)}Waning Six
+Dialogue: 0,0:13:01.42,0:13:01.46,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(961.84,507.39)\fscx68\fscy55\iclip(m 952 485 l 907 521 907 529 876 558 905 577 963 496 1019 558 1034 522 976 485)}Waning Six
+Dialogue: 0,0:13:01.46,0:13:01.51,Sign,,0,0,0,,{\frz0\alpha&H00&\fncreation\bord0\c&H1F1D2D&\fs100\b1\an5\shad0\blur1\pos(961.5,510.39)\fscx68\fscy55\iclip(m 952 494 l 885 539 916 562 964 498 1024 562 1045 528 976 488)}Waning Six
+Dialogue: 0,0:22:59.98,0:23:00.23,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx100.46\fscy100.46\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.23,0:23:00.27,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx100.46\fscy100.46\frz0.1\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.27,0:23:00.31,Title Card Sign,,0,0,0,,{\an3\pos(1147.48,494.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.31,0:23:00.35,Title Card Sign,,0,0,0,,{\an3\pos(1148.48,495.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.35,0:23:00.40,Title Card Sign,,0,0,0,,{\an3\pos(1149.48,496.42)\fscx99.99\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H29272E&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.40,0:23:00.44,Title Card Sign,,0,0,0,,{\an3\pos(1151.48,496.42)\fscx100\fscy100\frz0.15\fnBrushStroke 35\fs82\b0\c&H2B2A2E&\blur1.1}Demon Slayer
+Dialogue: 0,0:23:00.44,0:23:00.48,Title Card Sign,,0,0,0,,{\an3\pos(1155.48,496.42)\fscx99\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.48,0:23:00.52,Title Card Sign,,0,0,0,,{\an3\pos(1167.48,494.42)\fscx95\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.52,0:23:00.56,Title Card Sign,,0,0,0,,{\an3\pos(1207.41,490.38)\fscx95\fscy102\frz0.15\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.56,0:23:00.60,Title Card Sign,,0,0,0,,{\an3\pos(1257.98,480.1)\fscx95\fscy102\frz1.65\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.60,0:23:00.65,Title Card Sign,,0,0,0,,{\an3\pos(1329.41,478.38)\fscx95\fscy102\frz1.65\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.65,0:23:00.69,Title Card Sign,,0,0,0,,{\an3\pos(1403.41,478.96)\fscx95\fscy102\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.69,0:23:00.73,Title Card Sign,,0,0,0,,{\an3\pos(1498.55,471.53)\fscx90.31\fscy96.96\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.73,0:23:00.77,Title Card Sign,,0,0,0,,{\an3\pos(1593.12,474.38)\fscx83\fscy96\frz2.13\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.77,0:23:00.81,Title Card Sign,,0,0,0,,{\an3\pos(1682.84,466.67)\fscx73\fscy92\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.81,0:23:00.85,Title Card Sign,,0,0,0,,{\an3\pos(1751.98,461.53)\fscx63\fscy98\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.85,0:23:00.90,Title Card Sign,,0,0,0,,{\an3\pos(1825.12,458.1)\fscx45\fscy99\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.90,0:23:00.94,Title Card Sign,,0,0,0,,{\an3\pos(1892.27,456.1)\fscx28\fscy109\frz4.69\fax0.3\fnBrushStroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.90,0:23:00.94,Episode Preview Sign 2,,0,0,0,,{\iclip(m 746 331 l 692 127 852 105 845 407)\blur0.6\fscx90\fscy90\frz16.92\fs40\bord3\3c&H3E5954&\c&H3E5954&\2c&H666667&\pos(695.057,209.727)}Rustle
+Dialogue: 1,0:23:00.90,0:23:00.94,Episode Preview Sign 2,,0,0,0,,{\iclip(m 746 331 l 692 127 852 105 845 407)\blur0.6\fscx90\fscy90\frz16.92\fs40\bord0\c&HBAE1EA&\2c&H666667&\4a&HFF&\pos(695.057,209.727)}Rustle
+Dialogue: 0,0:23:00.94,0:23:37.14,Episode Preview Sign 2,,0,0,0,,{\blur0.6\fscx90\fscy90\frz16.92\fs40\bord3\3c&H3E5954&\c&H3E5954&\2c&H666667&\pos(695.057,209.727)}Rustle
+Dialogue: 1,0:23:00.94,0:23:37.14,Episode Preview Sign 2,,0,0,0,,{\blur0.6\fscx90\fscy90\frz16.92\fs40\bord0\c&HBAE1EA&\2c&H666667&\4a&HFF&\pos(695.057,209.727)}Rustle
+Dialogue: 0,0:23:02.36,0:23:02.61,Episode Preview Sign 2,,0,0,0,,{\iclip(m 821 185 l 840 184 857 183 868 184 873 184 879 180 882 177 886 176 889 173 891 171 888 178 883 189 879 196 878 198 849 243)\blur0.6\fscx90\fscy90\frz16.92\fs40\bord3\3c&H3E5954&\c&H3E5954&\2c&H666667&\pos(887.057,195.327)}Rustle
+Dialogue: 1,0:23:02.36,0:23:02.61,Episode Preview Sign 2,,0,0,0,,{\iclip(m 821 185 l 840 184 857 183 868 184 873 184 879 180 882 177 886 176 889 173 891 171 888 178 883 189 879 196 878 198 849 243)\blur0.6\fscx90\fscy90\frz16.92\fs40\bord0\c&HBAE1EA&\2c&H666667&\4a&HFF&\pos(887.057,195.327)}Rustle
+Dialogue: 0,0:23:02.61,0:23:37.14,Episode Preview Sign 2,,0,0,0,,{\blur0.6\fscx90\fscy90\frz16.92\fs40\bord3\3c&H3E5954&\c&H3E5954&\2c&H666667&\pos(887.057,195.327)}Rustle
+Dialogue: 1,0:23:02.61,0:23:37.14,Episode Preview Sign 2,,0,0,0,,{\blur0.6\fscx90\fscy90\frz16.92\fs40\bord0\c&HBAE1EA&\2c&H666667&\4a&HFF&\pos(887.057,195.327)}Rustle
+Dialogue: 0,0:23:01.06,0:23:01.10,Episode Preview Sign,,0,0,0,,{\blur0.6\pos(1464.8,115.6)\frz3.24\fs100\fsp5\3c&HC1E6EC&\c&HC1E6EC&\bord5\clip(m 1466 21 l 1509 125 1221 123 1242 27)}PREVIEW
+Dialogue: 1,0:23:01.06,0:23:01.10,Episode Preview Sign,,0,0,0,,{\blur0.6\pos(1464.8,115.6)\frz3.24\fs100\fsp5\c&H445D55&\bord0\clip(m 1466 21 l 1509 125 1221 123 1242 27)\4a&HFF&}PREVIEW
+Dialogue: 0,0:23:01.10,0:23:37.14,Episode Preview Sign,,0,0,0,,{\blur0.6\pos(1464.8,115.6)\frz3.24\fs100\fsp5\3c&HC1E6EC&\c&HC1E6EC&\bord5}PREVIEW
+Dialogue: 1,0:23:01.10,0:23:37.14,Episode Preview Sign,,0,0,0,,{\blur0.6\pos(1464.8,115.6)\frz3.24\fs100\fsp5\c&H445D55&\bord0\4a&HFF&}PREVIEW
+Dialogue: 0,0:23:37.22,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord23\c&H000000&\3c&H080118&\alpha&H00&\1a&HFF&\blur9}To Be Continued
+Dialogue: 1,0:23:37.22,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur9}To Be Continued
+Dialogue: 2,0:23:37.22,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur9}To Be Continued
+Dialogue: 3,0:23:37.22,0:23:37.27,To Be Continued Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord0\shad0\c&HFFFFFF&\blur9}To Be Continued
+Dialogue: 0,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur3}To Be Continued
+Dialogue: 1,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur3}To Be Continued
+Dialogue: 2,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur3}To Be Continued
+Dialogue: 3,0:23:37.27,0:23:37.31,To Be Continued Sign,,0,0,0,,{\pos(1081.08,973.86)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2}To Be Continued
+Dialogue: 0,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{\pos(1094.43,1012.19)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
+Dialogue: 1,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{\pos(1094.43,1012.19)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
+Dialogue: 2,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{\pos(1094.43,1012.19)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
+Dialogue: 3,0:23:37.31,0:23:37.35,To Be Continued Sign,,0,0,0,,{\pos(1094.43,1012.19)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur2}To Be Continued
+Dialogue: 0,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{\pos(1077.84,998.9)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
+Dialogue: 1,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{\pos(1077.84,998.9)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
+Dialogue: 2,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{\pos(1077.84,998.9)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
+Dialogue: 3,0:23:37.35,0:23:37.39,To Be Continued Sign,,0,0,0,,{\pos(1077.84,998.9)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.5}To Be Continued
+Dialogue: 0,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{\pos(1089.16,1009.04)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
+Dialogue: 1,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{\pos(1089.16,1009.04)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
+Dialogue: 2,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{\pos(1089.16,1009.04)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
+Dialogue: 3,0:23:37.39,0:23:37.43,To Be Continued Sign,,0,0,0,,{\pos(1089.16,1009.04)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.5}To Be Continued
+Dialogue: 0,0:23:37.43,0:23:37.47,To Be Continued Sign,,0,0,0,,{\pos(1084.29,996.27)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
+Dialogue: 1,0:23:37.43,0:23:37.47,To Be Continued Sign,,0,0,0,,{\pos(1084.29,996.27)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
+Dialogue: 2,0:23:37.43,0:23:37.47,To Be Continued Sign,,0,0,0,,{\pos(1084.29,996.27)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
+Dialogue: 3,0:23:37.43,0:23:37.47,To Be Continued Sign,,0,0,0,,{\pos(1084.29,996.27)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1.5}To Be Continued
+Dialogue: 0,0:23:37.47,0:23:37.52,To Be Continued Sign,,0,0,0,,{\pos(1085.12,1011.76)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
+Dialogue: 1,0:23:37.47,0:23:37.52,To Be Continued Sign,,0,0,0,,{\pos(1085.12,1011.76)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
+Dialogue: 2,0:23:37.47,0:23:37.52,To Be Continued Sign,,0,0,0,,{\pos(1085.12,1011.76)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
+Dialogue: 3,0:23:37.47,0:23:37.52,To Be Continued Sign,,0,0,0,,{\pos(1085.12,1011.76)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{\pos(1090.47,1000.41)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
+Dialogue: 1,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{\pos(1090.47,1000.41)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{\pos(1090.47,1000.41)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.52,0:23:37.56,To Be Continued Sign,,0,0,0,,{\pos(1090.47,1000.41)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,,{\pos(1089.42,1005.3)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
+Dialogue: 1,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,,{\pos(1089.42,1005.3)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,,{\pos(1089.42,1005.3)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.56,0:23:37.60,To Be Continued Sign,,0,0,0,,{\pos(1089.42,1005.3)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.60,0:23:37.64,To Be Continued Sign,,0,0,0,,{\pos(1082.12,1000.78)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
+Dialogue: 1,0:23:37.60,0:23:37.64,To Be Continued Sign,,0,0,0,,{\pos(1082.12,1000.78)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.60,0:23:37.64,To Be Continued Sign,,0,0,0,,{\pos(1082.12,1000.78)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.60,0:23:37.64,To Be Continued Sign,,0,0,0,,{\pos(1082.12,1000.78)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.64,0:23:37.68,To Be Continued Sign,,0,0,0,,{\pos(1079.01,1008.57)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
+Dialogue: 1,0:23:37.64,0:23:37.68,To Be Continued Sign,,0,0,0,,{\pos(1079.01,1008.57)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.64,0:23:37.68,To Be Continued Sign,,0,0,0,,{\pos(1079.01,1008.57)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.64,0:23:37.68,To Be Continued Sign,,0,0,0,,{\pos(1079.01,1008.57)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.68,0:23:40.23,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
+Dialogue: 1,0:23:37.68,0:23:40.23,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
+Dialogue: 2,0:23:37.68,0:23:40.23,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.68,0:23:40.23,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [    FIN   ] ----------------------------------------------
