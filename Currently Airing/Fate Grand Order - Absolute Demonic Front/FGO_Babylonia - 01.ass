@@ -8,10 +8,9 @@ PlayResY: 1080
 Timer: 0.0000
 WrapStyle: 0
 YCbCr Matrix: TV.709
-Original Script: Aniplex
-Original Translation: torn
-Original Editing: LightArrowsEXE
-Original Timing: skiddiks
+Original Translation: Sei
+Original Editing: torn
+Original Timing: Klinsk
 ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
@@ -23,9 +22,8 @@ Keyframes File: Babylonia_01p (Premux)._keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 436
-Active Line: 443
-Video Position: 33121
+Active Line: 4
+Video Position: 1997
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,7 +38,7 @@ Style: Default - Alt,Profile Medium,70,&H00FFFFFF,&HC0000000,&H00564100,&HA80000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Sei \ Editing: Xythar \ Timing: Klinsk \ TS: Petzku  \ QC: skiddiks }
+Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Sei \ Editing: torn \ Timing: Klinsk \ TS: Petzku  \ QC: skiddiks }
 Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
 Dialogue: 10,0:01:17.43,0:01:18.76,Default,,0,0,0,,Oh?
 Dialogue: 10,0:01:20.18,0:01:22.35,Default,,0,0,0,,So you've come, Chaldea?
