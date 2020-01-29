@@ -45,7 +45,7 @@ Style: Brown Sign Lvl1,Anja Eliane accent,20,&H00143F63,&H000000FF,&H00000000,&H
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Aniplex / Ringo (OP, ED) \ TLC: Ringo \ Editing: LightArrowsEXE \ Timing: skiddiks \ TS: bthen13  \ QC: LightArrowsEXE }
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Aniplex / Ringo (OP, ED) \ TLC: Ringo \ Editing: LightArrowsEXE \ Timing: skiddiks \ TS: reed  \ QC: LightArrowsEXE }
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
 Dialogue: 10,0:00:10.19,0:00:11.49,Default,,0,0,0,,Wake up.
 Dialogue: 10,0:00:12.49,0:00:14.32,Default,,0,0,0,,Hey, I told you to wake up!
