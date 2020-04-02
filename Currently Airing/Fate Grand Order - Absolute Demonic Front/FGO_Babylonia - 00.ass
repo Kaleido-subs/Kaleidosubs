@@ -16,13 +16,9 @@ Original Timing: Klinsk
 Last Style Storage: Default
 Audio File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/FGO - Absolute Demonic Front - Babylonia [BD]/Premux/00/FGOBD_00 (Premux).mkv
 Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/FGO - Absolute Demonic Front - Babylonia [BD]/Premux/00/FGOBD_00 (Premux).mkv
-Keyframes File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/FGO - Absolute Demonic Front - Babylonia [BD]/Premux/00/FGOBD_00 (Premux)._keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 404
-Active Line: 418
-Video Position: 35941
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -376,7 +372,7 @@ Dialogue: 10,0:23:30.10,0:23:35.14,Default,,0,0,0,,{\i1\q2}But that was no more 
 Dialogue: 10,0:23:36.00,0:23:38.21,Default,,0,0,0,,{\i1}Now everything is different.
 Dialogue: 10,0:23:39.10,0:23:40.88,Default,,0,0,0,,{\i1}I've seen so many places,
 Dialogue: 10,0:23:40.88,0:23:42.92,Default,,0,0,0,,{\i1}met all sorts of people,
-Dialogue: 10,0:23:42.92,0:23:45.80,Default,,0,0,0,,{\i1\q2}and came to know came to know both \Nthe world's vastness and its warmth.
+Dialogue: 10,0:23:42.92,0:23:45.80,Default,,0,0,0,,{\i1}and came to know both the world's vastness and its warmth.
 Dialogue: 10,0:23:50.94,0:23:53.18,Default,,0,0,0,,{\i1}Oh, that's right.
 Dialogue: 10,0:23:53.18,0:23:54.20,Default,,0,0,0,,{\i1}I can feel it.
 Dialogue: 10,0:23:55.38,0:23:57.65,Default,,0,0,0,,{\i1}I've gained my own form.

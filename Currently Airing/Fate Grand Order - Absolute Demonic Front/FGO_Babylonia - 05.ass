@@ -14,16 +14,16 @@ Original Timing: Klinsk
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Babylonia_05v2 (Premux).mkv
-Video File: Babylonia_05v2 (Premux).mkv
+Audio File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/FGO - Absolute Demonic Front - Babylonia [BD]/Premux/05/FGOBD_05 (Premux).mkv
+Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/FGO - Absolute Demonic Front - Babylonia [BD]/Premux/05/FGOBD_05 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.375000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Profile Medium,70,&H00FFFFFF,&HC0000000,&H00000000,&HA8000000,0,0,0,0,95,100,0,0,1,3,1.5,2,150,150,60,1
-Style: Title Card,Garamond,60,&H00DDFBFF,&H0094D6E8,&H0094D6E8,&H00000000,-1,0,0,0,90,100,0,0,1,0,0,5,10,10,10,1
+Style: Title Card,Garamond,60,&H00DDFBFF,&H0094D6E8,&H005B9BAE,&H00000000,-1,0,0,0,90,100,0,0,1,0,0,5,10,10,10,1
 Style: End Card,Garamond,70,&H00A9CEE3,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: OP1 - ENG,MotoyaExMincho_W6-Str,44,&H00FBF6F6,&H000000FF,&H3C000000,&HB4000000,-1,0,0,0,105,100,0.75,0,1,1.8,3.6,2,50,50,56,1
 Style: OP1 - ROM A,MotoyaExMincho_W6-Str,44,&H00FBF6F6,&H78B2B2B2,&H3C000000,&HA0000000,-1,0,0,0,105,100,0.75,0,1,1.8,0,8,50,50,56,1
@@ -455,8 +455,8 @@ Comment: 0,0:01:49.46,0:01:51.96,OP1 - ENG,,0,0,0,,And in you too, if you've sti
 Comment: 0,0:01:51.96,0:01:54.63,OP1 - ENG,,0,0,0,,Isn't that why you wanted to see what lies beyond this sky?
 Comment: 0,0:01:54.88,0:01:59.59,OP1 - ENG,,0,0,0,,As you glare back at the troublesome fate that has you in its crosshairs
 Comment: 0,0:01:59.64,0:02:03.89,OP1 - ENG,,0,0,0,,I'm just glad you've got it in you to say you still have love to give
-Dialogue: 1,0:00:48.31,0:00:50.82,Title Card,,0,0,0,,{\fad(1000,0)\pos(1108,680)\blur0.8}A{\c&HDFFBFF&}b{\c&HE1FBFF&}s{\c&HE3FBFF&}o{\c&HE5FBFF&}l{\c&HE7FBFF&}u{\c&HE9FBFF&}t{\c&HEBFBFF&}e {\c&HEFFCFF&}D{\c&HF1FCFF&}e{\c&HF3FCFF&}m{\c&HF5FCFF&}o{\c&HF7FCFF&}n{\c&HF9FCFF&}i{\c&HFBFCFF&}c {\c&HF7FCFF&}F{\c&HF5FBFE&}r{\c&HF3FBFE&}o{\c&HF1FBFE&}n{\c&HEFFBFE&}t{\c&HEDFAFE&}: {\c&HEAFAFD&}B{\c&HE8FAFD&}a{\c&HE6F9FD&}b{\c&HE4F9FD&}y{\c&HE2F9FD&}l{\c&HE0F9FD&}o{\c&HDEF8FC&}n{\c&HDCF8FC&}i{\c&HDAF8FC&}a
-Dialogue: 0,0:00:48.31,0:00:50.82,Title Card,,0,0,0,,{\fad(1000,0)\pos(1108,680)\bord0.3\blur5\1a&HFFFFFF&}Absolute Demonic Front: Babylonia
+Dialogue: 1,0:00:48.31,0:00:50.82,Title Card,,0,0,0,,{\fad(1000,0)\pos(1108,680)\blur0.8}A{*\c&HDFFBFF&}b{*\c&HE1FBFF&}s{*\c&HE3FBFF&}o{*\c&HE5FBFF&}l{*\c&HE7FBFF&}u{*\c&HE9FBFF&}t{*\c&HEBFBFF&}e {*\c&HEFFCFF&}D{*\c&HF1FCFF&}e{*\c&HF3FCFF&}m{*\c&HF5FCFF&}o{*\c&HF7FCFF&}n{*\c&HF9FCFF&}i{\c&HFBFCFF&}c {*\c&HF7FCFF&}F{*\c&HF5FBFE&}r{*\c&HF3FBFE&}o{*\c&HF1FBFE&}n{*\c&HEFFBFE&}t{*\c&HEDFAFE&}: {*\c&HEAFAFD&}B{*\c&HE8FAFD&}a{*\c&HE6F9FD&}b{*\c&HE4F9FD&}y{*\c&HE2F9FD&}l{*\c&HE0F9FD&}o{*\c&HDEF8FC&}n{*\c&HDCF8FC&}i{\c&HDAF8FC&}a
+Dialogue: 0,0:00:48.31,0:00:50.82,Title Card,,0,0,0,,{\1a&HFFFFFF&\fad(1000,0)\pos(1108,680)\bord0.3\blur5}Absolute Demonic Front: Babylonia
 Dialogue: 0,0:00:51.44,0:00:53.44,OP1 - ENG,,0,0,0,,{\an5\pos(604,1002)\fad(0,200)\1a&HFE&\fry270\blur3\t(0,300,\fry360)}L
 Dialogue: 0,0:00:51.44,0:00:53.44,OP1 - ENG,,0,0,0,,{\an5\pos(631,1002)\fad(0,200)\1a&HFE&\fry270\blur3\t(0,300,\fry360)}e
 Dialogue: 0,0:00:51.44,0:00:53.44,OP1 - ENG,,0,0,0,,{\an5\pos(657,1002)\fad(0,200)\1a&HFE&\fry270\blur3\t(0,300,\fry360)}n
@@ -8958,5 +8958,5 @@ Dialogue: 1,0:23:34.43,0:23:39.43,ED1 - ENG B,,0,0,0,,{\an5\pos(960,1000)\fad(20
 Dialogue: 2,0:23:34.43,0:23:39.43,ED1 - ENG B,,0,0,0,,{\an5\pos(960,1000)\fad(200,300)\blur0.7\bord0\4a&HFF&}For everything is connected by our story
 Dialogue: 0,0:23:34.43,0:23:39.43,ED1 - ENG B,,0,0,0,,{\an5\pos(960,1000)\fad(200,300)\blur15\1a&HFF&}For everything is connected by our story
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [   TS  ] ----------------------------------------------
-Dialogue: 0,0:22:05.92,0:22:09.93,End Card,,0,0,0,,{\pos(960,672)\blur1}The Epic of Gilgamesh
+Dialogue: 0,0:22:05.92,0:22:09.93,End Card,,0,0,0,,{\pos(960,672)\blur0.8}The Epic of Gilgamesh
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [  FIN  ] ----------------------------------------------
