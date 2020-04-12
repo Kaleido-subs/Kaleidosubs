@@ -193,7 +193,7 @@ Comment: 0,0:12:00.99,0:12:00.99,Default,,0,0,0,,-------------------------------
 Dialogue: 10,0:12:08.99,0:12:11.87,Default,,0,0,0,,I have two favors to ask of you.
 Dialogue: 10,0:12:12.33,0:12:16.88,Default,,0,0,0,,One, permission to study your sister’s blood.
 Dialogue: 10,0:12:16.88,0:12:24.39,Default,,0,0,0,,{\q2}Two, to retrieve as many blood samples from demons \Nwith a high concentration of Kibutsuji’s blood as you can.
-Dialogue: 10,0:12:25.14,0:12:33.69,Default,,0,0,0,,{\q2}A demon with a high concentration of Kibutsuji’s blood \N means a demon closer in strength to Kibutsuji himself.
+Dialogue: 10,0:12:25.14,0:12:33.69,Default,,0,0,0,,{\q2}A demon with a high concentration of Kibutsuji’s blood \Nmeans a demon close in strength to Kibutsuji himself.
 Dialogue: 10,0:12:34.19,0:12:38.15,Default,,0,0,0,,{\t(3690,3960,\1a&HFF&\3a&HFF&\4a&HFF&)}It won’t be easy to extract blood from such demons.
 Dialogue: 10,0:12:40.23,0:12:41.78,Default,,0,0,0,,Third Form!
 Dialogue: 10,0:12:41.78,0:12:43.49,Default,,0,0,0,,Flowing Dance!
