@@ -64,40 +64,40 @@ Dialogue: 0,0:00:08.69,0:00:08.73,ED1 - ENG,,0,0,0,,{=0}{\pos(654.493,700)\bord0
 Dialogue: 0,0:00:08.73,0:00:08.82,ED1 - ENG,,0,0,0,,{=0}{\pos(643.927,700)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}Live long, live long and prosper
 Dialogue: 0,0:00:08.82,0:00:08.86,ED1 - ENG,,0,0,0,,{=0}{\pos(640,700)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}Live long, live long and prosper
 Dialogue: 0,0:00:08.86,0:00:08.90,ED1 - ENG,,0,0,0,,{=0}{\pos(635.467,700)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}Live long, live long and prosper
-Dialogue: 0,0:00:07.27,0:00:07.36,ED1 - ROM,,0,0,0,,{=3}{\fad(100,0)\pos(672.673,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:07.36,0:00:07.40,ED1 - ROM,,0,0,0,,{=3}{\pos(661.86,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:07.40,0:00:07.44,ED1 - ROM,,0,0,0,,{=3}{\pos(649.227,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:07.44,0:00:07.48,ED1 - ROM,,0,0,0,,{=3}{\pos(644.567,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:07.48,0:00:07.52,ED1 - ROM,,0,0,0,,{=3}{\pos(641.467,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:07.52,0:00:07.57,ED1 - ROM,,0,0,0,,{=3}{\pos(641.387,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:07.57,0:00:07.61,ED1 - ROM,,0,0,0,,{=3}{\pos(643.58,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:07.61,0:00:07.65,ED1 - ROM,,0,0,0,,{=3}{\pos(643.507,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:07.65,0:00:07.69,ED1 - ROM,,0,0,0,,{=3}{\pos(645.607,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:07.69,0:00:07.73,ED1 - ROM,,0,0,0,,{=3}{\pos(646.3,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:07.73,0:00:07.77,ED1 - ROM,,0,0,0,,{=3}{\pos(650.153,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:07.77,0:00:07.82,ED1 - ROM,,0,0,0,,{=3}{\pos(645.58,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:07.82,0:00:07.94,ED1 - ROM,,0,0,0,,{=3}{\pos(641.053,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:07.94,0:00:07.98,ED1 - ROM,,0,0,0,,{=3}{\pos(640.98,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:07.98,0:00:08.02,ED1 - ROM,,0,0,0,,{=3}{\pos(652.587,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.02,0:00:08.07,ED1 - ROM,,0,0,0,,{=3}{\pos(652.52,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.07,0:00:08.11,ED1 - ROM,,0,0,0,,{=3}{\pos(657.607,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.11,0:00:08.15,ED1 - ROM,,0,0,0,,{=3}{\pos(662.733,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.15,0:00:08.19,ED1 - ROM,,0,0,0,,{=3}{\pos(664.627,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.19,0:00:08.23,ED1 - ROM,,0,0,0,,{=3}{\pos(667.46,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.23,0:00:08.27,ED1 - ROM,,0,0,0,,{=3}{\pos(667.273,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.27,0:00:08.32,ED1 - ROM,,0,0,0,,{=3}{\pos(667.313,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.32,0:00:08.36,ED1 - ROM,,0,0,0,,{=3}{\pos(667.133,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.36,0:00:08.44,ED1 - ROM,,0,0,0,,{=3}{\pos(665.193,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.44,0:00:08.48,ED1 - ROM,,0,0,0,,{=3}{\pos(664.113,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.48,0:00:08.52,ED1 - ROM,,0,0,0,,{=3}{\pos(663.107,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.52,0:00:08.57,ED1 - ROM,,0,0,0,,{=3}{\pos(666.34,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.57,0:00:08.61,ED1 - ROM,,0,0,0,,{=3}{\pos(668.487,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.61,0:00:08.65,ED1 - ROM,,0,0,0,,{=3}{\pos(668.253,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.65,0:00:08.69,ED1 - ROM,,0,0,0,,{=3}{\pos(659.16,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.69,0:00:08.73,ED1 - ROM,,0,0,0,,{=3}{\pos(659.02,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.73,0:00:08.82,ED1 - ROM,,0,0,0,,{=3}{\pos(648.46,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.82,0:00:08.86,ED1 - ROM,,0,0,0,,{=3}{\pos(644.533,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
-Dialogue: 0,0:00:08.86,0:00:08.90,ED1 - ROM,,0,0,0,,{=3}{\pos(640,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugem jugem gokou no surikire
+Dialogue: 0,0:00:07.27,0:00:07.36,ED1 - ROM,,0,0,0,,{=3}{\fad(100,0)\pos(672.673,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:07.36,0:00:07.40,ED1 - ROM,,0,0,0,,{=3}{\pos(661.86,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:07.40,0:00:07.44,ED1 - ROM,,0,0,0,,{=3}{\pos(649.227,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:07.44,0:00:07.48,ED1 - ROM,,0,0,0,,{=3}{\pos(644.567,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:07.48,0:00:07.52,ED1 - ROM,,0,0,0,,{=3}{\pos(641.467,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:07.52,0:00:07.57,ED1 - ROM,,0,0,0,,{=3}{\pos(641.387,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:07.57,0:00:07.61,ED1 - ROM,,0,0,0,,{=3}{\pos(643.58,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:07.61,0:00:07.65,ED1 - ROM,,0,0,0,,{=3}{\pos(643.507,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:07.65,0:00:07.69,ED1 - ROM,,0,0,0,,{=3}{\pos(645.607,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:07.69,0:00:07.73,ED1 - ROM,,0,0,0,,{=3}{\pos(646.3,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:07.73,0:00:07.77,ED1 - ROM,,0,0,0,,{=3}{\pos(650.153,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:07.77,0:00:07.82,ED1 - ROM,,0,0,0,,{=3}{\pos(645.58,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:07.82,0:00:07.94,ED1 - ROM,,0,0,0,,{=3}{\pos(641.053,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:07.94,0:00:07.98,ED1 - ROM,,0,0,0,,{=3}{\pos(640.98,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:07.98,0:00:08.02,ED1 - ROM,,0,0,0,,{=3}{\pos(652.587,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.02,0:00:08.07,ED1 - ROM,,0,0,0,,{=3}{\pos(652.52,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.07,0:00:08.11,ED1 - ROM,,0,0,0,,{=3}{\pos(657.607,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.11,0:00:08.15,ED1 - ROM,,0,0,0,,{=3}{\pos(662.733,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.15,0:00:08.19,ED1 - ROM,,0,0,0,,{=3}{\pos(664.627,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.19,0:00:08.23,ED1 - ROM,,0,0,0,,{=3}{\pos(667.46,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.23,0:00:08.27,ED1 - ROM,,0,0,0,,{=3}{\pos(667.273,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.27,0:00:08.32,ED1 - ROM,,0,0,0,,{=3}{\pos(667.313,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.32,0:00:08.36,ED1 - ROM,,0,0,0,,{=3}{\pos(667.133,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.36,0:00:08.44,ED1 - ROM,,0,0,0,,{=3}{\pos(665.193,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.44,0:00:08.48,ED1 - ROM,,0,0,0,,{=3}{\pos(664.113,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.48,0:00:08.52,ED1 - ROM,,0,0,0,,{=3}{\pos(663.107,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.52,0:00:08.57,ED1 - ROM,,0,0,0,,{=3}{\pos(666.34,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.57,0:00:08.61,ED1 - ROM,,0,0,0,,{=3}{\pos(668.487,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.61,0:00:08.65,ED1 - ROM,,0,0,0,,{=3}{\pos(668.253,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.65,0:00:08.69,ED1 - ROM,,0,0,0,,{=3}{\pos(659.16,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.69,0:00:08.73,ED1 - ROM,,0,0,0,,{=3}{\pos(659.02,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.73,0:00:08.82,ED1 - ROM,,0,0,0,,{=3}{\pos(648.46,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.82,0:00:08.86,ED1 - ROM,,0,0,0,,{=3}{\pos(644.533,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.86,0:00:08.90,ED1 - ROM,,0,0,0,,{=3}{\pos(640,660)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}jugemu jugemu gokou no surikire
 Dialogue: 0,0:00:08.90,0:00:09.03,ED1 - ENG,,0,0,0,,{=7}{\pos(624.387,700)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}May great wealth await you wherever you go
 Dialogue: 0,0:00:09.03,0:00:09.11,ED1 - ENG,,0,0,0,,{=7}{\pos(626.88,700)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}May great wealth await you wherever you go
 Dialogue: 0,0:00:09.11,0:00:09.15,ED1 - ENG,,0,0,0,,{=7}{\pos(629.053,700)\bord0\3c&H000000&\3a&H80&\4a&HFF&\blur0.467}May great wealth await you wherever you go
@@ -750,7 +750,7 @@ Dialogue: 0,0:01:23.81,0:01:26.77,ED1 - ROM,,0,0,0,,{\bord0\fad(200,200)\blur0.4
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"54bae750-62b7-49ad-ad38-bac6fd989e08"#2C"originalText"#3A"Live long#2C live long and prosper"}
-Data: 3,a-mo,e{"uuid"#3A"03f85789-5884-47d0-9fb1-fc4b9a7aad00"#2C"originalText"#3A"jugem jugem gokou no surikire"}
+Data: 3,a-mo,e{"uuid"#3A"03f85789-5884-47d0-9fb1-fc4b9a7aad00"#2C"originalText"#3A"jugemu jugemu gokou no surikire"}
 Data: 6,a-mo,e{"uuid"#3A"b8d67dab-a1c0-4dc5-94c8-9866bfc27e9b"#2C"originalText"#3A"kaijarisuigyo no suigyoumatsu"}
 Data: 7,a-mo,e{"uuid"#3A"f95bd40a-db73-4715-aa5e-bc93e96d19fc"#2C"originalText"#3A"May great wealth await you wherever you go"}
 Data: 8,a-mo,e{"uuid"#3A"a0ca2439-1bdf-490a-8ec3-0e3cf629d3a5"#2C"originalText"#3A"unraimatsu fuuraimatsu"}
