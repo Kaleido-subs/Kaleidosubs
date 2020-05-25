@@ -21,9 +21,6 @@ Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Joshir
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 45
-Active Line: 57
-Video Position: 140
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,12 +34,12 @@ Style: OP1 - ALT,CC Astro City,23,&H00000000,&H000000FF,&H00000000,&HA0000000,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [     OP    ] ----------------------------------------------
-Comment: 0,0:00:00.52,0:00:02.73,OP1 - ENG A,,0,0,0,,{\fad(0,200)}Thanks for your continued appreciation!
-Comment: 0,0:00:03.06,0:00:05.52,OP1 - ENG A,,0,0,0,,{\fad(200,200)}For everything so far and all that is to come!
+Comment: 0,0:00:00.52,0:00:02.73,OP1 - ENG A,,0,0,0,,Thanks for your continued appreciation!
+Comment: 0,0:00:03.06,0:00:05.52,OP1 - ENG A,,0,0,0,,For everything so far and all that is to come!
 Comment: 0,0:00:05.69,0:00:08.06,OP1 - ENG A,,0,0,0,,Twing-twang, twing-twang-twang
 Comment: 0,0:00:08.32,0:00:10.82,OP1 - ENG A,,0,0,0,,Twing-twang, twing-twang-twang
 Comment: 0,0:00:10.90,0:00:13.28,OP1 - ENG A,,0,0,0,,Everybody in the house, come on!
-Comment: 0,0:00:17.24,0:00:19.58,OP1 - ENG A,,0,0,0,,{\3c&H4260C2&}Solving riddles always gives me a thrill
+Comment: 0,0:00:17.24,0:00:19.58,OP1 - ENG A,,0,0,0,,Solving riddles always gives me a thrill
 Comment: 0,0:00:19.74,0:00:22.12,OP1 - ENG A,,0,0,0,,There's always a trick to it
 Comment: 0,0:00:22.25,0:00:24.50,OP1 - ENG A,,0,0,0,,Girls' problems are just Snakes & Ladders?
 Comment: 0,0:00:24.50,0:00:26.96,OP1 - ENG A,,0,0,0,,Then go ahead and roll the dice!
@@ -66,10 +63,10 @@ Comment: 0,0:01:12.80,0:01:15.26,OP1 - ENG A,,0,0,0,,The pure white future is pa
 Comment: 0,0:01:15.26,0:01:17.72,OP1 - ENG A,,0,0,0,,Paradise!
 Comment: 0,0:01:17.72,0:01:19.05,OP1 - ENG A,,0,0,0,,Here we go!
 Comment: 0,0:01:19.05,0:01:23.10,OP1 - ENG A,,0,0,0,,Ready for some divine comedy?
-Comment: 0,0:00:00.52,0:00:02.73,OP1 - ROM A,,0,0,0,,{\fad(0,200)}oato ga mata yoroshikute
-Comment: 0,0:00:03.06,0:00:05.52,OP1 - ROM A,,0,0,0,,{\fad(200,200)}osaki mo mae mo yoroshiku ne
+Comment: 0,0:00:00.52,0:00:02.73,OP1 - ROM A,,0,0,0,,oato ga mata yoroshikute
+Comment: 0,0:00:03.06,0:00:05.52,OP1 - ROM A,,0,0,0,,osaki mo mae mo yoroshiku ne
 Comment: 0,0:00:10.90,0:00:13.28,OP1 - ROM A,,0,0,0,,jounai manjou
-Comment: 0,0:00:17.24,0:00:19.58,OP1 - ROM A,,0,0,0,,{\3c&H4260C2&}nazotoki dokidoki shinan
+Comment: 0,0:00:17.24,0:00:19.58,OP1 - ROM A,,0,0,0,,nazotoki dokidoki shinan
 Comment: 0,0:00:19.74,0:00:22.12,OP1 - ROM A,,0,0,0,,shikake ga ariari desu
 Comment: 0,0:00:22.25,0:00:24.50,OP1 - ROM A,,0,0,0,,joshi teki onayami wa
 Comment: 0,0:00:24.50,0:00:26.96,OP1 - ROM A,,0,0,0,,sugoroku sai wo futte
