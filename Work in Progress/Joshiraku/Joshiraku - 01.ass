@@ -16,8 +16,8 @@ Original Timing: gsk_
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default (720p)
-Audio File: JoshirakuBD_01v3 (Premux).mkv
-Video File: JoshirakuBD_01v3 (Premux).mkv
+Audio File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Joshiraku [BD]/01/JoshirakuBD_01v3 (Premux).mkv
+Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Joshiraku [BD]/01/JoshirakuBD_01v3 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
@@ -62,8 +62,8 @@ Dialogue: 10,0:03:31.52,0:03:33.98,Default,,0,0,0,,If you want to read manga, re
 Dialogue: 10,0:03:33.98,0:03:35.61,Default,,0,0,0,,Adapting it into an anime makes no sense!
 Dialogue: 10,0:03:36.73,0:03:38.40,Default,,0,0,0,,What's this all of a sudden?
 Dialogue: 10,0:03:38.40,0:03:40.28,Default,,0,0,0,,What're you saying?
-Dialogue: 10,0:03:40.28,0:03:44.32,Default,,0,0,0,,{\q2}Why take a perfectly good manga, featuring mostly \Nconversations that gain nothing from being animated,
-Dialogue: 10,0:03:44.32,0:03:47.91,Default,,0,0,0,,{\q2}where, might I add, we don't even really ever \Nleave this room, and turn it into an anime?
+Dialogue: 10,0:03:40.28,0:03:42.86,Default,,0,0,0,,Why take a perfectly fine manga,
+Dialogue: 10,0:03:42.86,0:03:47.91,Default,,0,0,0,,{\q2}where we do little more than talk in this room \Nday in, day out, and make an anime out of it?
 Dialogue: 10,0:03:48.37,0:03:51.79,Default,,0,0,0,,Well, when you put it like that...
 Dialogue: 10,0:03:51.79,0:03:52.62,Default,,0,0,0,,You have a point.
 Dialogue: 10,0:03:52.62,0:03:54.29,Default,,0,0,0,,You said it.
@@ -73,11 +73,11 @@ Dialogue: 10,0:03:56.67,0:04:01.26,Default,,0,0,0,,{\q2}It may be unnecessary, b
 Dialogue: 10,0:04:01.26,0:04:04.22,Default,,0,0,0,,It's a bit much to say the whole thing's a flop, Gan.
 Dialogue: 10,0:04:04.22,0:04:06.05,Default,,0,0,0,,I didn't say anything of the sort!
 Dialogue: 10,0:04:06.05,0:04:08.81,Default,,0,0,0,,You lot were on the verge of being convinced, too.
-Dialogue: 10,0:04:09.22,0:04:12.19,Default,,0,0,0,,{\q2}Dear God, if we're turned into an anime, \Nplease make it so Gan is the only one who doesn't move.
+Dialogue: 10,0:04:09.22,0:04:12.19,Default,,0,0,0,,{\q2}Dear God, if we're turned into an anime, \Nplease make it so Gan's the only one who doesn't move.
 Dialogue: 10,0:04:12.19,0:04:13.10,Default,,0,0,0,,Hey!
-Dialogue: 10,0:04:13.10,0:04:17.23,Default,,0,0,0,,{\q2}At any rate, the audience is definitely \Na lot bigger than the manga.
-Dialogue: 10,0:04:17.23,0:04:21.28,Default,,0,0,0,,But a lot of them haven't gotten a subscription.
-Dialogue: 10,0:04:21.82,0:04:24.11,Default,,0,0,0,,Only lowlifes would watch a show without paying for it.
+Dialogue: 10,0:04:13.10,0:04:17.23,Default,,0,0,0,,{\q2}At any rate, the audience is definitely \Na lot bigger than the manga's.
+Dialogue: 10,0:04:17.23,0:04:21.28,Default,,0,0,0,,{\q2}But most viewers aren't watching this \Non official streaming services.
+Dialogue: 10,0:04:21.82,0:04:24.11,Default,,0,0,0,,{\q2}Only lowlifes would watch a show \Nwithout paying for it.
 Dialogue: 10,0:04:24.11,0:04:27.62,Default,,0,0,0,,Feeling like I'm being watched makes me nervous!
 Dialogue: 10,0:04:27.62,0:04:31.08,Default,,0,0,0,,Idiot. Just do what you usually do.
 Dialogue: 10,0:04:31.58,0:04:36.29,Default,,0,0,0,,{\q2}The conversations in this anime \Nare written to be as inoffensive as possible
@@ -117,8 +117,8 @@ Dialogue: 10,0:05:57.58,0:06:00.33,Default,,0,0,0,,You don't think that'd be a h
 Dialogue: 10,0:06:00.59,0:06:04.05,Default,,0,0,0,,I used to find it difficult to go into beef bowl places.
 Dialogue: 10,0:06:04.05,0:06:05.17,Default,,0,0,0,,How come?
 Dialogue: 10,0:06:05.17,0:06:06.72,Default,,0,0,0,,They're always packed with dudes.
-Dialogue: 10,0:06:06.72,0:06:10.93,Default,,0,0,0,,{\q2}You can't look like you're trying too hard, \Nbut you can't look like you're not trying at all.
-Dialogue: 10,0:06:10.93,0:06:12.60,Default,,0,0,0,,You don't want to stand out or be an outcast.
+Dialogue: 10,0:06:06.72,0:06:10.01,Default,,0,0,0,,{\q2}You can't look like you're trying too hard, \Nbut you can't look like you're not trying at all.
+Dialogue: 10,0:06:10.01,0:06:12.60,Default,,0,0,0,,You don't want to stand out or be an outcast.
 Dialogue: 10,0:06:12.60,0:06:15.22,Default,,0,0,0,,{\q2}Yeah, it's hard to pick out clothes \Nfor a situation like that.
 Dialogue: 10,0:06:15.22,0:06:18.10,Default,,0,0,0,,Geez, why make a special effort?
 Dialogue: 10,0:06:18.10,0:06:19.94,Default,,0,0,0,,Just wear your usual clothes.
