@@ -131,7 +131,7 @@ Dialogue: 9,0:04:01.17,0:04:03.09,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\fr
 Dialogue: 9,0:04:01.17,0:04:03.09,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&H64&\4c&H000000&\4a&HC8&\pos(324,447.667)\clip(m 351 458 l 356 456 359 432 355 424 353 442)}It's time for you to say your pr—
 Dialogue: 10,0:03:59.34,0:04:03.09,Default,,0,0,0,,Closer to about ten times that, I'd say.
 Dialogue: 10,0:04:03.55,0:04:05.80,Default,,0,0,0,,So that's why Ushijima is so strong?
-Dialogue: 10,0:04:05.80,0:04:10.02,Default,,0,0,0,,{\q2}Would you slather someone in honey \Nand leave them in woods like he does?
+Dialogue: 10,0:04:05.80,0:04:10.02,Default,,0,0,0,,{\q2}Would you slather someone in honey \Nand leave them in the woods like he does?
 Dialogue: 10,0:04:10.02,0:04:11.06,Default,,0,0,0,,Of course not!
 Dialogue: 10,0:04:11.06,0:04:13.53,Default,,0,0,0,,People that wear glasses shouldn't be violent.
 Dialogue: 10,0:04:13.53,0:04:17.88,Default,,0,0,0,,Maybe {\i1}I{\i0} need glasses because I just don't see it!
