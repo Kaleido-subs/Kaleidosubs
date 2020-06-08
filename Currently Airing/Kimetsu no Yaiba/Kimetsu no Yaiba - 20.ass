@@ -40,8 +40,8 @@ Style: Brown Sign Lvl1,Anja Eliane accent,20,&H00143F63,&H000000FF,&H00000000,&H
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,{ TL: Aniplex / Ringo (OP, ED) \ TLC: Ringo \ Editing: Lolita (TV), LightArrowsEXE (BD) \ Timing: skiddiks \ TS: reed  \ QC: CaptainJet }
-Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Aniplex / Ringo (OP, ED) \ TLC: Ringo \ Editing: Lolita (TV), LightArrowsEXE (BD) \ Timing: skiddiks \ TS: reed  \ QC: CaptainJet }
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
 Dialogue: 10,0:00:00.98,0:00:02.73,Default,,0,0,0,,{\i1}Blood Arts!
 Dialogue: 10,0:00:03.23,0:00:04.73,Default,,0,0,0,,{\i1}Blood Burst!
 Dialogue: 10,0:00:12.53,0:00:15.24,Default,,0,0,0,,No one can ever sever

@@ -42,8 +42,8 @@ Style: Brown Sign Lvl1,Anja Eliane accent,20,&H00143F63,&H000000FF,&H00000000,&H
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,{ TL: Aniplex / Soul (OP) / Ringo (ED) \ TLC: Ringo \ Editing: LightArrowsEXE \ Styling: LightArrowsEXE (OP, ED) \ Timing: skiddiks \ TS: reed \ QC: CaptainJet \ Special Thanks: The0x539 (OP KFX Troubleshooting) }
-Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Aniplex / Soul (OP) / Ringo (ED) \ TLC: Ringo \ Editing: LightArrowsEXE \ Styling: LightArrowsEXE (OP, ED) \ Timing: skiddiks \ TS: reed \ QC: CaptainJet \ Special Thanks: The0x539 (OP KFX Troubleshooting) }
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
 Dialogue: 10,0:00:07.73,0:00:09.19,Default,,0,0,0,,Are you heading into battle?
 Dialogue: 10,0:00:11.19,0:00:12.45,Default,,0,0,0,,Oh, if it isn't Kochou!
 Dialogue: 10,0:00:12.74,0:00:17.91,Default,,0,0,0,,{\q2}A new demon has surfaced, and the Slayers \Nthat confronted him were taken out.
@@ -1077,4 +1077,4 @@ Dialogue: 0,0:23:38.10,0:23:40.69,To Be Continued Sign,,0,0,0,,{\pos(1081.49,101
 Dialogue: 1,0:23:38.10,0:23:40.69,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
 Dialogue: 2,0:23:38.10,0:23:40.69,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
 Dialogue: 3,0:23:38.10,0:23:40.69,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,---------------------------------------------- [    FIN   ] ----------------------------------------------
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [    FIN   ] ----------------------------------------------

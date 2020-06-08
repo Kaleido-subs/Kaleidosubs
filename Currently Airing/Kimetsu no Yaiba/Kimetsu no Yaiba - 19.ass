@@ -39,8 +39,8 @@ Style: Eye Sign,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,{ TL: Aniplex / Ringo (OP, ED) \ TLC: Ringo \ Editing: LightArrowsEXE \ Timing: skiddiks \ TS: reed / LightArrowsEXE (so many eye signs :notlikethis:)  \ QC: CaptainJet }
-Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Aniplex / Ringo (OP, ED) \ TLC: Ringo \ Editing: LightArrowsEXE \ Timing: skiddiks \ TS: reed / LightArrowsEXE (so many eye signs :notlikethis:)  \ QC: CaptainJet }
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
 Dialogue: 10,0:00:16.03,0:00:17.58,Default,,0,0,0,,{\i1}No way...
 Dialogue: 10,0:00:17.58,0:00:19.12,Default,,0,0,0,,{\i1}My sword!
 Comment: 0,0:01:57.01,0:01:57.01,Default,,0,0,0,,---------------------------------------------- [ PART A ] ----------------------------------------------

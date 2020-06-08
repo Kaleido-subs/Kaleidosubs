@@ -801,7 +801,7 @@ Dialogue: 1,0:22:41.17,0:22:47.05,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(45
 Dialogue: 1,0:22:41.17,0:22:47.05,ED1 - ROM,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,800)\q2}doko he furiorosu
 Dialogue: 0,0:22:41.17,0:22:47.05,ED1 - ENG,,0,0,0,,{\1a&HFF&\blur20\fad(450,800)\q2}With that blade of yours?
 Dialogue: 0,0:22:41.17,0:22:47.05,ED1 - ROM,,0,0,0,,{\1a&HFF&\blur20\fad(450,800)\q2}doko he furiorosu
-Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,---------------------------------------------- [     TS    ] ----------------------------------------------
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [     TS    ] ----------------------------------------------
 Dialogue: 0,0:01:59.01,0:02:02.39,To Be Continued Sign,,0,0,0,,{\fnYellow Ginger\c&H080509&\an5\fs35\org(966.4,816.8)\fry9.63\frx-0.4\frz7.44\fax-0.12\blur1\pos(969.067,814.133)}Wisteria
 Dialogue: 0,0:04:15.77,0:04:20.03,Title Card Sign,,0,0,0,,{\3c&H000000&\c&H000000&\fad(1700,0)\pos(680,618.49)\fs104\blur8\t(0,1050,\fs100\blur3)\bord2\1a&HFF&\t(1655,1700,\1a&H00&)}Mount Natagumo
 Dialogue: 1,0:04:15.77,0:04:20.03,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,618.49)\fs104\blur8\t(0,1050,\fs100\blur1)\c&H0001BE&\bord0\4a&HFF&}Mount Natagumo
@@ -1659,4 +1659,4 @@ Dialogue: 0,0:23:38.35,0:23:40.89,To Be Continued Sign,,0,0,0,,{\pos(1081.49,101
 Dialogue: 1,0:23:38.35,0:23:40.89,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
 Dialogue: 2,0:23:38.35,0:23:40.89,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
 Dialogue: 3,0:23:38.35,0:23:40.89,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord0\c&HFFFFFF&\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,---------------------------------------------- [    FIN   ] ----------------------------------------------
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [    FIN   ] ----------------------------------------------

@@ -815,7 +815,7 @@ Dialogue: 1,0:22:21.11,0:22:26.99,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(45
 Dialogue: 1,0:22:21.11,0:22:26.99,ED1 - ROM,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,800)\q2}doko he furiorosu
 Dialogue: 0,0:22:21.11,0:22:26.99,ED1 - ENG,,0,0,0,,{\1a&HFF&\blur20\fad(450,800)\q2}With that blade of yours?
 Dialogue: 0,0:22:21.11,0:22:26.99,ED1 - ROM,,0,0,0,,{\1a&HFF&\blur20\fad(450,800)\q2}doko he furiorosu
-Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,---------------------------------------------- [     TS    ] ----------------------------------------------
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [     TS    ] ----------------------------------------------
 Dialogue: 0,0:02:24.74,0:02:29.00,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,679.823)\fs104\blur8\t(0,1050,\fs100\blur1)}Letting Someone Else \NGo First
 Dialogue: 0,0:02:24.74,0:02:29.00,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,390)\fs94\blur8\t(0,1050,\fs88\blur1)}Episode
 Dialogue: 0,0:02:24.74,0:02:29.00,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,486)\fs148\blur8\t(0,1050,\fs140\blur1)}16
@@ -920,4 +920,4 @@ Dialogue: 0,0:23:37.64,0:23:40.19,To Be Continued Sign,,0,0,0,,{\pos(1081.49,101
 Dialogue: 1,0:23:37.64,0:23:40.19,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1}To Be Continued
 Dialogue: 2,0:23:37.64,0:23:40.19,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1}To Be Continued
 Dialogue: 3,0:23:37.64,0:23:40.19,To Be Continued Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\4a&HFF&\blur1}To Be Continued
-Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,---------------------------------------------- [    FIN   ] ----------------------------------------------
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [    FIN   ] ----------------------------------------------

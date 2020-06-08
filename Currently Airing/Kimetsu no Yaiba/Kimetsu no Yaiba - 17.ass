@@ -849,7 +849,7 @@ Dialogue: 1,0:22:41.04,0:22:46.92,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(45
 Dialogue: 1,0:22:41.04,0:22:46.92,ED1 - ROM,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,800)\q2}doko he furiorosu
 Dialogue: 0,0:22:41.04,0:22:46.92,ED1 - ENG,,0,0,0,,{\1a&HFF&\blur20\fad(450,800)\q2}With that blade of yours?
 Dialogue: 0,0:22:41.04,0:22:46.92,ED1 - ROM,,0,0,0,,{\1a&HFF&\blur20\fad(450,800)\q2}doko he furiorosu
-Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,---------------------------------------------- [     TS    ] ----------------------------------------------
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [     TS    ] ----------------------------------------------
 Dialogue: 0,0:03:41.70,0:03:45.99,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,679.823)\fs104\blur8\t(0,1050,\fs100\blur1)}You Must Master \NA Single Move
 Dialogue: 0,0:03:41.70,0:03:45.99,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,390)\fs94\blur8\t(0,1050,\fs88\blur1)}Episode
 Dialogue: 0,0:03:41.70,0:03:45.99,Title Card Sign,,0,0,0,,{\fad(1700,0)\pos(680,486)\fs148\blur8\t(0,1050,\fs140\blur1)}17
@@ -921,4 +921,4 @@ Dialogue: 0,0:23:37.72,0:23:37.77,Sign,,0,0,0,,{\pos(907.31,778.53)\fnQuick Penc
 Dialogue: 0,0:23:37.77,0:23:37.85,Sign,,0,0,0,,{\pos(899.97,769.98)\fnQuick Pencil\fs100\alpha&H00&\blur1.2\an5}To Be Continued
 Dialogue: 0,0:23:37.85,0:23:37.89,Sign,,0,0,0,,{\pos(899.99,769.99)\fnQuick Pencil\fs100\alpha&H00&\blur1.2\an5}To Be Continued
 Dialogue: 0,0:23:37.89,0:23:40.35,Sign,,0,0,0,,{\pos(900,770)\fnQuick Pencil\fs100\alpha&H00&\blur1.2\an5}To Be Continued
-Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,---------------------------------------------- [    FIN   ] ----------------------------------------------
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [    FIN   ] ----------------------------------------------
