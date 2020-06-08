@@ -2540,7 +2540,7 @@ Dialogue: 1,0:21:58.12,0:22:01.71,ED1 - ENG,,0,0,0,,{\fad(450,300)\bord0\shad0\b
 Dialogue: 1,0:21:58.12,0:22:01.71,ED1 - ROM,,0,0,0,,{\fad(450,300)\bord0\shad0\blur0.4}tatakitsubuse kinou no katou
 Dialogue: 0,0:21:58.12,0:22:01.71,ED1 - ENG,,0,0,0,,{\fad(450,300)\1a&HFF&\blur20}Break free from the troubles of yesterday
 Dialogue: 0,0:21:58.12,0:22:01.71,ED1 - ROM,,0,0,0,,{\fad(450,300)\1a&HFF&\blur20}tatakitsubuse kinou no katou
-Dialogue: 4,0:22:01.71,0:22:05.84,ED1 - ENG,,0,0,0,,{\an8\bord0\shad0\fad(450,420)\q2\t(\c&HFBF1FF&)}Pray for the future from the edge of darkness
+Dialogue: 4,0:22:01.71,0:22:05.84,ED1 - ENG,,0,0,0,,{\an8\blur0.4\bord0\shad0\fad(450,420)\q2\t(\c&HFBF1FF&)}Pray for the future from the edge of darkness
 Comment: 3,0:22:01.71,0:22:06.68,ED1 - ENG,,0,0,0,,{\shad0\an8\c&H0C0D5E&\blur0.4\bord0\fad(270,270)\q2}Pray for the future from the edge of darkness
 Comment: 2,0:22:01.71,0:22:06.68,ED1 - ENG,,0,0,0,,{\shad0\an8\c&H040534&\blur0.4\bord0\fad(270,270)\q2}Pray for the future from the edge of darkness
 Comment: 1,0:22:01.71,0:22:06.68,ED1 - ENG,,0,0,0,,{\shad0\an8\c&H0C0D5E&\blur0.4\bord0\fad(270,270)\q2}Pray for the future from the edge of darkness

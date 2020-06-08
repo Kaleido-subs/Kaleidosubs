@@ -2563,7 +2563,7 @@ Dialogue: 0,0:21:58.12,0:22:01.71,ED1 - ROM,,0,0,0,,{\1a&HFF&\blur20\fad(450,300
 Comment: 3,0:22:01.71,0:22:06.68,ED1 - ENG,,0,0,0,,{\shad0\an8\c&H0C0D5E&\blur0.4\bord0\fad(270,270)\q2}Pray for the future from the edge of darkness
 Comment: 2,0:22:01.71,0:22:06.68,ED1 - ENG,,0,0,0,,{\shad0\an8\c&H040534&\blur0.4\bord0\fad(270,270)\q2}Pray for the future from the edge of darkness
 Comment: 1,0:22:01.71,0:22:06.68,ED1 - ENG,,0,0,0,,{\shad0\an8\c&H0C0D5E&\blur0.4\bord0\fad(270,270)\q2}Pray for the future from the edge of darkness
-Dialogue: 4,0:22:01.71,0:22:05.84,ED1 - ENG,,0,0,0,,{\an8\bord0\shad0\fad(450,420)\q2\t(\c&HFBF1FF&)}Pray for the future from the edge of darkness
+Dialogue: 4,0:22:01.71,0:22:05.84,ED1 - ENG,,0,0,0,,{\an8\blur0.4\bord0\shad0\fad(450,420)\q2\t(\c&HFBF1FF&)}Pray for the future from the edge of darkness
 Dialogue: 3,0:22:01.71,0:22:06.68,ED1 - ENG,,0,0,0,,{\clip(341,49,1576,50)\pos(960,47)\shad0\an8\blur0.4\bord0\fad(270,270)\q2\c&H0B0C5B&}Pray for the future from the edge of darkness
 Dialogue: 3,0:22:01.71,0:22:06.68,ED1 - ENG,,0,0,0,,{\clip(341,50,1576,51)\pos(960,47)\shad0\an8\blur0.4\bord0\fad(270,270)\q2\c&H0B0C59&}Pray for the future from the edge of darkness
 Dialogue: 3,0:22:01.71,0:22:06.68,ED1 - ENG,,0,0,0,,{\clip(341,51,1576,52)\pos(960,47)\shad0\an8\blur0.4\bord0\fad(270,270)\q2\c&H0B0C58&}Pray for the future from the edge of darkness
