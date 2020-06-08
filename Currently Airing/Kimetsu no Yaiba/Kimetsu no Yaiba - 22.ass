@@ -17,8 +17,8 @@ ScaledBorderAndShadow: yes
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default (1080p)
-Audio File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Premux v2/YaibaBD_22 (Premux).mkv
-Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Premux v2/YaibaBD_22 (Premux).mkv
+Audio File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Premux v2/EP/22/YaibaBD_22 (Premux).mkv
+Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimetsu no Yaiba [BD]/Premux v2/EP/22/YaibaBD_22 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
@@ -897,6 +897,6 @@ Dialogue: 0,0:06:03.75,0:06:04.84,Sign,,0,0,0,,{\pos(422.467,1007.6)\fnBrush Str
 Dialogue: 1,0:06:03.75,0:06:04.84,Sign,,0,0,0,,{\pos(422.467,1007.6)\fnBrush Stroke\fs130\c&H0D0604&\alpha&H00&\4a&HFF&\blur0.8}Insect Hashira
 Dialogue: 0,0:09:41.39,0:09:43.14,Sign,,0,0,0,,{\fad(399,0)\move(1609.4,910,1535.8,910)\fnBrush Stroke\fs130\bord5.5\3c&HFFFFFF&\1a&HFF&\blur0.8\t(354,399,\1a&H00&)}Wind Hashira
 Dialogue: 1,0:09:41.39,0:09:43.14,Sign,,0,0,0,,{\fad(399,0)\move(1609.4,910,1535.8,910)\fnBrush Stroke\fs130\c&H0D0604&\4a&HFF&\blur0.8}Wind Hashira
-Dialogue: 0,0:22:59.94,0:23:01.35,Sign,,0,0,0,,{\fad(0,431)\bord5.5\blur0.8\fnBrush Strokes\shad0\fs100\pos(960,940)\3c&HFFFFFF&\c&HFFFFFF&\t(989,1420,\1a&HFF&)}Preview
-Dialogue: 1,0:22:59.94,0:23:01.35,Sign,,0,0,0,,{\fad(0,431)\bord0\blur0.8\fnBrush Strokes\shad0\fs100\pos(960,940)\c&H000000&\4a&HFF&}Preview
+Dialogue: 0,0:22:59.94,0:23:01.35,Sign,,0,0,0,,{\fad(0,431)\pos(960,940)\fnBrush Strokes\fs100\bord5.5\3c&HFFFFFF&\blur0.8\t(989,1420,\1a&HFF&)}Preview
+Dialogue: 1,0:22:59.94,0:23:01.35,Sign,,0,0,0,,{\fad(0,431)\pos(960,940)\fnBrush Strokes\fs100\c&H000000&\4a&HFF&\blur0.8}Preview
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [    FIN   ] ----------------------------------------------
