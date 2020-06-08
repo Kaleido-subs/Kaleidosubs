@@ -47,75 +47,75 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Aniplex / Ringo (OP, ED) \ TLC: Ringo \ Editing: LightArrowsEXE \ Timing: skiddiks \ TS: bthen13  \ QC: torn }
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
 Dialogue: 10,0:00:01.68,0:00:03.39,Default,,0,0,0,,Here goes...
-Dialogue: 10,0:00:03.39,0:00:06.40,Default,,0,0,0,,I’m comin’ through!
+Dialogue: 10,0:00:03.39,0:00:06.40,Default,,0,0,0,,I'm comin' through!
 Dialogue: 10,0:00:07.61,0:00:10.07,Default,,0,0,0,,Infuriating!
 Dialogue: 10,0:00:15.99,0:00:16.87,Default,,0,0,0,,Teruko!
 Dialogue: 10,0:00:16.87,0:00:18.28,Default,,0,0,0,,Hold onto the furniture!
-Dialogue: 10,0:00:20.20,0:00:22.04,Default,,0,0,0,,That’s a demon with supernatural abilities!
+Dialogue: 10,0:00:20.20,0:00:22.04,Default,,0,0,0,,That's a demon with supernatural abilities!
 Dialogue: 10,0:00:22.04,0:00:24.33,Default,,0,0,0,,Stop launching those reckless assaults!
 Comment: 0,0:01:57.01,0:01:57.01,Default,,0,0,0,,---------------------------------------------- [ PART A ] ----------------------------------------------
 Dialogue: 10,0:02:07.73,0:02:09.48,Default,,0,0,0,,Infuriating!
 Dialogue: 10,0:02:09.48,0:02:12.61,Default,,0,0,0,,You damn insects running amok in my house!
-Dialogue: 10,0:02:26.75,0:02:28.71,Default,,0,0,0,,The room freakin’ spun around!
-Dialogue: 10,0:02:28.71,0:02:32.21,Default,,0,0,0,,This is fun! I’m havin’ a blast!
-Dialogue: 10,0:02:35.21,0:02:37.72,Default,,0,0,0,,Don’t stomp all over her!
+Dialogue: 10,0:02:26.75,0:02:28.71,Default,,0,0,0,,The room freakin' spun around!
+Dialogue: 10,0:02:28.71,0:02:32.21,Default,,0,0,0,,This is fun! I'm havin' a blast!
+Dialogue: 10,0:02:35.21,0:02:37.72,Default,,0,0,0,,Don't stomp all over her!
 Dialogue: 10,0:02:40.89,0:02:42.89,Default,,0,0,0,,Who the hell are you?
-Dialogue: 10,0:02:43.64,0:02:46.89,Default,,0,0,0,,{\q2}What do you think you’re doing, \Nstepping on a little kid like that?
+Dialogue: 10,0:02:43.64,0:02:46.89,Default,,0,0,0,,{\q2}What do you think you're doing, \Nstepping on a little kid like that?
 Dialogue: 10,0:02:49.44,0:02:51.40,Default,,0,0,0,,I like it!
-Dialogue: 10,0:02:51.40,0:02:55.27,Default,,0,0,0,,No human’s ever sent me flying like that before!
+Dialogue: 10,0:02:51.40,0:02:55.27,Default,,0,0,0,,No human's ever sent me flying like that before!
 Dialogue: 10,0:02:57.11,0:02:58.99,Default,,0,0,0,,{\i1}Why is he coming after me?
-Dialogue: 10,0:02:58.99,0:03:00.74,Default,,0,0,0,,{\i1}Isn’t he a Demon Slayer?
+Dialogue: 10,0:02:58.99,0:03:00.74,Default,,0,0,0,,{\i1}Isn't he a Demon Slayer?
 Dialogue: 10,0:03:01.24,0:03:03.87,Default,,0,0,0,,My swords will hurt you.
-Dialogue: 10,0:03:03.87,0:03:07.45,Default,,0,0,0,,{\q2}Because they’re not the kind of swords \Nyou little gentlemen use!
+Dialogue: 10,0:03:03.87,0:03:07.45,Default,,0,0,0,,{\q2}Because they're not the kind of swords \Nyou little gentlemen use!
 Dialogue: 10,0:03:08.16,0:03:12.13,Default,,0,0,0,,{\q2}The way they shred through flesh... \NI pride myself on that!
-Dialogue: 10,0:03:12.13,0:03:14.88,Default,,0,0,0,,{\q2}Knock it off! There’s a demon \Nright there, you know!
+Dialogue: 10,0:03:12.13,0:03:14.88,Default,,0,0,0,,{\q2}Knock it off! There's a demon \Nright there, you know!
 Dialogue: 10,0:03:15.17,0:03:16.80,Default,,0,0,0,,Like I care!
 Dialogue: 10,0:03:17.84,0:03:19.13,Default,,0,0,0,,Damn insects!
 Dialogue: 10,0:03:19.13,0:03:22.14,Default,,0,0,0,,Get out of my sight! Die!
 Dialogue: 10,0:03:26.01,0:03:28.47,Default,,0,0,0,,{\i1}The floor ripped apart all of a sudden!
 Dialogue: 10,0:03:28.47,0:03:31.06,Default,,0,0,0,,{\i1}At the same speed as the sound of the drum!
-Dialogue: 10,0:03:31.06,0:03:33.81,Default,,0,0,0,,{\i1}In the shape of a beast’s claws!
+Dialogue: 10,0:03:31.06,0:03:33.81,Default,,0,0,0,,{\i1}In the shape of a beast's claws!
 Dialogue: 10,0:03:37.90,0:03:39.19,Default,,0,0,0,,{\i1}Spinning right!
 Dialogue: 10,0:03:40.99,0:03:42.36,Default,,0,0,0,,{\i1}Spinning left!
 Dialogue: 10,0:03:42.66,0:03:43.78,Default,,0,0,0,,Damn insects!
 Dialogue: 10,0:03:44.78,0:03:46.28,Default,,0,0,0,,You damn miserable insects!
-Dialogue: 10,0:03:51.71,0:03:53.58,Default,,0,0,0,,{\i1}I’m starting to get the hang of it now!
-Dialogue: 10,0:03:59.88,0:04:01.63,Default,,0,0,0,,{\i1}We’re in yet another room?
+Dialogue: 10,0:03:51.71,0:03:53.58,Default,,0,0,0,,{\i1}I'm starting to get the hang of it now!
+Dialogue: 10,0:03:59.88,0:04:01.63,Default,,0,0,0,,{\i1}We're in yet another room?
 Dialogue: 10,0:04:02.30,0:04:04.30,Default,,0,0,0,,{\i1}But what does this mean?
-Dialogue: 10,0:04:04.30,0:04:07.18,Default,,0,0,0,,{\i1}That demon didn’t strike his drum just now.
-Dialogue: 10,0:04:07.93,0:04:11.18,Default,,0,0,0,,{\q2\i1}I’m picking up the scent of \Nmultiple demons in this house.
+Dialogue: 10,0:04:04.30,0:04:07.18,Default,,0,0,0,,{\i1}That demon didn't strike his drum just now.
+Dialogue: 10,0:04:07.93,0:04:11.18,Default,,0,0,0,,{\q2\i1}I'm picking up the scent of \Nmultiple demons in this house.
 Dialogue: 10,0:04:11.68,0:04:13.98,Default,,0,0,0,,{\i1}Is there another demon with a drum?
 Dialogue: 10,0:04:14.90,0:04:16.36,Default,,0,0,0,,{\i1}Is that why...
 Dialogue: 10,0:04:19.40,0:04:20.86,Default,,0,0,0,,{\i1}I can smell blood.
-Dialogue: 10,0:04:22.57,0:04:23.86,Default,,0,0,0,,You’ll be fine, okay?
+Dialogue: 10,0:04:22.57,0:04:23.86,Default,,0,0,0,,You'll be fine, okay?
 Dialogue: 10,0:04:24.53,0:04:26.20,Default,,0,0,0,,Just stay behind me.
 Dialogue: 10,0:04:27.12,0:04:28.20,Default,,0,0,0,,Okay.
 Dialogue: 10,0:04:35.96,0:04:38.96,Default,,0,0,0,,{\i1}Another human ripped to shreds and devoured!
-Dialogue: 10,0:04:39.71,0:04:41.76,Default,,0,0,0,,Wh-What’s the matter?
-Dialogue: 10,0:04:42.22,0:04:45.22,Default,,0,0,0,,It’s all right. There are no demons around.
-Dialogue: 10,0:04:45.22,0:04:47.14,Default,,0,0,0,,Come on, let’s head over there.
+Dialogue: 10,0:04:39.71,0:04:41.76,Default,,0,0,0,,Wh-What's the matter?
+Dialogue: 10,0:04:42.22,0:04:45.22,Default,,0,0,0,,It's all right. There are no demons around.
+Dialogue: 10,0:04:45.22,0:04:47.14,Default,,0,0,0,,Come on, let's head over there.
 Dialogue: 10,0:04:48.72,0:04:50.26,Default,,0,0,0,,Without so much as a backward glance.
 Dialogue: 10,0:04:50.26,0:04:52.10,Default,,0,0,0,,Look straight ahead, okay?
-Dialogue: 10,0:04:56.10,0:04:58.15,Default,,0,0,0,,{\i1}There’s another scent.
-Dialogue: 10,0:04:58.65,0:05:02.19,Default,,0,0,0,,{\i1}A unique scent of blood I’ve never smelled before.
-Dialogue: 10,0:05:03.03,0:05:05.15,Default,,0,0,0,,{\i1}Looks like there wasn’t that much bleeding.
+Dialogue: 10,0:04:56.10,0:04:58.15,Default,,0,0,0,,{\i1}There's another scent.
+Dialogue: 10,0:04:58.65,0:05:02.19,Default,,0,0,0,,{\i1}A unique scent of blood I've never smelled before.
+Dialogue: 10,0:05:03.03,0:05:05.15,Default,,0,0,0,,{\i1}Looks like there wasn't that much bleeding.
 Dialogue: 10,0:05:35.94,0:05:38.23,Default,,0,0,0,,Excuse me, Zenitsu.
 Dialogue: 10,0:05:45.28,0:05:50.03,Default,,0,0,0,,G-G-G-Give me a signal first!
-Dialogue: 10,0:05:50.03,0:05:52.66,Default,,0,0,0,,{\q2}If you have something to say, \Ndon’t do it out loud suddenly!
+Dialogue: 10,0:05:50.03,0:05:52.66,Default,,0,0,0,,{\q2}If you have something to say, \Ndon't do it out loud suddenly!
 Dialogue: 10,0:05:52.66,0:05:56.50,Default,,0,0,0,,It feels like my heart missed a beat!
-Dialogue: 10,0:05:57.42,0:05:59.13,Default,,0,0,0,,I’m sorry.
-Dialogue: 10,0:05:59.13,0:06:03.67,Default,,0,0,0,,{\q2}If that had come to pass, \Nyou would’ve become a murderer for sure!
+Dialogue: 10,0:05:57.42,0:05:59.13,Default,,0,0,0,,I'm sorry.
+Dialogue: 10,0:05:59.13,0:06:03.67,Default,,0,0,0,,{\q2}If that had come to pass, \Nyou would've become a murderer for sure!
 Dialogue: 10,0:06:03.67,0:06:04.55,Default,,0,0,0,,You get it?
-Dialogue: 10,0:06:05.05,0:06:07.05,Default,,0,0,0,,It’s just that... Well, you see...
-Dialogue: 10,0:06:07.05,0:06:10.14,Default,,0,0,0,,{\q2}You’ve been sweating, gasping, \Nand shivering so horribly.
-Dialogue: 10,0:06:10.14,0:06:14.31,Default,,0,0,0,,What about it? Aren’t I doing the best I can here?
+Dialogue: 10,0:06:05.05,0:06:07.05,Default,,0,0,0,,It's just that... Well, you see...
+Dialogue: 10,0:06:07.05,0:06:10.14,Default,,0,0,0,,{\q2}You've been sweating, gasping, \Nand shivering so horribly.
+Dialogue: 10,0:06:10.14,0:06:14.31,Default,,0,0,0,,What about it? Aren't I doing the best I can here?
 Dialogue: 10,0:06:14.31,0:06:17.27,Default,,0,0,0,,Well, forgive me for saying so,
-Dialogue: 10,0:06:17.27,0:06:19.56,Default,,0,0,0,,but you’re making me nervous, too, so...
+Dialogue: 10,0:06:17.27,0:06:19.56,Default,,0,0,0,,but you're making me nervous, too, so...
 Dialogue: 10,0:06:19.56,0:06:21.56,Default,,0,0,0,,Oh, no! Sorry about that!
 Dialogue: 10,0:06:22.27,0:06:24.11,Default,,0,0,0,,But even so!
 Dialogue: 10,0:06:24.11,0:06:27.82,Default,,0,0,0,,If we talk too much, those demons and all will...
 Dialogue: 10,0:06:27.82,0:06:29.45,Default,,0,0,0,,They might find us, right?
-Dialogue: 10,0:06:29.45,0:06:30.32,Default,,0,0,0,,That’s why...
+Dialogue: 10,0:06:29.45,0:06:30.32,Default,,0,0,0,,That's why...
 Dialogue: 10,0:06:30.62,0:06:34.87,Default,,0,0,0,,{\q2}I think it would be best \Nto be as quiet as possible! Right?
 Dialogue: 10,0:06:43.13,0:06:44.63,Default,,0,0,0,,A couple of kids.
 Dialogue: 10,0:06:44.63,0:06:47.09,Default,,0,0,0,,Probably most agreeable to the tongue.
@@ -124,96 +124,96 @@ Dialogue: 10,0:06:49.68,0:06:52.97,Default,,0,0,0,,{\q2}A demon showed up! You g
 Comment: 0,0:06:56.97,0:06:56.97,Default,,0,0,0,,---------------------------------------------- [ PART B ] ----------------------------------------------
 Dialogue: 10,0:07:03.52,0:07:05.98,Default,,0,0,0,,Go away! Stay away from us!
 Dialogue: 10,0:07:05.98,0:07:08.40,Default,,0,0,0,,Stop that!
-Dialogue: 10,0:07:11.07,0:07:14.74,Default,,0,0,0,,W-W-We don’t taste good! I’m sure I taste awful!
-Dialogue: 10,0:07:14.74,0:07:17.37,Default,,0,0,0,,I’m serious, okay? This kid’s all skin and bones,
-Dialogue: 10,0:07:17.37,0:07:20.33,Default,,0,0,0,,so he’s all dry and tastes ghastly!
+Dialogue: 10,0:07:11.07,0:07:14.74,Default,,0,0,0,,W-W-We don't taste good! I'm sure I taste awful!
+Dialogue: 10,0:07:14.74,0:07:17.37,Default,,0,0,0,,I'm serious, okay? This kid's all skin and bones,
+Dialogue: 10,0:07:17.37,0:07:20.33,Default,,0,0,0,,so he's all dry and tastes ghastly!
 Dialogue: 10,0:07:22.12,0:07:25.17,Default,,0,0,0,,How will I know until I have a taste?
 Dialogue: 10,0:07:25.17,0:07:26.92,Default,,0,0,0,,No!
-Dialogue: 10,0:07:28.30,0:07:30.26,Default,,0,0,0,,What was that? He’s quick-tongued!
+Dialogue: 10,0:07:28.30,0:07:30.26,Default,,0,0,0,,What was that? He's quick-tongued!
 Dialogue: 10,0:07:30.26,0:07:31.80,Default,,0,0,0,,Even able to split a vase in two!
-Dialogue: 10,0:07:34.01,0:07:35.97,Default,,0,0,0,,This can’t be real!
+Dialogue: 10,0:07:34.01,0:07:35.97,Default,,0,0,0,,This can't be real!
 Dialogue: 10,0:07:40.02,0:07:42.27,Default,,0,0,0,,Zenitsu! Get up!
-Dialogue: 10,0:07:43.06,0:07:46.65,Default,,0,0,0,,{\q2}It’s in my knees now! \NEighty percent of my fear is in my knees!
-Dialogue: 10,0:07:46.65,0:07:49.28,Default,,0,0,0,,This isn’t the time to whine!
+Dialogue: 10,0:07:43.06,0:07:46.65,Default,,0,0,0,,{\q2}It's in my knees now! \NEighty percent of my fear is in my knees!
+Dialogue: 10,0:07:46.65,0:07:49.28,Default,,0,0,0,,This isn't the time to whine!
 Dialogue: 10,0:07:50.65,0:07:52.57,Default,,0,0,0,,Just leave me behind, okay?
 Dialogue: 10,0:07:52.57,0:07:54.20,Default,,0,0,0,,Make a run for it!
-Dialogue: 10,0:07:54.20,0:07:55.95,Default,,0,0,0,,I couldn’t possibly do that!
-Dialogue: 10,0:07:57.70,0:07:59.87,Default,,0,0,0,,{\i1}He’s such a good kid!
+Dialogue: 10,0:07:54.20,0:07:55.95,Default,,0,0,0,,I couldn't possibly do that!
+Dialogue: 10,0:07:57.70,0:07:59.87,Default,,0,0,0,,{\i1}He's such a good kid!
 Dialogue: 10,0:07:59.87,0:08:02.50,Default,,0,0,0,,{\i1}Staying here even though all I do is whimper!
-Dialogue: 10,0:08:03.29,0:08:05.29,Default,,0,0,0,,{\i1}I’ve got to find a way somehow!
-Dialogue: 10,0:08:05.75,0:08:08.92,Default,,0,0,0,,{\i1}If I don’t protect him, what will become of him?
+Dialogue: 10,0:08:03.29,0:08:05.29,Default,,0,0,0,,{\i1}I've got to find a way somehow!
+Dialogue: 10,0:08:05.75,0:08:08.92,Default,,0,0,0,,{\i1}If I don't protect him, what will become of him?
 Dialogue: 10,0:08:08.92,0:08:11.80,Default,,0,0,0,,{\q2\i1}Dying before he reaches double digits \Nwould be way too tragic!
-Dialogue: 10,0:08:12.13,0:08:14.05,Default,,0,0,0,,{\i1}But I’m so horribly weak!
+Dialogue: 10,0:08:12.13,0:08:14.05,Default,,0,0,0,,{\i1}But I'm so horribly weak!
 Dialogue: 10,0:08:14.05,0:08:14.97,Default,,0,0,0,,Get up!
-Dialogue: 10,0:08:14.97,0:08:18.06,Default,,0,0,0,,{\i1}I don’t have the ability to protect him!
-Dialogue: 10,0:08:18.06,0:08:20.56,Default,,0,0,0,,{\i1}But if I don’t protect him...
-Dialogue: 10,0:08:23.31,0:08:28.32,Default,,0,0,0,,I’m gonna guzzle your brains through your ears!
+Dialogue: 10,0:08:14.97,0:08:18.06,Default,,0,0,0,,{\i1}I don't have the ability to protect him!
+Dialogue: 10,0:08:18.06,0:08:20.56,Default,,0,0,0,,{\i1}But if I don't protect him...
+Dialogue: 10,0:08:23.31,0:08:28.32,Default,,0,0,0,,I'm gonna guzzle your brains through your ears!
 Dialogue: 10,0:08:33.03,0:08:34.53,Default,,0,0,0,,Zenitsu!
 Dialogue: 10,0:08:35.11,0:08:35.74,Default,,0,0,0,,Zenit—
-Dialogue: 10,0:08:41.12,0:08:42.50,Default,,0,0,0,,{\i1}He’s fast asleep.
-Dialogue: 10,0:08:45.25,0:08:47.38,Default,,0,0,0,,What’s up with him?
+Dialogue: 10,0:08:41.12,0:08:42.50,Default,,0,0,0,,{\i1}He's fast asleep.
+Dialogue: 10,0:08:45.25,0:08:47.38,Default,,0,0,0,,What's up with him?
 Dialogue: 10,0:08:59.22,0:09:00.81,Default,,0,0,0,,Die!
 Dialogue: 10,0:09:02.18,0:09:03.89,Default,,0,0,0,,Zenitsu!
 Dialogue: 10,0:09:03.89,0:09:06.69,Default,,0,0,0,,Please wake up!
-Dialogue: 10,0:09:37.80,0:09:40.64,Default,,0,0,0,,{\i1}Wh-What’s this sound?
+Dialogue: 10,0:09:37.80,0:09:40.64,Default,,0,0,0,,{\i1}Wh-What's this sound?
 Dialogue: 10,0:09:40.64,0:09:42.10,Default,,0,0,0,,{\i1}This guy...
-Dialogue: 10,0:09:42.10,0:09:44.27,Default,,0,0,0,,{\i1}He’s giving off a different vibe!
+Dialogue: 10,0:09:42.10,0:09:44.27,Default,,0,0,0,,{\i1}He's giving off a different vibe!
 Dialogue: 10,0:09:45.23,0:09:46.73,Default,,0,0,0,,Zenitsu...
 Dialogue: 10,0:09:50.36,0:09:53.28,Default,,0,0,0,,Thunder Breathing First Form!
 Dialogue: 10,0:09:53.78,0:09:55.44,Default,,0,0,0,,Thunderclap and Flash!
-Dialogue: 10,0:10:15.76,0:10:17.30,Default,,0,0,0,,He’s dead!
+Dialogue: 10,0:10:15.76,0:10:17.30,Default,,0,0,0,,He's dead!
 Dialogue: 10,0:10:17.30,0:10:19.47,Default,,0,0,0,,He died all of a sudden!
-Dialogue: 10,0:10:19.47,0:10:21.97,Default,,0,0,0,,What the hell? I can’t take this anymore!
+Dialogue: 10,0:10:19.47,0:10:21.97,Default,,0,0,0,,What the hell? I can't take this anymore!
 Dialogue: 10,0:10:21.97,0:10:24.22,Default,,0,0,0,,What is this? What the? Yuck!
 Dialogue: 10,0:10:27.98,0:10:30.15,Default,,0,0,0,,Shouichi...
-Dialogue: 10,0:10:30.15,0:10:31.73,Default,,0,0,0,,Don’t tell me...
+Dialogue: 10,0:10:30.15,0:10:31.73,Default,,0,0,0,,Don't tell me...
 Dialogue: 10,0:10:32.77,0:10:35.48,Default,,0,0,0,,Thank you! You saved my life!
 Dialogue: 10,0:10:35.48,0:10:38.11,Default,,0,0,0,,I shall be eternally grateful to you for this!
-Dialogue: 10,0:10:38.11,0:10:42.32,Default,,0,0,0,,{\q2}Why didn’t you tell me sooner \Nthat you were so powerful?
+Dialogue: 10,0:10:38.11,0:10:42.32,Default,,0,0,0,,{\q2}Why didn't you tell me sooner \Nthat you were so powerful?
 Dialogue: 10,0:10:44.58,0:10:46.33,Default,,0,0,0,,What are you going on about?
 Dialogue: 10,0:10:47.62,0:10:48.83,Default,,0,0,0,,Did you say something?
 Dialogue: 10,0:10:50.33,0:10:51.33,Default,,0,0,0,,No.
 Dialogue: 10,0:10:53.21,0:10:55.67,Default,,0,0,0,,Uh, no. Forget it.
-Dialogue: 10,0:10:56.17,0:10:57.97,Default,,0,0,0,,Let’s get going, okay?
+Dialogue: 10,0:10:56.17,0:10:57.97,Default,,0,0,0,,Let's get going, okay?
 Dialogue: 10,0:10:57.97,0:10:58.72,Default,,0,0,0,,Okay.
 Dialogue: 10,0:11:00.43,0:11:02.76,Default,,0,0,0,,Damn! He sent me flying again!
-Dialogue: 10,0:11:03.18,0:11:06.77,Default,,0,0,0,,It’s been like this for the last three days, dammit!
+Dialogue: 10,0:11:03.18,0:11:06.77,Default,,0,0,0,,It's been like this for the last three days, dammit!
 Dialogue: 10,0:11:06.77,0:11:10.52,Default,,0,0,0,,Making my way through a cramped building like this...
-Dialogue: 10,0:11:10.52,0:11:13.52,Default,,0,0,0,,It’s just not my thing for crying out loud!
+Dialogue: 10,0:11:10.52,0:11:13.52,Default,,0,0,0,,It's just not my thing for crying out loud!
 Dialogue: 10,0:11:21.20,0:11:22.41,Default,,0,0,0,,You dodged me, huh?
 Dialogue: 10,0:11:22.99,0:11:26.41,Default,,0,0,0,,You seem to be a pretty fresh human.
 Dialogue: 10,0:11:27.24,0:11:31.25,Default,,0,0,0,,Your flesh will be well worth gouging out!
 Dialogue: 10,0:11:36.30,0:11:39.01,Default,,0,0,0,,Self-taught! Beast Breathing!
-Dialogue: 10,0:11:39.55,0:11:43.34,Default,,0,0,0,,It’s gonna be so worth it to shred such a huge target!
-Dialogue: 10,0:11:44.64,0:11:48.27,Default,,0,0,0,,You’ve got guts to charge me head-on like that!
+Dialogue: 10,0:11:39.55,0:11:43.34,Default,,0,0,0,,It's gonna be so worth it to shred such a huge target!
+Dialogue: 10,0:11:44.64,0:11:48.27,Default,,0,0,0,,You've got guts to charge me head-on like that!
 Dialogue: 10,0:11:50.94,0:11:53.69,Default,,0,0,0,,Owie!
 Dialogue: 10,0:11:53.98,0:11:55.69,Default,,0,0,0,,Flaunt your corpse
 Dialogue: 10,0:11:55.69,0:11:57.82,Default,,0,0,0,,and serve as my springboard!
 Dialogue: 10,0:11:58.65,0:11:59.90,Default,,0,0,0,,Third Fang!
 Dialogue: 10,0:11:59.90,0:12:01.49,Default,,0,0,0,,Tear and Gorge!
-Dialogue: 10,0:12:09.08,0:12:12.29,Default,,0,0,0,,Comin’ through!
+Dialogue: 10,0:12:09.08,0:12:12.29,Default,,0,0,0,,Comin' through!
 Dialogue: 10,0:12:16.79,0:12:20.05,Default,,0,0,0,,Rareblood...
 Dialogue: 10,0:12:20.05,0:12:21.76,Default,,0,0,0,,If I can just consume some...
 Dialogue: 10,0:12:22.76,0:12:24.68,Default,,0,0,0,,Fifty...
-Dialogue: 10,0:12:24.68,0:12:26.72,Default,,0,0,0,,No—A hundred humans’ worth...
+Dialogue: 10,0:12:24.68,0:12:26.72,Default,,0,0,0,,No—A hundred humans' worth...
 Dialogue: 10,0:12:28.26,0:12:32.31,Default,,0,0,0,,{\q2}I have to find more rareblood humans \Nand consume them.
 Dialogue: 10,0:12:32.31,0:12:33.81,Default,,0,0,0,,That way...
 Dialogue: 10,0:12:34.52,0:12:38.15,Default,,0,0,0,,{\q2}I can reclaim my place among \Nthe Twelve Blood Moons!
 Dialogue: 10,0:12:48.53,0:12:50.04,Default,,0,0,0,,Kyougai.
-Dialogue: 10,0:12:52.33,0:12:54.62,Default,,0,0,0,,You can’t eat any more?
-Dialogue: 10,0:12:55.00,0:12:57.13,Default,,0,0,0,,Is that all you’ve got?
+Dialogue: 10,0:12:52.33,0:12:54.62,Default,,0,0,0,,You can't eat any more?
+Dialogue: 10,0:12:55.00,0:12:57.13,Default,,0,0,0,,Is that all you've got?
 Dialogue: 10,0:12:57.13,0:12:58.71,Default,,0,0,0,,No.
-Dialogue: 10,0:12:58.71,0:13:00.05,Default,,0,0,0,,No, I’m not done!
+Dialogue: 10,0:12:58.71,0:13:00.05,Default,,0,0,0,,No, I'm not done!
 Dialogue: 10,0:13:04.68,0:13:07.01,Default,,0,0,0,,P-Please give me more time!
 Dialogue: 10,0:13:07.01,0:13:08.76,Default,,0,0,0,,J-Just a little!
-Dialogue: 10,0:13:08.76,0:13:09.97,Default,,0,0,0,,I’ve had enough.
-Dialogue: 10,0:13:10.39,0:13:13.14,Default,,0,0,0,,I’m stripping you of your number.
-Dialogue: 10,0:13:13.14,0:13:16.48,Default,,0,0,0,,That’s your limit, and you’ve reached it.
+Dialogue: 10,0:13:08.76,0:13:09.97,Default,,0,0,0,,I've had enough.
+Dialogue: 10,0:13:10.39,0:13:13.14,Default,,0,0,0,,I'm stripping you of your number.
+Dialogue: 10,0:13:13.14,0:13:16.48,Default,,0,0,0,,That's your limit, and you've reached it.
 Dialogue: 10,0:13:17.69,0:13:21.07,Default,,0,0,0,,{\q2\i1}The more humans you consume, \Nthe stronger you can become.
 Dialogue: 10,0:13:21.07,0:13:23.78,Default,,0,0,0,,{\i1}And once he saw my potential,
 Dialogue: 10,0:13:23.78,0:13:26.86,Default,,0,0,0,,{\i1}Lord Kibutsuji was willing to share his blood with me.
-Dialogue: 10,0:13:28.07,0:13:32.12,Default,,0,0,0,,{\i1}The power of that man’s blood was mind-boggling.
-Dialogue: 10,0:13:32.12,0:13:36.46,Default,,0,0,0,,{\q2\i1}I was sure that I’d grow \Ninfinitely stronger than ever before,
+Dialogue: 10,0:13:28.07,0:13:32.12,Default,,0,0,0,,{\i1}The power of that man's blood was mind-boggling.
+Dialogue: 10,0:13:32.12,0:13:36.46,Default,,0,0,0,,{\q2\i1}I was sure that I'd grow \Ninfinitely stronger than ever before,
 Dialogue: 10,0:13:36.92,0:13:40.13,Default,,0,0,0,,{\i1}be welcomed into the ranks of the Twelve Blood Moons,
 Dialogue: 10,0:13:40.13,0:13:42.59,Default,,0,0,0,,{\i1}continue to gorge myself on humans,
 Dialogue: 10,0:13:42.59,0:13:46.97,Default,,0,0,0,,{\i1}and become even more powerful! Or so I believed!
@@ -221,9 +221,9 @@ Dialogue: 10,0:13:48.14,0:13:50.14,Default,,0,0,0,,{\i1}Or so I believed.
 Dialogue: 10,0:13:51.51,0:13:53.06,Default,,0,0,0,,Kiyoshi!
 Dialogue: 10,0:13:55.60,0:13:58.06,Default,,0,0,0,,Kiyoshi!
 Dialogue: 10,0:13:59.10,0:14:00.56,Default,,0,0,0,,Teruko!
-Dialogue: 10,0:14:02.36,0:14:04.07,Default,,0,0,0,,Wh-Who’s he?
-Dialogue: 10,0:14:04.82,0:14:06.61,Default,,0,0,0,,I’m Kamado Tanjirou.
-Dialogue: 10,0:14:07.15,0:14:09.32,Default,,0,0,0,,I’ve come to defeat the evil demons.
+Dialogue: 10,0:14:02.36,0:14:04.07,Default,,0,0,0,,Wh-Who's he?
+Dialogue: 10,0:14:04.82,0:14:06.61,Default,,0,0,0,,I'm Kamado Tanjirou.
+Dialogue: 10,0:14:07.15,0:14:09.32,Default,,0,0,0,,I've come to defeat the evil demons.
 Dialogue: 10,0:14:10.78,0:14:12.83,Default,,0,0,0,,Now then, show me your wounds.
 Dialogue: 10,0:14:13.12,0:14:15.00,Default,,0,0,0,,Good job for hanging in there on your own.
 Dialogue: 10,0:14:17.96,0:14:19.83,Default,,0,0,0,,Kiyoshi...
@@ -232,10 +232,10 @@ Dialogue: 10,0:14:27.88,0:14:30.51,Default,,0,0,0,,My master gave it to me!
 Dialogue: 10,0:14:31.72,0:14:35.02,Default,,0,0,0,,My master always wears a tengu mask.
 Dialogue: 10,0:14:35.02,0:14:36.43,Default,,0,0,0,,Tengu?
 Dialogue: 10,0:14:36.43,0:14:37.48,Default,,0,0,0,,Really?
-Dialogue: 10,0:14:37.48,0:14:38.94,Default,,0,0,0,,Yes, it’s true.
-Dialogue: 10,0:14:38.94,0:14:43.36,Default,,0,0,0,,{\q2}My master’s ointment is so amazing, \Nit kicks in within mere seconds.
-Dialogue: 10,0:14:44.86,0:14:46.24,Default,,0,0,0,,Okay, you’re all set!
-Dialogue: 10,0:14:47.24,0:14:49.53,Default,,0,0,0,,Well? The pain’s gone, isn’t it?
+Dialogue: 10,0:14:37.48,0:14:38.94,Default,,0,0,0,,Yes, it's true.
+Dialogue: 10,0:14:38.94,0:14:43.36,Default,,0,0,0,,{\q2}My master's ointment is so amazing, \Nit kicks in within mere seconds.
+Dialogue: 10,0:14:44.86,0:14:46.24,Default,,0,0,0,,Okay, you're all set!
+Dialogue: 10,0:14:47.24,0:14:49.53,Default,,0,0,0,,Well? The pain's gone, isn't it?
 Dialogue: 10,0:14:49.99,0:14:51.28,Default,,0,0,0,,Yes!
 Dialogue: 10,0:14:52.74,0:14:55.54,Default,,0,0,0,,Do you think you can you tell me what happened here?
 Dialogue: 10,0:14:59.25,0:15:01.29,Default,,0,0,0,,A monster dragged me away,
@@ -253,15 +253,15 @@ Dialogue: 10,0:15:34.07,0:15:35.66,Default,,0,0,0,,this room suddenly changed.
 Dialogue: 10,0:15:36.37,0:15:38.04,Default,,0,0,0,,And I somehow held on until now!
 Dialogue: 10,0:15:40.91,0:15:43.42,Default,,0,0,0,,A demon with drums growing out of him...
 Dialogue: 10,0:15:43.42,0:15:44.67,Default,,0,0,0,,So that was him?
-Dialogue: 10,0:15:45.46,0:15:49.76,Default,,0,0,0,,He mentioned “rareblood” or something like that.
-Dialogue: 10,0:15:50.63,0:15:52.63,Default,,0,0,0,,That’s right!
-Dialogue: 10,0:15:52.63,0:15:54.89,Default,,0,0,0,,He kept calling me “rareblood”!
+Dialogue: 10,0:15:45.46,0:15:49.76,Default,,0,0,0,,He mentioned "rareblood" or something like that.
+Dialogue: 10,0:15:50.63,0:15:52.63,Default,,0,0,0,,That's right!
+Dialogue: 10,0:15:52.63,0:15:54.89,Default,,0,0,0,,He kept calling me "rareblood"!
 Dialogue: 10,0:15:56.93,0:15:58.39,Default,,0,0,0,,Rareblood!
-Dialogue: 10,0:15:58.39,0:16:01.64,Default,,0,0,0,,That’s what they call those who carry delicate blood!
+Dialogue: 10,0:15:58.39,0:16:01.64,Default,,0,0,0,,That's what they call those who carry delicate blood!
 Dialogue: 10,0:16:05.11,0:16:06.57,Default,,0,0,0,,You little brats!
-Dialogue: 10,0:16:06.57,0:16:08.36,Default,,0,0,0,,I’m going to peck you now.
+Dialogue: 10,0:16:06.57,0:16:08.36,Default,,0,0,0,,I'm going to peck you now.
 Dialogue: 10,0:16:08.36,0:16:09.82,Default,,0,0,0,,Cut it out!
-Dialogue: 10,0:16:10.44,0:16:13.45,Default,,0,0,0,,What do you mean by “delicate blood”?
+Dialogue: 10,0:16:10.44,0:16:13.45,Default,,0,0,0,,What do you mean by "delicate blood"?
 Dialogue: 10,0:16:13.45,0:16:17.58,Default,,0,0,0,,{\q2}The blood of all living species \Ncan be categorized into types, moron!
 Dialogue: 10,0:16:17.87,0:16:19.54,Default,,0,0,0,,And the ultimate rareblood...
 Dialogue: 10,0:16:19.54,0:16:24.42,Default,,0,0,0,,The less common the blood is...
@@ -271,25 +271,25 @@ Dialogue: 10,0:16:28.42,0:16:29.63,Default,,0,0,0,,One hundred humans!
 Dialogue: 10,0:16:29.63,0:16:33.26,Default,,0,0,0,,For demons, rarebloods are a feast!
 Dialogue: 10,0:16:34.26,0:16:39.01,Default,,0,0,0,,Rareblood is their favorite food!
 Dialogue: 10,0:16:48.52,0:16:52.03,Default,,0,0,0,,Rareblood...
-Dialogue: 10,0:16:54.07,0:16:55.82,Default,,0,0,0,,I’m leaving this room now.
+Dialogue: 10,0:16:54.07,0:16:55.82,Default,,0,0,0,,I'm leaving this room now.
 Dialogue: 10,0:16:56.99,0:16:58.16,Default,,0,0,0,,Keep calm.
-Dialogue: 10,0:16:58.16,0:16:59.58,Default,,0,0,0,,It’s all right.
-Dialogue: 10,0:16:59.58,0:17:01.58,Default,,0,0,0,,I’m just going to take down that demon.
+Dialogue: 10,0:16:58.16,0:16:59.58,Default,,0,0,0,,It's all right.
+Dialogue: 10,0:16:59.58,0:17:01.58,Default,,0,0,0,,I'm just going to take down that demon.
 Dialogue: 10,0:17:03.08,0:17:04.54,Default,,0,0,0,,Listen to me, Teruko.
 Dialogue: 10,0:17:05.83,0:17:08.25,Default,,0,0,0,,Your brother is terribly exhausted right now.
 Dialogue: 10,0:17:08.25,0:17:10.17,Default,,0,0,0,,Make sure to look after him, okay?
 Dialogue: 10,0:17:11.96,0:17:15.47,Default,,0,0,0,,{\q2}As soon as I leave the room, \Nstrike that drum and move out.
-Dialogue: 10,0:17:16.01,0:17:18.35,Default,,0,0,0,,Just like Kiyoshi’s been doing until now,
+Dialogue: 10,0:17:16.01,0:17:18.35,Default,,0,0,0,,Just like Kiyoshi's been doing until now,
 Dialogue: 10,0:17:18.35,0:17:21.77,Default,,0,0,0,,{\q2}whenever someone tries to open \Nthe door or you hear something,
 Dialogue: 10,0:17:21.77,0:17:24.52,Default,,0,0,0,,strike that drum right away and make a run for it.
 Dialogue: 10,0:17:25.23,0:17:27.19,Default,,0,0,0,,I promise to come pick you up.
-Dialogue: 10,0:17:27.73,0:17:29.56,Default,,0,0,0,,I’ll follow your scent.
-Dialogue: 10,0:17:30.27,0:17:33.03,Default,,0,0,0,,I’ll call out your names when I open the door.
+Dialogue: 10,0:17:27.73,0:17:29.56,Default,,0,0,0,,I'll follow your scent.
+Dialogue: 10,0:17:30.27,0:17:33.03,Default,,0,0,0,,I'll call out your names when I open the door.
 Dialogue: 10,0:17:36.11,0:17:37.95,Default,,0,0,0,,You just have to hold out a little longer.
 Dialogue: 10,0:17:38.82,0:17:40.12,Default,,0,0,0,,You can do it, right?
 Dialogue: 10,0:17:43.08,0:17:44.25,Default,,0,0,0,,Good!
-Dialogue: 10,0:17:44.25,0:17:45.62,Default,,0,0,0,,You’re so strong!
-Dialogue: 10,0:17:48.33,0:17:49.50,Default,,0,0,0,,I’m heading out.
+Dialogue: 10,0:17:44.25,0:17:45.62,Default,,0,0,0,,You're so strong!
+Dialogue: 10,0:17:48.33,0:17:49.50,Default,,0,0,0,,I'm heading out.
 Dialogue: 10,0:17:58.09,0:17:59.01,Default,,0,0,0,,Strike it!
 Dialogue: 10,0:18:01.51,0:18:03.68,Default,,0,0,0,,Damn insects!
 Dialogue: 10,0:18:03.68,0:18:05.35,Default,,0,0,0,,So infuriating!
@@ -301,72 +301,72 @@ Dialogue: 10,0:18:35.46,0:18:37.97,Default,,0,0,0,,{\i1}And the drum on his bell
 Dialogue: 10,0:18:54.23,0:18:55.28,Default,,0,0,0,,{\i1}So fast!
 Dialogue: 10,0:18:55.28,0:18:58.57,Default,,0,0,0,,{\i1}The speed of the rotations and attacks is devastating!
 Dialogue: 10,0:18:59.28,0:19:01.99,Default,,0,0,0,,{\i1}Miss Tamayo may have treated my wounds,
-Dialogue: 10,0:19:01.99,0:19:03.95,Default,,0,0,0,,{\i1}but I haven’t fully recovered from my injuries yet!
+Dialogue: 10,0:19:01.99,0:19:03.95,Default,,0,0,0,,{\i1}but I haven't fully recovered from my injuries yet!
 Dialogue: 10,0:19:05.49,0:19:08.33,Default,,0,0,0,,{\i1}Can I beat him?
 Dialogue: 10,0:19:08.75,0:19:12.92,Default,,0,0,0,,{\q2\i1}These injuries hurt so badly \Nthat I can hardly stand it!
-Dialogue: 10,0:19:14.59,0:19:18.13,Default,,0,0,0,,{\i1}All this time, I’ve just been enduring it!
+Dialogue: 10,0:19:14.59,0:19:18.13,Default,,0,0,0,,{\i1}All this time, I've just been enduring it!
 Dialogue: 10,0:19:18.13,0:19:21.39,Default,,0,0,0,,{\i1}When I pulled Zenitsu off that girl,
 Dialogue: 10,0:19:21.89,0:19:25.93,Default,,0,0,0,,{\q2\i1}when I shouted out, I was enduring \Nthis horrendous pain!
-Dialogue: 10,0:19:26.43,0:19:29.02,Default,,0,0,0,,{\i1}I was able to withstand it because I’m the eldest son!
-Dialogue: 10,0:19:29.52,0:19:31.77,Default,,0,0,0,,{\i1}But I couldn’t have if I were the second!
+Dialogue: 10,0:19:26.43,0:19:29.02,Default,,0,0,0,,{\i1}I was able to withstand it because I'm the eldest son!
+Dialogue: 10,0:19:29.52,0:19:31.77,Default,,0,0,0,,{\i1}But I couldn't have if I were the second!
 Dialogue: 10,0:19:33.81,0:19:37.40,Default,,0,0,0,,{\i1}Whenever I dig in, the broken parts creak,
-Dialogue: 10,0:19:37.40,0:19:39.28,Default,,0,0,0,,{\i1}and I can’t muster any strength.
-Dialogue: 10,0:19:41.41,0:19:45.45,Default,,0,0,0,,{\q2\i1}That demon’s attack is leaving scars \Nthat look like claw marks.
-Dialogue: 10,0:19:46.33,0:19:48.75,Default,,0,0,0,,{\i1}It scares me so much that I can’t move in closer!
-Dialogue: 10,0:19:50.29,0:19:52.17,Default,,0,0,0,,{\i1}Since I’m not at full strength,
+Dialogue: 10,0:19:37.40,0:19:39.28,Default,,0,0,0,,{\i1}and I can't muster any strength.
+Dialogue: 10,0:19:41.41,0:19:45.45,Default,,0,0,0,,{\q2\i1}That demon's attack is leaving scars \Nthat look like claw marks.
+Dialogue: 10,0:19:46.33,0:19:48.75,Default,,0,0,0,,{\i1}It scares me so much that I can't move in closer!
+Dialogue: 10,0:19:50.29,0:19:52.17,Default,,0,0,0,,{\i1}Since I'm not at full strength,
 Dialogue: 10,0:19:52.17,0:19:55.04,Default,,0,0,0,,{\i1}if I charge forward to get within striking distance,
 Dialogue: 10,0:19:55.34,0:19:57.75,Default,,0,0,0,,{\i1}a flash of pain makes me stumble!
-Dialogue: 10,0:20:00.80,0:20:02.13,Default,,0,0,0,,{\i1}I’ll get sliced into rings!
+Dialogue: 10,0:20:00.80,0:20:02.13,Default,,0,0,0,,{\i1}I'll get sliced into rings!
 Dialogue: 10,0:20:04.85,0:20:08.27,Default,,0,0,0,,{\q2\i1}My injuries are making me \Nimagine the most awful things!
 Dialogue: 10,0:20:08.72,0:20:10.31,Default,,0,0,0,,{\i1}Master Urokodaki!
 Dialogue: 10,0:20:11.98,0:20:14.86,Default,,0,0,0,,Water can change into any form.
-Dialogue: 10,0:20:16.02,0:20:18.69,Default,,0,0,0,,Pour it into a container, and it’s a square.
-Dialogue: 10,0:20:18.69,0:20:20.86,Default,,0,0,0,,Pour it into a bottle, and it’s round.
+Dialogue: 10,0:20:16.02,0:20:18.69,Default,,0,0,0,,Pour it into a container, and it's a square.
+Dialogue: 10,0:20:18.69,0:20:20.86,Default,,0,0,0,,Pour it into a bottle, and it's round.
 Dialogue: 10,0:20:20.86,0:20:25.20,Default,,0,0,0,,{\q2}Sometimes, it can even smash boulders \Nand flow away as far as the eye can see.
-Dialogue: 10,0:20:25.70,0:20:28.41,Default,,0,0,0,,{\i1}That’s right! That’s it!
+Dialogue: 10,0:20:25.70,0:20:28.41,Default,,0,0,0,,{\i1}That's right! That's it!
 Dialogue: 10,0:20:28.41,0:20:31.54,Default,,0,0,0,,{\i1}There are ten Water Breathing forms!
 Dialogue: 10,0:20:32.08,0:20:33.96,Default,,0,0,0,,{\i1}I can battle any kind of opponent!
-Dialogue: 10,0:20:34.67,0:20:38.88,Default,,0,0,0,,{\q2\i1}If you’re hurt, use a move \Nthat will compensate for that!
+Dialogue: 10,0:20:34.67,0:20:38.88,Default,,0,0,0,,{\q2\i1}If you're hurt, use a move \Nthat will compensate for that!
 Dialogue: 10,0:20:38.88,0:20:40.84,Default,,0,0,0,,{\i1}I can take on any form!
 Dialogue: 10,0:20:41.30,0:20:43.80,Default,,0,0,0,,{\i1}And this flow will never be stopped!
-Dialogue: 10,0:20:46.51,0:20:50.06,Default,,0,0,0,,{\q2\i1}Right now, it’s not just my bones! \NMy heart’s also been broken!
-Dialogue: 10,0:20:51.56,0:20:54.81,Default,,0,0,0,,A broken Tanjirou’s not gonna do any good!
+Dialogue: 10,0:20:46.51,0:20:50.06,Default,,0,0,0,,{\q2\i1}Right now, it's not just my bones! \NMy heart's also been broken!
+Dialogue: 10,0:20:51.56,0:20:54.81,Default,,0,0,0,,A broken Tanjirou's not gonna do any good!
 Dialogue: 10,0:20:54.81,0:20:57.40,Default,,0,0,0,,All right! If you could please quiet down!
 Dialogue: 10,0:20:58.06,0:21:00.57,Default,,0,0,0,,{\i1}Look straight ahead!
 Dialogue: 10,0:21:00.57,0:21:02.90,Default,,0,0,0,,{\i1}Fire yourself up!
-Dialogue: 10,0:21:03.61,0:21:05.53,Default,,0,0,0,,{\i1}Give it all you’ve got, Tanjirou!
-Dialogue: 10,0:21:06.41,0:21:07.74,Default,,0,0,0,,{\i1}You’ve got this!
-Dialogue: 10,0:21:11.75,0:21:13.96,Default,,0,0,0,,I’ve been doing great so far!
+Dialogue: 10,0:21:03.61,0:21:05.53,Default,,0,0,0,,{\i1}Give it all you've got, Tanjirou!
+Dialogue: 10,0:21:06.41,0:21:07.74,Default,,0,0,0,,{\i1}You've got this!
+Dialogue: 10,0:21:11.75,0:21:13.96,Default,,0,0,0,,I've been doing great so far!
 Dialogue: 10,0:21:14.41,0:21:16.12,Default,,0,0,0,,I have what it takes!
 Dialogue: 10,0:21:16.63,0:21:18.34,Default,,0,0,0,,And neither today
 Dialogue: 10,0:21:18.75,0:21:20.42,Default,,0,0,0,,nor any other time in the future!
-Dialogue: 10,0:21:20.42,0:21:22.34,Default,,0,0,0,,Even if I’m broken...
-Dialogue: 10,0:21:24.67,0:21:28.68,Default,,0,0,0,,I won’t {\i1}ever{\i0} give up, no matter what!
+Dialogue: 10,0:21:20.42,0:21:22.34,Default,,0,0,0,,Even if I'm broken...
+Dialogue: 10,0:21:24.67,0:21:28.68,Default,,0,0,0,,I won't {\i1}ever{\i0} give up, no matter what!
 Comment: 0,0:22:59.98,0:22:59.98,Default,,0,0,0,,---------------------------------------------- [ OUTRO ] ----------------------------------------------
-Dialogue: 10,0:23:03.23,0:23:05.57,Default,,0,0,0,,{\q2}Give it all you’ve got, Tanjirou! \NYou’ve got this!
-Dialogue: 10,0:23:06.28,0:23:09.15,Default,,0,0,0,,I’m the eldest son, so I can endure it!
-Dialogue: 10,0:23:09.15,0:23:11.24,Default,,0,0,0,,You’ll be cheering me on too, right?
+Dialogue: 10,0:23:03.23,0:23:05.57,Default,,0,0,0,,{\q2}Give it all you've got, Tanjirou! \NYou've got this!
+Dialogue: 10,0:23:06.28,0:23:09.15,Default,,0,0,0,,I'm the eldest son, so I can endure it!
+Dialogue: 10,0:23:09.15,0:23:11.24,Default,,0,0,0,,You'll be cheering me on too, right?
 Dialogue: 10,0:23:11.24,0:23:12.62,Default,,0,0,0,,Thanks, Nezuko!
-Dialogue: 10,0:23:13.20,0:23:15.87,Default,,0,0,0,,{\q2}Okay, to show you my gratitude, \NI’m gonna cheer you on, too!
-Dialogue: 10,0:23:15.87,0:23:18.04,Default,,0,0,0,,{\q2}Give it all you’ve got, Nezuko! \NYou’ve got this!
-Dialogue: 10,0:23:18.71,0:23:21.75,Default,,0,0,0,,You won’t {\i1}ever{\i0} give up, no matter what!
-Dialogue: 10,0:23:22.21,0:23:25.42,Default,,0,0,0,,{\q2}You’re the eldest daughter, but if anything \Nbad happens to you, don’t endure it.
+Dialogue: 10,0:23:13.20,0:23:15.87,Default,,0,0,0,,{\q2}Okay, to show you my gratitude, \NI'm gonna cheer you on, too!
+Dialogue: 10,0:23:15.87,0:23:18.04,Default,,0,0,0,,{\q2}Give it all you've got, Nezuko! \NYou've got this!
+Dialogue: 10,0:23:18.71,0:23:21.75,Default,,0,0,0,,You won't {\i1}ever{\i0} give up, no matter what!
+Dialogue: 10,0:23:22.21,0:23:25.42,Default,,0,0,0,,{\q2}You're the eldest daughter, but if anything \Nbad happens to you, don't endure it.
 Dialogue: 10,0:23:25.42,0:23:27.13,Default,,0,0,0,,Just tell me, okay?
-Dialogue: 10,0:23:28.34,0:23:31.84,Default,,0,0,0,,{\q2}Next, Episode 13, \N“Something More Important Than Life”!
-Dialogue: 10,0:23:32.34,0:23:35.89,Default,,0,0,0,,Looks like we’ve run out of time for the Taisho secret!
+Dialogue: 10,0:23:28.34,0:23:31.84,Default,,0,0,0,,{\q2}Next, Episode 13, \N"Something More Important Than Life"!
+Dialogue: 10,0:23:32.34,0:23:35.89,Default,,0,0,0,,Looks like we've run out of time for the Taisho secret!
 Comment: 0,0:00:27.04,0:00:27.04,Default,,0,0,0,,---------------------------------------------- [     OP    ] ----------------------------------------------
 Comment: 0,0:00:28.09,0:00:34.51,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}tsuyoku nareru riyuu wo shitta
 Comment: 1,0:00:28.25,0:00:34.34,OP1 - ROM A,,0,0,0,,{\fsp0.5\blur1\q2\c&HF9F8FB&}tsuyoku nareru riyuu wo shitta
-Comment: 0,0:00:28.09,0:00:34.51,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}I’ve found a reason to become stronger
-Comment: 1,0:00:28.25,0:00:34.34,OP1 - ENG A,,0,0,0,,{\fsp0.5\blur1\q2\c&HF9F8FB&}I’ve found a reason to become stronger
+Comment: 0,0:00:28.09,0:00:34.51,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}I've found a reason to become stronger
+Comment: 1,0:00:28.25,0:00:34.34,OP1 - ENG A,,0,0,0,,{\fsp0.5\blur1\q2\c&HF9F8FB&}I've found a reason to become stronger
 Comment: 0,0:00:34.59,0:00:42.85,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}boku wo tsurete susume
 Comment: 1,0:00:34.76,0:00:42.52,OP1 - ROM A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}boku wo tsurete susume
 Comment: 0,0:00:34.59,0:00:42.85,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}This new strength compels me to advance
 Comment: 1,0:00:34.76,0:00:42.52,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}This new strength compels me to advance
 Comment: 0,0:00:45.94,0:00:51.11,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}dorodarake no soumatou ni you
 Comment: 1,0:00:46.10,0:00:50.94,OP1 - ROM A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}dorodarake no soumatou ni you
-Comment: 0,0:00:45.94,0:00:51.11,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}As I’m spellbound by the mud-covered lantern
-Comment: 1,0:00:46.10,0:00:50.94,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}As I’m spellbound by the mud-covered lantern
+Comment: 0,0:00:45.94,0:00:51.11,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}As I'm spellbound by the mud-covered lantern
+Comment: 1,0:00:46.10,0:00:50.94,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}As I'm spellbound by the mud-covered lantern
 Comment: 0,0:00:51.40,0:00:53.15,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}kowabaru kokoro
 Comment: 1,0:00:51.57,0:00:53.15,OP1 - ROM A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}kowabaru kokoro
 Comment: 0,0:00:51.40,0:00:53.15,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}My heart freezes
@@ -377,8 +377,8 @@ Comment: 0,0:00:53.11,0:00:57.99,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1
 Comment: 1,0:00:53.28,0:00:57.91,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}My shaking hand has found its destination
 Comment: 0,0:00:57.99,0:00:59.83,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}sore dakesa
 Comment: 1,0:00:58.24,0:00:59.66,OP1 - ROM A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}sore dakesa
-Comment: 0,0:00:57.99,0:00:59.83,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}And that’s all there is to it
-Comment: 1,0:00:58.24,0:00:59.66,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}And that’s all there is to it
+Comment: 0,0:00:57.99,0:00:59.83,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}And that's all there is to it
+Comment: 1,0:00:58.24,0:00:59.66,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}And that's all there is to it
 Comment: 0,0:00:59.99,0:01:02.54,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}yoru no nioi ni
 Comment: 1,0:01:00.16,0:01:02.37,OP1 - ROM A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}yoru no nioi ni
 Comment: 0,0:00:59.99,0:01:02.54,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}Following the fragrance of the night
@@ -393,40 +393,40 @@ Comment: 0,0:01:05.62,0:01:07.21,OP1 - ENG D,,0,0,0,,{\pos(960,970)\blur2\q2\t(0
 Comment: 1,0:01:05.79,0:01:07.04,OP1 - ENG C,,0,0,0,,{\pos(960,970)\blur1\q2}Staring into the sky
 Comment: 0,0:01:07.08,0:01:12.38,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}kawatte ikeru no wa jibun jishin dake
 Comment: 1,0:01:07.25,0:01:12.34,OP1 - ROM A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}kawatte ikeru no wa jibun jishin dake
-Comment: 0,0:01:07.08,0:01:12.38,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}Even with the break of dawn, who I am won’t change
-Comment: 1,0:01:07.25,0:01:12.34,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}Even with the break of dawn, who I am won’t change
+Comment: 0,0:01:07.08,0:01:12.38,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}Even with the break of dawn, who I am won't change
+Comment: 1,0:01:07.25,0:01:12.34,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}Even with the break of dawn, who I am won't change
 Comment: 0,0:01:12.30,0:01:14.17,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}sore dakesa
 Comment: 1,0:01:12.46,0:01:14.01,OP1 - ROM A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}sore dakesa
-Comment: 0,0:01:12.30,0:01:14.17,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}And that’s all there is to it
-Comment: 1,0:01:12.46,0:01:14.01,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}And that’s all there is to it
+Comment: 0,0:01:12.30,0:01:14.17,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}And that's all there is to it
+Comment: 1,0:01:12.46,0:01:14.01,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}And that's all there is to it
 Comment: 0,0:01:14.26,0:01:20.85,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}tsuyoku nareru riyuu wo shitta
 Comment: 1,0:01:14.42,0:01:20.68,OP1 - ROM A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}tsuyoku nareru riyuu wo shitta
-Comment: 0,0:01:14.26,0:01:20.85,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}I’ve found a reason to become stronger
-Comment: 1,0:01:14.42,0:01:20.68,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}I’ve found a reason to become stronger
+Comment: 0,0:01:14.26,0:01:20.85,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}I've found a reason to become stronger
+Comment: 1,0:01:14.42,0:01:20.68,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}I've found a reason to become stronger
 Comment: 0,0:01:20.93,0:01:27.02,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}boku wo tsurete susume
 Comment: 1,0:01:21.10,0:01:26.85,OP1 - ROM A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}boku wo tsurete susume
 Comment: 0,0:01:20.93,0:01:27.02,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}This new strength compels me to advance
 Comment: 1,0:01:21.10,0:01:26.85,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}This new strength compels me to advance
 Comment: 0,0:01:27.23,0:01:32.11,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}doushitatte kesenai yume mo tomarenai ima mo
 Comment: 1,0:01:27.40,0:01:31.94,OP1 - ROM A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}doushitatte kesenai yume mo tomarenai ima mo
-Comment: 0,0:01:27.23,0:01:30.36,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}The dream that won’t ever fade away
-Comment: 1,0:01:27.40,0:01:30.19,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}The dream that won’t ever fade away
+Comment: 0,0:01:27.23,0:01:30.36,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}The dream that won't ever fade away
+Comment: 1,0:01:27.40,0:01:30.19,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}The dream that won't ever fade away
 Comment: 0,0:01:30.23,0:01:32.11,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}The now that continues moving on
 Comment: 1,0:01:30.40,0:01:31.94,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}The now that continues moving on
 Comment: 0,0:01:32.07,0:01:36.45,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}dareka no tame ni tsuyoku nareru nara
 Comment: 1,0:01:32.23,0:01:36.28,OP1 - ROM A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}dareka no tame ni tsuyoku nareru nara
-Comment: 0,0:01:32.07,0:01:36.45,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}If I can get stronger for someone else’s sake
-Comment: 1,0:01:32.23,0:01:36.28,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}If I can get stronger for someone else’s sake
+Comment: 0,0:01:32.07,0:01:36.45,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}If I can get stronger for someone else's sake
+Comment: 1,0:01:32.23,0:01:36.28,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}If I can get stronger for someone else's sake
 Comment: 0,0:01:36.36,0:01:41.16,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}nandodemo tachiagare
 Comment: 1,0:01:36.53,0:01:40.99,OP1 - ROM A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}nandodemo tachiagare
-Comment: 0,0:01:36.36,0:01:41.16,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}I’ll keep rising again and again
-Comment: 1,0:01:36.53,0:01:40.99,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}I’ll keep rising again and again
+Comment: 0,0:01:36.36,0:01:41.16,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}I'll keep rising again and again
+Comment: 1,0:01:36.53,0:01:40.99,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}I'll keep rising again and again
 Comment: 0,0:01:41.33,0:01:46.33,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}sekai ni uchinomesarete makeru imi wo shitta
 Comment: 1,0:01:41.49,0:01:46.16,OP1 - ROM A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}sekai ni uchinomesarete makeru imi wo shitta
 Comment: 0,0:01:41.33,0:01:44.62,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}This world once tore me down
 Comment: 1,0:01:41.49,0:01:44.45,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}This world once tore me down
-Comment: 0,0:01:44.50,0:01:46.33,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}And I’ve come to learn what loss truly means
-Comment: 1,0:01:44.66,0:01:46.16,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}And I’ve come to learn what loss truly means
+Comment: 0,0:01:44.50,0:01:46.33,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}And I've come to learn what loss truly means
+Comment: 1,0:01:44.66,0:01:46.16,OP1 - ENG A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}And I've come to learn what loss truly means
 Comment: 0,0:01:46.33,0:01:50.63,OP1 - ROM B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}guren no hana yo sakihokore
 Comment: 1,0:01:46.50,0:01:50.46,OP1 - ROM A,,0,0,0,,{\blur1\q2\c&HF9F8FB&}guren no hana yo sakihokore
 Comment: 0,0:01:46.33,0:01:50.63,OP1 - ENG B,,0,0,0,,{\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)}The crimson flower shall be in full bloom
@@ -542,7 +542,7 @@ Dialogue: 1,0:00:43.56,0:00:43.60,Sign,,0,0,0,,{\pos(1008.9,762.31)\fscx111.15\f
 Dialogue: 1,0:00:43.60,0:00:43.64,Sign,,0,0,0,,{\pos(1008.96,762.52)\fscx111.25\fscy111.25\fnBrushStroke 35\fs80\b0\c&H0B0616&\blur0.6}Demon Slayer
 Dialogue: 1,0:00:43.64,0:00:43.81,Sign,,0,0,0,,{\pos(1008.99,762.7)\fscx111.34\fscy111.34\fnBrushStroke 35\fs80\b0\c&H0B0616&\blur0.6\fad(0,20)\t(0,120,\c&H000126&\blur4)}Demon Slayer
 Dialogue: 1,0:00:28.04,0:00:34.05,OP1 - ENG A,,0,0,0,,{\an5\pos(452.48,1003)\1c&H1B2ABA&\fsp0.5\blur1\q2\c&HF9F8FB&\fad(300,300)}I
-Dialogue: 1,0:00:28.04,0:00:34.05,OP1 - ENG A,,0,0,0,,{\an5\pos(469.52,1003)\1c&H1B2ABA&\fsp0.5\blur1\q2\c&HF9F8FB&\fad(300,300)}’
+Dialogue: 1,0:00:28.04,0:00:34.05,OP1 - ENG A,,0,0,0,,{\an5\pos(469.52,1003)\1c&H1B2ABA&\fsp0.5\blur1\q2\c&HF9F8FB&\fad(300,300)}'
 Dialogue: 1,0:00:28.09,0:00:34.09,OP1 - ENG A,,0,0,0,,{\an5\pos(493.84,1003)\1c&H1B2ABA&\fsp0.5\blur1\q2\c&HF9F8FB&\fad(300,300)}v
 Dialogue: 1,0:00:28.09,0:00:34.09,OP1 - ENG A,,0,0,0,,{\an5\pos(524.02,1003)\1c&H1B2ABA&\fsp0.5\blur1\q2\c&HF9F8FB&\fad(300,300)}e
 Dialogue: 1,0:00:28.09,0:00:34.13,OP1 - ENG A,,0,0,0,,{\an5\pos(568.04,1003)\1c&H1B2ABA&\fsp0.5\blur1\q2\c&HF9F8FB&\fad(300,300)}f
@@ -609,7 +609,7 @@ Dialogue: 1,0:00:35.05,0:00:42.68,OP1 - ENG A,,0,0,0,,{\an5\pos(1496.54,1003)\1c
 Dialogue: 1,0:00:45.90,0:00:50.57,OP1 - ENG A,,0,0,0,,{\an5\pos(373.09,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}A
 Dialogue: 1,0:00:45.90,0:00:50.57,OP1 - ENG A,,0,0,0,,{\an5\pos(406.86,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}s
 Dialogue: 1,0:00:45.94,0:00:50.61,OP1 - ENG A,,0,0,0,,{\an5\pos(444.11,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}I
-Dialogue: 1,0:00:45.94,0:00:50.61,OP1 - ENG A,,0,0,0,,{\an5\pos(461.15,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}’
+Dialogue: 1,0:00:45.94,0:00:50.61,OP1 - ENG A,,0,0,0,,{\an5\pos(461.15,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}'
 Dialogue: 1,0:00:45.98,0:00:50.61,OP1 - ENG A,,0,0,0,,{\an5\pos(490.73,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}m
 Dialogue: 1,0:00:45.98,0:00:50.65,OP1 - ENG A,,0,0,0,,{\an5\pos(540.53,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}s
 Dialogue: 1,0:00:45.98,0:00:50.65,OP1 - ENG A,,0,0,0,,{\an5\pos(569.13,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}p
@@ -700,7 +700,7 @@ Dialogue: 1,0:00:58.07,0:00:59.53,OP1 - ENG A,,0,0,0,,{\an5\pos(743.77,1003)\1c&
 Dialogue: 1,0:00:58.07,0:00:59.58,OP1 - ENG A,,0,0,0,,{\an5\pos(772.2,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}h
 Dialogue: 1,0:00:58.12,0:00:59.58,OP1 - ENG A,,0,0,0,,{\an5\pos(803.59,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}a
 Dialogue: 1,0:00:58.12,0:00:59.58,OP1 - ENG A,,0,0,0,,{\an5\pos(832.95,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}t
-Dialogue: 1,0:00:58.12,0:00:59.62,OP1 - ENG A,,0,0,0,,{\an5\pos(853.88,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}’
+Dialogue: 1,0:00:58.12,0:00:59.62,OP1 - ENG A,,0,0,0,,{\an5\pos(853.88,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}'
 Dialogue: 1,0:00:58.16,0:00:59.62,OP1 - ENG A,,0,0,0,,{\an5\pos(874.47,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}s
 Dialogue: 1,0:00:58.16,0:00:59.66,OP1 - ENG A,,0,0,0,,{\an5\pos(918.56,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}a
 Dialogue: 1,0:00:58.20,0:00:59.66,OP1 - ENG A,,0,0,0,,{\an5\pos(944.66,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}l
@@ -794,7 +794,7 @@ Dialogue: 1,0:01:07.46,0:01:12.34,OP1 - ENG A,,0,0,0,,{\an5\pos(1268.2,1003)\1c&
 Dialogue: 1,0:01:07.46,0:01:12.38,OP1 - ENG A,,0,0,0,,{\an5\pos(1327.98,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}w
 Dialogue: 1,0:01:07.50,0:01:12.38,OP1 - ENG A,,0,0,0,,{\an5\pos(1365.45,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}o
 Dialogue: 1,0:01:07.50,0:01:12.38,OP1 - ENG A,,0,0,0,,{\an5\pos(1397.98,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}n
-Dialogue: 1,0:01:07.54,0:01:12.42,OP1 - ENG A,,0,0,0,,{\an5\pos(1423.6,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}’
+Dialogue: 1,0:01:07.54,0:01:12.42,OP1 - ENG A,,0,0,0,,{\an5\pos(1423.6,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}'
 Dialogue: 1,0:01:07.54,0:01:12.42,OP1 - ENG A,,0,0,0,,{\an5\pos(1444.53,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}t
 Dialogue: 1,0:01:07.54,0:01:12.46,OP1 - ENG A,,0,0,0,,{\an5\pos(1486.94,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}c
 Dialogue: 1,0:01:07.58,0:01:12.46,OP1 - ENG A,,0,0,0,,{\an5\pos(1516.3,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}h
@@ -809,7 +809,7 @@ Dialogue: 1,0:01:12.30,0:01:13.92,OP1 - ENG A,,0,0,0,,{\an5\pos(743.77,1003)\1c&
 Dialogue: 1,0:01:12.34,0:01:13.92,OP1 - ENG A,,0,0,0,,{\an5\pos(772.2,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}h
 Dialogue: 1,0:01:12.34,0:01:13.92,OP1 - ENG A,,0,0,0,,{\an5\pos(803.59,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}a
 Dialogue: 1,0:01:12.34,0:01:13.92,OP1 - ENG A,,0,0,0,,{\an5\pos(832.95,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}t
-Dialogue: 1,0:01:12.38,0:01:13.97,OP1 - ENG A,,0,0,0,,{\an5\pos(853.88,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}’
+Dialogue: 1,0:01:12.38,0:01:13.97,OP1 - ENG A,,0,0,0,,{\an5\pos(853.88,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}'
 Dialogue: 1,0:01:12.38,0:01:13.97,OP1 - ENG A,,0,0,0,,{\an5\pos(874.47,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}s
 Dialogue: 1,0:01:12.38,0:01:14.01,OP1 - ENG A,,0,0,0,,{\an5\pos(918.56,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}a
 Dialogue: 1,0:01:12.42,0:01:14.01,OP1 - ENG A,,0,0,0,,{\an5\pos(944.66,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}l
@@ -826,7 +826,7 @@ Dialogue: 1,0:01:12.55,0:01:14.17,OP1 - ENG A,,0,0,0,,{\an5\pos(1241.85,1003)\1c
 Dialogue: 1,0:01:12.59,0:01:14.17,OP1 - ENG A,,0,0,0,,{\an5\pos(1279.98,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}i
 Dialogue: 1,0:01:12.59,0:01:14.17,OP1 - ENG A,,0,0,0,,{\an5\pos(1301.61,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}t
 Dialogue: 1,0:01:14.22,0:01:20.39,OP1 - ENG A,,0,0,0,,{\an5\pos(452.48,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}I
-Dialogue: 1,0:01:14.22,0:01:20.39,OP1 - ENG A,,0,0,0,,{\an5\pos(469.52,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}’
+Dialogue: 1,0:01:14.22,0:01:20.39,OP1 - ENG A,,0,0,0,,{\an5\pos(469.52,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}'
 Dialogue: 1,0:01:14.26,0:01:20.43,OP1 - ENG A,,0,0,0,,{\an5\pos(493.84,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}v
 Dialogue: 1,0:01:14.26,0:01:20.43,OP1 - ENG A,,0,0,0,,{\an5\pos(524.02,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}e
 Dialogue: 1,0:01:14.30,0:01:20.47,OP1 - ENG A,,0,0,0,,{\an5\pos(568.04,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}f
@@ -905,7 +905,7 @@ Dialogue: 1,0:01:27.35,0:01:30.11,OP1 - ENG A,,0,0,0,,{\an5\pos(854.47,1003)\1c&
 Dialogue: 1,0:01:27.35,0:01:30.11,OP1 - ENG A,,0,0,0,,{\an5\pos(905.59,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}w
 Dialogue: 1,0:01:27.40,0:01:30.15,OP1 - ENG A,,0,0,0,,{\an5\pos(943.05,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}o
 Dialogue: 1,0:01:27.40,0:01:30.15,OP1 - ENG A,,0,0,0,,{\an5\pos(975.59,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}n
-Dialogue: 1,0:01:27.40,0:01:30.19,OP1 - ENG A,,0,0,0,,{\an5\pos(1001.21,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}’
+Dialogue: 1,0:01:27.40,0:01:30.19,OP1 - ENG A,,0,0,0,,{\an5\pos(1001.21,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}'
 Dialogue: 1,0:01:27.44,0:01:30.19,OP1 - ENG A,,0,0,0,,{\an5\pos(1022.14,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}t
 Dialogue: 1,0:01:27.44,0:01:30.19,OP1 - ENG A,,0,0,0,,{\an5\pos(1064.01,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}e
 Dialogue: 1,0:01:27.48,0:01:30.23,OP1 - ENG A,,0,0,0,,{\an5\pos(1094.19,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}v
@@ -977,14 +977,14 @@ Dialogue: 1,0:01:32.44,0:01:36.32,OP1 - ENG A,,0,0,0,,{\an5\pos(1283.92,1003)\1c
 Dialogue: 1,0:01:32.44,0:01:36.32,OP1 - ENG A,,0,0,0,,{\an5\pos(1307.45,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}l
 Dialogue: 1,0:01:32.44,0:01:36.36,OP1 - ENG A,,0,0,0,,{\an5\pos(1330.26,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}s
 Dialogue: 1,0:01:32.48,0:01:36.36,OP1 - ENG A,,0,0,0,,{\an5\pos(1356.7,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}e
-Dialogue: 1,0:01:32.48,0:01:36.40,OP1 - ENG A,,0,0,0,,{\an5\pos(1378.02,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}’
+Dialogue: 1,0:01:32.48,0:01:36.40,OP1 - ENG A,,0,0,0,,{\an5\pos(1378.02,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}'
 Dialogue: 1,0:01:32.48,0:01:36.40,OP1 - ENG A,,0,0,0,,{\an5\pos(1398.6,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}s
 Dialogue: 1,0:01:32.53,0:01:36.40,OP1 - ENG A,,0,0,0,,{\an5\pos(1439.4,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}s
 Dialogue: 1,0:01:32.53,0:01:36.40,OP1 - ENG A,,0,0,0,,{\an5\pos(1468.41,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}a
 Dialogue: 1,0:01:32.53,0:01:36.45,OP1 - ENG A,,0,0,0,,{\an5\pos(1501.13,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}k
 Dialogue: 1,0:01:32.57,0:01:36.45,OP1 - ENG A,,0,0,0,,{\an5\pos(1531.28,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}e
 Dialogue: 1,0:01:36.32,0:01:40.78,OP1 - ENG A,,0,0,0,,{\an5\pos(555.74,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}I
-Dialogue: 1,0:01:36.32,0:01:40.78,OP1 - ENG A,,0,0,0,,{\an5\pos(572.78,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}’
+Dialogue: 1,0:01:36.32,0:01:40.78,OP1 - ENG A,,0,0,0,,{\an5\pos(572.78,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}'
 Dialogue: 1,0:01:36.36,0:01:40.78,OP1 - ENG A,,0,0,0,,{\an5\pos(590.45,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}l
 Dialogue: 1,0:01:36.36,0:01:40.83,OP1 - ENG A,,0,0,0,,{\an5\pos(610.34,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}l
 Dialogue: 1,0:01:36.40,0:01:40.83,OP1 - ENG A,,0,0,0,,{\an5\pos(651.93,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}k
@@ -1037,7 +1037,7 @@ Dialogue: 1,0:01:44.45,0:01:45.83,OP1 - ENG A,,0,0,0,,{\an5\pos(385.32,1003)\1c&
 Dialogue: 1,0:01:44.45,0:01:45.83,OP1 - ENG A,,0,0,0,,{\an5\pos(424.13,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}n
 Dialogue: 1,0:01:44.50,0:01:45.87,OP1 - ENG A,,0,0,0,,{\an5\pos(458.37,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}d
 Dialogue: 1,0:01:44.50,0:01:45.87,OP1 - ENG A,,0,0,0,,{\an5\pos(499.1,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}I
-Dialogue: 1,0:01:44.50,0:01:45.87,OP1 - ENG A,,0,0,0,,{\an5\pos(516.14,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}’
+Dialogue: 1,0:01:44.50,0:01:45.87,OP1 - ENG A,,0,0,0,,{\an5\pos(516.14,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}'
 Dialogue: 1,0:01:44.54,0:01:45.91,OP1 - ENG A,,0,0,0,,{\an5\pos(540.46,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}v
 Dialogue: 1,0:01:44.54,0:01:45.91,OP1 - ENG A,,0,0,0,,{\an5\pos(570.64,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}e
 Dialogue: 1,0:01:44.54,0:01:45.91,OP1 - ENG A,,0,0,0,,{\an5\pos(613.43,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}c
@@ -1123,7 +1123,7 @@ Dialogue: 1,0:01:51.00,0:01:56.34,OP1 - ENG A,,0,0,0,,{\an5\pos(1216.59,1003)\1c
 Dialogue: 1,0:01:51.00,0:01:56.34,OP1 - ENG A,,0,0,0,,{\an5\pos(1245.95,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}t
 Dialogue: 1,0:01:51.04,0:01:56.34,OP1 - ENG A,,0,0,0,,{\an5\pos(1272.73,1003)\1c&H1B2ABA&\blur1\q2\c&HF9F8FB&\fad(300,300)}e
 Dialogue: 0,0:00:27.88,0:00:34.22,OP1 - ENG B,,0,0,0,,{\an5\pos(452.48,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}I
-Dialogue: 0,0:00:27.88,0:00:34.22,OP1 - ENG B,,0,0,0,,{\an5\pos(469.52,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}’
+Dialogue: 0,0:00:27.88,0:00:34.22,OP1 - ENG B,,0,0,0,,{\an5\pos(469.52,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}'
 Dialogue: 0,0:00:27.92,0:00:34.26,OP1 - ENG B,,0,0,0,,{\an5\pos(493.84,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}v
 Dialogue: 0,0:00:27.92,0:00:34.26,OP1 - ENG B,,0,0,0,,{\an5\pos(524.02,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}e
 Dialogue: 0,0:00:27.96,0:00:34.30,OP1 - ENG B,,0,0,0,,{\an5\pos(568.04,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}f
@@ -1190,7 +1190,7 @@ Dialogue: 0,0:00:34.88,0:00:43.02,OP1 - ENG B,,0,0,0,,{\an5\pos(1496.54,1003)\c&
 Dialogue: 0,0:00:45.73,0:00:50.73,OP1 - ENG B,,0,0,0,,{\an5\pos(373.09,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}A
 Dialogue: 0,0:00:45.73,0:00:50.73,OP1 - ENG B,,0,0,0,,{\an5\pos(406.86,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}s
 Dialogue: 0,0:00:45.77,0:00:50.78,OP1 - ENG B,,0,0,0,,{\an5\pos(444.11,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}I
-Dialogue: 0,0:00:45.77,0:00:50.78,OP1 - ENG B,,0,0,0,,{\an5\pos(461.15,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}’
+Dialogue: 0,0:00:45.77,0:00:50.78,OP1 - ENG B,,0,0,0,,{\an5\pos(461.15,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}'
 Dialogue: 0,0:00:45.81,0:00:50.78,OP1 - ENG B,,0,0,0,,{\an5\pos(490.73,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}m
 Dialogue: 0,0:00:45.81,0:00:50.82,OP1 - ENG B,,0,0,0,,{\an5\pos(540.53,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}s
 Dialogue: 0,0:00:45.81,0:00:50.82,OP1 - ENG B,,0,0,0,,{\an5\pos(569.13,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}p
@@ -1281,7 +1281,7 @@ Dialogue: 0,0:00:57.82,0:00:59.74,OP1 - ENG B,,0,0,0,,{\an5\pos(743.77,1003)\c&H
 Dialogue: 0,0:00:57.82,0:00:59.74,OP1 - ENG B,,0,0,0,,{\an5\pos(772.2,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}h
 Dialogue: 0,0:00:57.87,0:00:59.74,OP1 - ENG B,,0,0,0,,{\an5\pos(803.59,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}a
 Dialogue: 0,0:00:57.87,0:00:59.78,OP1 - ENG B,,0,0,0,,{\an5\pos(832.95,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}t
-Dialogue: 0,0:00:57.87,0:00:59.78,OP1 - ENG B,,0,0,0,,{\an5\pos(853.88,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}’
+Dialogue: 0,0:00:57.87,0:00:59.78,OP1 - ENG B,,0,0,0,,{\an5\pos(853.88,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}'
 Dialogue: 0,0:00:57.91,0:00:59.78,OP1 - ENG B,,0,0,0,,{\an5\pos(874.47,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}s
 Dialogue: 0,0:00:57.91,0:00:59.83,OP1 - ENG B,,0,0,0,,{\an5\pos(918.56,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}a
 Dialogue: 0,0:00:57.95,0:00:59.83,OP1 - ENG B,,0,0,0,,{\an5\pos(944.66,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}l
@@ -1375,7 +1375,7 @@ Dialogue: 0,0:01:07.29,0:01:12.38,OP1 - ENG B,,0,0,0,,{\an5\pos(1268.2,1003)\c&H
 Dialogue: 0,0:01:07.29,0:01:12.42,OP1 - ENG B,,0,0,0,,{\an5\pos(1327.98,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}w
 Dialogue: 0,0:01:07.33,0:01:12.42,OP1 - ENG B,,0,0,0,,{\an5\pos(1365.45,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}o
 Dialogue: 0,0:01:07.33,0:01:12.42,OP1 - ENG B,,0,0,0,,{\an5\pos(1397.98,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}n
-Dialogue: 0,0:01:07.33,0:01:12.46,OP1 - ENG B,,0,0,0,,{\an5\pos(1423.6,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}’
+Dialogue: 0,0:01:07.33,0:01:12.46,OP1 - ENG B,,0,0,0,,{\an5\pos(1423.6,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}'
 Dialogue: 0,0:01:07.38,0:01:12.46,OP1 - ENG B,,0,0,0,,{\an5\pos(1444.53,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}t
 Dialogue: 0,0:01:07.38,0:01:12.46,OP1 - ENG B,,0,0,0,,{\an5\pos(1486.94,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}c
 Dialogue: 0,0:01:07.38,0:01:12.51,OP1 - ENG B,,0,0,0,,{\an5\pos(1516.3,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}h
@@ -1390,7 +1390,7 @@ Dialogue: 0,0:01:12.13,0:01:14.09,OP1 - ENG B,,0,0,0,,{\an5\pos(743.77,1003)\c&H
 Dialogue: 0,0:01:12.17,0:01:14.09,OP1 - ENG B,,0,0,0,,{\an5\pos(772.2,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}h
 Dialogue: 0,0:01:12.17,0:01:14.09,OP1 - ENG B,,0,0,0,,{\an5\pos(803.59,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}a
 Dialogue: 0,0:01:12.17,0:01:14.13,OP1 - ENG B,,0,0,0,,{\an5\pos(832.95,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}t
-Dialogue: 0,0:01:12.21,0:01:14.13,OP1 - ENG B,,0,0,0,,{\an5\pos(853.88,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}’
+Dialogue: 0,0:01:12.21,0:01:14.13,OP1 - ENG B,,0,0,0,,{\an5\pos(853.88,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}'
 Dialogue: 0,0:01:12.21,0:01:14.13,OP1 - ENG B,,0,0,0,,{\an5\pos(874.47,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}s
 Dialogue: 0,0:01:12.21,0:01:14.17,OP1 - ENG B,,0,0,0,,{\an5\pos(918.56,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}a
 Dialogue: 0,0:01:12.26,0:01:14.17,OP1 - ENG B,,0,0,0,,{\an5\pos(944.66,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}l
@@ -1407,7 +1407,7 @@ Dialogue: 0,0:01:12.38,0:01:14.34,OP1 - ENG B,,0,0,0,,{\an5\pos(1241.85,1003)\c&
 Dialogue: 0,0:01:12.42,0:01:14.34,OP1 - ENG B,,0,0,0,,{\an5\pos(1279.98,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}i
 Dialogue: 0,0:01:12.42,0:01:14.34,OP1 - ENG B,,0,0,0,,{\an5\pos(1301.61,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}t
 Dialogue: 0,0:01:14.05,0:01:20.56,OP1 - ENG B,,0,0,0,,{\an5\pos(452.48,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}I
-Dialogue: 0,0:01:14.05,0:01:20.56,OP1 - ENG B,,0,0,0,,{\an5\pos(469.52,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}’
+Dialogue: 0,0:01:14.05,0:01:20.56,OP1 - ENG B,,0,0,0,,{\an5\pos(469.52,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}'
 Dialogue: 0,0:01:14.09,0:01:20.60,OP1 - ENG B,,0,0,0,,{\an5\pos(493.84,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}v
 Dialogue: 0,0:01:14.09,0:01:20.60,OP1 - ENG B,,0,0,0,,{\an5\pos(524.02,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}e
 Dialogue: 0,0:01:14.13,0:01:20.64,OP1 - ENG B,,0,0,0,,{\an5\pos(568.04,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}f
@@ -1486,7 +1486,7 @@ Dialogue: 0,0:01:27.19,0:01:30.27,OP1 - ENG B,,0,0,0,,{\an5\pos(854.47,1003)\c&H
 Dialogue: 0,0:01:27.19,0:01:30.27,OP1 - ENG B,,0,0,0,,{\an5\pos(905.59,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}w
 Dialogue: 0,0:01:27.23,0:01:30.32,OP1 - ENG B,,0,0,0,,{\an5\pos(943.05,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}o
 Dialogue: 0,0:01:27.23,0:01:30.32,OP1 - ENG B,,0,0,0,,{\an5\pos(975.59,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}n
-Dialogue: 0,0:01:27.23,0:01:30.36,OP1 - ENG B,,0,0,0,,{\an5\pos(1001.21,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}’
+Dialogue: 0,0:01:27.23,0:01:30.36,OP1 - ENG B,,0,0,0,,{\an5\pos(1001.21,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}'
 Dialogue: 0,0:01:27.27,0:01:30.36,OP1 - ENG B,,0,0,0,,{\an5\pos(1022.14,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}t
 Dialogue: 0,0:01:27.27,0:01:30.36,OP1 - ENG B,,0,0,0,,{\an5\pos(1064.01,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}e
 Dialogue: 0,0:01:27.31,0:01:30.40,OP1 - ENG B,,0,0,0,,{\an5\pos(1094.19,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}v
@@ -1558,14 +1558,14 @@ Dialogue: 0,0:01:32.28,0:01:36.49,OP1 - ENG B,,0,0,0,,{\an5\pos(1283.92,1003)\c&
 Dialogue: 0,0:01:32.28,0:01:36.49,OP1 - ENG B,,0,0,0,,{\an5\pos(1307.45,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}l
 Dialogue: 0,0:01:32.28,0:01:36.53,OP1 - ENG B,,0,0,0,,{\an5\pos(1330.26,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}s
 Dialogue: 0,0:01:32.32,0:01:36.53,OP1 - ENG B,,0,0,0,,{\an5\pos(1356.7,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}e
-Dialogue: 0,0:01:32.32,0:01:36.57,OP1 - ENG B,,0,0,0,,{\an5\pos(1378.02,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}’
+Dialogue: 0,0:01:32.32,0:01:36.57,OP1 - ENG B,,0,0,0,,{\an5\pos(1378.02,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}'
 Dialogue: 0,0:01:32.36,0:01:36.57,OP1 - ENG B,,0,0,0,,{\an5\pos(1398.6,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}s
 Dialogue: 0,0:01:32.36,0:01:36.57,OP1 - ENG B,,0,0,0,,{\an5\pos(1439.4,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}s
 Dialogue: 0,0:01:32.36,0:01:36.61,OP1 - ENG B,,0,0,0,,{\an5\pos(1468.41,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}a
 Dialogue: 0,0:01:32.40,0:01:36.61,OP1 - ENG B,,0,0,0,,{\an5\pos(1501.13,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}k
 Dialogue: 0,0:01:32.40,0:01:36.61,OP1 - ENG B,,0,0,0,,{\an5\pos(1531.28,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}e
 Dialogue: 0,0:01:36.15,0:01:40.95,OP1 - ENG B,,0,0,0,,{\an5\pos(555.74,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}I
-Dialogue: 0,0:01:36.15,0:01:40.95,OP1 - ENG B,,0,0,0,,{\an5\pos(572.78,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}’
+Dialogue: 0,0:01:36.15,0:01:40.95,OP1 - ENG B,,0,0,0,,{\an5\pos(572.78,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}'
 Dialogue: 0,0:01:36.20,0:01:40.99,OP1 - ENG B,,0,0,0,,{\an5\pos(590.45,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}l
 Dialogue: 0,0:01:36.20,0:01:40.99,OP1 - ENG B,,0,0,0,,{\an5\pos(610.34,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}l
 Dialogue: 0,0:01:36.20,0:01:40.99,OP1 - ENG B,,0,0,0,,{\an5\pos(651.93,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}k
@@ -1618,7 +1618,7 @@ Dialogue: 0,0:01:44.29,0:01:46.00,OP1 - ENG B,,0,0,0,,{\an5\pos(385.32,1003)\c&H
 Dialogue: 0,0:01:44.29,0:01:46.00,OP1 - ENG B,,0,0,0,,{\an5\pos(424.13,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}n
 Dialogue: 0,0:01:44.33,0:01:46.00,OP1 - ENG B,,0,0,0,,{\an5\pos(458.37,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}d
 Dialogue: 0,0:01:44.33,0:01:46.04,OP1 - ENG B,,0,0,0,,{\an5\pos(499.1,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}I
-Dialogue: 0,0:01:44.37,0:01:46.04,OP1 - ENG B,,0,0,0,,{\an5\pos(516.14,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}’
+Dialogue: 0,0:01:44.37,0:01:46.04,OP1 - ENG B,,0,0,0,,{\an5\pos(516.14,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}'
 Dialogue: 0,0:01:44.37,0:01:46.04,OP1 - ENG B,,0,0,0,,{\an5\pos(540.46,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}v
 Dialogue: 0,0:01:44.37,0:01:46.08,OP1 - ENG B,,0,0,0,,{\an5\pos(570.64,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}e
 Dialogue: 0,0:01:44.41,0:01:46.08,OP1 - ENG B,,0,0,0,,{\an5\pos(613.43,1003)\c&H1B2ABA&\blur2\q2\t(0,1000,\bord0)\fad(300,300)}c
@@ -2580,13 +2580,13 @@ Dialogue: 0,0:01:05.62,0:01:07.33,OP1 - ENG D,,0,0,0,,{\an5\pos(1105.13,942)\blu
 Dialogue: 0,0:01:05.62,0:01:07.38,OP1 - ENG D,,0,0,0,,{\an5\pos(1127.51,942)\blur2\q2\t(0,1000,\bord0)\fad(300,300)}k
 Dialogue: 0,0:01:05.67,0:01:07.38,OP1 - ENG D,,0,0,0,,{\an5\pos(1152.14,942)\blur2\q2\t(0,1000,\bord0)\fad(300,300)}y
 Comment: 0,0:21:30.01,0:21:30.01,Default,,0,0,0,,---------------------------------------------- [     ED    ] ----------------------------------------------
-Dialogue: 1,0:21:34.06,0:21:39.61,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,450)}I don’t want to be imprisoned by sadness
+Dialogue: 1,0:21:34.06,0:21:39.61,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,450)}I don't want to be imprisoned by sadness
 Dialogue: 1,0:21:34.06,0:21:39.61,ED1 - ROM,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,450)}kanashimi ni torewaretaku wa nai
-Dialogue: 0,0:21:34.06,0:21:39.61,ED1 - ENG,,0,0,0,,{\1a&HFF&\blur20\fad(450,450)}I don’t want to be imprisoned by sadness
+Dialogue: 0,0:21:34.06,0:21:39.61,ED1 - ENG,,0,0,0,,{\1a&HFF&\blur20\fad(450,450)}I don't want to be imprisoned by sadness
 Dialogue: 0,0:21:34.06,0:21:39.61,ED1 - ROM,,0,0,0,,{\1a&HFF&\blur20\fad(450,450)}kanashimi ni torewaretaku wa nai
-Dialogue: 1,0:21:39.61,0:21:43.28,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,450)}I don’t want to come back
+Dialogue: 1,0:21:39.61,0:21:43.28,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,450)}I don't want to come back
 Dialogue: 1,0:21:39.61,0:21:43.28,ED1 - ROM,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,450)}utsumuita basho ni
-Dialogue: 0,0:21:39.61,0:21:43.28,ED1 - ENG,,0,0,0,,{\1a&HFF&\blur20\fad(450,450)}I don’t want to come back
+Dialogue: 0,0:21:39.61,0:21:43.28,ED1 - ENG,,0,0,0,,{\1a&HFF&\blur20\fad(450,450)}I don't want to come back
 Dialogue: 0,0:21:39.61,0:21:43.28,ED1 - ROM,,0,0,0,,{\1a&HFF&\blur20\fad(450,450)}utsumuita basho ni
 Dialogue: 1,0:21:43.28,0:21:48.91,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,450)}To the place I cast my head down crying
 Dialogue: 1,0:21:43.28,0:21:48.91,ED1 - ROM,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,450)}namida wo otoshite yukitakunai
@@ -2596,9 +2596,9 @@ Dialogue: 1,0:21:48.91,0:21:52.20,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(45
 Dialogue: 1,0:21:48.91,0:21:52.20,ED1 - ROM,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,450)}unmei wo furihodoite
 Dialogue: 0,0:21:48.91,0:21:52.20,ED1 - ENG,,0,0,0,,{\1a&HFF&\blur20\fad(450,450)}Free from the shackles of fate
 Dialogue: 0,0:21:48.91,0:21:52.20,ED1 - ROM,,0,0,0,,{\1a&HFF&\blur20\fad(450,450)}unmei wo furihodoite
-Dialogue: 1,0:21:52.20,0:21:55.04,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,450)}You’re supposed to start running
+Dialogue: 1,0:21:52.20,0:21:55.04,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,450)}You're supposed to start running
 Dialogue: 1,0:21:52.20,0:21:55.04,ED1 - ROM,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,450)}hashiridaseru hazu nanda
-Dialogue: 0,0:21:52.20,0:21:55.04,ED1 - ENG,,0,0,0,,{\1a&HFF&\blur20\fad(450,450)}You’re supposed to start running
+Dialogue: 0,0:21:52.20,0:21:55.04,ED1 - ENG,,0,0,0,,{\1a&HFF&\blur20\fad(450,450)}You're supposed to start running
 Dialogue: 0,0:21:52.20,0:21:55.04,ED1 - ROM,,0,0,0,,{\1a&HFF&\blur20\fad(450,450)}hashiridaseru hazu nanda
 Dialogue: 1,0:21:55.04,0:21:58.17,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,450)}That dream is meant to come true
 Dialogue: 1,0:21:55.04,0:21:58.17,ED1 - ROM,,0,0,0,,{\bord0\shad0\blur0.4\fad(450,450)}negai wa kanau hazu nanda
@@ -2682,17 +2682,17 @@ Dialogue: 2,0:22:01.75,0:22:06.72,ED1 - ENG,,0,0,0,,{\clip(341,115,1576,116)\pos
 Dialogue: 2,0:22:01.75,0:22:06.72,ED1 - ENG,,0,0,0,,{\clip(341,116,1576,117)\pos(960,47)\shad0\an8\blur0.4\bord0\fad(270,270)\q2\c&H0B0C59&}Pray for the future from the edge of darkness
 Dialogue: 2,0:22:01.75,0:22:06.72,ED1 - ENG,,0,0,0,,{\clip(341,117,1576,118)\pos(960,47)\shad0\an8\blur0.4\bord0\fad(270,270)\q2\c&H0B0C5A&}Pray for the future from the edge of darkness
 Comment: 4,0:22:05.34,0:22:07.05,ED1 - ROM,,0,0,0,,{\an8\fad(840,840)\blur20\q2\c&HFDF8FF&\1a&HFF&\2a&H3C&\3a&H3C&\4a&H3C&}Pray for the future from the edge of darkness
-Dialogue: 1,0:22:06.88,0:22:09.89,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(900,300)}Ride the wind that’s leading the way
+Dialogue: 1,0:22:06.88,0:22:09.89,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(900,300)}Ride the wind that's leading the way
 Dialogue: 1,0:22:06.88,0:22:09.89,ED1 - ROM,,0,0,0,,{\bord0\shad0\blur0.4\fad(900,300)}mukai kaze wo nototte
-Dialogue: 0,0:22:06.88,0:22:09.89,ED1 - ENG,,0,0,0,,{\1a&HFF&\blur20\fad(900,300)}Ride the wind that’s leading the way
+Dialogue: 0,0:22:06.88,0:22:09.89,ED1 - ENG,,0,0,0,,{\1a&HFF&\blur20\fad(900,300)}Ride the wind that's leading the way
 Dialogue: 0,0:22:06.88,0:22:09.89,ED1 - ROM,,0,0,0,,{\1a&HFF&\blur20\fad(900,300)}mukai kaze wo nototte
 Dialogue: 1,0:22:09.89,0:22:13.22,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(250,450)}Face the unseen beyond the storm
 Dialogue: 1,0:22:09.89,0:22:13.22,ED1 - ROM,,0,0,0,,{\bord0\shad0\blur0.4\fad(250,450)}arashi no saki wa mienaku tatte
 Dialogue: 0,0:22:09.89,0:22:13.22,ED1 - ENG,,0,0,0,,{\1a&HFF&\blur20\fad(250,450)}Face the unseen beyond the storm
 Dialogue: 0,0:22:09.89,0:22:13.22,ED1 - ROM,,0,0,0,,{\1a&HFF&\blur20\fad(250,450)}arashi no saki wa mienaku tatte
-Dialogue: 1,0:22:13.22,0:22:16.18,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(250,300)\q2}There’s only one path—
+Dialogue: 1,0:22:13.22,0:22:16.18,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(250,300)\q2}There's only one path—
 Dialogue: 1,0:22:13.22,0:22:18.35,ED1 - ROM,,0,0,0,,{\bord0\shad0\blur0.4\fad(250,450)\q2}mou michi wa erabenai kachinokore
-Dialogue: 0,0:22:13.22,0:22:16.18,ED1 - ENG,,0,0,0,,{\1a&HFF&\blur20\fad(250,300)\q2}There’s only one path—
+Dialogue: 0,0:22:13.22,0:22:16.18,ED1 - ENG,,0,0,0,,{\1a&HFF&\blur20\fad(250,300)\q2}There's only one path—
 Dialogue: 0,0:22:13.22,0:22:18.35,ED1 - ROM,,0,0,0,,{\1a&HFF&\blur20\fad(250,450)\q2}mou michi wa erabenai kachinokore
 Dialogue: 1,0:22:16.18,0:22:18.35,ED1 - ENG,,0,0,0,,{\bord0\shad0\blur0.4\fad(300,450)\q2}To make it out alive!
 Dialogue: 0,0:22:16.18,0:22:18.35,ED1 - ENG,,0,0,0,,{\1a&HFF&\blur20\fad(300,450)\q2}To make it out alive!
