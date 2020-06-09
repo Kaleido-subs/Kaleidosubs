@@ -9213,6 +9213,250 @@ Dialogue: 2,0:19:46.20,0:19:46.33,Default,,0,0,0,,{\an5\pos(818.133,536.8)\fscx2
 Dialogue: 0,0:19:46.20,0:19:46.33,Default,,0,0,0,,{\an7\pos(0,0)\bord0\shad0\c&HEBDCBC&\blur1\p1}m 809 175 b 811 194 811 224 811 239 789 238 747 236 726 236 706 324 722 451 719 534 757 534 861 536 911 536 908 445 903 267 901 178
 Dialogue: 1,0:19:46.33,0:19:47.08,Default,,0,0,0,,{\an7\pos(0,0)\bord0\shad0\c&H796951&\blur1\p1}m 688 152 b 688 157 688 168 688 174 750 173 874 178 938 180 937 172 938 161 938 154
 Dialogue: 0,0:19:46.33,0:19:47.08,Default,,0,0,0,,{\an7\pos(0,0)\bord0\shad0\c&HEBDCBC&\blur1\p1}m 792 171 b 792 188 792 212 792 224 771 227 731 234 711 238 714 317 722 477 728 564 770 564 856 564 899 565 902 467 908 271 911 174
+Dialogue: 1,0:23:50.61,0:23:52.11,Sign,,0,0,0,,{\an7\blur4\bord0\shad0\fscx100\fscy100\pos(378.666,351.002)\p1\c&H121616&}m -125 -246 l 662 -56 680 132 -121 179
+Dialogue: 3,0:23:50.61,0:23:52.11,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\c&H111314&\fnGrain\pos(222.665,80.336)\clip(m 230 578 l 1054 500 1054 285 234 71)}GHSOGSGBNOSGBOSGGHSOGSGBNOSGBOSG\NGHSOGSGBNOSGBOSGGHSOGSGBNOSGBOSG\NGHSOGSGBNOSGBOSGGHSOGSGBNOSGBOSG\NGHSOGSGBNOSGBOSGGHSOGSGBNOSGBOSG\NGHSOGSGBNOSGBOSGGHSOGSGBNOSGBOSG\NGHSOGSGBNOSGBOSGGHSOGSGBNOSGBOSG\NGHSOGSGBNOSGBOSGGHSOGSGBNOSGBOSG\NGHSOGSGBNOSGBOSGGHSOGSGBNOSGBOSG\NGHSOGSGBNOSGBOSGGHSOGSGBNOSGBOSG\NGHSOGSGBNOSGBOSGGHSOGSGBNOSGBOSG\NGHSOGSGBNOSGBOSGGHSOGSGBNOSGBOSG\N
+Dialogue: 3,0:23:50.61,0:23:52.11,Sign,,0,0,0,,{\q2\an4\fs54\fscx140\fscy280\fnFOT-MatisseMinori Pro-En B\c&HEBF0F3&\org(672,395)\fax0.05\blur1.6\frz357.5\pos(378.666,351.002)\frx360\fry17.3}T{*\fscy277.143\fscx139.286\c&HE9EEF1&\blur1.579}o{*\fscy274.286\fscx138.571\c&HE7ECEF&\blur1.557}k{*\fscy271.429\fscx137.857\c&HE5EAED&\blur1.536}y{*\fscy268.571\fscx137.143\c&HE3E8EB&\blur1.514}o {*\fscy262.857\fscx135.714\c&HDFE4E6&\blur1.471}t{*\fscy260\fscx135\c&HDDE2E4&\blur1.45}o {*\fscy254.286\fscx133.571\c&HD9DEE0&\blur1.407}K{*\fscy251.429\fscx132.857\c&HD7DCDE&\blur1.386}y{*\fscy248.571\fscx132.143\c&HD5DADC&\blur1.364}o{*\fscy245.714\fscx131.429\c&HD3D8DA&\blur1.343}t{*\fscy242.857\fscx130.714\c&HD1D6D8&\blur1.321}o {*\fscy237.143\fscx129.286\c&HCED1D3&\blur1.279}q{*\fscy234.286\fscx128.571\c&HCCCFD1&\blur1.257}u{*\fscy231.429\fscx127.857\c&HCACDCF&\blur1.236}e{*\fscy228.571\fscx127.143\c&HC8CBCD&\blur1.214}u{*\fscy225.714\fscx126.429\c&HC6C9CB&\blur1.193}e {*\fscy220\fscx125\c&HC2C5C7&\blur1.15}c{*\fscy217.143\fscx124.286\c&HC0C3C5&\blur1.129}o{*\fscy214.286\fscx123.571\c&HBEC1C3&\blur1.107}u{*\fscy211.429\fscx122.857\c&HBCBFC0&\blur1.086}n{*\fscy208.571\fscx122.143\c&HBABDBE&\blur1.064}t{*\fscy205.714\fscx121.429\c&HB8BBBC&\blur1.043}e{*\fscy202.857\fscx120.714\c&HB6B9BA&\blur1.021}r{\fscx120\fscy200\c&HB4B7B8&\blur1}
+Dialogue: 3,0:23:50.61,0:23:52.11,Sign,,0,0,0,,{\q2\an4\fs54\bord0\fscx140\fscy280\fnFOT-MatisseMinori Pro-En B\c&HEBF0F3&\org(672,395)\fax0.05\blur4\1a&H80&\frz357.5\pos(378.666,351.002)\frx360\fry17.3}T{*\fscy277.143\fscx139.286\c&HE9EEF1&}o{*\fscy274.286\fscx138.571\c&HE7ECEF&}k{*\fscy271.429\fscx137.857\c&HE5EAED&}y{*\fscy268.571\fscx137.143\c&HE3E8EB&}o {*\fscy262.857\fscx135.714\c&HDFE4E6&}t{*\fscy260\fscx135\c&HDDE2E4&}o {*\fscy254.286\fscx133.571\c&HD9DEE0&}K{*\fscy251.429\fscx132.857\c&HD7DCDE&}y{*\fscy248.571\fscx132.143\c&HD5DADC&}o{*\fscy245.714\fscx131.429\c&HD3D8DA&}t{*\fscy242.857\fscx130.714\c&HD1D6D8&}o {*\fscy237.143\fscx129.286\c&HCED1D3&}q{*\fscy234.286\fscx128.571\c&HCCCFD1&}u{*\fscy231.429\fscx127.857\c&HCACDCF&}e{*\fscy228.571\fscx127.143\c&HC8CBCD&}u{*\fscy225.714\fscx126.429\c&HC6C9CB&}e {*\fscy220\fscx125\c&HC2C5C7&}c{*\fscy217.143\fscx124.286\c&HC0C3C5&}o{*\fscy214.286\fscx123.571\c&HBEC1C3&}u{*\fscy211.429\fscx122.857\c&HBCBFC0&}n{*\fscy208.571\fscx122.143\c&HBABDBE&}t{*\fscy205.714\fscx121.429\c&HB8BBBC&}e{*\fscy202.857\fscx120.714\c&HB6B9BA&}r{\fscx120\fscy200\c&HB4B7B8&}
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(165.214,671.265)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H000000&\blur0.9}A
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(190.402,669.864)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H020202&\blur0.9}d
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(226.286,668.433)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H050607&\blur0.9}C
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(250.209,667.6)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H070809&\blur0.9}a
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(279.534,667.23)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H090A0B&\blur0.9}m
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(309.946,666.895)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0B0D0E&\blur0.9}p
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(333.374,666.637)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0D0F10&\blur0.9}a
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(350.858,666.444)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0E1112&\blur0.9}i
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(368.973,666.586)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H101314&\blur0.9}g
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(393.251,666.693)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H121516&\blur0.9}n
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(429.933,667.349)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H16191B&\blur0.9}P
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(452.218,667.748)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H171B1D&\blur0.9}r
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(473.277,668.124)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H191D1F&\blur0.9}o
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(497.35,668.873)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1B2022&\blur0.9}p
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(521.413,669.918)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1D2224&\blur0.9}o
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(542.521,671.067)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H1F2426&\blur0.9}s
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(562.967,672.302)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H202628&\blur0.9}a
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(580.411,673.485)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H22282B&\blur0.9}l
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(371.333,713.333)\fnHelvetica\fs18\c&H000000&\blur0.6}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 0,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HDDE3E7&}m 147 605 l 583 605 583 720 147 720
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(165.214,584.932)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H000000&\blur0.9}A
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(190.402,583.531)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H020202&\blur0.9}d
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(226.286,582.1)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H050607&\blur0.9}C
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(250.209,581.267)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H070809&\blur0.9}a
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(279.534,580.897)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H090A0B&\blur0.9}m
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(309.946,580.562)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0B0D0E&\blur0.9}p
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(333.374,580.304)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0D0F10&\blur0.9}a
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(350.858,580.111)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0E1112&\blur0.9}i
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(368.973,580.253)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H101314&\blur0.9}g
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(393.251,580.36)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H121516&\blur0.9}n
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(429.933,581.016)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H16191B&\blur0.9}P
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(452.218,581.415)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H171B1D&\blur0.9}r
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(473.277,581.791)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H191D1F&\blur0.9}o
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(497.35,582.54)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1B2022&\blur0.9}p
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(521.413,583.585)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1D2224&\blur0.9}o
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(542.521,584.734)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H1F2426&\blur0.9}s
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(562.967,585.969)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H202628&\blur0.9}a
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(580.411,587.152)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H22282B&\blur0.9}l
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(371.333,627)\fnHelvetica\fs18\c&H000000&\blur0.6}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 0,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\c&HDDE3E7&\p1\pos(0,-86.333)}m 147 605 l 583 605 583 750 147 750
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(165.214,481.265)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H000000&\blur0.9}A
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(190.402,479.864)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H020202&\blur0.9}d
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(226.286,478.433)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H050607&\blur0.9}C
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(250.209,477.6)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H070809&\blur0.9}a
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(279.534,477.23)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H090A0B&\blur0.9}m
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(309.946,476.895)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0B0D0E&\blur0.9}p
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(333.374,476.637)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0D0F10&\blur0.9}a
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(350.858,476.444)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0E1112&\blur0.9}i
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(368.973,476.586)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H101314&\blur0.9}g
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(393.251,476.693)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H121516&\blur0.9}n
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(429.933,477.349)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H16191B&\blur0.9}P
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(452.218,477.748)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H171B1D&\blur0.9}r
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(473.277,478.124)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H191D1F&\blur0.9}o
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(497.35,478.873)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1B2022&\blur0.9}p
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(521.413,479.918)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1D2224&\blur0.9}o
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(542.521,481.067)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H1F2426&\blur0.9}s
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(562.967,482.302)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H202628&\blur0.9}a
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(580.411,483.485)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H22282B&\blur0.9}l
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(371.333,523.333)\fnHelvetica\fs18\c&H000000&\blur0.6}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 0,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\c&HDDE3E7&\p1\pos(0,-190)}m 147 605 l 583 605 583 750 147 750
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(165.214,371.931)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H000000&\blur0.9}A
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(190.402,370.53)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H020202&\blur0.9}d
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(226.286,369.099)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H050607&\blur0.9}C
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(250.209,368.266)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H070809&\blur0.9}a
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(279.534,367.896)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H090A0B&\blur0.9}m
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(309.946,367.561)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0B0D0E&\blur0.9}p
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(333.374,367.303)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0D0F10&\blur0.9}a
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(350.858,367.11)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0E1112&\blur0.9}i
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(368.973,367.252)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H101314&\blur0.9}g
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(393.251,367.359)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H121516&\blur0.9}n
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(429.933,368.015)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H16191B&\blur0.9}P
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(452.218,368.414)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H171B1D&\blur0.9}r
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(473.277,368.79)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H191D1F&\blur0.9}o
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(497.35,369.539)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1B2022&\blur0.9}p
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(521.413,370.584)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1D2224&\blur0.9}o
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(542.521,371.733)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H1F2426&\blur0.9}s
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(562.967,372.968)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H202628&\blur0.9}a
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(580.411,374.151)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H22282B&\blur0.9}l
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(371.333,413.999)\fnHelvetica\fs18\c&H000000&\blur0.6}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 0,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\c&HDDE3E7&\p1\pos(0,-299.334)}m 147 605 l 583 605 583 750 147 750
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(165.214,267.931)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H000000&\blur0.9}A
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(190.402,266.53)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H020202&\blur0.9}d
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(226.286,265.099)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H050607&\blur0.9}C
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(250.209,264.266)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H070809&\blur0.9}a
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(279.534,263.896)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H090A0B&\blur0.9}m
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(309.946,263.561)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0B0D0E&\blur0.9}p
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(333.374,263.303)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0D0F10&\blur0.9}a
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(350.858,263.11)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0E1112&\blur0.9}i
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(368.973,263.252)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H101314&\blur0.9}g
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(393.251,263.359)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H121516&\blur0.9}n
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(429.933,264.015)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H16191B&\blur0.9}P
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(452.218,264.414)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H171B1D&\blur0.9}r
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(473.277,264.79)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H191D1F&\blur0.9}o
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(497.35,265.539)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1B2022&\blur0.9}p
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(521.413,266.584)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1D2224&\blur0.9}o
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(542.521,267.733)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H1F2426&\blur0.9}s
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(562.967,268.968)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H202628&\blur0.9}a
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(580.411,270.151)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H22282B&\blur0.9}l
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(371.333,309.999)\fnHelvetica\fs18\c&H000000&\blur0.6}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 0,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\c&HDDE3E7&\p1\pos(0,-403.334)}m 147 605 l 583 605 583 780 147 780
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(165.214,161.264)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H000000&\blur0.9}A
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(190.402,159.863)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H020202&\blur0.9}d
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(226.286,158.432)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H050607&\blur0.9}C
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(250.209,157.599)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H070809&\blur0.9}a
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(279.534,157.229)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H090A0B&\blur0.9}m
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(309.946,156.894)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0B0D0E&\blur0.9}p
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(333.374,156.636)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0D0F10&\blur0.9}a
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(350.858,156.443)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0E1112&\blur0.9}i
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(368.973,156.585)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H101314&\blur0.9}g
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(393.251,156.692)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H121516&\blur0.9}n
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(429.933,157.348)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H16191B&\blur0.9}P
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(452.218,157.747)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H171B1D&\blur0.9}r
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(473.277,158.123)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H191D1F&\blur0.9}o
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(497.35,158.872)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1B2022&\blur0.9}p
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(521.413,159.917)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1D2224&\blur0.9}o
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(542.521,161.066)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H1F2426&\blur0.9}s
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(562.967,162.301)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H202628&\blur0.9}a
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(580.411,163.484)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H22282B&\blur0.9}l
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(371.333,203.332)\fnHelvetica\fs18\c&H000000&\blur0.6}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 0,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\c&HDDE3E7&\p1\pos(0,-510.001)}m 147 605 l 583 605 583 780 147 780
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(165.214,671.265)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H000000&\blur0.9}A
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(190.402,669.864)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H020202&\blur0.9}d
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(226.286,668.433)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H050607&\blur0.9}C
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(250.209,667.6)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H070809&\blur0.9}a
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(279.534,667.23)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H090A0B&\blur0.9}m
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(309.946,666.895)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0B0D0E&\blur0.9}p
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(333.374,666.637)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0D0F10&\blur0.9}a
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(350.858,666.444)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0E1112&\blur0.9}i
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(368.973,666.586)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H101314&\blur0.9}g
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(393.251,666.693)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H121516&\blur0.9}n
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(429.933,667.349)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H16191B&\blur0.9}P
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(452.218,667.748)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H171B1D&\blur0.9}r
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(473.277,668.124)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H191D1F&\blur0.9}o
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(497.35,668.873)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1B2022&\blur0.9}p
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(521.413,669.918)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1D2224&\blur0.9}o
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(542.521,671.067)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H1F2426&\blur0.9}s
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(562.967,672.302)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H202628&\blur0.9}a
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(580.411,673.485)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H22282B&\blur0.9}l
+Dialogue: 1,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\pos(371.333,713.333)\fnHelvetica\fs18\c&H000000&\blur0.6}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 0,0:23:59.83,0:23:59.95,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HDDE3E7&}m 147 605 l 583 605 583 720 147 720
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(165.214,584.932)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H000000&\blur0.9}A
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(190.402,583.531)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H020202&\blur0.9}d
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(226.286,582.1)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H050607&\blur0.9}C
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(250.209,581.267)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H070809&\blur0.9}a
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(279.534,580.897)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H090A0B&\blur0.9}m
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(309.946,580.562)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0B0D0E&\blur0.9}p
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(333.374,580.304)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0D0F10&\blur0.9}a
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(350.858,580.111)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0E1112&\blur0.9}i
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(368.973,580.253)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H101314&\blur0.9}g
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(393.251,580.36)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H121516&\blur0.9}n
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(429.933,581.016)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H16191B&\blur0.9}P
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(452.218,581.415)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H171B1D&\blur0.9}r
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(473.277,581.791)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H191D1F&\blur0.9}o
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(497.35,582.54)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1B2022&\blur0.9}p
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(521.413,583.585)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1D2224&\blur0.9}o
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(542.521,584.734)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H1F2426&\blur0.9}s
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(562.967,585.969)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H202628&\blur0.9}a
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(580.411,587.152)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H22282B&\blur0.9}l
+Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(371.333,627)\fnHelvetica\fs18\c&H000000&\blur0.6}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 0,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\c&HDDE3E7&\p1\pos(0,-86.333)}m 147 605 l 583 605 583 750 147 750
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(165.214,481.265)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H000000&\blur0.9}A
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(190.402,479.864)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H020202&\blur0.9}d
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(226.286,478.433)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H050607&\blur0.9}C
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(250.209,477.6)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H070809&\blur0.9}a
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(279.534,477.23)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H090A0B&\blur0.9}m
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(309.946,476.895)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0B0D0E&\blur0.9}p
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(333.374,476.637)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0D0F10&\blur0.9}a
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(350.858,476.444)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0E1112&\blur0.9}i
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(368.973,476.586)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H101314&\blur0.9}g
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(393.251,476.693)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H121516&\blur0.9}n
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(429.933,477.349)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H16191B&\blur0.9}P
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(452.218,477.748)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H171B1D&\blur0.9}r
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(473.277,478.124)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H191D1F&\blur0.9}o
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(497.35,478.873)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1B2022&\blur0.9}p
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(521.413,479.918)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1D2224&\blur0.9}o
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(542.521,481.067)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H1F2426&\blur0.9}s
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(562.967,482.302)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H202628&\blur0.9}a
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(580.411,483.485)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H22282B&\blur0.9}l
+Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(371.333,523.333)\fnHelvetica\fs18\c&H000000&\blur0.6}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 0,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\c&HDDE3E7&\p1\pos(0,-190)}m 147 605 l 583 605 583 750 147 750
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(165.214,371.931)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H000000&\blur0.9}A
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(190.402,370.53)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H020202&\blur0.9}d
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(226.286,369.099)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H050607&\blur0.9}C
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(250.209,368.266)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H070809&\blur0.9}a
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(279.534,367.896)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H090A0B&\blur0.9}m
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(309.946,367.561)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0B0D0E&\blur0.9}p
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(333.374,367.303)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0D0F10&\blur0.9}a
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(350.858,367.11)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0E1112&\blur0.9}i
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(368.973,367.252)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H101314&\blur0.9}g
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(393.251,367.359)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H121516&\blur0.9}n
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(429.933,368.015)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H16191B&\blur0.9}P
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(452.218,368.414)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H171B1D&\blur0.9}r
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(473.277,368.79)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H191D1F&\blur0.9}o
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(497.35,369.539)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1B2022&\blur0.9}p
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(521.413,370.584)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1D2224&\blur0.9}o
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(542.521,371.733)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H1F2426&\blur0.9}s
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(562.967,372.968)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H202628&\blur0.9}a
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(580.411,374.151)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H22282B&\blur0.9}l
+Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(371.333,413.999)\fnHelvetica\fs18\c&H000000&\blur0.6}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 0,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\c&HDDE3E7&\p1\pos(0,-299.334)}m 147 605 l 583 605 583 750 147 750
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(165.214,267.931)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H000000&\blur0.9}A
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(190.402,266.53)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H020202&\blur0.9}d
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(226.286,265.099)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H050607&\blur0.9}C
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(250.209,264.266)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H070809&\blur0.9}a
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(279.534,263.896)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H090A0B&\blur0.9}m
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(309.946,263.561)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0B0D0E&\blur0.9}p
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(333.374,263.303)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0D0F10&\blur0.9}a
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(350.858,263.11)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0E1112&\blur0.9}i
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(368.973,263.252)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H101314&\blur0.9}g
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(393.251,263.359)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H121516&\blur0.9}n
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(429.933,264.015)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H16191B&\blur0.9}P
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(452.218,264.414)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H171B1D&\blur0.9}r
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(473.277,264.79)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H191D1F&\blur0.9}o
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(497.35,265.539)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1B2022&\blur0.9}p
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(521.413,266.584)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1D2224&\blur0.9}o
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(542.521,267.733)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H1F2426&\blur0.9}s
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(562.967,268.968)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H202628&\blur0.9}a
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(580.411,270.151)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H22282B&\blur0.9}l
+Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(371.333,309.999)\fnHelvetica\fs18\c&H000000&\blur0.6}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 0,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\c&HDDE3E7&\p1\pos(0,-403.334)}m 147 605 l 583 605 583 780 147 780
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(165.214,161.264)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H000000&\blur0.9}A
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(190.402,159.863)\frz3.184\fnHeiseiMinchoW9-AnoHana\c&H020202&\blur0.9}d
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(226.286,158.432)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H050607&\blur0.9}C
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(250.209,157.599)\frz1.994\fnHeiseiMinchoW9-AnoHana\c&H070809&\blur0.9}a
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(279.534,157.229)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H090A0B&\blur0.9}m
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(309.946,156.894)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0B0D0E&\blur0.9}p
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(333.374,156.636)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0D0F10&\blur0.9}a
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(350.858,156.443)\frz0.631\fnHeiseiMinchoW9-AnoHana\c&H0E1112&\blur0.9}i
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(368.973,156.585)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H101314&\blur0.9}g
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(393.251,156.692)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H121516&\blur0.9}n
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(429.933,157.348)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H16191B&\blur0.9}P
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(452.218,157.747)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H171B1D&\blur0.9}r
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(473.277,158.123)\frz-1.025\fnHeiseiMinchoW9-AnoHana\c&H191D1F&\blur0.9}o
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(497.35,158.872)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1B2022&\blur0.9}p
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(521.413,159.917)\frz-2.514\fnHeiseiMinchoW9-AnoHana\c&H1D2224&\blur0.9}o
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(542.521,161.066)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H1F2426&\blur0.9}s
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(562.967,162.301)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H202628&\blur0.9}a
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(580.411,163.484)\frz-3.88\fnHeiseiMinchoW9-AnoHana\c&H22282B&\blur0.9}l
+Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(371.333,203.332)\fnHelvetica\fs18\c&H000000&\blur0.6}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 0,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\c&HDDE3E7&\p1\pos(0,-510.001)}m 147 605 l 583 605 583 780 147 780
 Dialogue: 0,0:23:39.93,0:23:42.69,Sign,,0,0,0,,{\an7\blur0.933\bord0\shad0\fscx100\fscy100\pos(640,360)\p1\c&H1856D9&}m -2 -360 l 73.375 -360 73.375 360 -2 360
 Dialogue: 1,0:23:39.93,0:23:42.69,Sign,,0,0,0,,{\an7\blur0.933\bord0\shad0\fscx100\fscy100\c&H10140F&\pos(640,360)\p1}m -73.375 -359.375 l 0.625 -359.375 0.625 360 -73.375 360
 Dialogue: 2,0:23:39.93,0:23:42.69,Sign,,0,0,0,,{\fs133.333\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur0.667}Next Time
