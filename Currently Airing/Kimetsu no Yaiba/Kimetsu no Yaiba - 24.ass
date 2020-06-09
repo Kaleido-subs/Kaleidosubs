@@ -22,7 +22,6 @@ Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimets
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Video Position: 1
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -83,7 +82,7 @@ Dialogue: 10,0:03:27.77,0:03:30.44,Default,,0,0,0,,Yeah, looks like we'll be tak
 Dialogue: 10,0:03:30.94,0:03:33.27,Default,,0,0,0,,And you ended up with throat issues, Boar Boy?
 Dialogue: 10,0:03:34.65,0:03:36.52,Default,,0,0,0,,What's up with him?
 Dialogue: 10,0:03:37.15,0:03:38.73,Default,,0,0,0,,{\q2}He went through a lot.
-Dialogue: 10,0:03:38.73,0:03:40.78,Default,,0,0,0,,\NIf you could please let him be...
+Dialogue: 10,0:03:38.73,0:03:40.78,Default,,0,0,0,,If you could please let him be...
 Dialogue: 10,0:03:40.78,0:03:43.20,Default,,0,0,0,,But for this guy of all people to be so listless—
 Dialogue: 10,0:03:43.20,0:03:44.45,Default,,0,0,0,,Tanjirou!
 Dialogue: 10,0:03:45.16,0:03:47.41,Default,,0,0,0,,Who's this?
@@ -120,9 +119,9 @@ Dialogue: 10,0:05:20.88,0:05:25.30,Default,,0,0,0,,{\q2}Well, how about we start
 Dialogue: 10,0:05:25.76,0:05:28.18,Default,,0,0,0,,Rehabilitation Training?
 Dialogue: 10,0:05:28.39,0:05:29.22,Default,,0,0,0,,Yes!
 Dialogue: 10,0:05:29.80,0:05:31.81,Default,,0,0,0,,I'm sorry for being so weak...
-Dialogue: 10,0:05:33.60,0:05:37.44,Default,,0,0,0,,{\i1\q2}Tanjirou and Inosuke were taken away \Nby the Hashira, Miss Kochou,
+Dialogue: 10,0:05:33.60,0:05:37.44,Default,,0,0,0,,{\i1\q2}Tanjirou and Inosuke were taken away \Nby the Hashira, Lady Shinobu,
 Dialogue: 10,0:05:37.44,0:05:40.57,Default,,0,0,0,,{\i1}and started some kind of "Rehabilitation Training".
-Dialogue: 10,0:05:41.23,0:05:45.07,Default,,0,0,0,,{\i1}Miss Shinobu's voice is like no other.
+Dialogue: 10,0:05:41.23,0:05:45.07,Default,,0,0,0,,{\i1}Lady Shinobu's voice is like no other.
 Dialogue: 10,0:05:45.07,0:05:47.32,Default,,0,0,0,,{\i1}I don't think I've ever heard anything like it.
 Dialogue: 10,0:05:47.91,0:05:50.58,Default,,0,0,0,,{\i1}It's irregular, and that scares me a little.
 Dialogue: 10,0:05:50.95,0:05:56.08,Default,,0,0,0,,{\i1\q2}But she seemed like a goddess back when she treated \Nall those people that turned into spiderlings.

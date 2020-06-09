@@ -22,7 +22,6 @@ Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/Kimets
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Video Position: 1
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -187,7 +186,7 @@ Dialogue: 10,0:11:40.80,0:11:43.05,Default,,0,0,0,,Uh, do you mind?
 Dialogue: 10,0:11:48.43,0:11:50.31,Default,,0,0,0,,You don't mind, do you?
 Dialogue: 10,0:11:50.77,0:11:52.23,Default,,0,0,0,,And who might you be?
 Dialogue: 10,0:11:53.94,0:11:54.61,Default,,0,0,0,,Well, you see...
-Dialogue: 10,0:11:54.61,0:11:56.11,Default,,0,0,0,,We were ordered by Master Kochou!
+Dialogue: 10,0:11:54.61,0:11:56.11,Default,,0,0,0,,We were ordered by Lady Kochou!
 Dialogue: 10,0:11:56.57,0:11:58.32,Default,,0,0,0,,Are you a Kakushi?
 Dialogue: 10,0:11:58.86,0:12:00.32,Default,,0,0,0,,You've brought a patient, right?
 Dialogue: 10,0:12:00.99,0:12:02.32,Default,,0,0,0,,Please come this way.
