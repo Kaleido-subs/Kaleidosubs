@@ -293,7 +293,7 @@ Dialogue: 10,0:20:57.02,0:20:59.11,Default,,0,0,0,,Make sure you win, okay?
 Dialogue: 10,0:20:59.52,0:21:00.82,Default,,0,0,0,,Beat that guy, too.
 Dialogue: 10,0:21:07.70,0:21:08.95,Default,,0,0,0,,{\i1}The next thing I knew,
 Dialogue: 10,0:21:08.95,0:21:10.87,Default,,0,0,0,,{\i1}Sabito was gone.
-Dialogue: 10,0:21:13.71,0:21:16.67,Default,,0,0,0,,{\q2\i1}And my sword, which I was sure \Nhad cut through Sabito’s mask,
+Dialogue: 10,0:21:13.71,0:21:16.67,Default,,0,0,0,,{\i1\q2}And my sword, which I was sure \Nhad cut through Sabito’s mask,
 Dialogue: 10,0:21:24.38,0:21:27.39,Default,,0,0,0,,{\i1}had split that boulder.
 Comment: 0,0:22:59.94,0:22:59.94,Default,,0,0,0,,---------------------------------------------- [ OUTRO ] ----------------------------------------------
 Dialogue: 10,0:23:04.61,0:23:06.74,Default,,0,0,0,,Yeah, that shocked me too!

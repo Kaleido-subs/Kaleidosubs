@@ -232,7 +232,7 @@ Dialogue: 10,0:16:33.34,0:16:35.89,Default,,0,0,0,,D-Did he just shed his skin?
 Dialogue: 10,0:16:46.94,0:16:48.27,Default,,0,0,0,,{\i1}Geez.
 Dialogue: 10,0:16:48.27,0:16:51.90,Default,,0,0,0,,{\i1}Come on now, that's a bit too big!
 Dialogue: 10,0:16:52.28,0:16:54.40,Default,,0,0,0,,{\i1}This is starting to look pretty bad!
-Dialogue: 10,0:16:54.40,0:16:58.95,Default,,0,0,0,,{\q2\i1}I've never sensed this much power \Nfrom an opponent before!
+Dialogue: 10,0:16:54.40,0:16:58.95,Default,,0,0,0,,{\i1\q2}I've never sensed this much power \Nfrom an opponent before!
 Dialogue: 10,0:16:58.95,0:17:00.91,Default,,0,0,0,,{\i1}I'll get crushed just by this force!
 Dialogue: 10,0:17:06.67,0:17:07.92,Default,,0,0,0,,{\i1}There's no point.
 Dialogue: 10,0:17:08.29,0:17:10.09,Default,,0,0,0,,{\i1}I can't win.

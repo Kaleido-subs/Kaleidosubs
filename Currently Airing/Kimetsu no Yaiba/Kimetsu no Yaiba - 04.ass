@@ -39,7 +39,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Aniplex / Soul (OP) / Rin
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
 Comment: 0,0:02:29.00,0:02:29.00,Default,,0,0,0,,---------------------------------------------- [ PART A ] ----------------------------------------------
 Dialogue: 10,0:02:36.26,0:02:38.26,Default,,0,0,0,,{\i1}The reason I won
-Dialogue: 10,0:02:38.72,0:02:41.64,Default,,0,0,0,,{\q2\i1}was because I learned how to \Ndetect an opening to strike.
+Dialogue: 10,0:02:38.72,0:02:41.64,Default,,0,0,0,,{\i1\q2}was because I learned how to \Ndetect an opening to strike.
 Dialogue: 10,0:02:44.76,0:02:46.64,Default,,0,0,0,,{\i1}While I'm fighting someone,
 Dialogue: 10,0:02:47.18,0:02:50.44,Default,,0,0,0,,{\i1}if I pick up a certain scent, I can see a thread.
 Dialogue: 10,0:02:53.73,0:02:57.28,Default,,0,0,0,,{\i1\q2}The thread connects my blade \Nwith the opponent's opening,
@@ -265,7 +265,7 @@ Dialogue: 10,0:20:53.85,0:20:55.31,Default,,0,0,0,,{\i1}Water Breathing!
 Dialogue: 10,0:21:00.65,0:21:02.82,Default,,0,0,0,,{\i1}He's gotten too close!
 Dialogue: 10,0:21:03.20,0:21:07.37,Default,,0,0,0,,{\i1\q2}No worries. My neck is impenetrable! \NHe can't cut through it!
 Dialogue: 10,0:21:07.37,0:21:08.78,Default,,0,0,0,,{\i1}First Form!
-Dialogue: 10,0:21:08.78,0:21:13.54,Default,,0,0,0,,{\q2}As soon as he fails to cut my neck, \NI will crush his tiny little head!
+Dialogue: 10,0:21:08.78,0:21:13.54,Default,,0,0,0,,{\i1\q2}As soon as he fails to cut my neck, \NI will crush his tiny little head!
 Dialogue: 10,0:21:13.54,0:21:15.62,Default,,0,0,0,,{\i1}Just like I did to the other one!
 Dialogue: 10,0:21:25.72,0:21:27.47,Default,,0,0,0,,{\i1}Surface Water Slash!
 Comment: 0,0:22:59.94,0:22:59.94,Default,,0,0,0,,---------------------------------------------- [ OUTRO ] ----------------------------------------------

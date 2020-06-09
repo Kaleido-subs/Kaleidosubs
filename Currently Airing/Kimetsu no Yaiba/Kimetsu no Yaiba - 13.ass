@@ -117,10 +117,10 @@ Dialogue: 10,0:07:20.08,0:07:21.75,Default,,0,0,0,,{\i1}What amazing skill!
 Dialogue: 10,0:07:24.17,0:07:24.88,Default,,0,0,0,,{\i1}Not only that,
 Dialogue: 10,0:07:25.21,0:07:27.71,Default,,0,0,0,,{\i1}but he's got five claws now instead of three!
 Dialogue: 10,0:07:39.85,0:07:41.02,Default,,0,0,0,,{\i1}I get it.
-Dialogue: 10,0:07:45.61,0:07:48.07,Default,,0,0,0,,{\q2\i1}Because I dodged his blows \Nwithout stepping on the papers,
-Dialogue: 10,0:07:48.07,0:07:52.61,Default,,0,0,0,,{\q2\i1}I've figured out a way to move my body without \Naggravating my wounds, as well as how to breathe!
+Dialogue: 10,0:07:45.61,0:07:48.07,Default,,0,0,0,,{\i1\q2}Because I dodged his blows \Nwithout stepping on the papers,
+Dialogue: 10,0:07:48.07,0:07:52.61,Default,,0,0,0,,{\i1\q2}I've figured out a way to move my body without \Naggravating my wounds, as well as how to breathe!
 Dialogue: 10,0:07:54.12,0:07:56.45,Default,,0,0,0,,{\i1}Take shallow breaths. Quickly!
-Dialogue: 10,0:07:57.87,0:08:02.71,Default,,0,0,0,,{\q2\i1}Use that breathing technique to reinforce \Nthe muscles around your broken leg!
+Dialogue: 10,0:07:57.87,0:08:02.71,Default,,0,0,0,,{\i1\q2}Use that breathing technique to reinforce \Nthe muscles around your broken leg!
 Dialogue: 10,0:08:02.96,0:08:05.79,Default,,0,0,0,,{\i1}And right before the claw attack,
 Dialogue: 10,0:08:06.09,0:08:08.30,Default,,0,0,0,,{\i1}there's the scent of mold!
 Dialogue: 10,0:08:09.67,0:08:11.63,Default,,0,0,0,,{\i1}Here it comes! The claw attack!
@@ -158,16 +158,16 @@ Dialogue: 10,0:10:00.62,0:10:02.99,Default,,0,0,0,,I can't forgive you for killi
 Dialogue: 10,0:10:06.91,0:10:08.67,Default,,0,0,0,,I see.
 Dialogue: 10,0:10:11.13,0:10:13.67,Default,,0,0,0,,Oh, wait. I've got to get a blood sample.
 Dialogue: 10,0:10:26.14,0:10:27.98,Default,,0,0,0,,{\i1}It extracted the blood.
-Dialogue: 10,0:10:27.98,0:10:31.44,Default,,0,0,0,,{\q2\i1}It really does work automatically if you stick it in there.
-Dialogue: 10,0:10:32.02,0:10:35.28,Default,,0,0,0,,{\q2\i1}That Yushirou sure is skilled, \Ncreating something like this.
+Dialogue: 10,0:10:27.98,0:10:31.44,Default,,0,0,0,,{\i1\q2}It really does work automatically if you stick it in there.
+Dialogue: 10,0:10:32.02,0:10:35.28,Default,,0,0,0,,{\i1\q2}That Yushirou sure is skilled, \Ncreating something like this.
 Dialogue: 10,0:10:39.57,0:10:40.95,Default,,0,0,0,,A cat?
 Dialogue: 10,0:10:41.99,0:10:45.37,Default,,0,0,0,,{\q2}You're the one who's going to \Ndeliver this to Miss Tamayo, huh?
 Dialogue: 10,0:10:45.83,0:10:48.37,Default,,0,0,0,,There, there. Thanks!
 Dialogue: 10,0:10:51.33,0:10:52.75,Default,,0,0,0,,Now you're all set.
 Dialogue: 10,0:10:52.75,0:10:54.55,Default,,0,0,0,,All right, take care now!
 Dialogue: 10,0:10:59.34,0:11:00.38,Default,,0,0,0,,Hey—
-Dialogue: 10,0:11:01.34,0:11:05.26,Default,,0,0,0,,{\q2\i1}I was told that under Yushirou's spell, \Nit would be invisible until it meowed,
-Dialogue: 10,0:11:05.26,0:11:09.02,Default,,0,0,0,,{\q2\i1}and then vanish again \Nwhen it meowed a second time.
+Dialogue: 10,0:11:01.34,0:11:05.26,Default,,0,0,0,,{\i1\q2}I was told that under Yushirou's spell, \Nit would be invisible until it meowed,
+Dialogue: 10,0:11:05.26,0:11:09.02,Default,,0,0,0,,{\i1\q2}and then vanish again \Nwhen it meowed a second time.
 Dialogue: 10,0:11:09.02,0:11:10.48,Default,,0,0,0,,{\i1}So it's true, huh?
 Dialogue: 10,0:11:13.40,0:11:14.82,Default,,0,0,0,,Where are those two?
 Dialogue: 10,0:11:15.36,0:11:16.90,Default,,0,0,0,,I have to find them!
@@ -226,7 +226,7 @@ Dialogue: 10,0:14:31.51,0:14:36.60,Default,,0,0,0,,{\i1}One time, I knew what pe
 Dialogue: 10,0:14:37.43,0:14:39.31,Default,,0,0,0,,{\i1}Everyone was creeped out.
 Dialogue: 10,0:14:42.23,0:14:44.19,Default,,0,0,0,,{\i1}I don't hear the sound of any demons anymore.
 Dialogue: 10,0:14:45.15,0:14:48.32,Default,,0,0,0,,{\i1}Tanjirou, you defeated that demon, didn't you?
-Dialogue: 10,0:14:49.20,0:14:54.99,Default,,0,0,0,,{\q2\i1}I can hear you guys, and also \Nthese weird, loud footsteps.
+Dialogue: 10,0:14:49.20,0:14:54.99,Default,,0,0,0,,{\i1\q2}I can hear you guys, and also \Nthese weird, loud footsteps.
 Dialogue: 10,0:14:56.45,0:14:59.25,Default,,0,0,0,,...itsu! Zenitsu!
 Dialogue: 10,0:14:59.96,0:15:01.83,Default,,0,0,0,,Zenitsu!
 Dialogue: 10,0:15:05.75,0:15:08.84,Default,,0,0,0,,Thank goodness! Are you all right?
@@ -281,8 +281,8 @@ Dialogue: 10,0:17:26.27,0:17:29.11,Default,,0,0,0,,I've known that from the very
 Dialogue: 10,0:17:31.11,0:17:33.49,Default,,0,0,0,,{\i1}I knew he was traveling with a demon.
 Dialogue: 10,0:17:34.61,0:17:38.28,Default,,0,0,0,,{\i1}The sounds demons make differ from those of humans.
 Dialogue: 10,0:17:39.57,0:17:40.74,Default,,0,0,0,,{\i1}But...
-Dialogue: 10,0:17:41.20,0:17:45.87,Default,,0,0,0,,{\q2\i1}I can pick up a sound so gentle and kind \Nfrom Tanjirou, it almost makes me tear up.
-Dialogue: 10,0:17:47.04,0:17:51.00,Default,,0,0,0,,{\q2\i1}Such a kind sound, I don't think I've \Never heard anything like it before.
+Dialogue: 10,0:17:41.20,0:17:45.87,Default,,0,0,0,,{\i1\q2}I can pick up a sound so gentle and kind \Nfrom Tanjirou, it almost makes me tear up.
+Dialogue: 10,0:17:47.04,0:17:51.00,Default,,0,0,0,,{\i1\q2}Such a kind sound, I don't think I've \Never heard anything like it before.
 Dialogue: 10,0:17:53.05,0:17:56.51,Default,,0,0,0,,{\i1}All living creatures constantly give off sounds.
 Dialogue: 10,0:17:57.22,0:18:00.01,Default,,0,0,0,,{\i1}These sounds spill out into the world.
 Dialogue: 10,0:18:01.22,0:18:05.27,Default,,0,0,0,,{\i1}Breathing, heartbeats, the sound of blood circulating...
@@ -290,7 +290,7 @@ Dialogue: 10,0:18:06.02,0:18:08.35,Default,,0,0,0,,{\i1}By listening closely,
 Dialogue: 10,0:18:08.35,0:18:11.02,Default,,0,0,0,,{\i1}I could even tell what someone was thinking.
 Dialogue: 10,0:18:12.61,0:18:15.74,Default,,0,0,0,,{\i1}But I've been deceived by others time and time again.
 Dialogue: 10,0:18:16.57,0:18:21.24,Default,,0,0,0,,{\i1}I've always believed in whomever I wanted to.
-Dialogue: 10,0:18:23.16,0:18:26.96,Default,,0,0,0,,{\q2\i1}Tanjirou, despite being a Demon Slayer, \Nis traveling with a demon.
+Dialogue: 10,0:18:23.16,0:18:26.96,Default,,0,0,0,,{\i1\q2}Tanjirou, despite being a Demon Slayer, \Nis traveling with a demon.
 Dialogue: 10,0:18:27.83,0:18:32.17,Default,,0,0,0,,{\i1}But I'm sure he has a reason for that.
 Dialogue: 10,0:18:32.17,0:18:35.55,Default,,0,0,0,,{\i1}And I'm sure that it's a reason I can accept.
 Dialogue: 10,0:18:35.55,0:18:36.67,Default,,0,0,0,,{\i1}I believe in it.

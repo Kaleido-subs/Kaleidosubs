@@ -284,7 +284,7 @@ Dialogue: 10,0:16:15.37,0:16:16.33,Default,,0,0,0,,What's your name?
 Dialogue: 10,0:16:17.08,0:16:18.62,Default,,0,0,0,,Teruko.
 Dialogue: 10,0:16:18.62,0:16:20.79,Default,,0,0,0,,Is that right? Teruko?
 Dialogue: 10,0:16:20.79,0:16:22.12,Default,,0,0,0,,That's a fine name you h—
-Dialogue: 10,0:16:36.35,0:16:41.39,Default,,0,0,0,,{\q2\i1}Even among all the scents this house \Nis enveloped in, this is the most intense one!
+Dialogue: 10,0:16:36.35,0:16:41.39,Default,,0,0,0,,{\i1\q2}Even among all the scents this house \Nis enveloped in, this is the most intense one!
 Dialogue: 10,0:16:41.39,0:16:43.69,Default,,0,0,0,,{\i1}This demon has devoured a whole slew of humans!
 Dialogue: 10,0:16:43.69,0:16:46.98,Default,,0,0,0,,{\i1}He's clearly the master of this mansion!
 Dialogue: 10,0:16:47.98,0:16:49.98,Default,,0,0,0,,I'm gonna die!

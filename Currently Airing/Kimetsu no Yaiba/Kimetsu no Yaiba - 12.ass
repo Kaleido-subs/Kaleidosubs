@@ -77,7 +77,7 @@ Dialogue: 10,0:03:51.71,0:03:53.58,Default,,0,0,0,,{\i1}I'm starting to get the 
 Dialogue: 10,0:03:59.88,0:04:01.63,Default,,0,0,0,,{\i1}We're in yet another room?
 Dialogue: 10,0:04:02.30,0:04:04.30,Default,,0,0,0,,{\i1}But what does this mean?
 Dialogue: 10,0:04:04.30,0:04:07.18,Default,,0,0,0,,{\i1}That demon didn't strike his drum just now.
-Dialogue: 10,0:04:07.93,0:04:11.18,Default,,0,0,0,,{\q2\i1}I'm picking up the scent of \Nmultiple demons in this house.
+Dialogue: 10,0:04:07.93,0:04:11.18,Default,,0,0,0,,{\i1\q2}I'm picking up the scent of \Nmultiple demons in this house.
 Dialogue: 10,0:04:11.68,0:04:13.98,Default,,0,0,0,,{\i1}Is there another demon with a drum?
 Dialogue: 10,0:04:14.90,0:04:16.36,Default,,0,0,0,,{\i1}Is that why...
 Dialogue: 10,0:04:19.40,0:04:20.86,Default,,0,0,0,,{\i1}I can smell blood.
@@ -136,7 +136,7 @@ Dialogue: 10,0:07:57.70,0:07:59.87,Default,,0,0,0,,{\i1}He's such a good kid!
 Dialogue: 10,0:07:59.87,0:08:02.50,Default,,0,0,0,,{\i1}Staying here even though all I do is whimper!
 Dialogue: 10,0:08:03.29,0:08:05.29,Default,,0,0,0,,{\i1}I've got to find a way somehow!
 Dialogue: 10,0:08:05.75,0:08:08.92,Default,,0,0,0,,{\i1}If I don't protect him, what will become of him?
-Dialogue: 10,0:08:08.92,0:08:11.80,Default,,0,0,0,,{\q2\i1}Dying before he reaches double digits \Nwould be way too tragic!
+Dialogue: 10,0:08:08.92,0:08:11.80,Default,,0,0,0,,{\i1\q2}Dying before he reaches double digits \Nwould be way too tragic!
 Dialogue: 10,0:08:12.13,0:08:14.05,Default,,0,0,0,,{\i1}But I'm so horribly weak!
 Dialogue: 10,0:08:14.05,0:08:14.97,Default,,0,0,0,,Get up!
 Dialogue: 10,0:08:14.97,0:08:18.06,Default,,0,0,0,,{\i1}I don't have the ability to protect him!
@@ -203,11 +203,11 @@ Dialogue: 10,0:13:07.01,0:13:08.76,Default,,0,0,0,,J-Just a little!
 Dialogue: 10,0:13:08.76,0:13:09.97,Default,,0,0,0,,I've had enough.
 Dialogue: 10,0:13:10.39,0:13:13.14,Default,,0,0,0,,I'm stripping you of your number.
 Dialogue: 10,0:13:13.14,0:13:16.48,Default,,0,0,0,,That's your limit, and you've reached it.
-Dialogue: 10,0:13:17.69,0:13:21.07,Default,,0,0,0,,{\q2\i1}The more humans you consume, \Nthe stronger you can become.
+Dialogue: 10,0:13:17.69,0:13:21.07,Default,,0,0,0,,{\i1\q2}The more humans you consume, \Nthe stronger you can become.
 Dialogue: 10,0:13:21.07,0:13:23.78,Default,,0,0,0,,{\i1}And once he saw my potential,
 Dialogue: 10,0:13:23.78,0:13:26.86,Default,,0,0,0,,{\i1}Lord Kibutsuji was willing to share his blood with me.
 Dialogue: 10,0:13:28.07,0:13:32.12,Default,,0,0,0,,{\i1}The power of that man's blood was mind-boggling.
-Dialogue: 10,0:13:32.12,0:13:36.46,Default,,0,0,0,,{\q2\i1}I was sure that I'd grow \Ninfinitely stronger than ever before,
+Dialogue: 10,0:13:32.12,0:13:36.46,Default,,0,0,0,,{\i1\q2}I was sure that I'd grow \Ninfinitely stronger than ever before,
 Dialogue: 10,0:13:36.92,0:13:40.13,Default,,0,0,0,,{\i1}be welcomed into the ranks of the Twelve Blood Moons,
 Dialogue: 10,0:13:40.13,0:13:42.59,Default,,0,0,0,,{\i1}continue to gorge myself on humans,
 Dialogue: 10,0:13:42.59,0:13:46.97,Default,,0,0,0,,{\i1}and become even more powerful! Or so I believed!
@@ -287,7 +287,7 @@ Dialogue: 10,0:17:48.33,0:17:49.50,Default,,0,0,0,,I'm heading out.
 Dialogue: 10,0:17:58.09,0:17:59.01,Default,,0,0,0,,Strike it!
 Dialogue: 10,0:18:01.51,0:18:03.68,Default,,0,0,0,,Damn insects!
 Dialogue: 10,0:18:03.68,0:18:05.35,Default,,0,0,0,,So infuriating!
-Dialogue: 10,0:18:22.24,0:18:24.70,Default,,0,0,0,,{\q2\i1}The drum on his right shoulder \Nflips the room to the right!
+Dialogue: 10,0:18:22.24,0:18:24.70,Default,,0,0,0,,{\i1\q2}The drum on his right shoulder \Nflips the room to the right!
 Dialogue: 10,0:18:26.46,0:18:28.17,Default,,0,0,0,,{\i1}The left one flips it to the left!
 Dialogue: 10,0:18:29.21,0:18:31.00,Default,,0,0,0,,{\i1}Right leg, forward spin!
 Dialogue: 10,0:18:31.42,0:18:33.80,Default,,0,0,0,,{\i1}Left leg, backward spin!
@@ -297,21 +297,21 @@ Dialogue: 10,0:18:55.28,0:18:58.57,Default,,0,0,0,,{\i1}The speed of the rotatio
 Dialogue: 10,0:18:59.28,0:19:01.99,Default,,0,0,0,,{\i1}Miss Tamayo may have treated my wounds,
 Dialogue: 10,0:19:01.99,0:19:03.95,Default,,0,0,0,,{\i1}but I haven't fully recovered from my injuries yet!
 Dialogue: 10,0:19:05.49,0:19:08.33,Default,,0,0,0,,{\i1}Can I beat him?
-Dialogue: 10,0:19:08.75,0:19:12.92,Default,,0,0,0,,{\q2\i1}These injuries hurt so badly \Nthat I can hardly stand it!
+Dialogue: 10,0:19:08.75,0:19:12.92,Default,,0,0,0,,{\i1\q2}These injuries hurt so badly \Nthat I can hardly stand it!
 Dialogue: 10,0:19:14.59,0:19:18.13,Default,,0,0,0,,{\i1}All this time, I've just been enduring it!
 Dialogue: 10,0:19:18.13,0:19:21.39,Default,,0,0,0,,{\i1}When I pulled Zenitsu off that girl,
-Dialogue: 10,0:19:21.89,0:19:25.93,Default,,0,0,0,,{\q2\i1}when I shouted out, I was enduring \Nthis horrendous pain!
+Dialogue: 10,0:19:21.89,0:19:25.93,Default,,0,0,0,,{\i1\q2}when I shouted out, I was enduring \Nthis horrendous pain!
 Dialogue: 10,0:19:26.43,0:19:29.02,Default,,0,0,0,,{\i1}I was able to withstand it because I'm the eldest son!
 Dialogue: 10,0:19:29.52,0:19:31.77,Default,,0,0,0,,{\i1}But I couldn't have if I were the second!
 Dialogue: 10,0:19:33.81,0:19:37.40,Default,,0,0,0,,{\i1}Whenever I dig in, the broken parts creak,
 Dialogue: 10,0:19:37.40,0:19:39.28,Default,,0,0,0,,{\i1}and I can't muster any strength.
-Dialogue: 10,0:19:41.41,0:19:45.45,Default,,0,0,0,,{\q2\i1}That demon's attack is leaving scars \Nthat look like claw marks.
+Dialogue: 10,0:19:41.41,0:19:45.45,Default,,0,0,0,,{\i1\q2}That demon's attack is leaving scars \Nthat look like claw marks.
 Dialogue: 10,0:19:46.33,0:19:48.75,Default,,0,0,0,,{\i1}It scares me so much that I can't move in closer!
 Dialogue: 10,0:19:50.29,0:19:52.17,Default,,0,0,0,,{\i1}Since I'm not at full strength,
 Dialogue: 10,0:19:52.17,0:19:55.04,Default,,0,0,0,,{\i1}if I charge forward to get within striking distance,
 Dialogue: 10,0:19:55.34,0:19:57.75,Default,,0,0,0,,{\i1}a flash of pain makes me stumble!
 Dialogue: 10,0:20:00.80,0:20:02.13,Default,,0,0,0,,{\i1}I'll get sliced into rings!
-Dialogue: 10,0:20:04.85,0:20:08.27,Default,,0,0,0,,{\q2\i1}My injuries are making me \Nimagine the most awful things!
+Dialogue: 10,0:20:04.85,0:20:08.27,Default,,0,0,0,,{\i1\q2}My injuries are making me \Nimagine the most awful things!
 Dialogue: 10,0:20:08.72,0:20:10.31,Default,,0,0,0,,{\i1}Master Urokodaki!
 Dialogue: 10,0:20:11.98,0:20:14.86,Default,,0,0,0,,Water can change into any form.
 Dialogue: 10,0:20:16.02,0:20:18.69,Default,,0,0,0,,Pour it into a container, and it's a square.
@@ -320,10 +320,10 @@ Dialogue: 10,0:20:20.86,0:20:25.20,Default,,0,0,0,,{\q2}Sometimes, it can even s
 Dialogue: 10,0:20:25.70,0:20:28.41,Default,,0,0,0,,{\i1}That's right! That's it!
 Dialogue: 10,0:20:28.41,0:20:31.54,Default,,0,0,0,,{\i1}There are ten Water Breathing forms!
 Dialogue: 10,0:20:32.08,0:20:33.96,Default,,0,0,0,,{\i1}I can battle any kind of opponent!
-Dialogue: 10,0:20:34.67,0:20:38.88,Default,,0,0,0,,{\q2\i1}If you're hurt, use a move \Nthat will compensate for that!
+Dialogue: 10,0:20:34.67,0:20:38.88,Default,,0,0,0,,{\i1\q2}If you're hurt, use a move \Nthat will compensate for that!
 Dialogue: 10,0:20:38.88,0:20:40.84,Default,,0,0,0,,{\i1}I can take on any form!
 Dialogue: 10,0:20:41.30,0:20:43.80,Default,,0,0,0,,{\i1}And this flow will never be stopped!
-Dialogue: 10,0:20:46.51,0:20:50.06,Default,,0,0,0,,{\q2\i1}Right now, it's not just my bones! \NMy heart's also been broken!
+Dialogue: 10,0:20:46.51,0:20:50.06,Default,,0,0,0,,{\i1\q2}Right now, it's not just my bones! \NMy heart's also been broken!
 Dialogue: 10,0:20:51.56,0:20:54.81,Default,,0,0,0,,A broken Tanjirou's not gonna do any good!
 Dialogue: 10,0:20:54.81,0:20:57.40,Default,,0,0,0,,All right! If you could please quiet down!
 Dialogue: 10,0:20:58.06,0:21:00.57,Default,,0,0,0,,{\i1}Look straight ahead!

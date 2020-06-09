@@ -97,15 +97,15 @@ Dialogue: 10,0:05:13.70,0:05:15.75,Default,,0,0,0,,It's all good! They're still 
 Dialogue: 10,0:05:32.47,0:05:34.60,Default,,0,0,0,,{\i1}My sword was cut in half!
 Dialogue: 10,0:05:34.60,0:05:36.23,Default,,0,0,0,,{\i1}I can't believe it!
 Dialogue: 10,0:05:36.52,0:05:38.31,Default,,0,0,0,,{\i1}The webs this boy is controlling...
-Dialogue: 10,0:05:38.31,0:05:42.48,Default,,0,0,0,,{\q2\i1}Are they even tougher than \Nthe body of that other demon?
-Dialogue: 10,0:05:43.82,0:05:48.11,Default,,0,0,0,,{\q2\i1}Master Urokodaki, Mr. Haganezuka, \Nplease forgive me!
+Dialogue: 10,0:05:38.31,0:05:42.48,Default,,0,0,0,,{\i1\q2}Are they even tougher than \Nthe body of that other demon?
+Dialogue: 10,0:05:43.82,0:05:48.11,Default,,0,0,0,,{\i1\q2}Master Urokodaki, Mr. Haganezuka, \Nplease forgive me!
 Dialogue: 10,0:05:48.45,0:05:51.83,Default,,0,0,0,,{\i1}Due to my inexperience, my sword has now broken!
 Dialogue: 10,0:05:54.58,0:05:56.79,Default,,0,0,0,,{\i1}This is no time to worry about that!
 Dialogue: 10,0:05:56.79,0:05:58.58,Default,,0,0,0,,{\i1}Think! Think!
-Dialogue: 10,0:06:00.33,0:06:04.05,Default,,0,0,0,,{\q2\i1}If I can't cut through those webs, \NI'll have to get right up in his face instead!
+Dialogue: 10,0:06:00.33,0:06:04.05,Default,,0,0,0,,{\i1\q2}If I can't cut through those webs, \NI'll have to get right up in his face instead!
 Dialogue: 10,0:06:09.97,0:06:11.22,Default,,0,0,0,,{\i1}It's hopeless!
-Dialogue: 10,0:06:11.22,0:06:14.64,Default,,0,0,0,,{\q2\i1}I can't get through those attacks. \NIt's like those webs have a life of their own!
-Dialogue: 10,0:06:14.64,0:06:20.23,Default,,0,0,0,,{\q2\i1}He's obviously toying with me, and yet \NI'm still getting overwhelmed by these attacks!
+Dialogue: 10,0:06:11.22,0:06:14.64,Default,,0,0,0,,{\i1\q2}I can't get through those attacks. \NIt's like those webs have a life of their own!
+Dialogue: 10,0:06:14.64,0:06:20.23,Default,,0,0,0,,{\i1\q2}He's obviously toying with me, and yet \NI'm still getting overwhelmed by these attacks!
 Dialogue: 10,0:06:21.73,0:06:23.07,Default,,0,0,0,,Well?
 Dialogue: 10,0:06:23.07,0:06:26.49,Default,,0,0,0,,Do you still refuse to take back your words?
 Dialogue: 10,0:06:29.24,0:06:30.66,Default,,0,0,0,,Fine.
@@ -240,9 +240,9 @@ Dialogue: 10,0:14:27.67,0:14:30.43,Default,,0,0,0,,You don't stand a chance agai
 Dialogue: 10,0:14:37.27,0:14:41.56,Default,,0,0,0,,My body's sturdier than any of my webs.
 Dialogue: 10,0:14:42.27,0:14:47.15,Default,,0,0,0,,{\q2}If you can't cut through those, there's no way \Nin hell you'll chop off my head.
 Dialogue: 10,0:14:57.00,0:14:59.29,Default,,0,0,0,,{\i1}H-He's strong...
-Dialogue: 10,0:14:59.67,0:15:03.88,Default,,0,0,0,,{\q2\i1}His power is on a completely different level \Nfrom any demons I've fought so far!
+Dialogue: 10,0:14:59.67,0:15:03.88,Default,,0,0,0,,{\i1\q2}His power is on a completely different level \Nfrom any demons I've fought so far!
 Dialogue: 10,0:15:03.88,0:15:06.80,Default,,0,0,0,,{\i1}So this is a Blood Moon's power.
-Dialogue: 10,0:15:07.76,0:15:11.18,Default,,0,0,0,,{\q2\i1}The power of a demon with a \Nhigh concentration of Kibutsuji's blood.
+Dialogue: 10,0:15:07.76,0:15:11.18,Default,,0,0,0,,{\i1\q2}The power of a demon with a \Nhigh concentration of Kibutsuji's blood.
 Dialogue: 10,0:15:17.10,0:15:18.60,Default,,0,0,0,,You're so loud.
 Dialogue: 10,0:15:18.60,0:15:19.85,Default,,0,0,0,,Mind shutting up for a bit?
 Dialogue: 10,0:15:23.27,0:15:24.77,Default,,0,0,0,,Stop that!
@@ -312,8 +312,8 @@ Dialogue: 10,0:19:24.51,0:19:25.81,Default,,0,0,0,,{\i1}My webs!
 Dialogue: 10,0:19:30.64,0:19:32.02,Default,,0,0,0,,{\i1}Don't stop!
 Dialogue: 10,0:19:32.02,0:19:33.73,Default,,0,0,0,,{\i1}Keep moving onward!
 Dialogue: 10,0:19:33.73,0:19:35.19,Default,,0,0,0,,{\i1}If you stop now,
-Dialogue: 10,0:19:35.19,0:19:39.74,Default,,0,0,0,,{\q2\i1}the backlash from forcibly switching \Nbetween breathing forms will kick in!
-Dialogue: 10,0:19:40.20,0:19:44.20,Default,,0,0,0,,{\q2\i1}Once that happens, you won't be \Nable to move for a while!
+Dialogue: 10,0:19:35.19,0:19:39.74,Default,,0,0,0,,{\i1\q2}the backlash from forcibly switching \Nbetween breathing forms will kick in!
+Dialogue: 10,0:19:40.20,0:19:44.20,Default,,0,0,0,,{\i1\q2}Once that happens, you won't be \Nable to move for a while!
 Dialogue: 10,0:19:45.16,0:19:48.58,Default,,0,0,0,,{\i1}That's why you have to finish it now!
 Dialogue: 10,0:19:48.58,0:19:50.16,Default,,0,0,0,,{\i1}Run!
 Dialogue: 10,0:19:50.16,0:19:51.96,Default,,0,0,0,,{\i1}You have to protect Nezuko!
