@@ -65,9 +65,9 @@ Dialogue: 10,0:03:36.82,0:03:38.99,Default,,0,0,0,,{\q2}There are as many mentor
 Dialogue: 10,0:03:38.99,0:03:44.12,Default,,0,0,0,,{\q2}and each of them teaches their disciples \Nin their own respective place and style.
 Dialogue: 10,0:03:44.62,0:03:46.70,Default,,0,0,0,,In order to join the Demon Slayers
 Dialogue: 10,0:03:46.70,0:03:52.87,Default,,0,0,0,,{\q2}you must survive the Final Selection \Nprocess held on Mt. Fujikasane.
-Dialogue: 10,0:03:52.87,0:03:57.13,Default,,0,0,0,,{\q2}Whether you may take part \Nin the Final Selection is up to me.
+Dialogue: 10,0:03:52.87,0:03:57.13,Default,,0,0,0,,{\q2}Whether you may take part is up to my discretion.
 Dialogue: 10,0:03:58.59,0:04:02.88,Default,,0,0,0,,{\i1}Starting today, I'll be keeping a journal for Nezuko.
-Dialogue: 10,0:04:03.55,0:04:05.64,Default,,0,0,0,,{\i1}I'm descending the mountain again today.
+Dialogue: 10,0:04:03.55,0:04:05.64,Default,,0,0,0,,{\i1}I descended the mountain again today.
 Dialogue: 10,0:04:06.26,0:04:09.97,Default,,0,0,0,,{\i1\q2}I will train my hardest so I don't die \Nduring the Final Selection process.
 Dialogue: 10,0:04:13.98,0:04:17.11,Default,,0,0,0,,{\i1}After descending the mountain day after day,
 Dialogue: 10,0:04:17.11,0:04:20.19,Default,,0,0,0,,{\i1}I've gotten adept at avoiding the traps
@@ -76,7 +76,7 @@ Dialogue: 10,0:04:23.03,0:04:28.03,Default,,0,0,0,,{\i1}as well as my sense of s
 Dialogue: 10,0:04:29.87,0:04:30.95,Default,,0,0,0,,{\i1}That said...
 Dialogue: 10,0:04:33.25,0:04:35.79,Default,,0,0,0,,{\i1}The traps keep getting more and more extreme.
 Dialogue: 10,0:04:36.96,0:04:39.25,Default,,0,0,0,,{\i1}I swear he's out to kill me.
-Dialogue: 10,0:04:51.68,0:04:54.60,Default,,0,0,0,,{\i1}Today, I did the usual while carrying a sword.
+Dialogue: 10,0:04:51.68,0:04:54.60,Default,,0,0,0,,{\i1}Today I did the usual while carrying a sword.
 Dialogue: 10,0:04:55.02,0:04:56.98,Default,,0,0,0,,{\i1}It was genuinely awful!
 Dialogue: 10,0:05:00.78,0:05:04.78,Default,,0,0,0,,{\i1\q2}No longer empty-handed, \NI would keep getting caught in traps.
 Dialogue: 10,0:05:06.49,0:05:07.82,Default,,0,0,0,,Nine-hundred-ninety-one!
@@ -88,9 +88,9 @@ Dialogue: 10,0:05:12.25,0:05:13.29,Default,,0,0,0,,{\an8}Nine-hundred-ninety-six
 Dialogue: 10,0:05:13.29,0:05:14.54,Default,,0,0,0,,{\an8}Nine-hundred-ninety-seven!
 Dialogue: 10,0:05:14.54,0:05:15.79,Default,,0,0,0,,{\an8}Nine-hundred-ninety-eight!
 Dialogue: 10,0:05:15.79,0:05:17.96,Default,,0,0,0,,{\an8}Nine-hundred-ninety-nine!
-Dialogue: 10,0:05:07.82,0:05:10.45,Default,,0,0,0,,{\i1}Today, I'm practicing sword swings.
+Dialogue: 10,0:05:07.82,0:05:10.45,Default,,0,0,0,,{\i1}Today I practised sword swings.
 Dialogue: 10,0:05:10.45,0:05:14.33,Default,,0,0,0,,{\i1\q2}Well, I say "today", but I've been doing \Nthis pretty much every day as of recently.
-Dialogue: 10,0:05:14.33,0:05:17.96,Default,,0,0,0,,{\i1\q2}After my daily routine, I practise swinging \Nmy sword until my arms nearly fall off.
+Dialogue: 10,0:05:14.33,0:05:17.96,Default,,0,0,0,,{\i1\q2}After my daily routine, I would practise swinging \Nmy sword until my arms were about to fall off.
 Dialogue: 10,0:05:17.96,0:05:19.21,Default,,0,0,0,,One thousand!
 Dialogue: 10,0:05:19.75,0:05:21.80,Default,,0,0,0,,Do five hundred more!
 Dialogue: 10,0:05:36.81,0:05:39.31,Default,,0,0,0,,"Swords are very brittle."
@@ -102,14 +102,14 @@ Dialogue: 10,0:06:00.75,0:06:06.30,Default,,0,0,0,,{\i1\q2}Furthermore, he made 
 Dialogue: 10,0:06:06.30,0:06:10.64,Default,,0,0,0,,{\i1\q2}my bones would be soon to follow. Real scary stuff.
 Dialogue: 10,0:06:13.97,0:06:15.77,Default,,0,0,0,,Nezuko...
 Dialogue: 10,0:06:15.77,0:06:17.89,Default,,0,0,0,,I'll keep working hard, okay?
-Dialogue: 10,0:06:33.87,0:06:36.12,Default,,0,0,0,,{\i1}Today, I did nothing but fall.
-Dialogue: 10,0:06:36.95,0:06:41.96,Default,,0,0,0,,{\i1\q2}That is, I trained to break my fall properly\Nand get back up quickly no matter the situation.
-Dialogue: 10,0:06:42.79,0:06:44.09,Default,,0,0,0,,{\i1}I wield my sword,
+Dialogue: 10,0:06:33.87,0:06:36.12,Default,,0,0,0,,{\i1}Today I did nothing but fall.
+Dialogue: 10,0:06:36.95,0:06:41.96,Default,,0,0,0,,{\i1\q2}That is, I trained to break my fall properly \Nand get back up quickly no matter the situation.
+Dialogue: 10,0:06:42.79,0:06:44.09,Default,,0,0,0,,{\i1}I would wield my sword,
 Dialogue: 10,0:06:44.71,0:06:47.34,Default,,0,0,0,,{\i1}and charge at Master Urokodaki with full intent to kill.
 Dialogue: 10,0:06:47.67,0:06:48.59,Default,,0,0,0,,{\i1}In contrast,
-Dialogue: 10,0:06:49.09,0:06:51.76,Default,,0,0,0,,{\i1}Master Urokodaki awaits me bare-handed.
+Dialogue: 10,0:06:49.09,0:06:51.76,Default,,0,0,0,,{\i1}Master Urokodaki would await me bare-handed.
 Dialogue: 10,0:06:54.51,0:06:56.85,Default,,0,0,0,,{\i1}But he's ridiculously strong!
-Dialogue: 10,0:06:57.31,0:07:01.35,Default,,0,0,0,,{\i1\q2}Every time I get flung away,\N I struggle to break my fall.
+Dialogue: 10,0:06:57.31,0:07:01.35,Default,,0,0,0,,{\i1\q2}Every time I got flung away, \NI'd struggle to break my fall.
 Dialogue: 10,0:07:06.03,0:07:08.11,Default,,0,0,0,,I'm back, Nezuko.
 Dialogue: 10,0:07:18.04,0:07:22.12,Default,,0,0,0,,{\i1\q2}Today I learned about breathing \Ntechniques and a few stances.
 Dialogue: 10,0:07:22.54,0:07:25.38,Default,,0,0,0,,Total Concentration Breathing?
@@ -137,15 +137,15 @@ Dialogue: 10,0:08:18.56,0:08:23.02,Default,,0,0,0,,{\i1}Next, he told me to beco
 Dialogue: 10,0:08:23.02,0:08:24.52,Default,,0,0,0,,Get in there!
 Dialogue: 10,0:08:30.23,0:08:34.53,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:08:38.83,0:08:44.54,Default,,0,0,0,,Nezuko! I am water!
-Dialogue: 10,0:08:46.21,0:08:51.09,Default,,0,0,0,,{\i1\q2}Before I knew it, six months had passed \Nsince Nezuko has entered her deep slumber.
-Dialogue: 10,0:08:52.26,0:08:55.80,Default,,0,0,0,,{\i1\q2}Master Urokodaki summoned a doctor \Nand had her examined right away,
+Dialogue: 10,0:08:46.21,0:08:51.09,Default,,0,0,0,,{\i1\q2}Before I knew it, six months had passed \Nsince Nezuko entered her deep slumber.
+Dialogue: 10,0:08:52.26,0:08:55.80,Default,,0,0,0,,{\i1\q2}Master Urokodaki summoned a doctor \Nand had her examined straight away,
 Dialogue: 10,0:08:55.80,0:08:57.22,Default,,0,0,0,,{\i1}but he found nothing wrong.
 Dialogue: 10,0:08:58.35,0:09:01.77,Default,,0,0,0,,{\i1}It's abnormal for her to stay asleep for so long.
-Dialogue: 10,0:09:06.65,0:09:08.11,Default,,0,0,0,,{\i1}It scared me.
-Dialogue: 10,0:09:09.06,0:09:10.36,Default,,0,0,0,,{\i1}I worried that one morning
-Dialogue: 10,0:09:10.94,0:09:13.86,Default,,0,0,0,,{\i1}I'd wake up to find her dead.
+Dialogue: 10,0:09:06.65,0:09:08.11,Default,,0,0,0,,{\i1}I'm scared.
+Dialogue: 10,0:09:09.06,0:09:10.36,Default,,0,0,0,,{\i1}I worry that one morning
+Dialogue: 10,0:09:10.94,0:09:13.86,Default,,0,0,0,,{\i1}I'll wake up to find her dead.
 Dialogue: 10,0:09:15.11,0:09:18.62,Default,,0,0,0,,{\i1}Not a day goes by that I don't worry.
-Dialogue: 10,0:09:26.96,0:09:29.21,Default,,0,0,0,,{\i1}My descents keep getting more and more dangerous,
+Dialogue: 10,0:09:26.96,0:09:29.21,Default,,0,0,0,,{\i1}My descents kept getting more dangerous,
 Dialogue: 10,0:09:29.21,0:09:32.05,Default,,0,0,0,,{\i1}and the air's even denser where I train now.
 Dialogue: 10,0:09:38.55,0:09:41.85,Default,,0,0,0,,{\i1}Time and time again, I worry that today will be my last.
 Dialogue: 10,0:09:58.95,0:10:01.66,Default,,0,0,0,,I have nothing more to teach you.
