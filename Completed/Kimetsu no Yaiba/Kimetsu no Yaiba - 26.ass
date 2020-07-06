@@ -22,9 +22,6 @@ Video File: ../../../../Encoding Projects/[Kaleido-subs]/Completed/Kimetsu no Ya
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 102
-Active Line: 119
-Video Position: 11236
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -45,7 +42,7 @@ Style: Ep26 INS,WILD1 Toxia,56,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Aniplex / Soul (OP) / Ringo (ED) \ TLC: Ringo \ Editing: LightArrowsEXE \ Styling: LightArrowsEXE (ED) \ Timing: skiddiks \ TS: LightArrowsEXE \ QC: LightArrowsEXE \ Special Thanks: The0x539 (OP KFX Troubleshooting) }
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Aniplex / Soul (OP) \ TLC: Ringo \ Editing: LightArrowsEXE \ Styling: LightArrowsEXE (ED) \ Timing: skiddiks \ TS: LightArrowsEXE \ QC: LightArrowsEXE \ Special Thanks: The0x539 (OP KFX Troubleshooting) }
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
 Dialogue: 10,0:00:07.43,0:00:08.90,Default,,0,0,0,,Insane.
 Dialogue: 10,0:00:08.90,0:00:10.24,Default,,0,0,0,,Look at 'em go.
@@ -550,7 +547,7 @@ Dialogue: 1,0:22:01.13,0:22:02.92,Ep26 INS,,0,0,0,,{\fad(200,200)\an9}makeru imi
 Dialogue: 1,0:22:02.92,0:22:07.30,Ep26 INS,,0,0,0,,{\fad(200,200)\an9}guren no hana yo sakihokore\N{\fs48}But now my path is bright and clear
 Dialogue: 1,0:22:07.34,0:22:14.06,Ep26 INS,,0,0,0,,{\fad(200,200)\an9}unmei wo terashite\N{\fs48}Overgrown by blood-soaked lotuses
 Dialogue: 0,0:22:09.51,0:23:33.43,Ep26 INS,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H000000&\blur20\an9}m -10 -100 l 1930 -100 1930 120 -10 120
-Dialogue: 0,0:22:09.51,0:23:33.43,Ep26 INS,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H000000&\blur20\an9}m -10 960 l 1930 960 1930 1100 -10 1100
+Dialogue: 0,0:22:09.51,0:23:33.43,Ep26 INS,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H000000&\blur20\an9}m -10 960 l 1930 960 1930 1150 -10 1150
 Dialogue: 1,0:22:25.07,0:22:28.61,Ep26 INS,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8}Hito shirezu hakanai
 Dialogue: 1,0:22:25.07,0:22:28.61,Ep26 INS,,0,0,0,,{\fad(200,200)\bord0\c&H0000AC&\blur8}Ever-fleeting visions of what could have been
 Dialogue: 0,0:22:25.07,0:22:28.61,Ep26 INS,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8\1a&H80&}Hito shirezu hakanai
@@ -1967,7 +1964,7 @@ Dialogue: 0,0:08:11.76,0:08:11.80,Sign,,0,0,0,,{=27}{\fscx94.64\fscy94.64\pos(11
 Dialogue: 0,0:08:11.80,0:08:11.84,Sign,,0,0,0,,{=27}{\fscx94.65\fscy94.65\pos(1177.64,330.78)\frz337.05\frx12\fnBrushStrokes Heavy ModByArmonth\fs16\c&H181816&\blur0.8}Waning \NOne
 Dialogue: 0,0:10:02.99,0:10:07.00,Sign,,0,0,0,,{\fscx100.46\fscy100.46\fnBrushStroke 35\fs48\b0\c&H090415&\blur0.8\pos(1540,854)}Demon Slayer
 Dialogue: 0,0:10:07.00,0:10:11.00,Sign,,0,0,0,,{\fscx100.46\fscy100.46\fnBrushStroke 35\fs48\b0\c&H090415&\blur0.8\pos(1540,446)}Demon Slayer
-Dialogue: 0,0:23:35.14,0:23:40.06,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H000000&}m 0 0 l 1920 0 1920 1080 0 1080
+Dialogue: 0,0:23:35.14,0:23:43.48,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H000000&}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 1,0:23:35.14,0:23:39.93,Sign,,0,0,0,,{\fad(0,1000)\pos(960,200)\fnBrushStroke 35\fs280\b0\blur0.95}Demon Slayer
 Dialogue: 1,0:23:35.14,0:23:39.93,Sign,,0,0,0,,{\fad(0,1000)\pos(960,466)\fnMontara Gothic\fs104\blur0.95}Kamado Tanjirou’s
 Dialogue: 1,0:23:35.14,0:23:39.93,Sign,,0,0,0,,{\fad(0,1000)\pos(960,574)\fnMontara Gothic\fs80\blur0.95}Coming-of-Age Arc
