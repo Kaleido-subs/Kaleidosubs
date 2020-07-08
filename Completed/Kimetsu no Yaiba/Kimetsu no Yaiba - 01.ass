@@ -32,7 +32,7 @@ Style: OP1 - ENG,WILD1 Toxia,74,&H00F9F8FB,&H001B2ABA,&H00080619,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Aniplex / Soul (OP) \ TLC: Ringo \ Editing: LightArrowsEXE \ Styling: LightArrowsEXE \ Timing: skiddiks \ TS: Shuuka  \ QC: bthen13 \ Special Thanks: The0x539 (OP KFX Troubleshooting) / Vardë (Server use for encoding) }
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Aniplex / Soul (OP) \ TLC: Ringo \ Editing: LightArrowsEXE \ Styling: LightArrowsEXE \ Timing: skiddiks \ TS: Shuuka  \ QC: bthen13 \ Special Thanks: The0x539 (OP KFX Troubleshooting) / Vardë (Server use for encoding) / Vardë (Server use for encoding) }
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
 Dialogue: 10,0:00:25.33,0:00:26.42,Default,,0,0,0,,{\i1}How?
 Dialogue: 10,0:00:29.88,0:00:32.14,Default,,0,0,0,,{\i1}How did this happen?
@@ -292,7 +292,7 @@ Dialogue: 10,0:16:13.61,0:16:16.95,Default,,0,0,0,,{\i1}Had I gotten here even h
 Dialogue: 10,0:16:16.95,0:16:19.66,Default,,0,0,0,,{\i1}your family might have still been alive right now.
 Dialogue: 10,0:16:20.33,0:16:24.29,Default,,0,0,0,,{\i1}However, you can't turn back time.
 Dialogue: 10,0:16:24.96,0:16:26.13,Default,,0,0,0,,{\i1}Feel the anger.
-Dialogue: 10,0:16:26.63,0:16:32.72,Default,,0,0,0,,{\i1}The pure, unforgiving wrath will \Nbecome your unwavering drive forward!
+Dialogue: 10,0:16:26.63,0:16:32.72,Default,,0,0,0,,{\i1}The pure, unforgiving wrath will \Nbecome the force that drives you forward!
 Dialogue: 10,0:16:33.38,0:16:35.22,Default,,0,0,0,,{\i1}With such fragile resolve,
 Dialogue: 10,0:16:35.64,0:16:38.68,Default,,0,0,0,,{\i1}protecting or curing your sister,
 Dialogue: 10,0:16:38.68,0:16:41.60,Default,,0,0,0,,{\i1}let alone getting revenge will be mere fantasy!
