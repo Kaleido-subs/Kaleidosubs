@@ -616,7 +616,7 @@ Dialogue: 0,0:22:06.68,0:22:06.76,ED1 - ROM,,0,0,0,,{\pos(1636,96.16)\fscx84\fsc
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [     TS    ] ----------------------------------------------
 Dialogue: 0,0:02:16.61,0:02:20.99,Sign,,0,0,0,,{\fad(950,0)\c&HFEFFFD&\fscx60\fscy60\fs122\blur8\fnRSStyle\b0\move(640,200.5,640,200,0,1150)\an8\t(0,1100,\fs120\blur3)\1a&HC8&\bord1}Episode_5 \N\N\N{\fscx90\fscy90}My_Own_Steel
 Dialogue: 1,0:02:16.61,0:02:20.99,Sign,,0,0,0,,{\fad(950,0)\c&HFEFFFD&\fscx60\fscy60\fs122\blur8\fnRSStyle\b0\move(640,200.5,640,200,0,1150)\an8\t(0,1100,\fs120\blur0.9)}Episode_5 \N\N\N{\fscx90\fscy90}My_Own_Steel
-Dialogue: 0,0:13:09.97,0:13:17.98,Title Card Sign,,0,0,0,,{\pos(1539.61,877.22)\fscx100.46\fscy100.46\fs48\c&H090415&\blur0.56}Demon Slayer
+Dialogue: 0,0:13:09.97,0:13:17.98,Sign,,0,0,0,,{\pos(1539.61,877.22)\fscx100.46\fscy100.46\fs48\c&H090415&\blur0.56\4a&H00&\b0\an2\fnBrushStroke 35\3a&H00&}Demon Slayer
 Dialogue: 1,0:17:19.60,0:17:23.56,Sign,,0,0,0,,{\fad(0,807)\pos(959.143,969.429)\fscx403\fscy436\fnChuu2-next\fs20\bord2.1\c&HFFFEFE&\3c&H413A30&\blur1.4\t(3153,3198,\1a&HFF&)}Fifteen Days Later
 Dialogue: 0,0:17:19.60,0:17:23.56,Sign,,0,0,0,,{\fad(0,807)\pos(959.143,969.429)\fscx403\fscy436\fnChuu2-next\fs20\bord1.9\c&HFFFEFE&\3c&H43413C&\blur4.4\t(3153,3198,\1a&HFF&)}Fifteen Days Later
 Dialogue: 2,0:17:19.60,0:17:23.56,Sign,,0,0,0,,{\fad(0,807)\pos(959.143,969.429)\fscx403\fscy436\fnChuu2-next\fs20\blur0.9}Fifteen Days Later
