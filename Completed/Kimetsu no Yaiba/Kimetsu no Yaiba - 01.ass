@@ -55,7 +55,7 @@ Dialogue: 10,0:01:38.11,0:01:39.53,Default,,0,0,0,,Oh no, you won't!
 Dialogue: 10,0:01:39.53,0:01:42.20,Default,,0,0,0,,You know you can't keep up with Tanjirou.
 Dialogue: 10,0:01:42.41,0:01:44.08,Default,,0,0,0,,But Mom!
 Dialogue: 10,0:01:44.08,0:01:45.20,Default,,0,0,0,,No buts.
-Dialogue: 10,0:01:45.54,0:01:51.04,Default,,0,0,0,,He won't be taking the cart today, \Nso you won't be able to ride along if you're tired.
+Dialogue: 10,0:01:45.54,0:01:51.04,Default,,0,0,0,,He won't be taking the cart today, \Nso you won't be able to ride along if you get tired.
 Dialogue: 10,0:01:53.34,0:01:55.01,Default,,0,0,0,,Tanjirou!
 Dialogue: 10,0:01:56.38,0:01:57.88,Default,,0,0,0,,I wanna come with you!
 Dialogue: 10,0:01:58.55,0:02:00.68,Default,,0,0,0,,I promise I'll be helpful!
@@ -139,7 +139,7 @@ Dialogue: 10,0:06:01.92,0:06:05.84,Default,,0,0,0,,Man-eating demons have always
 Dialogue: 10,0:06:08.59,0:06:11.89,Default,,0,0,0,,That's why you shouldn't stroll around at night.
 Dialogue: 10,0:06:12.72,0:06:16.27,Default,,0,0,0,,If you're done eating, sleep. \NYou can set off at sunrise.
 Dialogue: 10,0:06:20.94,0:06:25.03,Default,,0,0,0,,Couldn't these demons enter people's homes?
-Dialogue: 10,0:06:25.94,0:06:28.49,Default,,0,0,0,,Yes, they can. And they do.
+Dialogue: 10,0:06:25.94,0:06:28.49,Default,,0,0,0,,They can. And they do.
 Dialogue: 10,0:06:32.12,0:06:35.58,Default,,0,0,0,,But can't they just eat everyone then?
 Dialogue: 10,0:06:38.54,0:06:42.17,Default,,0,0,0,,That's why the demon hunters hunt them down.
 Dialogue: 10,0:06:42.67,0:06:44.05,Default,,0,0,0,,Have for ages.
@@ -159,7 +159,7 @@ Dialogue: 10,0:07:34.39,0:07:35.35,Default,,0,0,0,,{\i1}it always carries...
 Dialogue: 10,0:07:42.77,0:07:44.11,Default,,0,0,0,,The smell of blood!
 Dialogue: 10,0:08:07.38,0:08:08.63,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:08:09.34,0:08:11.88,Default,,0,0,0,,What happened here? Are you okay?
-Dialogue: 10,0:08:12.43,0:08:14.14,Default,,0,0,0,,Just what happened here?
+Dialogue: 10,0:08:12.43,0:08:14.14,Default,,0,0,0,,What happened?
 Dialogue: 10,0:08:19.97,0:08:21.52,Default,,0,0,0,,Mom...
 Dialogue: 10,0:08:28.52,0:08:30.11,Default,,0,0,0,,Mom...
 Dialogue: 10,0:08:30.11,0:08:31.03,Default,,0,0,0,,Hanako...
@@ -183,7 +183,7 @@ Dialogue: 10,0:09:25.37,0:09:27.17,Default,,0,0,0,,{\i1}I will save you no matte
 Dialogue: 10,0:09:27.83,0:09:30.25,Default,,0,0,0,,{\i1}Your big brother will definitely save you, you hear?
 Dialogue: 10,0:09:38.43,0:09:39.64,Default,,0,0,0,,{\i1}Oh, no!
 Dialogue: 10,0:09:48.19,0:09:51.11,Default,,0,0,0,,{\i1}The snow saved me.
-Dialogue: 10,0:09:51.86,0:09:53.90,Default,,0,0,0,,{\i1}Though it made me slip to begin with.
+Dialogue: 10,0:09:51.86,0:09:53.90,Default,,0,0,0,,{\i1}Though it's the reason I slipped to begin with.
 Dialogue: 10,0:09:55.82,0:09:57.03,Default,,0,0,0,,Nezuko?
 Dialogue: 10,0:10:03.29,0:10:05.58,Default,,0,0,0,,Nezuko, are you all right?
 Dialogue: 10,0:10:06.91,0:10:08.42,Default,,0,0,0,,Don't stand up!
@@ -225,7 +225,7 @@ Dialogue: 10,0:12:33.14,0:12:34.94,Default,,0,0,0,,She's my little sister!
 Dialogue: 10,0:12:37.69,0:12:39.15,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:12:42.82,0:12:44.86,Default,,0,0,0,,You call that thing your little sister?
 Dialogue: 10,0:13:00.80,0:13:01.80,Default,,0,0,0,,Nezuko!
-Dialogue: 10,0:13:01.80,0:13:03.22,Default,,0,0,0,,Don't move!
+Dialogue: 10,0:13:01.80,0:13:03.22,Default,,0,0,0,,Don't move.
 Dialogue: 10,0:13:06.84,0:13:09.81,Default,,0,0,0,,My job is to slay demons.
 Dialogue: 10,0:13:09.81,0:13:13.27,Default,,0,0,0,,As such, I will claim your sister's head.
 Dialogue: 10,0:13:13.48,0:13:14.77,Default,,0,0,0,,Please wait!
@@ -239,7 +239,7 @@ Dialogue: 10,0:13:33.83,0:13:35.91,Default,,0,0,0,,It's simple.
 Dialogue: 10,0:13:35.91,0:13:40.09,Default,,0,0,0,,Her wounds were exposed to demon blood, \Nso she transformed into a demon.
 Dialogue: 10,0:13:40.79,0:13:43.51,Default,,0,0,0,,That's how man-eating demons multiply.
 Dialogue: 10,0:13:44.09,0:13:46.51,Default,,0,0,0,,Nezuko would never eat humans!
-Dialogue: 10,0:13:47.01,0:13:49.01,Default,,0,0,0,,You've gotta be kidding.
+Dialogue: 10,0:13:47.01,0:13:49.01,Default,,0,0,0,,You can't be serious.
 Dialogue: 10,0:13:49.01,0:13:52.06,Default,,0,0,0,,She was about to eat you just now.
 Dialogue: 10,0:13:53.10,0:13:54.39,Default,,0,0,0,,You're wrong!
 Dialogue: 10,0:13:54.39,0:13:57.10,Default,,0,0,0,,I'm sure she still recognises me!
@@ -269,7 +269,7 @@ Dialogue: 10,0:15:04.29,0:15:07.76,Default,,0,0,0,,You're a weakling—a coward 
 Dialogue: 10,0:15:07.76,0:15:11.09,Default,,0,0,0,,And you think {\i1}you{\i0} can cure your sister, \Nlet alone even {\i1}find{\i0} your enemy?
 Dialogue: 10,0:15:11.34,0:15:13.10,Default,,0,0,0,,Don't make me laugh!
 Dialogue: 10,0:15:13.10,0:15:16.64,Default,,0,0,0,,The weak have neither rights nor options!
-Dialogue: 10,0:15:16.64,0:15:20.44,Default,,0,0,0,,It's their fate to be crushed by the strong!
+Dialogue: 10,0:15:16.64,0:15:20.44,Default,,0,0,0,,It is their fate to be crushed by the strong!
 Dialogue: 10,0:15:20.69,0:15:24.61,Default,,0,0,0,,There may be demons out there \Nwho know a way to cure your sister!
 Dialogue: 10,0:15:24.61,0:15:29.78,Default,,0,0,0,,But don't even for a second think \Nthey'll happily go along with your wishes!
 Dialogue: 10,0:15:30.07,0:15:32.82,Default,,0,0,0,,Naturally, I have no reason to care about you either!
@@ -332,7 +332,7 @@ Dialogue: 10,0:19:36.15,0:19:38.61,Default,,0,0,0,,Take good care of Nezuko for 
 Dialogue: 10,0:19:49.96,0:19:51.16,Default,,0,0,0,,You awake?
 Dialogue: 10,0:19:54.38,0:19:59.67,Default,,0,0,0,,Go see an old man named Urokodaki Sakonji \Nwho lives at the foot of Mt. Sagiri.
 Dialogue: 10,0:20:01.01,0:20:03.84,Default,,0,0,0,,Tell him that Tomioka Giyuu sent you.
-Dialogue: 10,0:20:05.18,0:20:08.31,Default,,0,0,0,,Your sister should be fine for now while it's cloudy,
+Dialogue: 10,0:20:05.18,0:20:08.31,Default,,0,0,0,,Your sister should be fine now while it's still cloudy,
 Dialogue: 10,0:20:08.81,0:20:11.44,Default,,0,0,0,,but make sure she's never exposed to the sun.
 Dialogue: 10,0:20:28.87,0:20:30.04,Default,,0,0,0,,Let's go.
 Comment: 0,0:21:09.99,0:21:09.99,Default,,0,0,0,,---------------------------------------------- [     OP    ] ----------------------------------------------
@@ -477,6 +477,6 @@ Dialogue: 1,0:22:33.66,0:22:39.12,OP1 - ROM,,0,0,0,,{\pos(960,40)\4c&H1B2ABA&\al
 Dialogue: 0,0:22:33.37,0:22:39.46,OP1 - ROM,,0,0,0,,{\bord0\c&H1B2ABA&\blur5\alpha&HFF&\t(0,300,\1a&H00&\3a&H00&\4a&H50&)\t(5504,5804,\alpha&HFF&)}u{\alpha&HFF&\t(15,315,\1a&H00&\3a&H00&\4a&H50&)\t(5519,5819,\alpha&HFF&)}n{\alpha&HFF&\t(29,329,\1a&H00&\3a&H00&\4a&H50&)\t(5534,5834,\alpha&HFF&)}m{\alpha&HFF&\t(44,344,\1a&H00&\3a&H00&\4a&H50&)\t(5549,5849,\alpha&HFF&)}e{\alpha&HFF&\t(59,359,\1a&H00&\3a&H00&\4a&H50&)\t(5564,5864,\alpha&HFF&)}i {\alpha&HFF&\t(88,388,\1a&H00&\3a&H00&\4a&H50&)\t(5594,5894,\alpha&HFF&)}w{\alpha&HFF&\t(103,403,\1a&H00&\3a&H00&\4a&H50&)\t(5609,5909,\alpha&HFF&)}o {\alpha&HFF&\t(132,432,\1a&H00&\3a&H00&\4a&H50&)\t(5639,5939,\alpha&HFF&)}t{\alpha&HFF&\t(146,446,\1a&H00&\3a&H00&\4a&H50&)\t(5654,5954,\alpha&HFF&)}e{\alpha&HFF&\t(161,461,\1a&H00&\3a&H00&\4a&H50&)\t(5669,5969,\alpha&HFF&)}r{\alpha&HFF&\t(176,476,\1a&H00&\3a&H00&\4a&H50&)\t(5684,5984,\alpha&HFF&)}a{\alpha&HFF&\t(190,490,\1a&H00&\3a&H00&\4a&H50&)\t(5699,5999,\alpha&HFF&)}s{\alpha&HFF&\t(205,505,\1a&H00&\3a&H00&\4a&H50&)\t(5714,6014,\alpha&HFF&)}h{\alpha&HFF&\t(220,520,\1a&H00&\3a&H00&\4a&H50&)\t(5729,6029,\alpha&HFF&)}i{\alpha&HFF&\t(234,534,\1a&H00&\3a&H00&\4a&H50&)\t(5744,6044,\alpha&HFF&)}t{\alpha&HFF&\t(249,549,\1a&H00&\3a&H00&\4a&H50&)\t(5759,6059,\alpha&HFF&)}e
 Comment: 0,0:22:39.96,0:22:42.96,Default,,0,0,0,,---------------------------------------------- [     ED    ] ----------------------------------------------
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [     TS    ] ----------------------------------------------
-Dialogue: 0,0:21:06.49,0:21:09.99,Sign,,0,0,0,,{\fs120\fscx60\fscy60\c&HFEFFFD&\blur3\1a&HC8&\bord1\fnRSStyle\b0\pos(640,348)\an8}Episode_1 \N\N\N{\fscx90\fscy90}Cruelty
-Dialogue: 1,0:21:06.49,0:21:09.99,Sign,,0,0,0,,{\fs120\c&HFEFFFD&\fscx60\fscy60\blur0.9\fnRSStyle\b0\pos(640,348)\an8}Episode_1 \N\N\N{\fscx90\fscy90}Cruelty
+Dialogue: 0,0:21:06.49,0:21:09.99,Sign,,0,0,0,,{\fs120\fscx60\fscy60\c&HFEFFFD&\blur3\1a&HC8&\bord1\fnRSStyle\b0\pos(640,348)\an8\fsp-12}E{\fsp0}pisode_1 \N\N\N{\fscx90\fscy90\fsp-12}C{\fsp0}ruelty
+Dialogue: 1,0:21:06.49,0:21:09.99,Sign,,0,0,0,,{\fs120\c&HFEFFFD&\fscx60\fscy60\blur0.9\fnRSStyle\b0\pos(640,348)\an8\fsp-12}E{\fsp0}pisode_1 \N\N\N{\fscx90\fscy90\fsp-12}C{\fsp0}ruelty
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [    FIN   ] ----------------------------------------------
