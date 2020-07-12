@@ -43,8 +43,8 @@ Dialogue: 10,0:02:11.52,0:02:13.02,Default,,0,0,0,,Tanjirou.
 Dialogue: 10,0:02:13.48,0:02:16.99,Default,,0,0,0,,Now that you've officially become a Demon Slayer,
 Dialogue: 10,0:02:16.99,0:02:19.45,Default,,0,0,0,,I'd like to explain a few things to you.
 Dialogue: 10,0:02:20.16,0:02:21.24,Default,,0,0,0,,All right.
-Dialogue: 10,0:02:21.70,0:02:28.83,Default,,0,0,0,,That uniform you're wearing right now \Nis made of a special kind of fiber.
-Dialogue: 10,0:02:28.83,0:02:32.59,Default,,0,0,0,,The fabric is quite breathable, \Nyet repels moisture and won't burn easily.
+Dialogue: 10,0:02:21.70,0:02:28.83,Default,,0,0,0,,That uniform you're wearing right now \Nis made of a special kind of fibre.
+Dialogue: 10,0:02:28.83,0:02:32.59,Default,,0,0,0,,The fabric is quite breathable, \Nbut repels moisture and won't burn easily.
 Dialogue: 10,0:02:32.59,0:02:37.51,Default,,0,0,0,,Even the claws and fangs of lesser demons \Ncannot rend that uniform.
 Dialogue: 10,0:02:38.63,0:02:39.88,Default,,0,0,0,,It's that strong?
 Dialogue: 10,0:02:40.43,0:02:41.89,Default,,0,0,0,,Also,
@@ -106,7 +106,7 @@ Dialogue: 10,0:08:08.92,0:08:10.46,Default,,0,0,0,,That's enough! Please stop!
 Dialogue: 10,0:09:00.43,0:09:02.27,Default,,0,0,0,,Please, believe me.
 Dialogue: 10,0:09:04.27,0:09:06.10,Default,,0,0,0,,She really {\i1}did{\i0} disappear.
 Dialogue: 10,0:09:07.06,0:09:08.44,Default,,0,0,0,,I believe you.
-Dialogue: 10,0:09:08.94,0:09:11.65,Default,,0,0,0,,That's why I came here, after all.
+Dialogue: 10,0:09:08.94,0:09:11.65,Default,,0,0,0,,That's why I came here.
 Dialogue: 10,0:09:18.07,0:09:19.78,Default,,0,0,0,,You're gonna keep going?
 Dialogue: 10,0:09:20.45,0:09:21.16,Default,,0,0,0,,Yes.
 Dialogue: 10,0:09:21.91,0:09:24.29,Default,,0,0,0,,It's gotten pretty late.
@@ -114,7 +114,7 @@ Dialogue: 10,0:09:24.29,0:09:27.58,Default,,0,0,0,,I'm flattered that you're so 
 Dialogue: 10,0:09:27.58,0:09:30.96,Default,,0,0,0,,but shouldn't you go get some rest \Nand pick this up again tomorrow?
 Dialogue: 10,0:09:33.30,0:09:35.34,Default,,0,0,0,,They're active during the night.
 Dialogue: 10,0:09:36.05,0:09:38.59,Default,,0,0,0,,I can't afford to rest up now.
-Dialogue: 10,0:09:39.68,0:09:42.43,Default,,0,0,0,,I've caught a new scent in this area.
+Dialogue: 10,0:09:39.68,0:09:42.43,Default,,0,0,0,,I've caught a fresh scent in this area.
 Dialogue: 10,0:09:43.39,0:09:45.77,Default,,0,0,0,,It's gotta be somewhere nearby.
 Dialogue: 10,0:09:46.64,0:09:47.98,Default,,0,0,0,,They?
 Dialogue: 10,0:09:48.73,0:09:50.36,Default,,0,0,0,,Don't tell me you're...
@@ -125,10 +125,10 @@ Dialogue: 10,0:10:05.37,0:10:07.29,Default,,0,0,0,,Yes, Mother.
 Dialogue: 10,0:10:07.29,0:10:09.21,Default,,0,0,0,,Well then, good night.
 Dialogue: 10,0:11:21.45,0:11:24.45,Default,,0,0,0,,I wonder what became of the girls that disappeared.
 Dialogue: 10,0:11:25.95,0:11:27.54,Default,,0,0,0,,I just hope they're all right.
-Dialogue: 10,0:12:07.20,0:12:08.70,Default,,0,0,0,,What's gotten into you all of a sudden?
+Dialogue: 10,0:12:07.20,0:12:08.70,Default,,0,0,0,,What's gotten into you suddenly?
 Dialogue: 10,0:12:10.12,0:12:11.25,Default,,0,0,0,,{\i1}He's fast!
 Dialogue: 10,0:12:12.21,0:12:14.21,Default,,0,0,0,,The scent just got stronger!
-Dialogue: 10,0:12:14.21,0:12:15.54,Default,,0,0,0,,The demon's currently active!
+Dialogue: 10,0:12:14.21,0:12:15.54,Default,,0,0,0,,The demon's active!
 Dialogue: 10,0:12:20.42,0:12:21.97,Default,,0,0,0,,{\i1}He jumped?
 Dialogue: 10,0:12:21.97,0:12:23.26,Default,,0,0,0,,{\i1}He just mentioned demons...
 Dialogue: 10,0:12:23.97,0:12:25.26,Default,,0,0,0,,{\i1}So does that mean that...
