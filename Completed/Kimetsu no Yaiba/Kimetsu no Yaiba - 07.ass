@@ -15,6 +15,7 @@ Original Timing: torn
 ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
+Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default (1080p)
 Audio File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba Vol.1-3 (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba - 07 (BD 1080p) [501BA899].mkv
 Video File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba Vol.1-3 (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba - 07 (BD 1080p) [501BA899].mkv
@@ -37,96 +38,98 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ TL: Aniplex / Soul (OP) / Rin
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [ INTRO ] ----------------------------------------------
 Comment: 0,0:02:15.99,0:02:15.99,Default,,0,0,0,,---------------------------------------------- [ PART A ] ----------------------------------------------
 Dialogue: 10,0:02:44.43,0:02:45.52,Default,,0,0,0,,Nezuko!
-Dialogue: 10,0:02:46.93,0:02:48.14,Default,,0,0,0,,Don't chase after him!
+Dialogue: 10,0:02:46.93,0:02:48.14,Default,,0,0,0,,Don't chase him!
 Dialogue: 10,0:02:48.14,0:02:49.56,Default,,0,0,0,,Get back here!
-Dialogue: 10,0:02:50.81,0:02:52.06,Default,,0,0,0,,Come back to me.
+Dialogue: 10,0:02:50.81,0:02:52.06,Default,,0,0,0,,Come back.
 Dialogue: 10,0:02:57.86,0:02:58.78,Default,,0,0,0,,Nezuko!
-Dialogue: 10,0:03:08.29,0:03:19.59,Default,,0,0,0,,{\i1}Master Urokodaki did tell me that I don't really need to \Nprotect Nezuko anymore since she's a demon now.
-Dialogue: 10,0:03:21.38,0:03:23.93,Default,,0,0,0,,{\i1}Is it okay to let her handle this?
-Dialogue: 10,0:03:25.01,0:03:28.60,Default,,0,0,0,,{\i1}If I have her watch over those two, \NI can focus on staying on the offensive.
+Dialogue: 10,0:03:08.29,0:03:12.00,Default,,0,0,0,,{\i1}Master Urokodaki {\i0}did{\i1} tell me
+Dialogue: 10,0:03:12.00,0:03:15.63,Default,,0,0,0,,{\i1}that I don't need to protect Nezuko anymore,
+Dialogue: 10,0:03:15.63,0:03:19.59,Default,,0,0,0,,{\i1}since she's a demon now.
+Dialogue: 10,0:03:21.38,0:03:23.93,Default,,0,0,0,,{\i1}Can I let her handle this?
+Dialogue: 10,0:03:25.01,0:03:28.60,Default,,0,0,0,,{\i1}If she watches over these two, \NI can focus on the offensive.
 Dialogue: 10,0:03:42.99,0:03:43.95,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:03:50.29,0:03:51.54,Default,,0,0,0,,Nezuko!
-Dialogue: 10,0:03:51.54,0:03:52.96,Default,,0,0,0,,I'm going in!
+Dialogue: 10,0:03:51.54,0:03:52.96,Default,,0,0,0,,I'm diving in!
 Dialogue: 10,0:03:53.67,0:03:55.29,Default,,0,0,0,,Please protect those two!
 Dialogue: 10,0:03:59.01,0:04:00.34,Default,,0,0,0,,You can do it, right?
-Dialogue: 10,0:04:29.95,0:04:31.41,Default,,0,0,0,,{\i1}The inside of a swamp...
+Dialogue: 10,0:04:29.95,0:04:31.41,Default,,0,0,0,,{\i1}This is the inside of a swamp.
 Dialogue: 10,0:04:33.54,0:04:34.71,Default,,0,0,0,,{\i1}And these are...
 Dialogue: 10,0:04:41.67,0:04:45.22,Default,,0,0,0,,{\i1}Are these the belongings of \Nthe people who were kidnapped?
-Dialogue: 10,0:04:47.89,0:04:51.56,Default,,0,0,0,,{\i1}Just look at all the innocent people they've devoured!
+Dialogue: 10,0:04:47.89,0:04:51.56,Default,,0,0,0,,{\i1}Just look at how many innocent people \Nthey've killed and eaten!
 Dialogue: 10,0:04:52.06,0:04:53.39,Default,,0,0,0,,{\i1}It's unforgivable!
 Dialogue: 10,0:04:55.73,0:04:57.02,Default,,0,0,0,,{\i1}Unforgivable!
 Dialogue: 10,0:05:01.73,0:05:03.69,Default,,0,0,0,,Getting hard to breathe, brat?
 Dialogue: 10,0:05:03.69,0:05:06.86,Default,,0,0,0,,There's hardly any air inside this swamp.
-Dialogue: 10,0:05:06.86,0:05:12.08,Default,,0,0,0,,On top of that, the darkness coiling around \Nyour body must feel pretty heavy.
+Dialogue: 10,0:05:06.86,0:05:12.08,Default,,0,0,0,,On top of that, the darkness coiling around \Nyour body must be feeling pretty heavy.
 Dialogue: 10,0:05:13.70,0:05:17.54,Default,,0,0,0,,You can't move about freely like you would \Nabove ground! Serves you right!
 Dialogue: 10,0:05:17.54,0:05:21.46,Default,,0,0,0,,You should've looked before \Nyou leaped in, you damn fool!
 Dialogue: 10,0:05:34.27,0:05:35.60,Default,,0,0,0,,{\i1}Don't underestimate me!
-Dialogue: 10,0:05:35.94,0:05:39.27,Default,,0,0,0,,{\i1}Just where do you think I got my training anyway?
-Dialogue: 10,0:05:40.44,0:05:44.07,Default,,0,0,0,,{\i1}The air was thinner on top of Mt. Sagiri!
+Dialogue: 10,0:05:35.94,0:05:39.27,Default,,0,0,0,,{\i1}Where do you think I got my training, anyway?
+Dialogue: 10,0:05:40.44,0:05:44.07,Default,,0,0,0,,{\i1}This doesn't even compare to \Nhow thin the air on top of Mt. Sagiri was!
 Dialogue: 10,0:05:51.74,0:05:52.95,Default,,0,0,0,,{\i1}Not to mention
 Dialogue: 10,0:05:54.54,0:05:58.04,Default,,0,0,0,,{\i1}some techniques only reach \Ntheir full potential underwater!
 Dialogue: 10,0:06:09.30,0:06:12.81,Default,,0,0,0,,{\i1}They can move around like that in here?
 Dialogue: 10,0:06:13.64,0:06:14.85,Default,,0,0,0,,{\i1}But it doesn't matter!
-Dialogue: 10,0:06:15.43,0:06:18.48,Default,,0,0,0,,{\i1}All I have to do is slash them \Nwhen they get close enough to attack!
-Dialogue: 10,0:06:19.10,0:06:22.44,Default,,0,0,0,,{\i1}There's a form that can be utilized \Neven without stable footing.
-Dialogue: 10,0:06:23.77,0:06:29.28,Default,,0,0,0,,{\i1}It's a forceful twist of the upper and lower body \Nthat creates a powerful vortex.
+Dialogue: 10,0:06:15.43,0:06:18.48,Default,,0,0,0,,{\i1}I've just gotta attack them when they close in!
+Dialogue: 10,0:06:19.10,0:06:22.44,Default,,0,0,0,,{\i1}There's a form that can be utilised \Neven without stable footing.
+Dialogue: 10,0:06:23.77,0:06:29.28,Default,,0,0,0,,{\i1}A forceful twist of the upper and lower body \Nthat creates a powerful vortex.
 Dialogue: 10,0:06:39.75,0:06:41.21,Default,,0,0,0,,{\i1}I can smell it!
 Dialogue: 10,0:06:41.21,0:06:42.29,Default,,0,0,0,,{\i1}The opening thread!
 Dialogue: 10,0:06:42.84,0:06:44.13,Default,,0,0,0,,{\i1}Total Concentration!
 Dialogue: 10,0:06:44.96,0:06:46.30,Default,,0,0,0,,{\i1}Water Breathing!
 Dialogue: 10,0:06:47.05,0:06:48.22,Default,,0,0,0,,{\i1}Sixth Form!
-Dialogue: 10,0:06:50.09,0:06:51.64,Default,,0,0,0,,{\i1}Maelstrom!
+Dialogue: 10,0:06:50.09,0:06:51.64,Default,,0,0,0,,{\i1}Maelström!
 Dialogue: 10,0:07:24.04,0:07:25.71,Default,,0,0,0,,{\i1}I can't breathe!
 Dialogue: 10,0:07:25.71,0:07:27.34,Default,,0,0,0,,{\i1}I've gotta get out of here, fast!
 Dialogue: 10,0:07:29.34,0:07:30.59,Default,,0,0,0,,{\i1}Nezuko!
 Dialogue: 10,0:07:57.79,0:07:59.79,Default,,0,0,0,,{\i1}This girl is strong!
 Dialogue: 10,0:08:04.25,0:08:06.71,Default,,0,0,0,,{\i1}It looks like she doesn't know how to morph yet,
 Dialogue: 10,0:08:06.71,0:08:08.84,Default,,0,0,0,,{\i1}but look at how strong she is anyway!
-Dialogue: 10,0:08:09.34,0:08:13.51,Default,,0,0,0,,{\i1}He must've given her a huge amount of blood!
+Dialogue: 10,0:08:09.34,0:08:13.51,Default,,0,0,0,,{\i1}He must’ve given her an outrageous amount of blood!
 Dialogue: 10,0:08:20.18,0:08:23.35,Default,,0,0,0,,{\i1}She moves so fast! \NI can't dive back into the swamp!
 Dialogue: 10,0:08:23.98,0:08:25.23,Default,,0,0,0,,{\i1}But...
 Dialogue: 10,0:08:25.23,0:08:28.94,Default,,0,0,0,,{\i1}I'm starting to get used to her simple attacks!
 Dialogue: 10,0:08:33.53,0:08:36.41,Default,,0,0,0,,{\i1}Even if she kicks my head off...
 Dialogue: 10,0:08:36.41,0:08:39.08,Default,,0,0,0,,{\i1}Even if she ruptures my internal organs,
-Dialogue: 10,0:08:39.08,0:08:42.04,Default,,0,0,0,,{\i1}demons can regenerate in a flash!
+Dialogue: 10,0:08:39.08,0:08:42.04,Default,,0,0,0,,{\i1}demons regenerate in a flash!
 Dialogue: 10,0:08:51.38,0:08:52.38,Default,,0,0,0,,{\i1}All right!
-Dialogue: 10,0:08:52.63,0:08:56.39,Default,,0,0,0,,{\i1}Now I'm gonna drill a hole straight through her face!
+Dialogue: 10,0:08:52.63,0:08:56.39,Default,,0,0,0,,{\i1}Now I'm gonna drill a hole straight through your face!
 Dialogue: 10,0:09:02.93,0:09:04.98,Default,,0,0,0,,Hands off my sister!
-Dialogue: 10,0:09:20.37,0:09:21.33,Default,,0,0,0,,{\i1}Is this really the end?
+Dialogue: 10,0:09:20.37,0:09:21.33,Default,,0,0,0,,{\i1}Is this really it?
 Dialogue: 10,0:09:21.87,0:09:24.96,Default,,0,0,0,,{\i1}He already took out my other selves!
 Dialogue: 10,0:09:29.34,0:09:33.34,Default,,0,0,0,,You smell like rancid oil.
-Dialogue: 10,0:09:34.09,0:09:35.72,Default,,0,0,0,,It's a terrible stench!
-Dialogue: 10,0:09:36.30,0:09:39.01,Default,,0,0,0,,How many people did you kill?
-Dialogue: 10,0:09:39.01,0:09:41.18,Default,,0,0,0,,Listen here!
+Dialogue: 10,0:09:34.09,0:09:35.72,Default,,0,0,0,,What a terrible stench!
+Dialogue: 10,0:09:36.30,0:09:39.01,Default,,0,0,0,,Just how many people have you guys killed?!
+Dialogue: 10,0:09:39.01,0:09:41.18,Default,,0,0,0,,Now listen here!
 Dialogue: 10,0:09:41.18,0:09:45.68,Default,,0,0,0,,If you let girls age past their prime, \Nthey'll start to look {\i1}and{\i0} taste like shit!{\Nthey turn ugly and start tasting like shit!}
-Dialogue: 10,0:09:45.68,0:09:47.81,Default,,0,0,0,,We killed them for their own good!
+Dialogue: 10,0:09:45.68,0:09:47.81,Default,,0,0,0,,We ate them for their own good!
 Dialogue: 10,0:09:50.15,0:09:52.36,Default,,0,0,0,,You should be thanking u—
 Dialogue: 10,0:09:58.45,0:09:59.82,Default,,0,0,0,,Never mind.
-Dialogue: 10,0:10:06.79,0:10:10.67,Default,,0,0,0,,You're going to tell me everything \Nyou know about Kibutsuji Muzan.
-Dialogue: 10,0:10:27.43,0:10:28.69,Default,,0,0,0,,Say something!
-Dialogue: 10,0:10:30.73,0:10:32.02,Default,,0,0,0,,Start talking!
+Dialogue: 10,0:10:06.79,0:10:10.67,Default,,0,0,0,,Tell me everything you know about Kibutsuji Muzan.
+Dialogue: 10,0:10:27.43,0:10:28.69,Default,,0,0,0,,Start talking!
+Dialogue: 10,0:10:30.73,0:10:32.02,Default,,0,0,0,,Now!
 Dialogue: 10,0:10:32.77,0:10:35.23,Default,,0,0,0,,I-I can't tell you.
 Dialogue: 10,0:10:40.74,0:10:42.20,Default,,0,0,0,,I can't tell you!
 Comment: 0,0:10:49.04,0:10:49.04,Default,,0,0,0,,---------------------------------------------- [ PART B ] ----------------------------------------------
 Dialogue: 10,0:10:55.17,0:10:56.46,Default,,0,0,0,,I can't tell you!
 Dialogue: 10,0:11:01.18,0:11:02.68,Default,,0,0,0,,I can't tell you!
-Dialogue: 10,0:11:04.60,0:11:06.47,Default,,0,0,0,,Don't say a word.
+Dialogue: 10,0:11:04.60,0:11:06.47,Default,,0,0,0,,Don't utter a single word.
 Dialogue: 10,0:11:08.77,0:11:12.06,Default,,0,0,0,,You mustn't tell anyone about me.
-Dialogue: 10,0:11:15.65,0:11:18.15,Default,,0,0,0,,If you do, I'll know immediately.
+Dialogue: 10,0:11:15.65,0:11:18.15,Default,,0,0,0,,If you do, I will know immediately.
 Dialogue: 10,0:11:18.15,0:11:20.99,Default,,0,0,0,,I'm always watching you.
 Dialogue: 10,0:11:23.91,0:11:25.16,Default,,0,0,0,,I can't tell you!
 Dialogue: 10,0:11:25.99,0:11:26.58,Default,,0,0,0,,I can't tell you!
 Dialogue: 10,0:11:27.95,0:11:30.66,Default,,0,0,0,,I can't tell you! I can't tell you! I can't tell you!
-Dialogue: 10,0:11:30.66,0:11:34.71,Default,,0,0,0,,{\i1}The smell of fear is strong, he's absolutely terrified.
-Dialogue: 10,0:11:36.84,0:11:39.26,Default,,0,0,0,,I can't tell you, all right?
-Dialogue: 10,0:11:56.52,0:11:59.57,Default,,0,0,0,,{\i1}I couldn't get any answers once again.
+Dialogue: 10,0:11:30.66,0:11:34.71,Default,,0,0,0,,{\i1}The smell of fear is strong. \NHe's absolutely terrified.
+Dialogue: 10,0:11:36.84,0:11:39.26,Default,,0,0,0,,I can't tell you!
+Dialogue: 10,0:11:56.52,0:11:59.57,Default,,0,0,0,,{\i1}I couldn't get any answers again this time.
 Dialogue: 10,0:12:06.99,0:12:08.20,Default,,0,0,0,,Nezuko!
-Dialogue: 10,0:12:14.83,0:12:15.96,Default,,0,0,0,,She's asleep.
+Dialogue: 10,0:12:14.83,0:12:15.96,Default,,0,0,0,,She's sound asleep.
 Dialogue: 10,0:12:16.71,0:12:18.59,Default,,0,0,0,,The bleeding's stopped, too.
 Dialogue: 10,0:12:18.59,0:12:20.76,Default,,0,0,0,,She's trying to recover, huh?
-Dialogue: 10,0:12:27.14,0:12:29.47,Default,,0,0,0,,Sorry. I'm so sorry.
+Dialogue: 10,0:12:27.14,0:12:29.47,Default,,0,0,0,,I'm sorry. I'm so sorry.
 Dialogue: 10,0:12:29.47,0:12:31.39,Default,,0,0,0,,Wait just a little longer, okay?
-Dialogue: 10,0:12:31.39,0:12:35.23,Default,,0,0,0,,I promise I'll turn you back into a human again!
+Dialogue: 10,0:12:31.39,0:12:35.23,Default,,0,0,0,,I promise your big brother will \Nturn you back into a human again!
 Dialogue: 10,0:12:59.84,0:13:01.09,Default,,0,0,0,,Kazumi?
 Dialogue: 10,0:13:02.30,0:13:03.72,Default,,0,0,0,,Are you all right?
 Dialogue: 10,0:13:06.64,0:13:08.93,Default,,0,0,0,,My fiancée is dead.
@@ -135,83 +138,82 @@ Dialogue: 10,0:13:17.35,0:13:18.69,Default,,0,0,0,,Kazumi...
 Dialogue: 10,0:13:20.86,0:13:24.11,Default,,0,0,0,,No matter how many people \Nyou hold dear pass away,
 Dialogue: 10,0:13:24.11,0:13:26.24,Default,,0,0,0,,you have no choice but to move on.
 Dialogue: 10,0:13:27.45,0:13:29.58,Default,,0,0,0,,No matter how devastating the blows may be.
-Dialogue: 10,0:13:32.41,0:13:34.29,Default,,0,0,0,,What the hell do you know?
+Dialogue: 10,0:13:32.41,0:13:34.29,Default,,0,0,0,,What the hell do {\i1}you{\i0} know?
 Dialogue: 10,0:13:34.29,0:13:36.00,Default,,0,0,0,,You're just a kid!
 Dialogue: 10,0:13:55.85,0:13:57.52,Default,,0,0,0,,I'll be on my way now.
 Dialogue: 10,0:14:00.81,0:14:02.02,Default,,0,0,0,,Take this.
-Dialogue: 10,0:14:04.57,0:14:08.78,Default,,0,0,0,,I hope you'll find an accessory \Nthat belonged to Satoko among these.
-Dialogue: 10,0:14:31.18,0:14:33.14,Default,,0,0,0,,{\i1}You went through something like this, too?
+Dialogue: 10,0:14:04.57,0:14:08.78,Default,,0,0,0,,I hope you'll find one of Satoko's accessories \Namong these to hold on to as a memento.
+Dialogue: 10,0:14:31.18,0:14:33.14,Default,,0,0,0,,{\i1}Did you go through something like this, too?
 Dialogue: 10,0:14:33.81,0:14:35.31,Default,,0,0,0,,{\i1}Is that why?
 Dialogue: 10,0:14:39.81,0:14:40.56,Default,,0,0,0,,I...
 Dialogue: 10,0:14:40.98,0:14:42.48,Default,,0,0,0,,I'm sorry!
 Dialogue: 10,0:14:42.48,0:14:44.23,Default,,0,0,0,,That was an awful thing to say!
-Dialogue: 10,0:14:44.23,0:14:46.07,Default,,0,0,0,,Please forgive me!
+Dialogue: 10,0:14:44.23,0:14:46.07,Default,,0,0,0,,Please, forgive me!
 Dialogue: 10,0:14:47.07,0:14:48.57,Default,,0,0,0,,I'm so sorry!
-Dialogue: 10,0:14:54.87,0:14:56.83,Default,,0,0,0,,{\i1}Seeing his hand was heart-wrenching.
-Dialogue: 10,0:14:56.83,0:14:59.08,Default,,0,0,0,,{\i1}Hardened by relentless training \Nand covered in calluses.
+Dialogue: 10,0:14:54.87,0:14:59.08,Default,,0,0,0,,{\i1}Seeing his hand, hardened by relentless training \Nand covered in calluses, was heart-wrenching.
 Dialogue: 10,0:15:00.79,0:15:02.84,Default,,0,0,0,,{\i1}Those weren't the hands of a boy.
 Dialogue: 10,0:15:04.80,0:15:08.09,Default,,0,0,0,,I'm leaving that girl in your hands!
 Dialogue: 10,0:15:10.55,0:15:11.59,Default,,0,0,0,,Got it!
-Dialogue: 10,0:15:13.39,0:15:14.43,Default,,0,0,0,,Got it.
+Dialogue: 10,0:15:13.39,0:15:14.43,Default,,0,0,0,,Got it...
 Dialogue: 10,0:15:30.45,0:15:31.86,Default,,0,0,0,,{\i1}It's not just me.
-Dialogue: 10,0:15:33.24,0:15:37.87,Default,,0,0,0,,{\i1}How many people have you killed, \Ntortured and tormented?
-Dialogue: 10,0:15:39.50,0:15:41.25,Default,,0,0,0,,{\i1}Kibutsuji Muzan...
-Dialogue: 10,0:15:41.83,0:15:45.38,Default,,0,0,0,,{\i1}So long as I live, I will never forgive you!
+Dialogue: 10,0:15:33.24,0:15:37.87,Default,,0,0,0,,{\i1}How many people have you killed, \Ntortured, and tormented?
+Dialogue: 10,0:15:39.50,0:15:41.25,Default,,0,0,0,,{\i1}Kibutsuji Muzan,
+Dialogue: 10,0:15:41.83,0:15:45.38,Default,,0,0,0,,{\i1}I won't ever forgive you for as long as I live!
 Dialogue: 10,0:15:54.39,0:15:57.76,Default,,0,0,0,,Next on the list: Asakusa, Tokyo!
-Dialogue: 10,0:15:57.76,0:16:00.77,Default,,0,0,0,,There's rumors of a demon lurking there!
+Dialogue: 10,0:15:57.76,0:16:00.77,Default,,0,0,0,,Rumours speak of a demon lurking there!
 Dialogue: 10,0:16:03.06,0:16:04.81,Default,,0,0,0,,I'm heading to my next mission already?
 Dialogue: 10,0:16:04.81,0:16:06.94,Default,,0,0,0,,Oh yes, you are!
-Dialogue: 10,0:16:07.27,0:16:09.23,Default,,0,0,0,,Give me a minute.
-Dialogue: 10,0:16:09.23,0:16:10.82,Default,,0,0,0,,No can do!
+Dialogue: 10,0:16:07.27,0:16:09.23,Default,,0,0,0,,Give me a second to breathe...
+Dialogue: 10,0:16:09.23,0:16:10.82,Default,,0,0,0,,Second given!
 Dialogue: 10,0:16:10.82,0:16:15.32,Default,,0,0,0,,Come on, just one minute! Hold on! What?
 Dialogue: 10,0:16:12.20,0:16:15.32,Alt,,0,0,0,,Just shut up and go already!
 Dialogue: 10,0:16:36.43,0:16:41.81,Default,,0,0,0,,{\i1}Are cities {\i0}this{\i1} advanced nowadays? \NIt's night, but it's so bright out!
 Dialogue: 10,0:16:50.32,0:16:52.32,Default,,0,0,0,,{\i1}The buildings are so tall!
-Dialogue: 10,0:16:52.32,0:16:53.70,Default,,0,0,0,,{\i1}What the?!
+Dialogue: 10,0:16:52.32,0:16:53.70,Default,,0,0,0,,{\i1}What the—?!
 Dialogue: 10,0:16:54.74,0:16:57.99,Default,,0,0,0,,{\i1}The city...
 Dialogue: 10,0:17:08.29,0:17:10.09,Default,,0,0,0,,I'm getting dizzy...
-Dialogue: 10,0:17:12.71,0:17:14.93,Default,,0,0,0,,Let's go that way, Nezuko!
+Dialogue: 10,0:17:12.71,0:17:14.93,Default,,0,0,0,,Let's go this way, Nezuko!
 Dialogue: 10,0:17:17.51,0:17:19.97,Default,,0,0,0,,I-I beg your pardon!
 Dialogue: 10,0:17:39.62,0:17:40.99,Default,,0,0,0,,Excuse me.
-Dialogue: 10,0:17:42.29,0:17:45.04,Default,,0,0,0,,A bowl of Yamakake udon please.
+Dialogue: 10,0:17:42.29,0:17:45.04,Default,,0,0,0,,A bowl of Yamakake udon, please.
 Dialogue: 10,0:17:45.04,0:17:46.58,Default,,0,0,0,,S-Sure thing!
 Dialogue: 10,0:17:53.92,0:17:56.84,Default,,0,0,0,,I've never been to a place like this.
 Dialogue: 10,0:17:56.84,0:17:58.72,Default,,0,0,0,,It's way too crowded.
-Dialogue: 10,0:18:06.73,0:18:10.19,Default,,0,0,0,,Here's your Yamakake udon.
-Dialogue: 10,0:18:10.19,0:18:12.11,Default,,0,0,0,,Thank you very much.
+Dialogue: 10,0:18:06.73,0:18:10.19,Default,,0,0,0,,One bowl of Yamakake udon.
+Dialogue: 10,0:18:10.19,0:18:12.11,Default,,0,0,0,,Thank you kindly.
 Dialogue: 10,0:18:47.81,0:18:48.89,Default,,0,0,0,,{\i1}That scent!
 Dialogue: 10,0:18:49.56,0:18:51.65,Default,,0,0,0,,{\i1}Why would I catch it here all of a sudden?
 Dialogue: 10,0:18:59.57,0:19:01.41,Default,,0,0,0,,{\i1}It's the same scent that lingered at my house!
 Dialogue: 10,0:19:05.79,0:19:07.41,Default,,0,0,0,,{\i1}Kibutsuji Muzan!
 Dialogue: 10,0:19:11.00,0:19:13.84,Default,,0,0,0,,{\i1}Is that his scent?
-Dialogue: 10,0:19:28.52,0:19:29.98,Default,,0,0,0,,{\i1}It's this guy!
-Dialogue: 10,0:19:31.52,0:19:32.44,Default,,0,0,0,,Daddy?
+Dialogue: 10,0:19:28.52,0:19:29.98,Default,,0,0,0,,{\i1}It's him!
+Dialogue: 10,0:19:31.52,0:19:32.44,Default,,0,0,0,,Daddy!
 Dialogue: 10,0:19:37.53,0:19:38.57,Default,,0,0,0,,Who's that?
 Dialogue: 10,0:19:40.99,0:19:42.36,Default,,0,0,0,,{\i1}He's...
 Dialogue: 10,0:19:41.61,0:19:42.74,Default,,0,0,0,,{\an8}It's all right.
 Dialogue: 10,0:19:42.74,0:19:43.32,Default,,0,0,0,,{\i1}He's...
 Dialogue: 10,0:19:43.32,0:19:44.53,Default,,0,0,0,,{\an8}Don't worry.
 Dialogue: 10,0:19:43.95,0:19:44.95,Default,,0,0,0,,{\i1}He's...
-Dialogue: 10,0:19:46.16,0:19:48.95,Default,,0,0,0,,{\i1}He's pretending to be a human!
+Dialogue: 10,0:19:46.16,0:19:48.95,Default,,0,0,0,,{\i1}He's pretending to be human!
 Dialogue: 10,0:19:51.21,0:19:54.00,Default,,0,0,0,,Is there something I can do for you?
 Dialogue: 10,0:19:54.00,0:19:57.13,Default,,0,0,0,,You appear to be quite flustered.
-Dialogue: 10,0:19:57.71,0:19:59.59,Default,,0,0,0,,Oh my. What's going on?
-Dialogue: 10,0:20:00.09,0:20:01.43,Default,,0,0,0,,Mother!
+Dialogue: 10,0:19:57.71,0:19:59.59,Default,,0,0,0,,Oh, my. What’s going on here?
+Dialogue: 10,0:20:00.09,0:20:01.43,Default,,0,0,0,,Mommy!
 Dialogue: 10,0:20:10.85,0:20:12.14,Default,,0,0,0,,{\i1}They're human!
-Dialogue: 10,0:20:13.56,0:20:15.23,Default,,0,0,0,,{\i1}The little girl and the woman...
-Dialogue: 10,0:20:15.23,0:20:16.65,Default,,0,0,0,,{\i1}They smell like humans!
+Dialogue: 10,0:20:13.56,0:20:15.23,Default,,0,0,0,,{\i1}The baby girl and the woman...
+Dialogue: 10,0:20:15.23,0:20:16.65,Default,,0,0,0,,{\i1}They smell human!
 Dialogue: 10,0:20:18.90,0:20:20.36,Default,,0,0,0,,{\i1}Don't you know?
 Dialogue: 10,0:20:21.11,0:20:22.53,Default,,0,0,0,,{\i1}Can't you tell?
 Dialogue: 10,0:20:23.66,0:20:25.32,Default,,0,0,0,,{\i1}That he's a demon?
-Dialogue: 10,0:20:26.32,0:20:28.12,Default,,0,0,0,,{\i1}That he devours humans?
-Dialogue: 10,0:20:29.95,0:20:31.25,Default,,0,0,0,,Do you know him?
-Dialogue: 10,0:20:31.87,0:20:33.25,Default,,0,0,0,,I do not.
+Dialogue: 10,0:20:26.32,0:20:28.12,Default,,0,0,0,,{\i1}That he eats people?
+Dialogue: 10,0:20:29.95,0:20:31.25,Default,,0,0,0,,An acquaintance of yours?
+Dialogue: 10,0:20:31.87,0:20:33.25,Default,,0,0,0,,No, I do not know him.
 Dialogue: 10,0:20:33.83,0:20:36.50,Default,,0,0,0,,Much to my consternation,
-Dialogue: 10,0:20:37.34,0:20:39.75,Default,,0,0,0,,I've never met this child before.
-Dialogue: 10,0:20:42.67,0:20:46.60,Default,,0,0,0,,He must have mistaken me for someone else.
-Dialogue: 10,0:20:46.89,0:20:48.85,Default,,0,0,0,,Oh, you think so?
-Dialogue: 10,0:20:55.60,0:20:58.32,Default,,0,0,0,,What's the matter, dear?
-Dialogue: 10,0:21:06.16,0:21:07.49,Default,,0,0,0,,Dear?
+Dialogue: 10,0:20:37.34,0:20:39.75,Default,,0,0,0,,I've never met this youth before.
+Dialogue: 10,0:20:42.67,0:20:46.60,Default,,0,0,0,,He might have mistaken me \Nfor someone else, perchance.
+Dialogue: 10,0:20:46.89,0:20:48.85,Default,,0,0,0,,Oh, is that so?
+Dialogue: 10,0:20:55.60,0:20:58.32,Default,,0,0,0,,What's the matter, honey?
+Dialogue: 10,0:21:06.16,0:21:07.49,Default,,0,0,0,,Honey?
 Dialogue: 10,0:21:11.24,0:21:12.08,Default,,0,0,0,,Stop!
 Comment: 0,0:22:59.98,0:22:59.98,Default,,0,0,0,,---------------------------------------------- [ OUTRO ] ----------------------------------------------
 Dialogue: 10,0:23:03.40,0:23:05.57,Default,,0,0,0,,I've finally tracked down Kibutsuji Muzan!
@@ -220,9 +222,9 @@ Dialogue: 10,0:23:09.15,0:23:12.99,Default,,0,0,0,,But wow, everyone in Asakusa 
 Dialogue: 10,0:23:13.99,0:23:15.99,Default,,0,0,0,,I bet you'd look great in an outfit like that!
 Dialogue: 10,0:23:15.99,0:23:19.58,Default,,0,0,0,,Now, it's time for a Taisho secret!
 Dialogue: 10,0:23:19.58,0:23:22.38,Default,,0,0,0,,The owner of the udon shop \Nwas born and raised in Asakusa.
-Dialogue: 10,0:23:22.38,0:23:26.25,Default,,0,0,0,,I heard he makes udon in Asakusa \Nbecause he loves the place so much.
+Dialogue: 10,0:23:22.38,0:23:26.25,Default,,0,0,0,,And I heard he makes udon in Asakusa \Nbecause he loves the place so much.
 Dialogue: 10,0:23:28.01,0:23:29.38,Default,,0,0,0,,A suit, huh?
-Dialogue: 10,0:23:29.38,0:23:31.09,Default,,0,0,0,,Now I feel kind of grown-up!
+Dialogue: 10,0:23:29.38,0:23:31.09,Default,,0,0,0,,Now I feel kind of mature!
 Dialogue: 10,0:23:31.97,0:23:33.76,Default,,0,0,0,,I'd better get back to my mission!
 Dialogue: 10,0:23:33.76,0:23:36.89,Default,,0,0,0,,Next time, Episode 8: \N"The Fragrance of Bewitching Blood"!
 Comment: 0,0:00:46.02,0:00:46.02,Default,,0,0,0,,---------------------------------------------- [     OP    ] ----------------------------------------------
