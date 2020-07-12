@@ -547,9 +547,9 @@ Dialogue: 1,0:22:02.92,0:22:07.30,Ep26 ED,,0,0,0,,{\fad(200,200)\an9}guren no ha
 Dialogue: 1,0:22:07.34,0:22:14.06,Ep26 ED,,0,0,0,,{\fad(200,200)\an9}unmei wo terashite\N{\fs48}Overgrown by blood-soaked lotuses
 Dialogue: 0,0:22:09.51,0:23:33.43,Ep26 ED,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H000000&\blur20\an9}m -10 -100 l 1930 -100 1930 120 -10 120
 Dialogue: 0,0:22:09.51,0:23:33.43,Ep26 ED,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H000000&\blur20\an9}m -10 960 l 1930 960 1930 1150 -10 1150
-Dialogue: 1,0:22:25.07,0:22:28.61,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8}Hito shirezu hakanai
+Dialogue: 1,0:22:25.07,0:22:28.61,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8}hito shirezu hakanai
 Dialogue: 1,0:22:25.07,0:22:28.61,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0\c&H0000AC&\blur8}Ever-fleeting visions of what could have been
-Dialogue: 0,0:22:25.07,0:22:28.61,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8\1a&H80&}Hito shirezu hakanai
+Dialogue: 0,0:22:25.07,0:22:28.61,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8\1a&H80&}hito shirezu hakanai
 Dialogue: 0,0:22:25.07,0:22:28.61,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0\c&H0000AC&\1a&H80&\blur8}Ever-fleeting visions of what could have been
 Dialogue: 2,0:22:25.15,0:22:28.45,Ep26 ED,,0,0,0,,{\fad(200,200)\an8}hito shirezu hakanai
 Dialogue: 2,0:22:25.15,0:22:28.45,Ep26 ED,,0,0,0,,{\fad(200,200)}Ever-fleeting visions of what could have been
@@ -559,9 +559,9 @@ Dialogue: 0,0:22:28.66,0:22:32.20,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H00
 Dialogue: 0,0:22:28.66,0:22:32.20,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0\c&H0000AC&\1a&H80&\blur8}Wilting away before my very eyes
 Dialogue: 2,0:22:28.74,0:22:32.03,Ep26 ED,,0,0,0,,{\fad(200,200)\an8}chiriyuku ketsumatsu
 Dialogue: 2,0:22:28.74,0:22:32.03,Ep26 ED,,0,0,0,,{\fad(200,200)}Wilting away before my very eyes
-Dialogue: 1,0:22:32.24,0:22:35.70,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8}Mujou ni yabureta
+Dialogue: 1,0:22:32.24,0:22:35.70,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8}mujou ni yabureta
 Dialogue: 1,0:22:32.24,0:22:35.70,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0\c&H0000AC&\blur8}Dominated by selfish cruelty
-Dialogue: 0,0:22:32.24,0:22:35.70,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8\1a&H80&}Mujou ni yabureta
+Dialogue: 0,0:22:32.24,0:22:35.70,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8\1a&H80&}mujou ni yabureta
 Dialogue: 0,0:22:32.24,0:22:35.70,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0\c&H0000AC&\1a&H80&\blur8}Dominated by selfish cruelty
 Dialogue: 2,0:22:32.33,0:22:35.54,Ep26 ED,,0,0,0,,{\fad(200,200)\an8}mujou ni yabureta
 Dialogue: 2,0:22:32.33,0:22:35.54,Ep26 ED,,0,0,0,,{\fad(200,200)}Dominated by selfish cruelty
@@ -571,9 +571,9 @@ Dialogue: 0,0:22:35.75,0:22:39.37,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H00
 Dialogue: 0,0:22:35.75,0:22:39.37,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0\c&H0000AC&\1a&H80&\blur8}A raging storm plows over the land
 Dialogue: 2,0:22:35.83,0:22:39.21,Ep26 ED,,0,0,0,,{\fad(200,200)\an8}himei no kaze fuku
 Dialogue: 2,0:22:35.83,0:22:39.21,Ep26 ED,,0,0,0,,{\fad(200,200)}A raging storm plows over the land
-Dialogue: 1,0:22:39.42,0:22:42.75,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8}Dareka no warau kage
+Dialogue: 1,0:22:39.42,0:22:42.75,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8}dareka no warau kage
 Dialogue: 1,0:22:39.42,0:22:42.75,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0\c&H0000AC&\blur8}Crying out with laments of others
-Dialogue: 0,0:22:39.42,0:22:42.75,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8\1a&H80&}Dareka no warau kage
+Dialogue: 0,0:22:39.42,0:22:42.75,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8\1a&H80&}dareka no warau kage
 Dialogue: 0,0:22:39.42,0:22:42.75,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0\c&H0000AC&\1a&H80&\blur8}Crying out with laments of others
 Dialogue: 2,0:22:39.50,0:22:42.59,Ep26 ED,,0,0,0,,{\fad(200,200)\an8}dareka no warau kage
 Dialogue: 2,0:22:39.50,0:22:42.59,Ep26 ED,,0,0,0,,{\fad(200,200)}Crying out with laments of others
@@ -583,9 +583,9 @@ Dialogue: 0,0:22:42.79,0:22:45.84,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H00
 Dialogue: 0,0:22:42.79,0:22:45.84,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0\c&H0000AC&\1a&H80&\blur8}As everyone willingly sacrifices one another
 Dialogue: 2,0:22:42.88,0:22:45.67,Ep26 ED,,0,0,0,,{\fad(200,200)\an8}dareka no nakigoe
 Dialogue: 2,0:22:42.88,0:22:45.67,Ep26 ED,,0,0,0,,{\fad(200,200)}As everyone willingly sacrifices one another
-Dialogue: 1,0:22:45.88,0:22:51.39,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8}Daremo ga shiawase wo negatteru
+Dialogue: 1,0:22:45.88,0:22:51.39,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8}daremo ga shiawase wo negatteru
 Dialogue: 1,0:22:45.88,0:22:51.39,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0\c&H0000AC&\blur8}Just wishing for their own happiness
-Dialogue: 0,0:22:45.88,0:22:51.39,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8\1a&H80&}Daremo ga shiawase wo negatteru
+Dialogue: 0,0:22:45.88,0:22:51.39,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\bord0\c&H0000AC&\blur8\1a&H80&}daremo ga shiawase wo negatteru
 Dialogue: 0,0:22:45.88,0:22:51.39,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0\c&H0000AC&\1a&H80&\blur8}Just wishing for their own happiness
 Dialogue: 2,0:22:45.96,0:22:51.22,Ep26 ED,,0,0,0,,{\fad(200,200)\an8}daremo ga shiawase wo negatteru
 Dialogue: 2,0:22:45.96,0:22:51.22,Ep26 ED,,0,0,0,,{\fad(200,200)}Just wishing for their own happiness
