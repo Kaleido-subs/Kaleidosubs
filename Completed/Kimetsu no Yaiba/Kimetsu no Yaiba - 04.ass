@@ -41,19 +41,18 @@ Dialogue: 10,0:02:36.26,0:02:38.26,Default,,0,0,0,,{\i1}The reason I won
 Dialogue: 10,0:02:38.72,0:02:41.64,Default,,0,0,0,,{\i1}was because I learned how to \Ndetect an opening to strike.
 Dialogue: 10,0:02:44.76,0:02:46.64,Default,,0,0,0,,{\i1}While fighting someone,
 Dialogue: 10,0:02:47.18,0:02:50.44,Default,,0,0,0,,{\i1}if I pick up a certain scent, I can see a thread.
-Dialogue: 10,0:02:53.73,0:02:57.28,Default,,0,0,0,,{\i1}The thread connects my blade \Nwith the opponent's opening,
-Dialogue: 10,0:02:57.28,0:02:59.65,Default,,0,0,0,,{\i1}growing tight the instant I spot it.
-Dialogue: 10,0:03:06.83,0:03:09.54,Default,,0,0,0,,{\i1}It guides my blade
+Dialogue: 10,0:02:53.73,0:02:57.28,Default,,0,0,0,,{\i1}The thread connects my blade \Nto the opponent's opening,
+Dialogue: 10,0:02:57.28,0:02:59.65,Default,,0,0,0,,{\i1}becoming taut the instant I spot it.
+Dialogue: 10,0:03:06.83,0:03:09.54,Default,,0,0,0,,{\i1}It guides my blade,
 Dialogue: 10,0:03:09.54,0:03:11.37,Default,,0,0,0,,{\i1}and I strike through the opening.
 Dialogue: 10,0:03:32.60,0:03:33.98,Default,,0,0,0,,Master Urokodaki...
 Dialogue: 10,0:03:37.36,0:03:42.24,Default,,0,0,0,,I had no intentions of allowing you to \Ntake part in the Final Selection.
 Dialogue: 10,0:03:44.62,0:03:47.87,Default,,0,0,0,,I no longer wanted to see any children die.
 Dialogue: 10,0:03:48.95,0:03:53.17,Default,,0,0,0,,I was confident you'd be unable to \Nsplit this boulder in half, and yet...
 Dialogue: 10,0:03:58.25,0:04:00.30,Default,,0,0,0,,Well done, my boy!
-Dialogue: 10,0:04:00.76,0:04:03.47,Default,,0,0,0,,Tanjirou, you're
-Dialogue: 10,0:04:03.47,0:04:05.01,Default,,0,0,0,,a remarkable kid!
+Dialogue: 10,0:04:00.76,0:04:05.01,Default,,0,0,0,,Tanjirou, you're a remarkable kid!
 Dialogue: 10,0:04:13.06,0:04:16.86,Default,,0,0,0,,Make sure you come back alive \Nfrom the Final Selection.
-Dialogue: 10,0:04:16.86,0:04:19.28,Default,,0,0,0,,Both your sister and I will be waiting for you.
+Dialogue: 10,0:04:16.86,0:04:19.28,Default,,0,0,0,,Your sister and I will both be waiting for you.
 Dialogue: 10,0:04:32.33,0:04:35.00,Default,,0,0,0,,What's the occasion? There's so much!
 Dialogue: 10,0:04:35.46,0:04:38.54,Default,,0,0,0,,You've completed your training. \NIt's a cause for celebration.
 Dialogue: 10,0:04:38.54,0:04:40.88,Default,,0,0,0,,Don't be shy. Eat up.
@@ -87,7 +86,7 @@ Dialogue: 10,0:07:09.95,0:07:13.24,Default,,0,0,0,,I swear I'll make it back ali
 Dialogue: 10,0:07:15.74,0:07:18.12,Default,,0,0,0,,Don't worry about your sister.
 Dialogue: 10,0:07:18.12,0:07:20.71,Default,,0,0,0,,I'll take care of her.
 Dialogue: 10,0:07:20.71,0:07:23.17,Default,,0,0,0,,Thanks, I appreciate it!
-Dialogue: 10,0:07:26.13,0:07:28.63,Default,,0,0,0,,I'm on my way, Master Urokodaki!
+Dialogue: 10,0:07:26.13,0:07:28.63,Default,,0,0,0,,See you, Master Urokodaki!
 Dialogue: 10,0:07:34.39,0:07:36.64,Default,,0,0,0,,Give my regards to Sabito and Makomo!
 Dialogue: 10,0:07:38.85,0:07:40.39,Default,,0,0,0,,Tanjirou...
 Dialogue: 10,0:07:40.39,0:07:41.81,Default,,0,0,0,,Where did you learn of
@@ -106,7 +105,7 @@ Dialogue: 10,0:09:02.98,0:09:06.44,Default,,0,0,0,,blooms year-round from halfwa
 Dialogue: 10,0:09:07.27,0:09:13.82,Default,,0,0,0,,However, they don't grow from this point onward, \Nthus there will be demons about.
 Dialogue: 10,0:09:14.28,0:09:21.66,Default,,0,0,0,,To pass the Final Selection process, \Nyou must survive there for seven days.
 Dialogue: 10,0:09:22.91,0:09:25.87,Default,,0,0,0,,And now, be on your way.
-Dialogue: 10,0:09:40.72,0:09:44.64,Default,,0,0,0,,{\i1}Surviving should be the only thing \Non my mind for the following seven days.
+Dialogue: 10,0:09:40.72,0:09:44.64,Default,,0,0,0,,{\i1}Surviving should be the only thing \Non my mind for the next seven days.
 Dialogue: 10,0:09:47.60,0:09:50.23,Default,,0,0,0,,{\i1}For starters, I have to get through the night.
 Dialogue: 10,0:09:50.23,0:09:53.61,Default,,0,0,0,,{\i1}Once the sun comes up, \Nthe demons won't be able to do anything.
 Dialogue: 10,0:09:53.61,0:09:55.90,Default,,0,0,0,,{\i1}I can rest up then.
@@ -124,8 +123,8 @@ Dialogue: 10,0:10:42.70,0:10:43.91,Default,,0,0,0,,Damn you!
 Dialogue: 10,0:10:45.74,0:10:48.29,Default,,0,0,0,,Don't try'n steal my prey, asshole!
 Dialogue: 10,0:10:48.29,0:10:49.75,Default,,0,0,0,,Get off my turf before I make you!
 Dialogue: 10,0:10:49.75,0:10:52.00,Default,,0,0,0,,To hell with you! Beat it!
-Dialogue: 10,0:10:52.50,0:10:53.92,Default,,0,0,0,,{\an8}Don't gimme that turf BS!
-Dialogue: 10,0:10:53.92,0:10:55.84,Default,,0,0,0,,{\an8}Shut up before I end you!
+Dialogue: 10,0:10:52.50,0:10:53.92,Default,,0,0,0,,{\an8}Don't gimme that turf bullshit!
+Dialogue: 10,0:10:53.92,0:10:55.84,Default,,0,0,0,,{\an8}Shut up before I fucking kill you!
 Dialogue: 10,0:10:52.50,0:10:54.21,Default,,0,0,0,,{\i1}Two of them right from the get-go?
 Dialogue: 10,0:10:54.21,0:10:55.84,Default,,0,0,0,,{\i1}I wonder if I can take them.
 Dialogue: 10,0:10:55.84,0:10:57.51,Default,,0,0,0,,He's {\i1}my{\i0} prey!
@@ -170,7 +169,7 @@ Dialogue: 10,0:13:48.26,0:13:49.89,Default,,0,0,0,,They didn't tell us about thi
 Dialogue: 10,0:14:08.78,0:14:10.12,Default,,0,0,0,,{\i1}He ate him!
 Dialogue: 10,0:14:35.89,0:14:37.02,Default,,0,0,0,,{\i1}Don't be afraid!
 Dialogue: 10,0:14:37.02,0:14:39.77,Default,,0,0,0,,{\i1}Help him!
-Dialogue: 10,0:14:39.77,0:14:42.11,Default,,0,0,0,,{\i1}You're no longer powerless!
+Dialogue: 10,0:14:39.77,0:14:42.11,Default,,0,0,0,,{\i1}You're not powerless anymore!
 Dialogue: 10,0:14:42.48,0:14:43.27,Default,,0,0,0,,{\i1}Go!
 Dialogue: 10,0:14:44.82,0:14:46.03,Default,,0,0,0,,{\i1}Water Breathing!
 Dialogue: 10,0:14:46.03,0:14:47.19,Default,,0,0,0,,{\i1}Second Form!
@@ -233,7 +232,7 @@ Dialogue: 10,0:18:08.23,0:18:10.61,Default,,0,0,0,,Your breathing's uneven.
 Dialogue: 10,0:18:10.61,0:18:13.40,Default,,0,0,0,,It's all right. Don't worry about us!
 Dialogue: 10,0:18:25.58,0:18:28.96,Default,,0,0,0,,{\i1}I'll make a run for it while \Nthe demon's focused on that guy!
 Dialogue: 10,0:18:39.76,0:18:42.72,Default,,0,0,0,,Another one of Urokodaki's brats has died.
-Dialogue: 10,0:18:44.93,0:18:50.40,Default,,0,0,0,,I wonder how he'll feel when another kid \Ndoesn't come home again.
+Dialogue: 10,0:18:44.93,0:18:50.40,Default,,0,0,0,,I wonder how he'll feel when \Nanother kid doesn't come home.
 Dialogue: 10,0:18:50.40,0:18:52.98,Default,,0,0,0,,What kind of look will he have on his face?
 Dialogue: 10,0:18:54.94,0:18:57.40,Default,,0,0,0,,Oh man, I wish I could see it.
 Dialogue: 10,0:18:57.40,0:18:58.95,Default,,0,0,0,,I really do.
@@ -247,8 +246,8 @@ Dialogue: 10,0:19:23.51,0:19:27.85,Default,,0,0,0,,{\i1}Damn it! No matter how m
 Dialogue: 10,0:19:28.27,0:19:31.94,Default,,0,0,0,,You can't defeat me just by slashing off my arms.
 Dialogue: 10,0:19:32.27,0:19:37.32,Default,,0,0,0,,Then again, even that pink-haired brat \Ncouldn't chop off my head!
 Dialogue: 10,0:19:48.29,0:19:51.08,Default,,0,0,0,,{\i1}I can't just let this go!
-Dialogue: 10,0:19:51.58,0:19:54.13,Default,,0,0,0,,{\i1}I've gotta bring him down now
-Dialogue: 10,0:19:54.71,0:19:57.13,Default,,0,0,0,,{\i1}before any more lives are sacrificed!
+Dialogue: 10,0:19:51.58,0:19:54.13,Default,,0,0,0,,{\i1}I've gotta bring him down now,
+Dialogue: 10,0:19:54.71,0:19:57.13,Default,,0,0,0,,{\i1}before any more lives are lost!
 Dialogue: 10,0:20:01.63,0:20:03.84,Default,,0,0,0,,{\i1}I can smell a demon underground?
 Dialogue: 10,0:20:08.60,0:20:11.77,Default,,0,0,0,,{\i1}Wh-What a leap! Dammit, I missed him!
 Dialogue: 10,0:20:12.44,0:20:16.90,Default,,0,0,0,,{\i1}Sure, but there's no way he can \Ndodge this attack while in mid-air!
@@ -257,7 +256,7 @@ Dialogue: 10,0:20:22.11,0:20:25.41,Default,,0,0,0,,His neck is so tough, after a
 Dialogue: 10,0:20:26.41,0:20:29.16,Default,,0,0,0,,He may lose, and yet, he may win.
 Dialogue: 10,0:20:30.12,0:20:34.54,Default,,0,0,0,,Either way, there's one irrefutable fact.
 Dialogue: 10,0:20:36.00,0:20:37.54,Default,,0,0,0,,Tanjirou is
-Dialogue: 10,0:20:38.30,0:20:43.30,Default,,0,0,0,,the man who split the toughest, \Nlargest boulder of all in half.
+Dialogue: 10,0:20:38.30,0:20:43.30,Default,,0,0,0,,the man who split the largest, \Ntoughest boulder of all in half.
 Dialogue: 10,0:20:48.01,0:20:49.14,Default,,0,0,0,,{\i1}He deflected it!
 Dialogue: 10,0:20:52.10,0:20:53.44,Default,,0,0,0,,{\i1}Total Concentration!
 Dialogue: 10,0:20:53.85,0:20:55.31,Default,,0,0,0,,{\i1}Water Breathing!
