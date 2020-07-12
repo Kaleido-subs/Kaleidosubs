@@ -650,8 +650,8 @@ Dialogue: 0,0:23:25.55,0:23:28.59,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0\c&H0000AC
 Dialogue: 2,0:23:25.63,0:23:28.42,Ep26 ED,,0,0,0,,{\fad(200,200)\an8}unmei wo terashite
 Dialogue: 2,0:23:25.63,0:23:28.42,Ep26 ED,,0,0,0,,{\fad(200,200)}My fate dyed in deep red
 Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,---------------------------------------------- [     TS    ] ----------------------------------------------
-Dialogue: 0,0:00:47.65,0:00:52.03,Sign,,0,0,0,,{\fad(950,0)\c&HFEFFFD&\fscx60\fscy60\fs118\blur8\fnRSStyle\b0\move(466,220.5,466,220,2032,600)\an8\t(0,1100,\fs116\blur3)\1a&HC8&\bord1}Episode_26 \N\N\N{\fscx90\fscy90}New_Mission
-Dialogue: 1,0:00:47.65,0:00:52.03,Sign,,0,0,0,,{\fad(950,0)\c&HFEFFFD&\fscx60\fscy60\fs118\blur8\fnRSStyle\b0\move(466,220.5,466,220,2032,600)\an8\t(0,1100,\fs116\blur0.9)}Episode_26 \N\N\N{\fscx90\fscy90}New_Mission
+Dialogue: 0,0:00:47.65,0:00:52.03,Sign,,0,0,0,,{\fad(950,0)\c&HFEFFFD&\fscx60\fscy60\fs118\blur8\fnRSStyle\b0\move(466,220.5,466,220,2032,600)\an8\t(0,1100,\fs116\blur3)\1a&HC8&\bord1\fsp-12}E{\fsp0}pisode{\fsp-20}_{\fsp-6}26\N\N\N{\fscx90\fscy90}N{\fsp0}ew{\fsp-12}_{\fsp-6}M{\fsp0}ission
+Dialogue: 1,0:00:47.65,0:00:52.03,Sign,,0,0,0,,{\fad(950,0)\c&HFEFFFD&\fscx60\fscy60\fs118\blur8\fnRSStyle\b0\move(466,220.5,466,220,2032,600)\an8\t(0,1100,\fs116\blur0.9)\fsp-12}E{\fsp0}pisode{\fsp-20}_{\fsp-6}26\N\N\N{\fscx90\fscy90}N{\fsp0}ew{\fsp-12}_{\fsp-6}M{\fsp0}ission
 Dialogue: 0,0:10:02.99,0:10:07.00,Sign,,0,0,0,,{\fscx100.46\fscy100.46\fnBrushStroke 35\fs48\b0\c&H090415&\blur0.8\pos(1540,854)}Demon Slayer
 Dialogue: 0,0:10:07.00,0:10:11.00,Sign,,0,0,0,,{\fscx100.46\fscy100.46\fnBrushStroke 35\fs48\b0\c&H090415&\blur0.8\pos(1540,446)}Demon Slayer
 Comment: 1,0:00:52.03,0:00:56.24,Sign,,0,0,0,,{\fs48\fnChuu2-next\pos(960,944)\c&HCFCDCE&\blur0.65}A Few Months Ago

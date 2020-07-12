@@ -568,7 +568,7 @@ Dialogue: 0,0:22:46.72,0:22:51.72,Ep19 ED,,0,0,0,,{\fad(300,400)\blur10\c&HF5FAF
 Dialogue: 1,0:22:53.05,0:22:59.19,Ep19 ED,,0,0,0,,{\bord0\fad(300,400)\blur0.5}There's something I have to protect \Nmamoru mono ga aru
 Dialogue: 0,0:22:53.05,0:22:59.19,Ep19 ED,,0,0,0,,{\fad(300,400)\blur10\c&HF5FAFF&\1a&HFE&}There's something I have to protect \Nmamoru mono ga aru
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [     TS    ] ----------------------------------------------
-Dialogue: 1,0:01:59.30,0:02:03.01,Sign,,0,0,0,,{\fad(850,0)\c&H000000&\fscx60\fscy60\fs116\blur8\fnRSStyle\b0\an8\t(0,600,\fs114\blur0.9)\move(466,250.5,466,250,2032,600)}Episode_19 \N\N\N{\fscx90\fscy90}The_Fire_God
+Dialogue: 1,0:01:59.30,0:02:03.01,Sign,,0,0,0,,{\fad(850,0)\c&H000000&\fscx60\fscy60\fs116\blur8\fnRSStyle\b0\an8\t(0,600,\fs114\blur0.9)\move(466,250.5,466,250,2032,600)\fsp-12}E{\fsp0}pisode{\fsp-20}_{\fsp-6}19\N\N\N{\fscx90\fscy90}T{\fsp0}he{\fsp-12}_{\fsp-6}F{\fsp0}ire{\fsp-12}_{\fsp-6}G{\fsp0}od
 Dialogue: 0,0:10:55.00,0:11:03.01,Sign,,0,0,0,,{\pos(1539.61,877.22)\fscx100.46\fscy100.46\fnBrushStroke 35\fs48\b0\c&H090415&\blur0.8\4a&H00&\an2\3a&H00&}Demon Slayer
 Dialogue: 0,0:22:59.98,0:23:00.23,Sign,,0,0,0,,{\an3\pos(1103.48,494.42)\fscx100.46\fscy100.46\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1\4a&H00&\3a&H00&}Demon Slayer
 Dialogue: 0,0:23:00.23,0:23:00.27,Sign,,0,0,0,,{\an3\pos(1103.48,494.42)\fscx100.46\fscy100.46\frz0.1\fnBrushStroke 35\fs82\b0\c&H29282F&\blur1\4a&H00&\3a&H00&}Demon Slayer
