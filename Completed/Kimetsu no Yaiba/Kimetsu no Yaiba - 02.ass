@@ -50,11 +50,11 @@ Dialogue: 10,0:00:29.21,0:00:30.71,Default,,0,0,0,,'Tis fine, really!
 Dialogue: 10,0:00:30.71,0:00:32.88,Default,,0,0,0,,You're one stubborn lad!
 Dialogue: 10,0:00:34.22,0:00:36.89,Default,,0,0,0,,Please accept this, even if it may not be much!
 Dialogue: 10,0:00:37.26,0:00:38.89,Default,,0,0,0,,Thank you very much!
-Dialogue: 10,0:00:38.89,0:00:41.39,Default,,0,0,0,,Owwie!
+Dialogue: 10,0:00:38.89,0:00:41.39,Default,,0,0,0,,Yeowch!
 Dialogue: 10,0:00:44.44,0:00:45.44,Default,,0,0,0,,Nezuko?
 Dialogue: 10,0:00:46.02,0:00:48.02,Default,,0,0,0,,Huh? Nezuko?
 Dialogue: 10,0:00:48.48,0:00:49.57,Default,,0,0,0,,She's gone!
-Dialogue: 10,0:00:52.19,0:00:53.03,Default,,0,0,0,,Found her.
+Dialogue: 10,0:00:52.19,0:00:53.03,Default,,0,0,0,,There she is.
 Comment: 0,0:02:27.00,0:02:27.00,Default,,0,0,0,,---------------------------------------------- [ PART A ] ----------------------------------------------
 Dialogue: 10,0:02:34.46,0:02:35.80,Default,,0,0,0,,Nezuko...
 Dialogue: 10,0:02:37.17,0:02:39.30,Default,,0,0,0,,{\i1}Did she dig herself a hole?
@@ -86,7 +86,7 @@ Dialogue: 10,0:04:10.22,0:04:11.85,Default,,0,0,0,,The sun's already setting.
 Dialogue: 10,0:04:11.85,0:04:14.65,Default,,0,0,0,,Will you be okay with all that luggage?
 Dialogue: 10,0:04:14.65,0:04:15.86,Default,,0,0,0,,It's dangerous.
 Dialogue: 10,0:04:16.86,0:04:18.61,Default,,0,0,0,,Don't worry, I'll keep an eye out.
-Dialogue: 10,0:04:19.28,0:04:20.69,Default,,0,0,0,,Thank you so much.
+Dialogue: 10,0:04:19.28,0:04:20.69,Default,,0,0,0,,Thank you kindly.
 Dialogue: 10,0:04:24.11,0:04:27.62,Default,,0,0,0,,People have been going missing recently!
 Dialogue: 10,0:04:27.62,0:04:29.24,Default,,0,0,0,,Make sure you don't get lost.
 Dialogue: 10,0:04:38.63,0:04:40.46,Default,,0,0,0,,There's a temple here.
@@ -107,7 +107,7 @@ Dialogue: 10,0:06:03.05,0:06:04.92,Default,,0,0,0,,But a scratch like this
 Dialogue: 10,0:06:05.30,0:06:07.38,Default,,0,0,0,,will heal in no time.
 Dialogue: 10,0:06:10.09,0:06:13.22,Default,,0,0,0,,See? The bleeding's stopped already.
 Dialogue: 10,0:06:30.62,0:06:34.16,Default,,0,0,0,,{\i1}He's fast! And incredibly strong!
-Dialogue: 10,0:06:34.45,0:06:36.62,Default,,0,0,0,,The same trick won't work twice.
+Dialogue: 10,0:06:34.45,0:06:36.62,Default,,0,0,0,,The same trick's not gonna work twice.
 Dialogue: 10,0:06:37.12,0:06:40.50,Default,,0,0,0,,Time to break your neck!
 Dialogue: 10,0:07:03.23,0:07:06.44,Default,,0,0,0,,{\i1}Sh-She just killed him!
 Dialogue: 10,0:07:06.44,0:07:08.90,Default,,0,0,0,,{\i1}But hold on, he's a demon! \NSo it should be fine, r-right?
@@ -157,7 +157,7 @@ Dialogue: 10,0:10:56.13,0:10:59.17,Default,,0,0,0,,{\i1}I must strike him multip
 Dialogue: 10,0:10:59.93,0:11:02.09,Default,,0,0,0,,{\i1}It'll be a painful death.
 Dialogue: 10,0:11:02.43,0:11:05.85,Default,,0,0,0,,{\i1}Isn't there anything I can use \Nto kill him with a single blow?
 Dialogue: 10,0:11:11.60,0:11:13.36,Default,,0,0,0,,{\i1}This kid isn't gonna cut it.
-Dialogue: 10,0:11:14.61,0:11:18.11,Default,,0,0,0,,{\i1}His sympathy is keeping him \Nfrom making a clear decision.
+Dialogue: 10,0:11:14.61,0:11:18.11,Default,,0,0,0,,{\i1}His sympathy is clouding his judgment.
 Dialogue: 10,0:11:18.90,0:11:23.37,Default,,0,0,0,,{\i1}He's facing a demon, \Nyet the scent of kindness remains.
 Dialogue: 10,0:11:23.37,0:11:26.20,Default,,0,0,0,,{\i1}His empathy extends even to demons.
 Dialogue: 10,0:11:27.79,0:11:29.62,Default,,0,0,0,,{\i1}Giyuu...
@@ -173,7 +173,7 @@ Dialogue: 10,0:11:55.94,0:11:59.28,Default,,0,0,0,,{\i1}I've wasted too much tim
 Dialogue: 10,0:11:59.28,0:12:00.78,Default,,0,0,0,,{\i1}The sun's already rising.
 Dialogue: 10,0:11:56.48,0:11:58.07,Default,,0,0,0,,{\an8}Hey, are you listening, brat?
 Dialogue: 10,0:11:58.07,0:12:00.78,Default,,0,0,0,,{\an8}Hey! Come here, you!
-Dialogue: 10,0:12:00.78,0:12:02.45,Default,,0,0,0,,Are you listening, you damn brat?
+Dialogue: 10,0:12:00.78,0:12:02.45,Default,,0,0,0,,Are you listening, you fucking brat?
 Dialogue: 10,0:12:15.33,0:12:18.38,Default,,0,0,0,,{\i1}He's gone with that little sunlight?!
 Dialogue: 10,0:12:18.38,0:12:20.59,Default,,0,0,0,,{\i1}No wonder Nezuko shrinks away from it!
 Dialogue: 10,0:12:22.88,0:12:23.93,Default,,0,0,0,,Nezuko?
@@ -225,7 +225,7 @@ Dialogue: 10,0:16:00.10,0:16:01.94,Default,,0,0,0,,We'll be climbing up the moun
 Dialogue: 10,0:16:06.69,0:16:10.36,Default,,0,0,0,,I'll take care of your sister in the meantime.
 Dialogue: 10,0:16:12.32,0:16:14.16,Default,,0,0,0,,I'll leave her in your care then.
 Dialogue: 10,0:16:26.75,0:16:28.17,Default,,0,0,0,,{\i1}I'm so exhausted.
-Dialogue: 10,0:16:28.17,0:16:31.13,Default,,0,0,0,,{\i1}My legs are feeling numb.
+Dialogue: 10,0:16:28.17,0:16:31.13,Default,,0,0,0,,{\i1}My legs are going numb.
 Dialogue: 10,0:16:31.88,0:16:33.88,Default,,0,0,0,,{\i1}I'm feeling so lightheaded.
 Dialogue: 10,0:16:38.01,0:16:42.39,Default,,0,0,0,,Now find your way back to the house \Nat the bottom of the mountain.
 Dialogue: 10,0:16:42.73,0:16:45.02,Default,,0,0,0,,This time I won't be waiting until daybreak.
@@ -246,14 +246,14 @@ Dialogue: 10,0:17:51.88,0:17:53.67,Default,,0,0,0,,{\i1}Crap, crap, crap!
 Dialogue: 10,0:17:53.67,0:17:58.55,Default,,0,0,0,,{\i1}If I keep getting caught in traps, \NI won't make it back by dawn!
 Dialogue: 10,0:17:58.55,0:18:01.35,Default,,0,0,0,,{\i1}And besides, on this mountain...
 Dialogue: 10,0:18:01.35,0:18:02.72,Default,,0,0,0,,{\i1}On this mountain...
-Dialogue: 10,0:18:03.64,0:18:06.02,Default,,0,0,0,,{\i1}The air's really dense here!
+Dialogue: 10,0:18:03.64,0:18:06.02,Default,,0,0,0,,{\i1}The air's really thin here!
 Dialogue: 10,0:18:06.02,0:18:09.31,Default,,0,0,0,,{\i1}It's way thinner than on the mountain back home.
 Dialogue: 10,0:18:09.86,0:18:13.94,Default,,0,0,0,,{\i1}So {\i0}that's{\i1} why I've been feeling \Nso tired and lightheaded!
 Dialogue: 10,0:18:14.94,0:18:16.90,Default,,0,0,0,,{\i1}Will I make it back in time?
 Dialogue: 10,0:18:16.90,0:18:18.41,Default,,0,0,0,,{\i1}I might pass out.
 Dialogue: 10,0:18:19.03,0:18:20.12,Default,,0,0,0,,{\i1}No!
 Dialogue: 10,0:18:20.45,0:18:22.03,Default,,0,0,0,,{\i1}I {\i0}will{\i1} make it back.
-Dialogue: 10,0:18:22.45,0:18:26.96,Default,,0,0,0,,{\i1}Get your breathing under control \Nand sniff out each of those traps!
+Dialogue: 10,0:18:22.45,0:18:26.96,Default,,0,0,0,,{\i1}Get your breathing under control \Nand sniff out each and every trap!
 Dialogue: 10,0:18:51.94,0:18:54.36,Default,,0,0,0,,{\i1}Got it! I can smell them!
 Dialogue: 10,0:18:54.86,0:18:59.70,Default,,0,0,0,,{\i1}If a human has set a trap, \Ntheir scent will linger around it!
 Dialogue: 10,0:19:05.95,0:19:07.37,Default,,0,0,0,,{\i1}But that doesn't mean
@@ -285,7 +285,7 @@ Dialogue: 10,0:23:16.08,0:23:19.37,Default,,0,0,0,,Now, it's time for a Taisho s
 Dialogue: 10,0:23:19.37,0:23:23.50,Default,,0,0,0,,Believe it or not, but the masked \NUrokodaki's age is actually—
 Dialogue: 10,0:23:23.50,0:23:24.38,Default,,0,0,0,,Tanjirou!
 Dialogue: 10,0:23:24.38,0:23:25.13,Default,,0,0,0,,Yes?
-Dialogue: 10,0:23:25.13,0:23:28.38,Default,,0,0,0,,What do you want for dinner? \NNikujaga or oden?
+Dialogue: 10,0:23:25.13,0:23:28.38,Default,,0,0,0,,What do you want for dinner? \NMeat and potato stew or oden?
 Dialogue: 10,0:23:28.38,0:23:30.51,Default,,0,0,0,,Huh? Well...
 Dialogue: 10,0:23:30.51,0:23:32.01,Default,,0,0,0,,You're too indecisive!
 Dialogue: 10,0:23:32.01,0:23:33.68,Default,,0,0,0,,I want oden!
