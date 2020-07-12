@@ -62,7 +62,7 @@ Dialogue: 10,0:03:31.06,0:03:33.10,Default,,0,0,0,,I'm a mentor.
 Dialogue: 10,0:03:33.69,0:03:36.32,Default,,0,0,0,,I teach people in swordsmanship.
 Dialogue: 10,0:03:36.82,0:03:38.99,Default,,0,0,0,,There are as many mentors \Nas there are stars in the sky,
 Dialogue: 10,0:03:38.99,0:03:44.12,Default,,0,0,0,,and each of them teaches their disciples \Nin their own respective place and style.
-Dialogue: 10,0:03:44.62,0:03:46.70,Default,,0,0,0,,In order to become a Demon Slayer
+Dialogue: 10,0:03:44.62,0:03:46.70,Default,,0,0,0,,In order to become a Demon Slayer,
 Dialogue: 10,0:03:46.70,0:03:52.87,Default,,0,0,0,,you must survive the Final Selection \Nprocess held on Mt. Fujikasane.
 Dialogue: 10,0:03:52.87,0:03:57.13,Default,,0,0,0,,Whether you may take part is up to my discretion.
 Dialogue: 10,0:03:58.59,0:04:02.88,Default,,0,0,0,,{\i1}Starting today, I'll be keeping a journal for Nezuko.
@@ -87,14 +87,14 @@ Dialogue: 10,0:05:12.25,0:05:13.29,Default,,0,0,0,,{\an8}Nine-hundred-ninety-six
 Dialogue: 10,0:05:13.29,0:05:14.54,Default,,0,0,0,,{\an8}Nine-hundred-ninety-seven!
 Dialogue: 10,0:05:14.54,0:05:15.79,Default,,0,0,0,,{\an8}Nine-hundred-ninety-eight!
 Dialogue: 10,0:05:15.79,0:05:17.96,Default,,0,0,0,,{\an8}Nine-hundred-ninety-nine!
-Dialogue: 10,0:05:07.82,0:05:10.45,Default,,0,0,0,,{\i1}Today I practised sword swings.
+Dialogue: 10,0:05:07.82,0:05:10.45,Default,,0,0,0,,{\i1}Today, I practised sword swings.
 Dialogue: 10,0:05:10.45,0:05:14.33,Default,,0,0,0,,{\i1}Well, I say "today", but I've been doing \Nthis pretty much every day as of recently.
 Dialogue: 10,0:05:14.33,0:05:17.96,Default,,0,0,0,,{\i1}After my daily routine, I would practise swinging \Nmy sword until my arms were about to fall off.
 Dialogue: 10,0:05:17.96,0:05:19.21,Default,,0,0,0,,One thousand!
 Dialogue: 10,0:05:19.75,0:05:21.80,Default,,0,0,0,,Do five hundred more!
 Dialogue: 10,0:05:36.81,0:05:39.31,Default,,0,0,0,,"Swords are very brittle."
 Dialogue: 10,0:05:39.73,0:05:42.32,Default,,0,0,0,,{\i1}...was the first thing he taught me.
-Dialogue: 10,0:05:43.03,0:05:47.66,Default,,0,0,0,,{\i1}Vertically a sword is powerful, \Nbut horizontally it's fragile.
+Dialogue: 10,0:05:43.03,0:05:47.66,Default,,0,0,0,,{\i1}Vertically, a sword is powerful, \Nbut horizontally it's fragile.
 Dialogue: 10,0:05:49.07,0:05:52.83,Default,,0,0,0,,{\i1}You must apply the force straight along the blade.
 Dialogue: 10,0:05:53.62,0:06:00.25,Default,,0,0,0,,{\i1}The blade's direction and the direction \Nin which you apply the force need to be identical.
 Dialogue: 10,0:06:00.75,0:06:06.30,Default,,0,0,0,,{\i1}Furthermore, he made it crystal clear \Nthat if I ever break or damage a sword,
@@ -123,12 +123,12 @@ Dialogue: 10,0:07:51.95,0:07:53.41,Default,,0,0,0,,All right. Breathe!
 Dialogue: 10,0:07:58.49,0:08:00.29,Default,,0,0,0,,Wrong!
 Dialogue: 10,0:08:01.96,0:08:04.00,Default,,0,0,0,,Next! Take your stance.
 Dialogue: 10,0:08:04.33,0:08:06.00,Default,,0,0,0,,Right! Like this?
-Dialogue: 10,0:08:06.00,0:08:07.17,Default,,0,0,0,,Wrong!
-Dialogue: 10,0:08:07.17,0:08:08.21,Default,,0,0,0,,Like this?
-Dialogue: 10,0:08:08.21,0:08:09.17,Default,,0,0,0,,Wrong!
-Dialogue: 10,0:08:09.17,0:08:09.88,Default,,0,0,0,,This?
-Dialogue: 10,0:08:09.88,0:08:10.67,Default,,0,0,0,,Wrong!
-Dialogue: 10,0:08:10.67,0:08:11.42,Default,,0,0,0,,This?
+Dialogue: 10,0:08:06.00,0:08:07.25,Default,,0,0,0,,Wrong!
+Dialogue: 10,0:08:07.25,0:08:08.21,Default,,0,0,0,,Like this?
+Dialogue: 10,0:08:08.21,0:08:09.26,Default,,0,0,0,,Wrong!
+Dialogue: 10,0:08:09.26,0:08:09.88,Default,,0,0,0,,This?
+Dialogue: 10,0:08:09.88,0:08:10.76,Default,,0,0,0,,Wrong!
+Dialogue: 10,0:08:10.76,0:08:11.42,Default,,0,0,0,,This?
 Dialogue: 10,0:08:11.42,0:08:12.51,Default,,0,0,0,,Wrong!
 Dialogue: 10,0:08:12.51,0:08:15.55,Default,,0,0,0,,{\i1}I got yelled at for not bracing my stomach,
 Dialogue: 10,0:08:15.55,0:08:17.56,Default,,0,0,0,,{\i1}and kept getting punched in the gut.
@@ -145,7 +145,7 @@ Dialogue: 10,0:09:09.06,0:09:10.36,Default,,0,0,0,,{\i1}I worry that one morning
 Dialogue: 10,0:09:10.94,0:09:13.86,Default,,0,0,0,,{\i1}I'll wake up to find her dead.
 Dialogue: 10,0:09:15.11,0:09:18.62,Default,,0,0,0,,{\i1}Not a day goes by that I don't worry.
 Dialogue: 10,0:09:26.96,0:09:29.21,Default,,0,0,0,,{\i1}My descents kept getting more dangerous,
-Dialogue: 10,0:09:29.21,0:09:32.05,Default,,0,0,0,,{\i1}and the air's even denser where I train now.
+Dialogue: 10,0:09:29.21,0:09:32.05,Default,,0,0,0,,{\i1}and the air's even thinner where I train now.
 Dialogue: 10,0:09:38.55,0:09:41.85,Default,,0,0,0,,{\i1}Time and time again, I worry that today will be my last.
 Dialogue: 10,0:09:58.95,0:10:01.66,Default,,0,0,0,,I have nothing more to teach you.
 Dialogue: 10,0:10:02.91,0:10:07.16,Default,,0,0,0,,{\i1}Out of nowhere, about a year after I arrived \Nat Mt. Sagiri, he suddenly broke the news.
@@ -159,7 +159,7 @@ Dialogue: 10,0:10:51.33,0:10:52.84,Default,,0,0,0,,{\i1}a sword can split?
 Dialogue: 10,0:10:53.50,0:10:55.46,Default,,0,0,0,,{\i1}Can a sword really cut through it?
 Dialogue: 10,0:10:56.42,0:10:58.05,Default,,0,0,0,,{\i1}I don't think I can do it.
 Dialogue: 10,0:10:58.55,0:11:00.47,Default,,0,0,0,,{\i1}My sword would snap in half!
-Dialogue: 10,0:11:05.72,0:11:08.52,Default,,0,0,0,,Please wait!
+Dialogue: 10,0:11:05.72,0:11:08.52,Default,,0,0,0,,Please wait, Master Urokodaki!
 Dialogue: 10,0:11:08.52,0:11:10.23,Default,,0,0,0,,Master Urokodaki!
 Dialogue: 10,0:11:11.69,0:11:17.32,Default,,0,0,0,,{\i1}From that day forward, \NMaster Urokodaki would no longer teach me.
 Dialogue: 10,0:11:43.59,0:11:48.10,Default,,0,0,0,,{\i1}I would practise what I had learned from \NMaster Urokodaki over and over every single day.
@@ -182,9 +182,9 @@ Dialogue: 10,0:12:57.42,0:12:58.63,Default,,0,0,0,,It's unseemly.
 Dialogue: 10,0:12:59.13,0:13:00.55,Default,,0,0,0,,{\i1}Where did he come from?
 Dialogue: 10,0:13:00.55,0:13:01.88,Default,,0,0,0,,{\i1}I can't pick up his scent!
 Dialogue: 10,0:13:01.88,0:13:03.47,Default,,0,0,0,,{\i1}Is that a fox mask?
-Dialogue: 10,0:13:03.97,0:13:06.97,Default,,0,0,0,,No matter what hardships you meet, bear it in silence.
+Dialogue: 10,0:13:03.97,0:13:06.97,Default,,0,0,0,,No matter what hardship you meet, bear it in silence.
 Dialogue: 10,0:13:07.76,0:13:09.60,Default,,0,0,0,,Like a real man.
-Dialogue: 10,0:13:11.52,0:13:13.81,Default,,0,0,0,,If you can even call yourself a man!
+Dialogue: 10,0:13:11.52,0:13:13.81,Default,,0,0,0,,If you can even call yourself a man.
 Dialogue: 10,0:13:22.36,0:13:23.32,Default,,0,0,0,,You're slow.
 Dialogue: 10,0:13:23.32,0:13:24.70,Default,,0,0,0,,You're weak.
 Dialogue: 10,0:13:24.70,0:13:26.16,Default,,0,0,0,,You're immature.
@@ -237,7 +237,7 @@ Dialogue: 10,0:16:49.98,0:16:52.40,Default,,0,0,0,,Not a single bit of wasted mo
 Dialogue: 10,0:16:52.40,0:16:54.45,Default,,0,0,0,,It was truly beautiful!
 Dialogue: 10,0:16:54.45,0:16:56.74,Default,,0,0,0,,I want to be just like him!
 Dialogue: 10,0:16:56.74,0:16:59.08,Default,,0,0,0,,You think I could become just as good as he is?
-Dialogue: 10,0:17:01.41,0:17:05.25,Default,,0,0,0,,I'm sure you can since I'll be watching over you.
+Dialogue: 10,0:17:01.41,0:17:05.25,Default,,0,0,0,,I'm sure you can, since I'll be watching over you.
 Dialogue: 10,0:17:09.96,0:17:11.59,Default,,0,0,0,,{\i1}She's so cute.
 Dialogue: 10,0:17:12.63,0:17:14.63,Default,,0,0,0,,Excuse me, but who are you?
 Dialogue: 10,0:17:16.51,0:17:19.64,Default,,0,0,0,,{\i1}That girl's name was Makomo.
