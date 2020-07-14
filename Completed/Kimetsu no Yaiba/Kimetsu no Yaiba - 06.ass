@@ -63,8 +63,8 @@ Dialogue: 10,0:03:26.10,0:03:27.27,Default,,0,0,0,,Right.
 Dialogue: 10,0:03:27.72,0:03:29.35,Default,,0,0,0,,One more thing.
 Dialogue: 10,0:03:29.35,0:03:30.23,Default,,0,0,0,,Take this.
 Dialogue: 10,0:03:31.23,0:03:34.86,Default,,0,0,0,,It's a box for you to carry \Nyour sister in during the day.
-Dialogue: 10,0:03:34.86,0:03:39.36,Default,,0,0,0,,It's built out of an extremely light \Nwood called "Cloud Mist Pine".
-Dialogue: 10,0:03:39.36,0:03:44.66,Default,,0,0,0,,I coated it with rock lacquer to reinforce its \Nexterior and make it even more durable.
+Dialogue: 10,0:03:34.86,0:03:39.36,Default,,0,0,0,,It's built out of an extremely light \Nwood known as "Cloud Mist Pine".
+Dialogue: 10,0:03:39.36,0:03:44.66,Default,,0,0,0,,I coated it with rock lacquer to further reinforce \Nits exterior and make it even more durable.
 Dialogue: 10,0:03:45.41,0:03:46.87,Default,,0,0,0,,Thank you so much!
 Dialogue: 10,0:03:48.54,0:03:51.50,Default,,0,0,0,,Wow, it's so light, Master Urokodaki!
 Dialogue: 10,0:03:58.38,0:03:59.34,Default,,0,0,0,,Nezuko!
@@ -85,10 +85,10 @@ Dialogue: 10,0:06:23.52,0:06:25.74,Default,,0,0,0,,Poor thing. He looks so hagga
 Dialogue: 10,0:06:31.95,0:06:34.99,Default,,0,0,0,,He's like that because he was \Nwith Satoko when she disappeared.
 Dialogue: 10,0:06:43.38,0:06:46.38,Default,,0,0,0,,It's the same story night after night. Beyond creepy.
 Dialogue: 10,0:06:46.38,0:06:48.76,Default,,0,0,0,,It's so dreadful!
-Dialogue: 10,0:06:48.76,0:06:51.68,Default,,0,0,0,,Another young girl will \Ngo missing when night arrives!
+Dialogue: 10,0:06:48.76,0:06:51.68,Default,,0,0,0,,Another young girl will go missing tonight!
 Dialogue: 10,0:06:56.22,0:06:57.35,Default,,0,0,0,,Kazumi!
 Dialogue: 10,0:07:04.44,0:07:06.69,Default,,0,0,0,,I'd like to have a word with you, if I may.
-Dialogue: 10,0:07:06.69,0:07:07.74,Default,,0,0,0,,Is that all right?
+Dialogue: 10,0:07:06.69,0:07:07.86,Default,,0,0,0,,Is that all right?
 Dialogue: 10,0:07:13.53,0:07:16.29,Default,,0,0,0,,This is where Satoko vanished.
 Dialogue: 10,0:07:16.99,0:07:19.50,Default,,0,0,0,,You may not believe me, but...
 Dialogue: 10,0:07:20.96,0:07:22.58,Default,,0,0,0,,I believe you!
@@ -113,7 +113,7 @@ Dialogue: 10,0:09:21.91,0:09:24.29,Default,,0,0,0,,It's gotten pretty late.
 Dialogue: 10,0:09:24.29,0:09:27.58,Default,,0,0,0,,I'm flattered that you're so concerned about me,
 Dialogue: 10,0:09:27.58,0:09:30.96,Default,,0,0,0,,but shouldn't you go get some rest \Nand pick this up again tomorrow?
 Dialogue: 10,0:09:33.30,0:09:35.34,Default,,0,0,0,,They're active during the night.
-Dialogue: 10,0:09:36.05,0:09:38.59,Default,,0,0,0,,I can't afford to rest up now.
+Dialogue: 10,0:09:36.05,0:09:38.59,Default,,0,0,0,,I can't afford to rest now.
 Dialogue: 10,0:09:39.68,0:09:42.43,Default,,0,0,0,,I've caught a fresh scent in this area.
 Dialogue: 10,0:09:43.39,0:09:45.77,Default,,0,0,0,,It's gotta be somewhere nearby.
 Dialogue: 10,0:09:46.64,0:09:47.98,Default,,0,0,0,,They?
@@ -131,8 +131,8 @@ Dialogue: 10,0:12:12.21,0:12:14.21,Default,,0,0,0,,The scent just got stronger!
 Dialogue: 10,0:12:14.21,0:12:15.54,Default,,0,0,0,,The demon's active!
 Dialogue: 10,0:12:20.42,0:12:21.97,Default,,0,0,0,,{\i1}He jumped?
 Dialogue: 10,0:12:21.97,0:12:23.26,Default,,0,0,0,,{\i1}He just mentioned demons...
-Dialogue: 10,0:12:23.97,0:12:25.26,Default,,0,0,0,,{\i1}So does that mean that...
-Dialogue: 10,0:12:25.68,0:12:26.76,Default,,0,0,0,,{\i1}Are the Demon Slayers real?
+Dialogue: 10,0:12:23.97,0:12:25.26,Default,,0,0,0,,{\i1}The Demon Slayers...
+Dialogue: 10,0:12:25.68,0:12:26.76,Default,,0,0,0,,{\i1}Do they actually exist?
 Dialogue: 10,0:12:37.73,0:12:38.73,Default,,0,0,0,,{\i1}This is the place.
 Dialogue: 10,0:12:39.65,0:12:41.07,Default,,0,0,0,,{\i1}They're here!
 Dialogue: 10,0:12:46.24,0:12:47.83,Default,,0,0,0,,{\i1}I can pick up two different scents.
@@ -169,8 +169,8 @@ Dialogue: 10,0:15:30.07,0:15:34.91,Default,,0,0,0,,with the kind of blood that \
 Dialogue: 10,0:15:35.62,0:15:37.33,Default,,0,0,0,,Just one...
 Dialogue: 10,0:15:37.33,0:15:42.17,Default,,0,0,0,,The first to become a demon millennia ago.
 Dialogue: 10,0:15:42.71,0:15:46.09,Default,,0,0,0,,In other words, your true enemy.
-Dialogue: 10,0:15:46.09,0:15:53.47,Default,,0,0,0,,Moreover, I believe he's the only one who might \Nknow how to turn your sister back into a human.
-Dialogue: 10,0:15:55.35,0:15:57.89,Default,,0,0,0,,That demon's name is
+Dialogue: 10,0:15:46.09,0:15:53.47,Default,,0,0,0,,Moreover, I believe he's the only one who might \Nknow how to restore your sister's humanity.
+Dialogue: 10,0:15:55.35,0:15:57.89,Default,,0,0,0,,That demon is known as...
 Dialogue: 10,0:16:02.90,0:16:05.31,Default,,0,0,0,,Kibutsuji Muzan!
 Dialogue: 10,0:16:05.90,0:16:07.19,Default,,0,0,0,,{\i1}Eighth Form!
 Dialogue: 10,0:16:07.19,0:16:08.36,Default,,0,0,0,,{\i1}Waterfall Basin!
@@ -225,7 +225,7 @@ Dialogue: 10,0:21:04.28,0:21:06.78,Default,,0,0,0,,I placed her under a hypnotic
 Dialogue: 10,0:21:06.78,0:21:08.53,Default,,0,0,0,,Suggestion?
 Dialogue: 10,0:21:08.53,0:21:11.29,Default,,0,0,0,,"All humans are your family."
 Dialogue: 10,0:21:11.95,0:21:14.04,Default,,0,0,0,,"Protect humans."
-Dialogue: 10,0:21:14.54,0:21:16.67,Default,,0,0,0,,{\i1}"The demons are your enemy!"
+Dialogue: 10,0:21:14.54,0:21:16.67,Default,,0,0,0,,{\i1}"Demons are your enemy!"
 Dialogue: 10,0:21:23.55,0:21:24.63,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:21:24.63,0:21:26.80,Default,,0,0,0,,{\i1}"Never forgive any demons"
 Dialogue: 10,0:21:26.80,0:21:28.80,Default,,0,0,0,,{\i1}"who bring harm onto humans!"
@@ -287,7 +287,7 @@ Comment: 0,0:01:48.42,0:01:51.38,OP1 - ROM,,0,0,0,,{\k1\k52}se{\k49}kai {\k43}ni
 Comment: 0,0:01:51.38,0:01:53.13,OP1 - ROM,,0,0,0,,{\k7\k13}ma{\k10}ke{\k21}ru {\k11}i{\k33}mi {\k14}wo {\k23}shi{\k19}t{\k19}ta{\k6}
 Comment: 0,0:01:53.25,0:01:57.34,OP1 - ROM,,0,0,0,,{\k1\k18}gu{\k37}re{\k31}n {\k42}no {\k23}ha{\k29}na {\k51}yo {\k52}sa{\k31}ki{\k37}ho{\k23}ko{\k41}re{\k1}
 Comment: 0,0:01:57.68,0:02:03.14,OP1 - ROM,,0,0,0,,{\k1\k43}un{\k22}me{\k19}i {\k63}wo{\k30} {\k21}te{\k27}ra{\k17}shi{\k116}te{\k188}
-Dialogue: 0,0:00:45.98,0:00:50.82,Sign,,0,0,0,,{\fad(0,100)\move(1004,699,1009,721.5,-1,0)\fscx111.8\fscy111.8\fnBrushStroke 35\b0\c&H000024&\blur8\t(0,240,\c&H000000&\blur0.85)\t(4570,4862,\blur8\c&H000024&)\t(24,4862,\fscx126.8\fscy126.8)}Demon Slayer
+Dialogue: 0,0:00:45.98,0:00:50.82,Sign,,0,0,0,,{\fad(0,100)\move(1004,699,1009,721.5,-1,0)\fscx111.8\fscy111.8\fnBrushStroke 35\b0\c&H000024&\blur8\t(0,240,\c&H000000&\blur0.7)\t(4570,4862,\blur8\c&H000024&)\t(24,4862,\fscx126.8\fscy126.8)}Demon Slayer
 Dialogue: 0,0:00:34.59,0:00:41.85,OP1 - ENG,,0,0,0,,{\bord0\c&H1B2ABA&\blur5\alpha&HFF&\t(0,300,\alpha&H00&)\t(6504,6804,\alpha&HFF&)}I {\alpha&HFF&\t(24,324,\alpha&H00&)\t(6534,6834,\alpha&HFF&)}n{\alpha&HFF&\t(36,336,\alpha&H00&)\t(6549,6849,\alpha&HFF&)}o{\alpha&HFF&\t(48,348,\alpha&H00&)\t(6564,6864,\alpha&HFF&)}w {\alpha&HFF&\t(72,372,\alpha&H00&)\t(6594,6894,\alpha&HFF&)}k{\alpha&HFF&\t(84,384,\alpha&H00&)\t(6609,6909,\alpha&HFF&)}n{\alpha&HFF&\t(96,396,\alpha&H00&)\t(6624,6924,\alpha&HFF&)}o{\alpha&HFF&\t(108,408,\alpha&H00&)\t(6639,6939,\alpha&HFF&)}w {\alpha&HFF&\t(132,432,\alpha&H00&)\t(6669,6969,\alpha&HFF&)}w{\alpha&HFF&\t(144,444,\alpha&H00&)\t(6684,6984,\alpha&HFF&)}h{\alpha&HFF&\t(156,456,\alpha&H00&)\t(6699,6999,\alpha&HFF&)}a{\alpha&HFF&\t(168,468,\alpha&H00&)\t(6714,7014,\alpha&HFF&)}t {\alpha&HFF&\t(192,492,\alpha&H00&)\t(6744,7044,\alpha&HFF&)}I {\alpha&HFF&\t(216,516,\alpha&H00&)\t(6774,7074,\alpha&HFF&)}c{\alpha&HFF&\t(228,528,\alpha&H00&)\t(6789,7089,\alpha&HFF&)}h{\alpha&HFF&\t(240,540,\alpha&H00&)\t(6804,7104,\alpha&HFF&)}e{\alpha&HFF&\t(252,552,\alpha&H00&)\t(6819,7119,\alpha&HFF&)}r{\alpha&HFF&\t(264,564,\alpha&H00&)\t(6834,7134,\alpha&HFF&)}i{\alpha&HFF&\t(276,576,\alpha&H00&)\t(6849,7149,\alpha&HFF&)}s{\alpha&HFF&\t(288,588,\alpha&H00&)\t(6864,7164,\alpha&HFF&)}h {\alpha&HFF&\t(312,612,\alpha&H00&)\t(6894,7194,\alpha&HFF&)}m{\alpha&HFF&\t(324,624,\alpha&H00&)\t(6909,7209,\alpha&HFF&)}o{\alpha&HFF&\t(336,636,\alpha&H00&)\t(6924,7224,\alpha&HFF&)}s{\alpha&HFF&\t(348,648,\alpha&H00&)\t(6939,7239,\alpha&HFF&)}t
 Dialogue: 1,0:00:34.88,0:00:41.81,OP1 - ENG,,0,0,0,,{\blur1\alpha&HFF&\t(0,300,\alpha&H00&)\t(6170,6470,\alpha&HFF&)}I {\alpha&HFF&\t(24,324,\alpha&H00&)\t(6200,6500,\alpha&HFF&)}n{\alpha&HFF&\t(36,336,\alpha&H00&)\t(6215,6515,\alpha&HFF&)}o{\alpha&HFF&\t(48,348,\alpha&H00&)\t(6230,6530,\alpha&HFF&)}w {\alpha&HFF&\t(72,372,\alpha&H00&)\t(6260,6560,\alpha&HFF&)}k{\alpha&HFF&\t(84,384,\alpha&H00&)\t(6275,6575,\alpha&HFF&)}n{\alpha&HFF&\t(96,396,\alpha&H00&)\t(6290,6590,\alpha&HFF&)}o{\alpha&HFF&\t(108,408,\alpha&H00&)\t(6305,6605,\alpha&HFF&)}w {\alpha&HFF&\t(132,432,\alpha&H00&)\t(6335,6635,\alpha&HFF&)}w{\alpha&HFF&\t(144,444,\alpha&H00&)\t(6350,6650,\alpha&HFF&)}h{\alpha&HFF&\t(156,456,\alpha&H00&)\t(6365,6665,\alpha&HFF&)}a{\alpha&HFF&\t(168,468,\alpha&H00&)\t(6380,6680,\alpha&HFF&)}t {\alpha&HFF&\t(192,492,\alpha&H00&)\t(6410,6710,\alpha&HFF&)}I {\alpha&HFF&\t(216,516,\alpha&H00&)\t(6440,6740,\alpha&HFF&)}c{\alpha&HFF&\t(228,528,\alpha&H00&)\t(6455,6755,\alpha&HFF&)}h{\alpha&HFF&\t(240,540,\alpha&H00&)\t(6470,6770,\alpha&HFF&)}e{\alpha&HFF&\t(252,552,\alpha&H00&)\t(6485,6785,\alpha&HFF&)}r{\alpha&HFF&\t(264,564,\alpha&H00&)\t(6500,6800,\alpha&HFF&)}i{\alpha&HFF&\t(276,576,\alpha&H00&)\t(6515,6815,\alpha&HFF&)}s{\alpha&HFF&\t(288,588,\alpha&H00&)\t(6530,6830,\alpha&HFF&)}h {\alpha&HFF&\t(312,612,\alpha&H00&)\t(6560,6860,\alpha&HFF&)}m{\alpha&HFF&\t(324,624,\alpha&H00&)\t(6575,6875,\alpha&HFF&)}o{\alpha&HFF&\t(336,636,\alpha&H00&)\t(6590,6890,\alpha&HFF&)}s{\alpha&HFF&\t(348,648,\alpha&H00&)\t(6605,6905,\alpha&HFF&)}t
 Dialogue: 0,0:00:41.27,0:00:50.15,OP1 - ENG,,0,0,0,,{\bord0\c&H1B2ABA&\blur5\alpha&HFF&\t(0,300,\alpha&H00&)\t(7964,8264,\alpha&HFF&)}S{\alpha&HFF&\t(12,312,\alpha&H00&)\t(7979,8279,\alpha&HFF&)}o {\alpha&HFF&\t(37,337,\alpha&H00&)\t(8009,8309,\alpha&HFF&)}I{\alpha&HFF&\t(50,350,\alpha&H00&)\t(8024,8324,\alpha&HFF&)}'{\alpha&HFF&\t(62,362,\alpha&H00&)\t(8039,8339,\alpha&HFF&)}l{\alpha&HFF&\t(75,375,\alpha&H00&)\t(8054,8354,\alpha&HFF&)}l {\alpha&HFF&\t(100,400,\alpha&H00&)\t(8084,8384,\alpha&HFF&)}p{\alpha&HFF&\t(112,412,\alpha&H00&)\t(8099,8399,\alpha&HFF&)}r{\alpha&HFF&\t(124,424,\alpha&H00&)\t(8114,8414,\alpha&HFF&)}o{\alpha&HFF&\t(137,437,\alpha&H00&)\t(8129,8429,\alpha&HFF&)}t{\alpha&HFF&\t(149,449,\alpha&H00&)\t(8144,8444,\alpha&HFF&)}e{\alpha&HFF&\t(162,462,\alpha&H00&)\t(8159,8459,\alpha&HFF&)}c{\alpha&HFF&\t(174,474,\alpha&H00&)\t(8174,8474,\alpha&HFF&)}t {\alpha&HFF&\t(199,499,\alpha&H00&)\t(8204,8504,\alpha&HFF&)}t{\alpha&HFF&\t(211,511,\alpha&H00&)\t(8219,8519,\alpha&HFF&)}h{\alpha&HFF&\t(224,524,\alpha&H00&)\t(8234,8534,\alpha&HFF&)}i{\alpha&HFF&\t(236,536,\alpha&H00&)\t(8249,8549,\alpha&HFF&)}s {\alpha&HFF&\t(261,561,\alpha&H00&)\t(8279,8579,\alpha&HFF&)}p{\alpha&HFF&\t(274,574,\alpha&H00&)\t(8294,8594,\alpha&HFF&)}r{\alpha&HFF&\t(286,586,\alpha&H00&)\t(8309,8609,\alpha&HFF&)}o{\alpha&HFF&\t(299,599,\alpha&H00&)\t(8324,8624,\alpha&HFF&)}m{\alpha&HFF&\t(311,611,\alpha&H00&)\t(8339,8639,\alpha&HFF&)}i{\alpha&HFF&\t(323,623,\alpha&H00&)\t(8354,8654,\alpha&HFF&)}s{\alpha&HFF&\t(336,636,\alpha&H00&)\t(8369,8669,\alpha&HFF&)}e {\alpha&HFF&\t(361,661,\alpha&H00&)\t(8399,8699,\alpha&HFF&)}'{\alpha&HFF&\t(373,673,\alpha&H00&)\t(8414,8714,\alpha&HFF&)}t{\alpha&HFF&\t(386,686,\alpha&H00&)\t(8429,8729,\alpha&HFF&)}i{\alpha&HFF&\t(398,698,\alpha&H00&)\t(8444,8744,\alpha&HFF&)}l {\alpha&HFF&\t(423,723,\alpha&H00&)\t(8474,8774,\alpha&HFF&)}t{\alpha&HFF&\t(435,735,\alpha&H00&)\t(8489,8789,\alpha&HFF&)}h{\alpha&HFF&\t(448,748,\alpha&H00&)\t(8504,8804,\alpha&HFF&)}e {\alpha&HFF&\t(473,773,\alpha&H00&)\t(8534,8834,\alpha&HFF&)}e{\alpha&HFF&\t(485,785,\alpha&H00&)\t(8549,8849,\alpha&HFF&)}n{\alpha&HFF&\t(498,798,\alpha&H00&)\t(8564,8864,\alpha&HFF&)}d
@@ -683,8 +683,8 @@ Dialogue: 0,0:23:37.39,0:23:37.43,Sign,,0,0,0,,{\pos(1079.01,1008.57)\fs130\bord
 Dialogue: 1,0:23:37.39,0:23:37.43,Sign,,0,0,0,,{\pos(1079.01,1008.57)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1\4a&H00&\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
 Dialogue: 2,0:23:37.39,0:23:37.43,Sign,,0,0,0,,{\pos(1079.01,1008.57)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
 Dialogue: 3,0:23:37.39,0:23:37.43,Sign,,0,0,0,,{\pos(1079.01,1008.57)\fs130\4a&HFF&\blur1\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
-Dialogue: 0,0:23:37.43,0:23:39.98,Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord23\c&H000000&\3c&H080118&\blur1\4a&H00&\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
-Dialogue: 1,0:23:37.43,0:23:39.98,Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1\4a&H00&\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
-Dialogue: 2,0:23:37.43,0:23:39.98,Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
-Dialogue: 3,0:23:37.43,0:23:39.98,Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\4a&HFF&\blur1\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
+Dialogue: 0,0:23:37.43,0:23:40.02,Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord23\c&H000000&\3c&H080118&\blur1\4a&H00&\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
+Dialogue: 1,0:23:37.43,0:23:40.02,Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1\4a&H00&\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
+Dialogue: 2,0:23:37.43,0:23:40.02,Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
+Dialogue: 3,0:23:37.43,0:23:40.02,Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\4a&HFF&\blur1\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [    FIN   ] ----------------------------------------------
