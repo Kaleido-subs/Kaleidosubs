@@ -15,6 +15,7 @@ Original Timing: torn
 ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
+Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default (1080p)
 Audio File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba Vol.4v2 (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba - 09v2 (BD 1080p) [5F80E859].mkv
 Video File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba Vol.4v2 (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba - 09v2 (BD 1080p) [5F80E859].mkv
@@ -55,7 +56,7 @@ Dialogue: 10,0:03:14.50,0:03:16.55,Default,,0,0,0,,It's too careless.
 Dialogue: 10,0:03:16.55,0:03:17.71,Default,,0,0,0,,You covered me!
 Dialogue: 10,0:03:18.05,0:03:20.43,Default,,0,0,0,,My kimono is all covered in dirt now!
 Dialogue: 10,0:03:21.47,0:03:23.14,Default,,0,0,0,,Oh, stop whining!
-Dialogue: 10,0:03:23.43,0:03:27.97,Default,,0,0,0,,We managed to find them right away \Nthanks to my temari, so who cares?
+Dialogue: 10,0:03:23.43,0:03:27.97,Default,,0,0,0,,We found them right away \Nthanks to my temari, so who cares?
 Dialogue: 10,0:03:27.97,0:03:30.48,Default,,0,0,0,,And now we can have tons of fun!
 Dialogue: 10,0:03:36.40,0:03:38.48,Default,,0,0,0,,You've gone and covered me in dirt again!
 Dialogue: 10,0:03:38.48,0:03:40.28,Default,,0,0,0,,You're so uptight.
@@ -154,21 +155,21 @@ Dialogue: 10,0:09:43.10,0:09:46.31,Default,,0,0,0,,The arrows point in which dir
 Dialogue: 10,0:09:46.31,0:09:47.73,Default,,0,0,0,,Just dodge the arrows!
 Dialogue: 10,0:09:48.35,0:09:50.06,Default,,0,0,0,,Arrows?
 Dialogue: 10,0:09:50.65,0:09:53.82,Default,,0,0,0,,For crying out loud, you can't even see them?
-Dialogue: 10,0:09:54.36,0:09:56.61,Default,,0,0,0,,I'm going to lend you my sense of sight!
+Dialogue: 10,0:09:54.36,0:09:56.61,Default,,0,0,0,,I will lend you my sense of sight!
 Dialogue: 10,0:09:56.61,0:09:59.82,Default,,0,0,0,,That should at least enable you \Nto behead that temari woman!
 Dialogue: 10,0:10:12.59,0:10:13.84,Default,,0,0,0,,{\i1}I can see them now!
 Dialogue: 10,0:10:13.84,0:10:16.22,Default,,0,0,0,,{\i1}She was using those arrows to control
 Dialogue: 10,0:10:18.26,0:10:19.97,Default,,0,0,0,,{\i1}the trajectory of the temari!
 Dialogue: 10,0:10:23.18,0:10:24.81,Default,,0,0,0,,Thanks, Yushirou!
 Dialogue: 10,0:10:24.81,0:10:26.98,Default,,0,0,0,,I can see the arrows now!
-Dialogue: 10,0:10:27.52,0:10:29.35,Default,,0,0,0,,Hurry up and defeat her then!
+Dialogue: 10,0:10:27.52,0:10:29.35,Default,,0,0,0,,Hurry up and defeat her, then!
 Dialogue: 10,0:10:30.48,0:10:31.31,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:10:31.73,0:10:33.19,Default,,0,0,0,,Let's go outside!
 Dialogue: 10,0:10:33.19,0:10:35.19,Default,,0,0,0,,Take care of the demon up in the trees!
 Dialogue: 10,0:10:44.29,0:10:46.62,Default,,0,0,0,,I'm your target!
 Dialogue: 10,0:10:47.50,0:10:51.75,Default,,0,0,0,,The demon hunter wearing hanafuda earrings...
 Dialogue: 10,0:10:51.75,0:10:53.13,Default,,0,0,0,,No question about it.
-Dialogue: 10,0:10:53.54,0:10:57.05,Default,,0,0,0,,I'm going to bring your head to our lord!
+Dialogue: 10,0:10:53.54,0:10:57.05,Default,,0,0,0,,I will bring your head to our lord!
 Dialogue: 10,0:11:00.97,0:11:02.47,Default,,0,0,0,,This is fun!
 Dialogue: 10,0:11:09.48,0:11:11.98,Default,,0,0,0,,{\i1}Nezuko, how much longer will it take?
 Dialogue: 10,0:11:24.58,0:11:25.83,Default,,0,0,0,,{\i1}They're gone!
@@ -212,7 +213,7 @@ Dialogue: 10,0:14:03.15,0:14:05.78,Default,,0,0,0,,Don't stir up dirt like that.
 Dialogue: 10,0:14:05.78,0:14:07.53,Default,,0,0,0,,It's dirty!
 Dialogue: 10,0:14:20.67,0:14:24.80,Default,,0,0,0,,{\i1}She grew new arms in such a short time!
 Dialogue: 10,0:14:25.63,0:14:29.55,Default,,0,0,0,,{\i1}She regenerates way faster than \Nthe demons I fought during the Final Selection!
-Dialogue: 10,0:14:31.26,0:14:34.60,Default,,0,0,0,,I'm going to bring him that head of yours.
+Dialogue: 10,0:14:31.26,0:14:34.60,Default,,0,0,0,,I will bring him that head of yours.
 Dialogue: 10,0:14:42.40,0:14:43.40,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:14:46.24,0:14:50.24,Default,,0,0,0,,Now then, why don't you two die together?
 Dialogue: 10,0:14:54.79,0:14:56.79,Default,,0,0,0,,Are you okay, Nezuko?
@@ -232,7 +233,7 @@ Dialogue: 10,0:15:41.92,0:15:43.54,Default,,0,0,0,,{\i1}The opening thread!
 Dialogue: 10,0:15:44.79,0:15:47.63,Default,,0,0,0,,You grimy little imp.
 Dialogue: 10,0:15:47.63,0:15:49.30,Default,,0,0,0,,Stay away from me!
 Dialogue: 10,0:15:52.47,0:15:54.72,Default,,0,0,0,,{\i1}The thread snapped?!
-Dialogue: 10,0:16:11.15,0:16:13.45,Default,,0,0,0,,{\i1}This hurts! It...
+Dialogue: 10,0:16:11.15,0:16:13.45,Default,,0,0,0,,{\i1}It hurts! It...
 Dialogue: 10,0:16:13.45,0:16:14.87,Default,,0,0,0,,{\i1}It seriously hurts!
 Dialogue: 10,0:16:25.58,0:16:27.09,Default,,0,0,0,,{\i1}A technique!
 Dialogue: 10,0:16:28.42,0:16:31.01,Default,,0,0,0,,{\i1}I need to lighten the impact \Nwith one of my techniques!
