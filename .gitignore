@@ -49,8 +49,10 @@
 # Misc
 *.7z
 *.bat
+*.cbz
 *.exe
 *.parts
+*.py
 *.rar
 *.txt
 *.zip
