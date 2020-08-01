@@ -53,7 +53,7 @@ Dialogue: 10,0:03:05.58,0:03:07.37,Default,,0,0,0,,Isn't this fun?
 Dialogue: 10,0:03:08.71,0:03:10.58,Default,,0,0,0,,Still, I have to point this out, Susamaru...
 Dialogue: 10,0:03:11.25,0:03:14.00,Default,,0,0,0,,Your way of doing things is too immature.
 Dialogue: 10,0:03:14.50,0:03:16.55,Default,,0,0,0,,It's too careless.
-Dialogue: 10,0:03:16.55,0:03:17.71,Default,,0,0,0,,You covered me!
+Dialogue: 10,0:03:16.55,0:03:17.71,Default,,0,0,0,,You soiled me!
 Dialogue: 10,0:03:18.05,0:03:20.43,Default,,0,0,0,,My kimono is all covered in dirt now!
 Dialogue: 10,0:03:21.47,0:03:23.14,Default,,0,0,0,,Oh, stop whining!
 Dialogue: 10,0:03:23.43,0:03:27.97,Default,,0,0,0,,We found them right away \Nthanks to my temari, so who cares?
@@ -98,7 +98,7 @@ Dialogue: 10,0:06:01.92,0:06:03.42,Default,,0,0,0,,{\i1}Total Concentration!
 Dialogue: 10,0:06:03.42,0:06:04.92,Default,,0,0,0,,{\i1}Water Breathing!
 Dialogue: 10,0:06:05.21,0:06:06.17,Default,,0,0,0,,{\i1}Seventh Form!
 Dialogue: 10,0:06:06.67,0:06:09.43,Default,,0,0,0,,{\i1}Droplet Ripple Thrust-curve!
-Dialogue: 10,0:06:12.47,0:06:17.89,Default,,0,0,0,,{\i1}Oh, so your plan's to thrust at the curve \Ndiagonally to soften the temari's blow?
+Dialogue: 10,0:06:12.47,0:06:17.89,Default,,0,0,0,,{\i1}Oh, so your plan's to thrust at it \Ndiagonally to soften the temari's blow?
 Dialogue: 10,0:06:18.94,0:06:19.94,Default,,0,0,0,,{\i1}However...
 Dialogue: 10,0:06:25.07,0:06:27.45,Default,,0,0,0,,{\i1}How can that temari move around like that?
 Dialogue: 10,0:06:28.03,0:06:31.87,Default,,0,0,0,,{\i1}It swerved unnaturally when it struck Yushirou, too!
@@ -120,14 +120,14 @@ Dialogue: 10,0:07:25.88,0:07:28.88,Default,,0,0,0,,which increases the odds of K
 Dialogue: 10,0:07:29.92,0:07:32.39,Default,,0,0,0,,{\i1}Those demons got so close,
 Dialogue: 10,0:07:32.39,0:07:34.68,Default,,0,0,0,,{\i1}yet there was no scent until they attacked!
 Dialogue: 10,0:07:35.93,0:07:38.31,Default,,0,0,0,,{\i1}So that was the work of Yushirou's Blood Arts, huh?
-Dialogue: 10,0:07:39.48,0:07:43.44,Default,,0,0,0,,Anyone who ruins the time I spend alone with you...
+Dialogue: 10,0:07:39.48,0:07:43.44,Default,,0,0,0,,Those who ruins the time I spend alone with you...
 Dialogue: 10,0:07:43.44,0:07:45.19,Default,,0,0,0,,I despise such people!
 Dialogue: 10,0:07:46.11,0:07:47.94,Default,,0,0,0,,I despise them with all my heart!
 Dialogue: 10,0:07:49.07,0:07:50.95,Default,,0,0,0,,I'll never forgive them!
 Dialogue: 10,0:07:54.20,0:07:56.70,Default,,0,0,0,,Wow, he's just blabbering away!
 Dialogue: 10,0:07:57.79,0:07:59.50,Default,,0,0,0,,This is fun!
 Dialogue: 10,0:07:59.50,0:08:01.16,Default,,0,0,0,,I'm having so much fun!
-Dialogue: 10,0:08:01.79,0:08:05.29,Default,,0,0,0,,You should be honoured to be killed by me,
+Dialogue: 10,0:08:01.79,0:08:05.29,Default,,0,0,0,,You should feel honoured to be killed by me,
 Dialogue: 10,0:08:05.29,0:08:07.55,Default,,0,0,0,,one of the Twelve Blood Moons!
 Dialogue: 10,0:08:08.09,0:08:10.05,Default,,0,0,0,,Twelve Blood Moons?
 Dialogue: 10,0:08:10.59,0:08:13.05,Default,,0,0,0,,They serve directly under Kibutsuji!
@@ -136,11 +136,11 @@ Dialogue: 10,0:08:27.36,0:08:30.57,Default,,0,0,0,,Let's keep playing!
 Dialogue: 10,0:08:30.57,0:08:32.40,Default,,0,0,0,,Until the break of dawn!
 Dialogue: 10,0:08:32.65,0:08:34.66,Default,,0,0,0,,Until you meet your demise!
 Dialogue: 10,0:08:44.75,0:08:48.88,Default,,0,0,0,,{\i1}If I were to cast my Blood Arts now, \Nit would affect Tanjirou as well.
-Dialogue: 10,0:08:49.71,0:08:53.67,Default,,0,0,0,,{\i1}And Yushirou needs time to \Nprepare before he can attack.
+Dialogue: 10,0:08:49.71,0:08:53.67,Default,,0,0,0,,{\i1}And Yushirou needs time \Nto prepare before he can attack.
 Dialogue: 10,0:08:54.30,0:08:55.63,Default,,0,0,0,,{\i1}But if this goes on...
 Dialogue: 10,0:08:59.18,0:09:00.26,Default,,0,0,0,,{\i1}There it is again!
 Dialogue: 10,0:09:00.26,0:09:03.31,Default,,0,0,0,,{\i1}They changed trajectory again, \Neven without hitting anything!
-Dialogue: 10,0:09:07.94,0:09:12.90,Default,,0,0,0,,{\i1}Even if I cut them and they lose force, \Nthey still end up hitting me anyway!
+Dialogue: 10,0:09:07.94,0:09:12.90,Default,,0,0,0,,{\i1}Even if I cut them and they lose speed, \Nthey still end up hitting me anyway!
 Dialogue: 10,0:09:17.16,0:09:19.45,Default,,0,0,0,,{\i1}I can smell two different scents.
 Dialogue: 10,0:09:19.45,0:09:21.20,Default,,0,0,0,,{\i1}There are two demons!
 Dialogue: 10,0:09:21.20,0:09:23.12,Default,,0,0,0,,{\i1}I can locate them with their scent!
@@ -151,7 +151,7 @@ Dialogue: 10,0:09:34.51,0:09:36.30,Default,,0,0,0,,{\i1}I don't have time to cov
 Dialogue: 10,0:09:37.26,0:09:39.51,Default,,0,0,0,,We'll heal soon enough!
 Dialogue: 10,0:09:39.51,0:09:40.68,Default,,0,0,0,,Don't worry about us!
 Dialogue: 10,0:09:40.68,0:09:43.10,Default,,0,0,0,,Hey! You dumbass demon hunter!
-Dialogue: 10,0:09:43.10,0:09:46.31,Default,,0,0,0,,The arrows point in which direction they're going!
+Dialogue: 10,0:09:43.10,0:09:46.31,Default,,0,0,0,,The arrows show which way they're going.
 Dialogue: 10,0:09:46.31,0:09:47.73,Default,,0,0,0,,Just dodge the arrows!
 Dialogue: 10,0:09:48.35,0:09:50.06,Default,,0,0,0,,Arrows?
 Dialogue: 10,0:09:50.65,0:09:53.82,Default,,0,0,0,,For crying out loud, you can't even see them?
@@ -168,8 +168,8 @@ Dialogue: 10,0:10:31.73,0:10:33.19,Default,,0,0,0,,Let's go outside!
 Dialogue: 10,0:10:33.19,0:10:35.19,Default,,0,0,0,,Take care of the demon up in the trees!
 Dialogue: 10,0:10:44.29,0:10:46.62,Default,,0,0,0,,I'm your target!
 Dialogue: 10,0:10:47.50,0:10:51.75,Default,,0,0,0,,The demon hunter wearing hanafuda earrings...
-Dialogue: 10,0:10:51.75,0:10:53.13,Default,,0,0,0,,No question about it.
-Dialogue: 10,0:10:53.54,0:10:57.05,Default,,0,0,0,,I will bring your head to our lord!
+Dialogue: 10,0:10:51.75,0:10:53.13,Default,,0,0,0,,No doubt about it.
+Dialogue: 10,0:10:53.54,0:10:57.05,Default,,0,0,0,,I will deliver your head to our lord!
 Dialogue: 10,0:11:00.97,0:11:02.47,Default,,0,0,0,,This is fun!
 Dialogue: 10,0:11:09.48,0:11:11.98,Default,,0,0,0,,{\i1}Nezuko, how much longer will it take?
 Dialogue: 10,0:11:24.58,0:11:25.83,Default,,0,0,0,,{\i1}They're gone!
@@ -187,8 +187,8 @@ Dialogue: 10,0:12:12.33,0:12:16.88,Default,,0,0,0,,One, permission to study your
 Dialogue: 10,0:12:16.88,0:12:24.39,Default,,0,0,0,,Two, to retrieve as many blood samples from demons \Nwith a high concentration of Kibutsuji's blood as you can.
 Dialogue: 10,0:12:25.14,0:12:33.69,Default,,0,0,0,,A demon with a high concentration of Kibutsuji's blood \Nmeans a demon close in strength to Kibutsuji himself.
 Dialogue: 10,0:12:34.19,0:12:38.15,Default,,0,0,0,,{\t(3690,3960,\1a&HFF&\3a&HFF&\4a&HFF&)}It won't be easy to extract blood from such demons.
-Dialogue: 10,0:12:40.23,0:12:41.78,Default,,0,0,0,,Third Form!
-Dialogue: 10,0:12:41.78,0:12:43.49,Default,,0,0,0,,Flowing Dance!
+Dialogue: 10,0:12:40.23,0:12:41.78,Default,,0,0,0,,{\i1}Third Form!
+Dialogue: 10,0:12:41.78,0:12:43.49,Default,,0,0,0,,{\i1}Flowing Dance!
 Dialogue: 10,0:12:47.41,0:12:48.66,Default,,0,0,0,,Miss Tamayo!
 Dialogue: 10,0:12:48.91,0:12:52.25,Default,,0,0,0,,Do these two demons have \Na high concentration of Kibutsuji's blood?
 Dialogue: 10,0:12:52.79,0:12:53.96,Default,,0,0,0,,Most likely.
@@ -198,7 +198,7 @@ Dialogue: 10,0:13:12.35,0:13:16.85,Default,,0,0,0,,but I won't allow you to do \
 Dialogue: 10,0:13:19.61,0:13:24.32,Default,,0,0,0,,If you think you can extract blood \Nfrom us Blood Moons,
 Dialogue: 10,0:13:24.32,0:13:26.03,Default,,0,0,0,,then go ahead and try!
 Dialogue: 10,0:13:26.61,0:13:27.99,Default,,0,0,0,,Watch your back!
-Dialogue: 10,0:13:27.99,0:13:30.37,Default,,0,0,0,,Don't let your guard down for a single second!
+Dialogue: 10,0:13:27.99,0:13:30.37,Default,,0,0,0,,Don't let your guard down for even a second!
 Dialogue: 10,0:13:30.37,0:13:33.20,Default,,0,0,0,,If these two really are Blood Moons,
 Dialogue: 10,0:13:33.20,0:13:37.96,Default,,0,0,0,,then they're undeniably more formidable \Nthan any other demon you've slain up to this point!
 Dialogue: 10,0:13:37.96,0:13:38.92,Default,,0,0,0,,Right!
@@ -225,7 +225,7 @@ Dialogue: 10,0:15:06.63,0:15:09.47,Default,,0,0,0,,Nezuko, don't push yourself t
 Dialogue: 10,0:15:24.52,0:15:25.40,Default,,0,0,0,,I'm counting on you.
 Dialogue: 10,0:15:27.03,0:15:28.19,Default,,0,0,0,,{\i1}I swear...
 Dialogue: 10,0:15:28.19,0:15:30.03,Default,,0,0,0,,{\i1}I'm going to extract their blood!
-Dialogue: 10,0:15:30.32,0:15:33.37,Default,,0,0,0,,{\i1}If it means the medicine will be \Nperfected even a minute sooner,
+Dialogue: 10,0:15:30.32,0:15:33.37,Default,,0,0,0,,{\i1}If it means the cure will be \Nperfected even a minute sooner,
 Dialogue: 10,0:15:33.70,0:15:35.66,Default,,0,0,0,,{\i1}I'd gladly face any demon!
 Dialogue: 10,0:15:35.66,0:15:37.37,Default,,0,0,0,,{\i1}I'll fight and win!
 Dialogue: 10,0:15:40.25,0:15:41.17,Default,,0,0,0,,{\i1}There it is!
@@ -236,7 +236,7 @@ Dialogue: 10,0:15:52.47,0:15:54.72,Default,,0,0,0,,{\i1}The thread snapped?!
 Dialogue: 10,0:16:11.15,0:16:13.45,Default,,0,0,0,,{\i1}It hurts! It...
 Dialogue: 10,0:16:13.45,0:16:14.87,Default,,0,0,0,,{\i1}It seriously hurts!
 Dialogue: 10,0:16:25.58,0:16:27.09,Default,,0,0,0,,{\i1}A technique!
-Dialogue: 10,0:16:28.42,0:16:31.01,Default,,0,0,0,,{\i1}I need to lighten the impact \Nwith one of my techniques!
+Dialogue: 10,0:16:28.42,0:16:31.01,Default,,0,0,0,,{\i1}I need to soften my landing \Nwith one of my techniques!
 Dialogue: 10,0:16:31.30,0:16:32.97,Default,,0,0,0,,{\i1}Eighth Form!
 Dialogue: 10,0:16:32.97,0:16:34.22,Default,,0,0,0,,{\i1}Waterfall Basin!
 Dialogue: 10,0:16:53.28,0:16:54.40,Default,,0,0,0,,He's gone?
@@ -267,7 +267,7 @@ Dialogue: 10,0:18:30.38,0:18:34.05,Default,,0,0,0,,{\i1}But even if I can see th
 Dialogue: 10,0:18:35.38,0:18:38.34,Default,,0,0,0,,{\i1}Any move would be pointless
 Dialogue: 10,0:18:38.34,0:18:40.97,Default,,0,0,0,,{\i1}unless I can land my blow with pinpoint accuracy!
 Dialogue: 10,0:18:41.72,0:18:45.72,Default,,0,0,0,,{\i1}If I'm off by even a little, \Nit won't be strong enough to take him down!
-Dialogue: 10,0:18:46.48,0:18:50.56,Default,,0,0,0,,{\i1}He'll just change the blade's direction \Nusing his arrow skills!
+Dialogue: 10,0:18:46.48,0:18:50.56,Default,,0,0,0,,{\i1}He'll just change the blade's direction \Nusing his arrow ability!
 Dialogue: 10,0:18:52.40,0:18:56.74,Default,,0,0,0,,{\i1}And I hate to say it, \Nbut those eyeballs are {\i0}really{\i1} creepy!
 Dialogue: 10,0:18:57.36,0:18:58.86,Default,,0,0,0,,{\i1}Though I hate to say it!
 Dialogue: 10,0:19:06.41,0:19:08.79,Default,,0,0,0,,{\i1}These arrows are so fast!
@@ -282,9 +282,9 @@ Dialogue: 10,0:19:56.34,0:19:57.42,Default,,0,0,0,,{\i1}Damn monkey!
 Dialogue: 10,0:19:58.51,0:20:01.13,Default,,0,0,0,,{\i1}I can't take much more of his attacks!
 Dialogue: 10,0:20:01.55,0:20:02.80,Default,,0,0,0,,{\i1}I've gotta strike back!
 Dialogue: 10,0:20:03.30,0:20:07.18,Default,,0,0,0,,{\i1}I've gotta change the arrow's direction \Nwithout touching it directly!
-Dialogue: 10,0:20:08.47,0:20:10.60,Default,,0,0,0,,It's about time you die!
+Dialogue: 10,0:20:08.47,0:20:10.60,Default,,0,0,0,,It's about time you diedssss!
 Dialogue: 10,0:20:12.77,0:20:14.02,Default,,0,0,0,,{\i1}Adapt your movement!
-Dialogue: 10,0:20:15.61,0:20:19.03,Default,,0,0,0,,{\i1}First, use the Sixth Form to envelope the arrow!
+Dialogue: 10,0:20:15.61,0:20:19.03,Default,,0,0,0,,{\i1}First, use the Sixth Form to envelop the arrow!
 Dialogue: 10,0:20:21.57,0:20:24.07,Default,,0,0,0,,{\i1}Then use the footwork of the Third Form
 Dialogue: 10,0:20:25.28,0:20:26.78,Default,,0,0,0,,{\i1}to close in on him!
 Dialogue: 10,0:20:31.75,0:20:32.75,Default,,0,0,0,,{\i1}Twist!
@@ -668,8 +668,8 @@ Dialogue: 1,0:21:46.78,0:21:46.86,ED1 - ROM,,0,0,0,,{\pos(1636,96.16)\fscx84\fsc
 Dialogue: 0,0:21:46.78,0:21:46.86,ED1 - ROM,,0,0,0,,{\pos(356,110.16)\fscx71\fscy71\frz304\bord6\shad0\c&H5E2BEB&\3c&H1C1F7C&\1a&HC8&\3a&HDC&\blur12\p1}m 0 0 l 2 -5 6 -6 12 -20 15 -15 20 -13 25 -30 27 -29 30 -27 30 -27 30 -27 25 -26 20 -13 14 -13 12 -20 6 -6 5 -3 0 0
 Dialogue: 0,0:21:46.78,0:21:46.86,ED1 - ROM,,0,0,0,,{\pos(1636,96.16)\fscx84\fscy84\frz195\bord6\shad0\c&H5E2BEB&\3c&H1C1F7C&\1a&HC8&\3a&HDC&\blur12\p1}m 0 0 l 4 -2 7 0 14 -17 16 -15 21 -14 28 -28 32 -33 34 -36 40 -25 42 -30 46 -34 46 -34 44 -25 40 -24 34 -36 37 -37 28 -24 21 -14 21 -16 14 -16 7 0 1 3 0 0
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [     TS    ] ----------------------------------------------
-Dialogue: 0,0:02:25.62,0:02:30.00,Sign,,0,0,0,,{\fad(950,0)\c&HFEFFFD&\fscx60\fscy60\fs122\blur8\fnRSStyle\b0\move(640,200.5,640,200,0,1150)\an8\t(0,1100,\fs120\blur3)\1a&HC8&\bord1\fsp-12}E{\fsp0}pisode{\fsp-20}_{\fsp-6}9\N\N\N{\fscx90\fscy90}T{\fsp0}he{\fsp-12}_{\fsp-6}T{\fsp0}emari{\fsp-12}_{\fsp-6}D{\fsp0}emon\Nand\Nthe{\fsp-12}_{\fsp0}A{\fsp0}rrow{\fsp-12}_{\fsp-6}D{\fsp0}emon
-Dialogue: 1,0:02:25.62,0:02:30.00,Sign,,0,0,0,,{\fad(950,0)\c&HFEFFFD&\fscx60\fscy60\fs122\blur8\fnRSStyle\b0\move(640,200.5,640,200,0,1150)\an8\t(0,1100,\fs120\blur0.9)\fsp-12}E{\fsp0}pisode{\fsp-20}_{\fsp-6}9\N\N\N{\fscx90\fscy90}T{\fsp0}he{\fsp-12}_{\fsp-6}T{\fsp0}emari{\fsp-12}_{\fsp-6}D{\fsp0}emon\Nand\Nthe{\fsp-12}_{\fsp0}A{\fsp0}rrow{\fsp-12}_{\fsp-6}D{\fsp0}emon
+Dialogue: 0,0:02:25.62,0:02:30.00,Sign,,0,0,0,,{\fad(950,0)\c&HFEFFFD&\fscx60\fscy60\fs122\blur8\fnRSStyle\b0\move(640,200.5,640,200,0,1150)\an8\t(0,1100,\fs120\blur3)\1a&HC8&\bord1\fsp-12}E{\fsp0}pisode{\fsp-20}_{\fsp-6}9\N\N\N{\fscx90\fscy90}T{\fsp0}he{\fsp-12}_{\fsp-6}T{\fsp0}emari{\fsp-12}_{\fsp-6}D{\fsp0}emon\Nand\Nthe{\fsp-12}_{\fsp-6}A{\fsp0}rrow{\fsp-12}_{\fsp-6}D{\fsp0}emon
+Dialogue: 1,0:02:25.62,0:02:30.00,Sign,,0,0,0,,{\fad(950,0)\c&HFEFFFD&\fscx60\fscy60\fs122\blur8\fnRSStyle\b0\move(640,200.5,640,200,0,1150)\an8\t(0,1100,\fs120\blur0.9)\fsp-12}E{\fsp0}pisode{\fsp-20}_{\fsp-6}9\N\N\N{\fscx90\fscy90}T{\fsp0}he{\fsp-12}_{\fsp-6}T{\fsp0}emari{\fsp-12}_{\fsp-6}D{\fsp0}emon\Nand\Nthe{\fsp-12}_{\fsp-6}A{\fsp0}rrow{\fsp-12}_{\fsp-6}D{\fsp0}emon
 Dialogue: 0,0:11:56.98,0:12:04.99,Sign,,0,0,0,,{\pos(1539.61,877.22)\fscx100.46\fscy100.46\fs48\c&H090415&\blur0.56\4a&H00&\b0\an2\fnBrushStroke 35\3a&H00&}Demon Slayer
 Dialogue: 0,0:22:40.04,0:22:40.42,Sign,,0,0,0,,{\pos(968.999,453.231)\fscx100.46\fscy100.46\fnBrushStroke 35\fs82\b0\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
 Dialogue: 0,0:22:40.42,0:22:40.46,Sign,,0,0,0,,{\pos(968.927,453.503)\fscx100.46\fscy100.46\frz0.1\fnBrushStroke 35\fs82\b0\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
@@ -751,8 +751,8 @@ Dialogue: 0,0:23:37.27,0:23:37.31,Sign,,0,0,0,,{\pos(1079.01,1008.57)\fs130\bord
 Dialogue: 1,0:23:37.27,0:23:37.31,Sign,,0,0,0,,{\pos(1079.01,1008.57)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1\4a&H00&\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
 Dialogue: 2,0:23:37.27,0:23:37.31,Sign,,0,0,0,,{\pos(1079.01,1008.57)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
 Dialogue: 3,0:23:37.27,0:23:37.31,Sign,,0,0,0,,{\pos(1079.01,1008.57)\fs130\4a&HFF&\blur1\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
-Dialogue: 0,0:23:37.31,0:23:39.85,Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord23\c&H000000&\3c&H080118&\blur1\4a&H00&\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
-Dialogue: 1,0:23:37.31,0:23:39.85,Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1\4a&H00&\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
-Dialogue: 2,0:23:37.31,0:23:39.85,Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
-Dialogue: 3,0:23:37.31,0:23:39.85,Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\4a&HFF&\blur1\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
+Dialogue: 0,0:23:37.31,0:23:40.06,Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord23\c&H000000&\3c&H080118&\blur1\4a&H00&\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
+Dialogue: 1,0:23:37.31,0:23:40.06,Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\blur1\4a&H00&\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
+Dialogue: 2,0:23:37.31,0:23:40.06,Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\4a&HFF&\blur1\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
+Dialogue: 3,0:23:37.31,0:23:40.06,Sign,,0,0,0,,{\pos(1081.49,1011.15)\fs130\4a&HFF&\blur1\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------------------------------------- [    FIN   ] ----------------------------------------------
