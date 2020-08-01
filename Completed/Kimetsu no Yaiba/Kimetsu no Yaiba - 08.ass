@@ -46,7 +46,7 @@ Dialogue: 10,0:02:02.51,0:02:03.85,Default,,0,0,0,,I-Is that blood?
 Dialogue: 10,0:02:05.93,0:02:07.81,Default,,0,0,0,,Stop!
 Dialogue: 10,0:02:15.74,0:02:16.78,Default,,0,0,0,,Honey!
 Dialogue: 10,0:02:17.53,0:02:18.49,Default,,0,0,0,,Ma'am!
-Dialogue: 10,0:02:18.49,0:02:20.45,Default,,0,0,0,,Worry about yourself, first!
+Dialogue: 10,0:02:18.49,0:02:20.45,Default,,0,0,0,,Worry about yourself first!
 Dialogue: 10,0:02:20.45,0:02:23.99,Default,,0,0,0,,Please take a cloth and apply pressure to the wound!
 Dialogue: 10,0:02:27.91,0:02:30.67,Default,,0,0,0,,{\i1}It'll be all right. I'll figure out a way to handle this.
 Dialogue: 10,0:02:30.67,0:02:33.17,Default,,0,0,0,,{\i1}Her wound isn't fatal!
@@ -127,7 +127,7 @@ Dialogue: 10,0:06:25.99,0:06:27.78,Default,,0,0,0,,Never been better!
 Dialogue: 10,0:06:27.78,0:06:30.53,Default,,0,0,0,,I'm not even drunk ye—
 Dialogue: 10,0:06:30.53,0:06:32.41,Default,,0,0,0,,The hell's your problem, dude?
 Dialogue: 10,0:06:35.74,0:06:37.16,Default,,0,0,0,,My apologies.
-Dialogue: 10,0:06:41.75,0:06:42.92,Default,,0,0,0,,Hey, don't just walk off!
+Dialogue: 10,0:06:41.75,0:06:42.92,Default,,0,0,0,,Hey, hold it!
 Dialogue: 10,0:06:43.79,0:06:46.76,Default,,0,0,0,,I'm in a bit of a hurry, so if you'll excuse me...
 Dialogue: 10,0:06:46.76,0:06:49.22,Default,,0,0,0,,Whazzat? Come again?
 Dialogue: 10,0:06:49.22,0:06:53.35,Default,,0,0,0,,Those're some {\i1}fancy{\i0} threads you got there.
@@ -160,10 +160,10 @@ Comment: 0,0:09:42.10,0:09:42.10,Default,,0,0,0,,-------------------------------
 Dialogue: 10,0:09:46.35,0:09:49.02,Default,,0,0,0,,Aight, listen up here!
 Dialogue: 10,0:09:49.44,0:09:53.44,Default,,0,0,0,,I'm telling you it ain't about the money!
 Dialogue: 10,0:09:53.44,0:09:58.53,Default,,0,0,0,,What I can't forgive is that you \Nwon't eat my udon, got it?
-Dialogue: 10,0:09:58.53,0:10:01.53,Default,,0,0,0,,Sorry, please serve me another bowl!
+Dialogue: 10,0:09:58.53,0:10:01.53,Default,,0,0,0,,I'm sorry! Please serve me another bowl!
 Dialogue: 10,0:10:01.53,0:10:02.54,Default,,0,0,0,,You gonna eat it?
 Dialogue: 10,0:10:02.54,0:10:03.41,Default,,0,0,0,,Yes!
-Dialogue: 10,0:10:03.79,0:10:04.95,Default,,0,0,0,,To the last drop?
+Dialogue: 10,0:10:03.79,0:10:04.95,Default,,0,0,0,,Every last drop?
 Dialogue: 10,0:10:04.95,0:10:06.41,Default,,0,0,0,,All of it!
 Dialogue: 10,0:10:06.41,0:10:07.41,Default,,0,0,0,,Good!
 Dialogue: 10,0:10:07.41,0:10:08.83,Default,,0,0,0,,You, too!
@@ -180,7 +180,7 @@ Dialogue: 10,0:10:43.58,0:10:44.66,Default,,0,0,0,,Come again!
 Dialogue: 10,0:10:46.58,0:10:50.12,Default,,0,0,0,,Sorry for leaving you behind like that, Nezuko.
 Dialogue: 10,0:10:51.42,0:10:53.96,Default,,0,0,0,,What's wrong, Nezuko?
 Dialogue: 10,0:11:01.43,0:11:03.68,Default,,0,0,0,,Were you waiting for us?
-Dialogue: 10,0:11:03.68,0:11:08.18,Default,,0,0,0,,I was instructed to bring you along by my lady.
+Dialogue: 10,0:11:03.68,0:11:08.18,Default,,0,0,0,,I was instructed by my lady to take you to her.
 Dialogue: 10,0:11:08.18,0:11:10.64,Default,,0,0,0,,I could've just tracked you by scent.
 Dialogue: 10,0:11:10.64,0:11:14.06,Default,,0,0,0,,She's in a place that's covered under a cloaking spell.
 Dialogue: 10,0:11:14.06,0:11:15.61,Default,,0,0,0,,No way you could find it.
@@ -219,8 +219,8 @@ Dialogue: 10,0:12:58.63,0:13:01.67,Default,,0,0,0,,Sorry about leaving them to y
 Dialogue: 10,0:13:01.67,0:13:02.88,Default,,0,0,0,,How's the lady?
 Dialogue: 10,0:13:03.42,0:13:05.59,Default,,0,0,0,,She'll be just fine.
 Dialogue: 10,0:13:06.59,0:13:10.85,Default,,0,0,0,,Unfortunately, I have to keep her husband \Nrestrained in an underground cell.
-Dialogue: 10,0:13:15.02,0:13:19.11,Default,,0,0,0,,Isn't it hard for you to treat people's wounds?
-Dialogue: 10,0:13:21.44,0:13:28.57,Default,,0,0,0,,Are you suggesting that the smell of blood \Nof the humans we treat makes us drool?
+Dialogue: 10,0:13:15.02,0:13:19.11,Default,,0,0,0,,Isn't it hard for your kind to treat people's wounds?
+Dialogue: 10,0:13:21.44,0:13:28.57,Default,,0,0,0,,Are you suggesting that we drool at \Nthe smell of our patients' blood?
 Dialogue: 10,0:13:30.08,0:13:30.95,Default,,0,0,0,,I'm sorry.
 Dialogue: 10,0:13:32.24,0:13:35.54,Default,,0,0,0,,Enough. Why would you resort to violence?
 Dialogue: 10,0:13:38.25,0:13:40.46,Default,,0,0,0,,I never introduced myself, did I?
@@ -257,8 +257,8 @@ Dialogue: 10,0:15:26.69,0:15:27.69,Default,,0,0,0,,But...
 Dialogue: 10,0:15:29.40,0:15:30.78,Default,,0,0,0,,You're right.
 Dialogue: 10,0:15:31.32,0:15:36.03,Default,,0,0,0,,It is said that no one but Kibutsuji \Nholds the power to produce demons.
 Dialogue: 10,0:15:36.03,0:15:38.12,Default,,0,0,0,,And that's essentially correct.
-Dialogue: 10,0:15:39.20,0:15:41.21,Default,,0,0,0,,Yushirou has been the only one
-Dialogue: 10,0:15:41.21,0:15:45.04,Default,,0,0,0,,I've been able to transform into a demon \Nwithin the last two hundred years.
+Dialogue: 10,0:15:39.20,0:15:41.21,Default,,0,0,0,,In the last two hundred years,
+Dialogue: 10,0:15:41.21,0:15:45.04,Default,,0,0,0,,Yushirou has been the only one \NI managed to transform into a demon.
 Dialogue: 10,0:15:47.50,0:15:48.34,Default,,0,0,0,,Two...
 Dialogue: 10,0:15:50.22,0:15:52.09,Default,,0,0,0,,Two hundred years...
 Dialogue: 10,0:15:52.09,0:15:57.39,Default,,0,0,0,,Yushirou's the only one you \Ntransformed in {\i1}two hundred years{\i0}?
@@ -277,7 +277,7 @@ Dialogue: 10,0:16:32.80,0:16:37.22,Default,,0,0,0,,I always ask them beforehand 
 Dialogue: 10,0:16:42.14,0:16:45.73,Default,,0,0,0,,{\i1}The scent she's giving off \Nis pure and devoid of deception.
 Dialogue: 10,0:16:46.27,0:16:48.23,Default,,0,0,0,,{\i1}I can trust her.
 Dialogue: 10,0:16:49.53,0:16:50.90,Default,,0,0,0,,Miss Tamayo,
-Dialogue: 10,0:16:52.11,0:16:56.49,Default,,0,0,0,,once people have become demons, \Nis there a way to make them human again?
+Dialogue: 10,0:16:52.11,0:16:56.49,Default,,0,0,0,,once someone has become a demon, \Nis there a way to restore their humanity again?
 Dialogue: 10,0:17:13.63,0:17:15.13,Default,,0,0,0,,Spot anything?
 Dialogue: 10,0:17:16.51,0:17:17.55,Default,,0,0,0,,I can.
 Dialogue: 10,0:17:18.10,0:17:20.64,Default,,0,0,0,,I see footprints.
@@ -289,7 +289,7 @@ Dialogue: 10,0:17:40.83,0:17:43.45,Default,,0,0,0,,How shall we go about killing
 Dialogue: 10,0:17:45.29,0:17:47.42,Default,,0,0,0,,I'm overflowing with power.
 Dialogue: 10,0:17:47.67,0:17:51.21,Default,,0,0,0,,All thanks to the blood he shared with me.
 Dialogue: 10,0:17:52.55,0:17:56.38,Default,,0,0,0,,We shall be slaying them brutally, of course.
-Dialogue: 10,0:17:57.59,0:18:00.26,Default,,0,0,0,,A way to turn a demon back into a human...
+Dialogue: 10,0:17:57.59,0:18:00.26,Default,,0,0,0,,A way to restore one's humanity...
 Dialogue: 10,0:18:01.10,0:18:02.10,Default,,0,0,0,,does exist.
 Dialogue: 10,0:18:03.06,0:18:03.93,Default,,0,0,0,,Please tell me how—
 Dialogue: 10,0:18:04.31,0:18:08.06,Default,,0,0,0,,Don't you dare get so close to Lady Tamayo!
@@ -300,11 +300,11 @@ Dialogue: 10,0:18:16.65,0:18:17.57,Default,,0,0,0,,Yes, madam!
 Dialogue: 10,0:18:18.03,0:18:20.03,Default,,0,0,0,,Ow, ow, ow.
 Dialogue: 10,0:18:20.57,0:18:22.37,Default,,0,0,0,,Please tell me how.
 Dialogue: 10,0:18:23.37,0:18:29.04,Default,,0,0,0,,No matter the wound or ailment, \Nthere is always a cure or treatment.
-Dialogue: 10,0:18:29.04,0:18:32.84,Default,,0,0,0,,At this point in time, I am however \Nunable to revert the transformation.
+Dialogue: 10,0:18:29.04,0:18:32.84,Default,,0,0,0,,At this point in time, however, I am \Nunable to reverse the transformation.
 Dialogue: 10,0:18:33.96,0:18:35.88,Default,,0,0,0,,But surely, one day...
 Dialogue: 10,0:18:37.84,0:18:38.88,Default,,0,0,0,,Nevertheless,
 Dialogue: 10,0:18:39.47,0:18:44.39,Default,,0,0,0,,we are dedicated to establishing \Nsuch a method of treatment.
-Dialogue: 10,0:18:45.35,0:18:49.27,Default,,0,0,0,,Towards that end, I'd like to \Nask you to do something for me.
+Dialogue: 10,0:18:45.35,0:18:49.27,Default,,0,0,0,,Towards that end, I'd like to request a favour of you.
 Dialogue: 10,0:18:50.31,0:18:52.36,Default,,0,0,0,,To produce such an elixir,
 Dialogue: 10,0:18:52.36,0:18:55.48,Default,,0,0,0,,it is necessary to study \Nthe blood of numerous demons.
 Dialogue: 10,0:18:56.36,0:18:59.28,Default,,0,0,0,,I have two favours to ask of you.
@@ -325,8 +325,8 @@ Dialogue: 10,0:20:03.22,0:20:11.60,Default,,0,0,0,,A demon with a high concentra
 Dialogue: 10,0:20:12.27,0:20:15.61,Default,,0,0,0,,It won't be easy to extract blood from such demons.
 Dialogue: 10,0:20:16.44,0:20:21.45,Default,,0,0,0,,Are you still willing to go along with my requests?
 Dialogue: 10,0:20:26.78,0:20:30.45,Default,,0,0,0,,If there's no other way, I'll do it.
-Dialogue: 10,0:20:31.20,0:20:35.88,Default,,0,0,0,,If it means you'll be able to research all these \Ndemons' blood and create a medicine...
-Dialogue: 10,0:20:37.09,0:20:39.46,Default,,0,0,0,,If that happens, it won't only help Nezuko.
+Dialogue: 10,0:20:31.20,0:20:35.88,Default,,0,0,0,,If it means you'll be able to research all these \Ndemons' blood and develop a cure...
+Dialogue: 10,0:20:37.09,0:20:39.46,Default,,0,0,0,,If that happens, it won't just help Nezuko.
 Dialogue: 10,0:20:40.46,0:20:43.38,Default,,0,0,0,,We'll be able to save lots of people, right?
 Dialogue: 10,0:20:46.80,0:20:48.47,Default,,0,0,0,,That's right.
 Dialogue: 10,0:20:54.81,0:20:55.35,Default,,0,0,0,,Get down!
@@ -336,7 +336,7 @@ Comment: 0,0:23:00.02,0:23:00.02,Default,,0,0,0,,-------------------------------
 Dialogue: 10,0:23:03.23,0:23:06.07,Default,,0,0,0,,I'm starting with the Taisho secret today!
 Dialogue: 10,0:23:06.07,0:23:08.90,Default,,0,0,0,,Yushirou's hobby is to \Nwrite in his Lady Tamayo journal.
 Dialogue: 10,0:23:08.90,0:23:12.32,Default,,0,0,0,,I hear that he churns out seven to ten pages a day.
-Dialogue: 10,0:23:12.66,0:23:15.83,Default,,0,0,0,,And now, I've found that very journal. \NLet's take a peek, huh?
+Dialogue: 10,0:23:12.66,0:23:15.83,Default,,0,0,0,,And now, I've found that very journal. \NShall we have a peek?
 Dialogue: 10,0:23:16.62,0:23:17.41,Default,,0,0,0,,Let's see.
 Dialogue: 10,0:23:17.41,0:23:20.96,Default,,0,0,0,,"January 10th. Lady Tamayo was \Nethereal and gorgeous again today."
 Dialogue: 10,0:23:20.96,0:23:24.29,Default,,0,0,0,,"At 17:10, she called my name. Twice, no less!"
