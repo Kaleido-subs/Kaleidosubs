@@ -18,7 +18,6 @@ Audio File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/FGO - 
 Video File: ../../../../Encoding Projects/[Kaleido-subs]/Work in Progress/FGO - Absolute Demonic Front - Babylonia [BD]/Premux/10/FGOBD_10 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -118,7 +117,7 @@ Dialogue: 10,0:05:39.94,0:05:41.36,Default,,0,0,0,,That he is.
 Dialogue: 10,0:05:41.36,0:05:44.53,Default,,0,0,0,,This is Fujimaru, Chaldea's Master.
 Dialogue: 10,0:05:44.53,0:05:47.20,Default,,0,0,0,,Mind clearing something up for us?
 Dialogue: 10,0:05:47.20,0:05:51.62,Default,,0,0,0,,Are you Quetzalcoatl, of the Three Goddess Alliance?
-Dialogue: 10,0:05:51.62,0:05:52.37,Default,,0,0,0,,{\i1}¡Si!
+Dialogue: 10,0:05:51.62,0:05:52.37,Default,,0,0,0,,{\i1}¡Sí!
 Dialogue: 10,0:05:52.37,0:05:56.54,Default,,0,0,0,,{\q2}A sweet {\i1}señorita{\i0}, carried here by \Nthe warm Mesoamerican wind to crush Uruk a little!
 Dialogue: 10,0:05:56.87,0:05:58.71,Default,,0,0,0,,Why are you doing this?!
 Dialogue: 10,0:06:01.40,0:06:02.38,Default,,0,0,0,,Oh, my...
