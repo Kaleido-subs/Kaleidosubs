@@ -12,8 +12,8 @@ ScaledBorderAndShadow: no
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default (1080p)
-Audio File: ReDive_03 (Premux).mkv
-Video File: ReDive_03 (Premux).mkv
+Audio File: ../../../../Seeding/Other Group Tags/[Truck'd] Princess Connect! ReDive (WEB 1080p) [Pre-Batch]/[Truck'd] Princess Connect! ReDive - 03 (WEB 1080p) [399CA65E].mkv
+Video File: ../../../../Seeding/Other Group Tags/[Truck'd] Princess Connect! ReDive (WEB 1080p) [Pre-Batch]/[Truck'd] Princess Connect! ReDive - 03 (WEB 1080p) [399CA65E].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -311,7 +311,7 @@ Dialogue: 10,0:18:56.34,0:18:58.94,Default,Bly,0,0,0,,Boy, this looks disgusting
 Dialogue: 10,0:19:02.38,0:19:04.84,Default,Bly,0,0,0,,{\i1}Th-This is...
 Dialogue: 10,0:19:05.25,0:19:07.73,Default,Bly,0,0,0,,{\i1}Impossible!
 Dialogue: 10,0:19:07.73,0:19:09.95,Default,Bly,0,0,0,,{\i1}You've gotta be kidding! These are bugs!
-Dialogue: 10,0:19:09.95,0:19:12.21,Default,Bly,0,0,0,,{\q2\i1}What is this harmony of rich umami \Nand mellow flavor
+Dialogue: 10,0:19:09.95,0:19:12.21,Default,Bly,0,0,0,,{\q2\i1}What is this harmony of rich umami \Nand mellow flavour
 Dialogue: 10,0:19:12.21,0:19:15.13,Default,Bly,0,0,0,,{\i1}that spreads through my mouth with each bite?!
 Dialogue: 10,0:19:24.05,0:19:26.05,Default,Bly,0,0,0,,I... I hear it!
 Dialogue: 10,0:19:26.05,0:19:28.89,Default,Bly,0,0,0,,I hear voices singing!
