@@ -1,1 +1,0 @@
-This project was done under [\[Truck'd\]](https://nyaa.si/?f=0&c=0_0&q=truck%27d+princess+connect), rather than Kaleido.
