@@ -1,9 +1,21 @@
-# Kaleido-subs' Subtitles
+# Deprecated
 
-Heavily inspired by [GJM's batch scripts](https://github.com/Fyurie/gjmbatchscripts), you can find any and all of our scripts in this repository. They will be continuously updated to ensure there are as few errors as possible. We also accept pull requests.<br>
+Our files can now instead be found as their own repositories
+within the [Kaleido Organisation][org]
+once the projects are finalised.
+Please check out those repositories instead.
 
-You are free to make use of these scripts for your own uses, but credit is appreciated. For encoding scripts, look [here](https://github.com/LightArrowsEXE/Encoding-Projects/tree/master/%5BKaleido-subs%5D).
 
 You can find us here:<br>
-- [Kaleido-subs on Nyaa](https://nyaa.si/user/Kaleido-subs)<br>
-- [Kaleido-subs on Discord](https://discord.gg/5xG8XGE)<br>
+- [Kaleido site][site]<br>
+- [Kaleido-subs on Nyaa][nyaa]<br>
+- [Kaleido-subs on Discord][discord]<br>
+
+For encoding scripts, look [here][encodes].
+
+
+[org]: https://github.com/Kaleido-subs
+[encodes]: https://github.com/LightArrowsEXE/Encoding-Projects/tree/master/%5BKaleido-subs%5D
+[site]: https://kaleido.kageru.moe/
+[nyaa]: https://nyaa.si/user/Kaleido-subs
+[discord]: https://discord.gg/dk7aadV
